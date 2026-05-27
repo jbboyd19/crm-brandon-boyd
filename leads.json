@@ -1595,7 +1595,7 @@
       "source": "Facebook",
       "status": "New Lead",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Not Interested",
       "lastContact": "2026-05-27",
       "nextFollowUp": null,
       "notes": "",
@@ -1757,5 +1757,5 @@
       "addedAt": "2026-05-27T16:02:09.882Z"
     }
   ],
-  "lastUpdated": "2026-05-27T16:02:09.882Z"
+  "lastUpdated": "2026-05-27T16:06:03.362Z"
 }
