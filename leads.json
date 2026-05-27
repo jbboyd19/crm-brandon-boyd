@@ -1602,7 +1602,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T15:55:44.370Z"
+    },
+    {
+      "id": "mpo8xxp5w4i10m4urk",
+      "name": "Alana Whitaker",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T15:56:16.985Z"
     }
   ],
-  "lastUpdated": "2026-05-27T15:55:44.370Z"
+  "lastUpdated": "2026-05-27T15:56:16.985Z"
 }
