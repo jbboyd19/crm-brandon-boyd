@@ -1670,7 +1670,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T15:57:28.535Z"
+    },
+    {
+      "id": "mpo908yc6mpggclvogv",
+      "name": "Bob Beckett",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T15:58:04.884Z"
     }
   ],
-  "lastUpdated": "2026-05-27T15:57:28.535Z"
+  "lastUpdated": "2026-05-27T15:58:04.884Z"
 }
