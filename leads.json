@@ -1704,7 +1704,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T15:58:27.892Z"
+    },
+    {
+      "id": "mpo91f15cypugcc2avi",
+      "name": "Anthony Achor",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T15:58:59.417Z"
     }
   ],
-  "lastUpdated": "2026-05-27T15:58:27.892Z"
+  "lastUpdated": "2026-05-27T15:58:59.417Z"
 }
