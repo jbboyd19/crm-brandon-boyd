@@ -1551,7 +1551,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T17:08:07.766Z"
+    },
+    {
+      "id": "mpo8vtgab0whegy6vs8",
+      "name": "Matthew McMills",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T15:54:38.170Z"
     }
   ],
-  "lastUpdated": "2026-05-27T13:48:27.591Z"
+  "lastUpdated": "2026-05-27T15:54:38.170Z"
 }
