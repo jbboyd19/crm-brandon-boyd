@@ -1653,7 +1653,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T15:57:09.435Z"
+    },
+    {
+      "id": "mpo8zgwnnb8x1ax20so",
+      "name": "Omar Adams",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T15:57:28.535Z"
     }
   ],
-  "lastUpdated": "2026-05-27T15:57:09.435Z"
+  "lastUpdated": "2026-05-27T15:57:28.535Z"
 }
