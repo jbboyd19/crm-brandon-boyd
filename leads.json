@@ -1636,7 +1636,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T15:56:51.452Z"
+    },
+    {
+      "id": "mpo8z26330m1k57ud0e",
+      "name": "Jay Ayala",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T15:57:09.435Z"
     }
   ],
-  "lastUpdated": "2026-05-27T15:56:51.452Z"
+  "lastUpdated": "2026-05-27T15:57:09.435Z"
 }
