@@ -1738,7 +1738,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T15:59:18.300Z"
+    },
+    {
+      "id": "mpo95hzub9ni31zcom",
+      "name": "Esther Cummings",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T16:02:09.882Z"
     }
   ],
-  "lastUpdated": "2026-05-27T15:59:18.300Z"
+  "lastUpdated": "2026-05-27T16:02:09.882Z"
 }
