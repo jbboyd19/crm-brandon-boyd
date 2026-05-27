@@ -1568,7 +1568,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T15:54:38.170Z"
+    },
+    {
+      "id": "mpo8wv3t040hs5xqdh08",
+      "name": "Leslie Williams",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T15:55:26.969Z"
     }
   ],
-  "lastUpdated": "2026-05-27T15:54:38.170Z"
+  "lastUpdated": "2026-05-27T15:55:26.969Z"
 }
