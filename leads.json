@@ -1874,7 +1874,24 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T13:40:16.743Z"
+    },
+    {
+      "id": "mppjjoagq6qwh0sukmk",
+      "name": "Jae Taylor",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T13:40:53.560Z"
     }
   ],
-  "lastUpdated": "2026-05-28T13:40:16.743Z"
+  "lastUpdated": "2026-05-28T13:40:53.560Z"
 }
