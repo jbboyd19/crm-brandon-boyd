@@ -1789,7 +1789,24 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T13:37:53.860Z"
+    },
+    {
+      "id": "mppjg8dtbotb7l4earb",
+      "name": "John Oliver",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T13:38:12.977Z"
     }
   ],
-  "lastUpdated": "2026-05-28T13:37:53.860Z"
+  "lastUpdated": "2026-05-28T13:38:12.977Z"
 }
