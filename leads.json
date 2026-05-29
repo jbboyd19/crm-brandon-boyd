@@ -2010,7 +2010,24 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T17:28:31.980Z"
+    },
+    {
+      "id": "mpr74xh1u9m2zqiwpnn",
+      "name": "Ricky Jacobs",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T17:29:02.581Z"
     }
   ],
-  "lastUpdated": "2026-05-29T17:28:31.981Z"
+  "lastUpdated": "2026-05-29T17:29:02.581Z"
 }
