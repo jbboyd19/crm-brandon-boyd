@@ -2061,7 +2061,24 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T17:30:14.581Z"
+    },
+    {
+      "id": "mpr77f4cotkr7cuyd6",
+      "name": "Brock Lunardi",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T17:30:58.764Z"
     }
   ],
-  "lastUpdated": "2026-05-29T17:30:14.581Z"
+  "lastUpdated": "2026-05-29T17:30:58.764Z"
 }
