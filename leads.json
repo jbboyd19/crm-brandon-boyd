@@ -1959,7 +1959,24 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T16:21:04.144Z"
+    },
+    {
+      "id": "mpr4pwf4jfb6ecunbg",
+      "name": "Jay Bryant",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T16:21:22.144Z"
     }
   ],
-  "lastUpdated": "2026-05-29T16:21:04.144Z"
+  "lastUpdated": "2026-05-29T16:21:22.144Z"
 }
