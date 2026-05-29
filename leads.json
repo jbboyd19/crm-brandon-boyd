@@ -2027,7 +2027,24 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T17:29:02.581Z"
+    },
+    {
+      "id": "mpr75nt64265neos3xz",
+      "name": "Carlos Zart",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T17:29:36.714Z"
     }
   ],
-  "lastUpdated": "2026-05-29T17:29:02.581Z"
+  "lastUpdated": "2026-05-29T17:29:36.714Z"
 }
