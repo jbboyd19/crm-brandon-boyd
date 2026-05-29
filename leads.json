@@ -2112,7 +2112,24 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T17:36:45.216Z"
+    },
+    {
+      "id": "mpr7fae3da2to20bmg",
+      "name": "James McCarter",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T17:37:05.883Z"
     }
   ],
-  "lastUpdated": "2026-05-29T17:36:45.216Z"
+  "lastUpdated": "2026-05-29T17:37:05.883Z"
 }
