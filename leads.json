@@ -2078,7 +2078,24 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T17:30:58.764Z"
+    },
+    {
+      "id": "mpr781wqj1xtf0ekzhh",
+      "name": "Philip Newby",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T17:31:28.298Z"
     }
   ],
-  "lastUpdated": "2026-05-29T17:30:58.764Z"
+  "lastUpdated": "2026-05-29T17:31:28.298Z"
 }
