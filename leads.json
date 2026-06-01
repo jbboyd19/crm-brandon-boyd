@@ -2146,7 +2146,24 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T15:03:43.389Z"
+    },
+    {
+      "id": "mpvcajq5taekpcxsjum",
+      "name": "Nathan Lowman",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T15:04:27.485Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:03:43.390Z"
+  "lastUpdated": "2026-06-01T15:04:27.485Z"
 }
