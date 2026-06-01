@@ -2129,7 +2129,24 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T17:37:05.883Z"
+    },
+    {
+      "id": "mpvc9lp920hkg20y0be",
+      "name": "Michael Zepeda",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T15:03:43.389Z"
     }
   ],
-  "lastUpdated": "2026-05-29T17:37:05.883Z"
+  "lastUpdated": "2026-06-01T15:03:43.390Z"
 }
