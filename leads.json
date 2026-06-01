@@ -2197,7 +2197,24 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T15:05:10.335Z"
+    },
+    {
+      "id": "mpvcbuo0aodwa6we61v",
+      "name": "Peter Johns",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T15:05:28.320Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:05:10.335Z"
+  "lastUpdated": "2026-06-01T15:05:28.320Z"
 }
