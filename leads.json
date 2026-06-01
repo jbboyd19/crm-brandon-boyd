@@ -2265,7 +2265,24 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T15:08:31.117Z"
+    },
+    {
+      "id": "mpvcgor2bv0ohmebfmw",
+      "name": "Masunu Lela",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T15:09:13.934Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:08:31.117Z"
+  "lastUpdated": "2026-06-01T15:09:13.934Z"
 }
