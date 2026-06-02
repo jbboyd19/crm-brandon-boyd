@@ -2435,7 +2435,24 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T16:10:41.387Z"
+    },
+    {
+      "id": "mpwu4mnf3lsd644s2lo",
+      "name": "Chris Cannon",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T16:11:30.603Z"
     }
   ],
-  "lastUpdated": "2026-06-02T16:10:41.387Z"
+  "lastUpdated": "2026-06-02T16:11:30.603Z"
 }
