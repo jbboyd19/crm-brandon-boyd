@@ -2384,7 +2384,24 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T16:09:02.755Z"
+    },
+    {
+      "id": "mpwu1xfxrysf2jcusl",
+      "name": "Zon Dedon",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T16:09:24.621Z"
     }
   ],
-  "lastUpdated": "2026-06-02T16:09:02.755Z"
+  "lastUpdated": "2026-06-02T16:09:24.621Z"
 }
