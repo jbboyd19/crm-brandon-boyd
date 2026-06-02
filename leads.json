@@ -2350,7 +2350,24 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T16:08:14.523Z"
+    },
+    {
+      "id": "mpwu0u0zauwv90ajcb",
+      "name": "Tiffany Little",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T16:08:33.539Z"
     }
   ],
-  "lastUpdated": "2026-06-02T16:08:14.523Z"
+  "lastUpdated": "2026-06-02T16:08:33.539Z"
 }
