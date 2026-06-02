@@ -2401,7 +2401,24 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T16:09:24.621Z"
+    },
+    {
+      "id": "mpwu32t92xuxs3a5l38",
+      "name": "Sean Conner",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T16:10:18.237Z"
     }
   ],
-  "lastUpdated": "2026-06-02T16:09:24.621Z"
+  "lastUpdated": "2026-06-02T16:10:18.237Z"
 }
