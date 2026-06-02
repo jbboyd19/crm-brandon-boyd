@@ -2224,11 +2224,11 @@
       "source": "Facebook",
       "status": "New Lead",
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 1",
       "lastContact": "2026-06-01",
       "nextFollowUp": "2026-06-02",
       "notes": "",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-02",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T15:07:35.368Z"
     },
@@ -2301,5 +2301,5 @@
       "addedAt": "2026-06-01T15:09:42.267Z"
     }
   ],
-  "lastUpdated": "2026-06-02T02:41:50.906Z"
+  "lastUpdated": "2026-06-02T16:06:30.595Z"
 }
