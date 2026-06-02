@@ -2333,7 +2333,24 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T16:07:49.473Z"
+    },
+    {
+      "id": "mpwu0fcql38bm0yi92n",
+      "name": "Patrick Sulyga",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T16:08:14.523Z"
     }
   ],
-  "lastUpdated": "2026-06-02T16:07:49.473Z"
+  "lastUpdated": "2026-06-02T16:08:14.523Z"
 }
