@@ -2622,7 +2622,24 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T16:17:17.182Z"
+    },
+    {
+      "id": "mpy9sxguf0gbevzbkvl",
+      "name": "McClean Padmore",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T16:18:04.782Z"
     }
   ],
-  "lastUpdated": "2026-06-03T16:17:17.182Z"
+  "lastUpdated": "2026-06-03T16:18:04.782Z"
 }
