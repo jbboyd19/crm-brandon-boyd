@@ -2469,7 +2469,24 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T16:12:07.536Z"
+    },
+    {
+      "id": "mpy9mwfeucblkxodgjs",
+      "name": "Michal Piasick",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T16:13:23.498Z"
     }
   ],
-  "lastUpdated": "2026-06-02T16:12:07.536Z"
+  "lastUpdated": "2026-06-03T16:13:23.498Z"
 }
