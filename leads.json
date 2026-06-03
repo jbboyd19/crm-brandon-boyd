@@ -2673,7 +2673,24 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T16:19:04.483Z"
+    },
+    {
+      "id": "mpy9usr5lgsyn4d69yd",
+      "name": "Carlos Farmer",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T16:19:31.985Z"
     }
   ],
-  "lastUpdated": "2026-06-03T16:19:04.483Z"
+  "lastUpdated": "2026-06-03T16:19:31.985Z"
 }
