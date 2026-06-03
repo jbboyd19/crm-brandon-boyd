@@ -2486,7 +2486,24 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T16:13:23.498Z"
+    },
+    {
+      "id": "mpy9nof8hh4gdypf1uw",
+      "name": "Anna Kornecksa",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T16:13:59.780Z"
     }
   ],
-  "lastUpdated": "2026-06-03T16:13:23.498Z"
+  "lastUpdated": "2026-06-03T16:13:59.780Z"
 }
