@@ -2537,7 +2537,24 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T16:15:11.081Z"
+    },
+    {
+      "id": "mpy9pq6t77k7lc3iz7m",
+      "name": "Bret Cartwright",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T16:15:35.381Z"
     }
   ],
-  "lastUpdated": "2026-06-03T16:15:11.081Z"
+  "lastUpdated": "2026-06-03T16:15:35.381Z"
 }
