@@ -2503,7 +2503,24 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T16:13:59.780Z"
+    },
+    {
+      "id": "mpy9os9i7tj17ig8bf7",
+      "name": "George Hoagland",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T16:14:51.414Z"
     }
   ],
-  "lastUpdated": "2026-06-03T16:13:59.780Z"
+  "lastUpdated": "2026-06-03T16:14:51.414Z"
 }
