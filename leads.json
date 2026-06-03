@@ -2520,7 +2520,24 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T16:14:51.414Z"
+    },
+    {
+      "id": "mpy9p7ftiyrurqxu9nr",
+      "name": "Paco Aleman",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T16:15:11.081Z"
     }
   ],
-  "lastUpdated": "2026-06-03T16:14:51.414Z"
+  "lastUpdated": "2026-06-03T16:15:11.081Z"
 }
