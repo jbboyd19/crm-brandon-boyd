@@ -2762,7 +2762,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T14:06:18.276Z"
+    },
+    {
+      "id": "mpzkjtvj6af0mwcyay",
+      "name": "Nick Roshdieh",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T14:06:42.176Z"
     }
   ],
-  "lastUpdated": "2026-06-04T14:06:18.276Z"
+  "lastUpdated": "2026-06-04T14:06:42.176Z"
 }
