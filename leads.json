@@ -2780,7 +2780,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T14:06:42.176Z"
+    },
+    {
+      "id": "mpzkkh0vdptqipru0hl",
+      "name": "Sanjay Singh",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T14:07:12.175Z"
     }
   ],
-  "lastUpdated": "2026-06-04T14:06:42.176Z"
+  "lastUpdated": "2026-06-04T14:07:12.175Z"
 }
