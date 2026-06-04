@@ -2798,7 +2798,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T14:07:12.175Z"
+    },
+    {
+      "id": "mpzklodih3y6w72ptj4",
+      "name": "Zander Bullock",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T14:08:08.358Z"
     }
   ],
-  "lastUpdated": "2026-06-04T14:07:12.175Z"
+  "lastUpdated": "2026-06-04T14:08:08.358Z"
 }
