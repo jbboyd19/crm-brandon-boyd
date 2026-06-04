@@ -2708,7 +2708,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T14:05:17.744Z"
+    },
+    {
+      "id": "mpzkigywu20d3sihgvi",
+      "name": "Jerelle Wilson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T14:05:38.792Z"
     }
   ],
-  "lastUpdated": "2026-06-04T14:05:17.744Z"
+  "lastUpdated": "2026-06-04T14:05:38.792Z"
 }
