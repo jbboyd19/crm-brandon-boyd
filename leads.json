@@ -2834,7 +2834,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T14:08:25.674Z"
+    },
+    {
+      "id": "mpzkmof699cnd4d6vik",
+      "name": "Russell FX ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T14:08:55.074Z"
     }
   ],
-  "lastUpdated": "2026-06-04T14:08:25.674Z"
+  "lastUpdated": "2026-06-04T14:08:55.074Z"
 }
