@@ -2871,7 +2871,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T19:35:58.999Z"
+    },
+    {
+      "id": "mq2mvp80i1tbhj2ryj",
+      "name": "Michael Sykes",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Hot",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-06T17:35:13.776Z"
     }
   ],
-  "lastUpdated": "2026-06-06T17:34:01.608Z"
+  "lastUpdated": "2026-06-06T17:35:13.776Z"
 }
