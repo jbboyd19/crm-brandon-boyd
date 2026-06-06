@@ -2864,14 +2864,14 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Hot",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 2",
       "lastContact": "2026-06-05",
       "nextFollowUp": "2026-06-06",
       "notes": "",
-      "lastModified": "2026-06-05",
+      "lastModified": "2026-06-06",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T19:35:58.999Z"
     }
   ],
-  "lastUpdated": "2026-06-05T19:54:29.678Z"
+  "lastUpdated": "2026-06-06T17:33:32.262Z"
 }
