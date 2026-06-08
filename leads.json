@@ -2907,7 +2907,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T14:55:18.304Z"
+    },
+    {
+      "id": "mq5c2tgrzbnljm3im7",
+      "name": "Alex Hoad",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T14:56:08.619Z"
     }
   ],
-  "lastUpdated": "2026-06-08T14:55:18.304Z"
+  "lastUpdated": "2026-06-08T14:56:08.619Z"
 }
