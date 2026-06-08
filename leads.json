@@ -3051,7 +3051,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T15:02:25.748Z"
+    },
+    {
+      "id": "mq5cbkk5afo9od917a4",
+      "name": "Paige Kingston",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T15:02:56.981Z"
     }
   ],
-  "lastUpdated": "2026-06-08T15:02:25.748Z"
+  "lastUpdated": "2026-06-08T15:02:56.981Z"
 }
