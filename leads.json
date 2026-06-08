@@ -2979,7 +2979,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T14:59:45.383Z"
+    },
+    {
+      "id": "mq5c903xhh1mfl6p23s",
+      "name": "Isaiah Simmons",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T15:00:57.165Z"
     }
   ],
-  "lastUpdated": "2026-06-08T14:59:45.383Z"
+  "lastUpdated": "2026-06-08T15:00:57.165Z"
 }
