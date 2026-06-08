@@ -2961,7 +2961,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T14:57:58.918Z"
+    },
+    {
+      "id": "mq5c7gpzch30qqzk694",
+      "name": "Mo Musa",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T14:59:45.383Z"
     }
   ],
-  "lastUpdated": "2026-06-08T14:57:58.918Z"
+  "lastUpdated": "2026-06-08T14:59:45.383Z"
 }
