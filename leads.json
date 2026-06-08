@@ -2943,7 +2943,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T14:56:59.852Z"
+    },
+    {
+      "id": "mq5c56kmj8klicaq7m",
+      "name": "Eric York",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T14:57:58.918Z"
     }
   ],
-  "lastUpdated": "2026-06-08T14:56:59.852Z"
+  "lastUpdated": "2026-06-08T14:57:58.918Z"
 }
