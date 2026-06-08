@@ -3033,7 +3033,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T15:01:52.031Z"
+    },
+    {
+      "id": "mq5cawgkl36qu1h7luh",
+      "name": "Ann Torres",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T15:02:25.748Z"
     }
   ],
-  "lastUpdated": "2026-06-08T15:01:52.031Z"
+  "lastUpdated": "2026-06-08T15:02:25.748Z"
 }
