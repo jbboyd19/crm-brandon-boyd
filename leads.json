@@ -3105,7 +3105,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T16:46:22.710Z"
+    },
+    {
+      "id": "mq6vhebyok9xhh53s3l",
+      "name": "Michael MDP",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T16:47:07.726Z"
     }
   ],
-  "lastUpdated": "2026-06-09T16:46:22.710Z"
+  "lastUpdated": "2026-06-09T16:47:07.726Z"
 }
