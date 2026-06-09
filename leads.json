@@ -3141,7 +3141,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T16:47:24.043Z"
+    },
+    {
+      "id": "mq6viaxkx184684rez",
+      "name": "Dylan Moore",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T16:47:49.976Z"
     }
   ],
-  "lastUpdated": "2026-06-09T16:47:24.043Z"
+  "lastUpdated": "2026-06-09T16:47:49.976Z"
 }
