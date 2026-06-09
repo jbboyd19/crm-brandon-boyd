@@ -3159,7 +3159,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T16:47:49.976Z"
+    },
+    {
+      "id": "mq6vj8y37pyi8653zrx",
+      "name": "Daniel Zetterman",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T16:48:34.059Z"
     }
   ],
-  "lastUpdated": "2026-06-09T16:47:49.976Z"
+  "lastUpdated": "2026-06-09T16:48:34.059Z"
 }
