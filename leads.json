@@ -3195,7 +3195,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T16:48:54.693Z"
+    },
+    {
+      "id": "mq6vkbh5k9s27hwplj",
+      "name": "Greg Hecht",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T16:49:23.993Z"
     }
   ],
-  "lastUpdated": "2026-06-09T16:48:54.693Z"
+  "lastUpdated": "2026-06-09T16:49:23.993Z"
 }
