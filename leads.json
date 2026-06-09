@@ -3087,7 +3087,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T16:45:50.110Z"
+    },
+    {
+      "id": "mq6vgfli0o7d3erd6wp",
+      "name": "Jarell Jones",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T16:46:22.710Z"
     }
   ],
-  "lastUpdated": "2026-06-09T16:45:50.110Z"
+  "lastUpdated": "2026-06-09T16:46:22.710Z"
 }
