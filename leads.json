@@ -3249,7 +3249,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T16:51:22.543Z"
+    },
+    {
+      "id": "mq6vngho0yz7gf48xc8b",
+      "name": "Anton Georgiev",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T16:51:50.460Z"
     }
   ],
-  "lastUpdated": "2026-06-09T16:51:22.543Z"
+  "lastUpdated": "2026-06-09T16:51:50.460Z"
 }
