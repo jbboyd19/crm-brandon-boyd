@@ -3213,7 +3213,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T16:49:23.993Z"
+    },
+    {
+      "id": "mq6vlyk000y2739m1ugc",
+      "name": "Brian Lee",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T16:50:40.560Z"
     }
   ],
-  "lastUpdated": "2026-06-09T16:49:23.993Z"
+  "lastUpdated": "2026-06-09T16:50:40.560Z"
 }
