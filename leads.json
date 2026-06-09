@@ -3177,7 +3177,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T16:48:34.059Z"
+    },
+    {
+      "id": "mq6vjov9dc4s7gp42kk",
+      "name": "James Unutoa",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T16:48:54.693Z"
     }
   ],
-  "lastUpdated": "2026-06-09T16:48:34.059Z"
+  "lastUpdated": "2026-06-09T16:48:54.693Z"
 }
