@@ -3429,7 +3429,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T17:28:12.149Z"
+    },
+    {
+      "id": "mq8cequpfls9ozz59fu",
+      "name": "Daniel Schuler",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T17:28:43.633Z"
     }
   ],
-  "lastUpdated": "2026-06-10T17:28:12.149Z"
+  "lastUpdated": "2026-06-10T17:28:43.633Z"
 }
