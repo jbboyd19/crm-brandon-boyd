@@ -3411,7 +3411,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T17:27:45.416Z"
+    },
+    {
+      "id": "mq8ce2k5ns91dk43s5c",
+      "name": "Austan Child",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T17:28:12.149Z"
     }
   ],
-  "lastUpdated": "2026-06-10T17:27:45.416Z"
+  "lastUpdated": "2026-06-10T17:28:12.149Z"
 }
