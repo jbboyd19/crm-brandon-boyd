@@ -3339,7 +3339,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T15:27:13.850Z"
+    },
+    {
+      "id": "mq8838bvopa42ona61",
+      "name": "Myke James",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T15:27:47.947Z"
     }
   ],
-  "lastUpdated": "2026-06-10T15:27:13.850Z"
+  "lastUpdated": "2026-06-10T15:27:47.947Z"
 }
