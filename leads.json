@@ -3483,7 +3483,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T15:42:03.805Z"
+    },
+    {
+      "id": "mqb3j5x6pwvhsq114xb",
+      "name": "Jacob Shannon",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T15:43:31.770Z"
     }
   ],
-  "lastUpdated": "2026-06-12T15:42:03.806Z"
+  "lastUpdated": "2026-06-12T15:43:31.770Z"
 }
