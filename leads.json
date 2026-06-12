@@ -3573,7 +3573,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T15:45:11.886Z"
+    },
+    {
+      "id": "mqb3m59koq8pcfye7p",
+      "name": "Giselle Lopez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T15:45:50.888Z"
     }
   ],
-  "lastUpdated": "2026-06-12T15:45:11.886Z"
+  "lastUpdated": "2026-06-12T15:45:50.888Z"
 }
