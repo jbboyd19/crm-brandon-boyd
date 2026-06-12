@@ -3501,7 +3501,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T15:43:31.770Z"
+    },
+    {
+      "id": "mqb3jx81d5l1uyrqwnk",
+      "name": "Chandler Howell",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T15:44:07.153Z"
     }
   ],
-  "lastUpdated": "2026-06-12T15:43:31.770Z"
+  "lastUpdated": "2026-06-12T15:44:07.153Z"
 }
