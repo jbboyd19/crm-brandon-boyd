@@ -3519,7 +3519,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T15:44:07.153Z"
+    },
+    {
+      "id": "mqb3kcn4p68m9n71cz",
+      "name": "Joe Harvey",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T15:44:27.137Z"
     }
   ],
-  "lastUpdated": "2026-06-12T15:44:07.153Z"
+  "lastUpdated": "2026-06-12T15:44:27.137Z"
 }
