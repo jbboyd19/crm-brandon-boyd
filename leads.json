@@ -3545,14 +3545,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-12",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T15:44:53.086Z"
     },
@@ -3629,5 +3629,5 @@
       "addedAt": "2026-06-12T15:46:50.469Z"
     }
   ],
-  "lastUpdated": "2026-06-12T15:46:50.469Z"
+  "lastUpdated": "2026-06-13T21:53:46.456Z"
 }
