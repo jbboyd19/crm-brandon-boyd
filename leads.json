@@ -3627,7 +3627,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T15:46:50.469Z"
+    },
+    {
+      "id": "mqffn9t6l42e7pv78gd",
+      "name": "Bo Bowidicz",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T16:33:43.530Z"
     }
   ],
-  "lastUpdated": "2026-06-15T16:32:04.334Z"
+  "lastUpdated": "2026-06-15T16:33:43.530Z"
 }
