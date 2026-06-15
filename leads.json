@@ -3699,7 +3699,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T16:34:39.595Z"
+    },
+    {
+      "id": "mqffoy8kw1yqd0lkhk",
+      "name": "Aaron Acord",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T16:35:01.844Z"
     }
   ],
-  "lastUpdated": "2026-06-15T16:34:39.595Z"
+  "lastUpdated": "2026-06-15T16:35:01.845Z"
 }
