@@ -3789,7 +3789,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T16:36:52.192Z"
+    },
+    {
+      "id": "mqffrvy2lxzbbee5a7b",
+      "name": "Martin Dimitrov",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T16:37:18.842Z"
     }
   ],
-  "lastUpdated": "2026-06-15T16:36:52.192Z"
+  "lastUpdated": "2026-06-15T16:37:18.842Z"
 }
