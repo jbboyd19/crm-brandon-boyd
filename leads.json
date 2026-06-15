@@ -3663,7 +3663,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T16:34:01.979Z"
+    },
+    {
+      "id": "mqffo0uru3beg4gdyer",
+      "name": "Chris Miles",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T16:34:18.579Z"
     }
   ],
-  "lastUpdated": "2026-06-15T16:34:01.979Z"
+  "lastUpdated": "2026-06-15T16:34:18.579Z"
 }
