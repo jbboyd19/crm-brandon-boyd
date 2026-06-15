@@ -3717,7 +3717,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T16:35:01.844Z"
+    },
+    {
+      "id": "mqffpjutg9tmtu9ntm",
+      "name": "Michael Milligan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T16:35:29.861Z"
     }
   ],
-  "lastUpdated": "2026-06-15T16:35:01.845Z"
+  "lastUpdated": "2026-06-15T16:35:29.861Z"
 }
