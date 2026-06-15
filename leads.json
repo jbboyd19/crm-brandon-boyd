@@ -3771,7 +3771,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T16:36:33.293Z"
+    },
+    {
+      "id": "mqffrbds8938f6t8ine",
+      "name": "Cleverson Kilembe",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T16:36:52.192Z"
     }
   ],
-  "lastUpdated": "2026-06-15T16:36:33.293Z"
+  "lastUpdated": "2026-06-15T16:36:52.192Z"
 }
