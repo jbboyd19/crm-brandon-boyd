@@ -3897,7 +3897,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T15:02:53.729Z"
+    },
+    {
+      "id": "mqgruxc3qkhbhiygsq",
+      "name": "Terrence Davis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T15:03:22.179Z"
     }
   ],
-  "lastUpdated": "2026-06-16T15:02:53.729Z"
+  "lastUpdated": "2026-06-16T15:03:22.179Z"
 }
