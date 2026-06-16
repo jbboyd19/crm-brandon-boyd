@@ -3915,7 +3915,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T15:03:22.179Z"
+    },
+    {
+      "id": "mqgrwnkvty6rwqw6egj",
+      "name": "Doris Espinoza",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T15:04:42.847Z"
     }
   ],
-  "lastUpdated": "2026-06-16T15:03:22.179Z"
+  "lastUpdated": "2026-06-16T15:04:42.847Z"
 }
