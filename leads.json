@@ -3879,7 +3879,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T15:01:46.529Z"
+    },
+    {
+      "id": "mqgrubdthl2b9d8nzpq",
+      "name": "Scott Nelson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T15:02:53.729Z"
     }
   ],
-  "lastUpdated": "2026-06-16T15:01:46.529Z"
+  "lastUpdated": "2026-06-16T15:02:53.729Z"
 }
