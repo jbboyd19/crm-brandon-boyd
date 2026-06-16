@@ -3807,7 +3807,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T16:37:18.842Z"
+    },
+    {
+      "id": "mqgrrgzqi5y07q6p25",
+      "name": "Melody Asciota",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T15:00:41.030Z"
     }
   ],
-  "lastUpdated": "2026-06-15T16:37:18.842Z"
+  "lastUpdated": "2026-06-16T15:00:41.030Z"
 }
