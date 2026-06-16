@@ -3843,7 +3843,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T15:01:00.195Z"
+    },
+    {
+      "id": "mqgrs9j0xxcmce3109l",
+      "name": "Eric Dominguez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T15:01:18.012Z"
     }
   ],
-  "lastUpdated": "2026-06-16T15:01:00.195Z"
+  "lastUpdated": "2026-06-16T15:01:18.012Z"
 }
