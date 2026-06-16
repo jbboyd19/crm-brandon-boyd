@@ -3825,7 +3825,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T15:00:41.030Z"
+    },
+    {
+      "id": "mqgrrvs3rf7dncydppf",
+      "name": "Omar Kariem",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T15:01:00.195Z"
     }
   ],
-  "lastUpdated": "2026-06-16T15:00:41.030Z"
+  "lastUpdated": "2026-06-16T15:01:00.195Z"
 }
