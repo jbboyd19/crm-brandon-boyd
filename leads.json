@@ -4095,7 +4095,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T15:01:36.978Z"
+    },
+    {
+      "id": "mqi790zkol3fsy2tmf",
+      "name": "Steven Ortega",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T15:02:00.512Z"
     }
   ],
-  "lastUpdated": "2026-06-17T15:01:36.978Z"
+  "lastUpdated": "2026-06-17T15:02:00.512Z"
 }
