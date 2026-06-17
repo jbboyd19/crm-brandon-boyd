@@ -4005,7 +4005,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T14:57:07.930Z"
+    },
+    {
+      "id": "mqi739pkuj0yt7szmj",
+      "name": "Devonte Sheard",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T14:57:31.880Z"
     }
   ],
-  "lastUpdated": "2026-06-17T14:57:07.930Z"
+  "lastUpdated": "2026-06-17T14:57:31.880Z"
 }
