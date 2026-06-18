@@ -4203,7 +4203,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-18T14:49:43.396Z"
+    },
+    {
+      "id": "mqjm9jdmkuysbnnbj4",
+      "name": "Samuel Urquidez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-18T14:50:04.762Z"
     }
   ],
-  "lastUpdated": "2026-06-18T14:49:43.396Z"
+  "lastUpdated": "2026-06-18T14:50:04.762Z"
 }
