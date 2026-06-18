@@ -4257,7 +4257,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-18T14:50:43.312Z"
+    },
+    {
+      "id": "mqjmash8w9uf5sk989k",
+      "name": "Brittney Harrison",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-18T14:51:03.212Z"
     }
   ],
-  "lastUpdated": "2026-06-18T14:50:43.312Z"
+  "lastUpdated": "2026-06-18T14:51:03.212Z"
 }
