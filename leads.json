@@ -4383,7 +4383,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T15:01:33.684Z"
+    },
+    {
+      "id": "mqpcg3ng2vdm5fiidk7",
+      "name": "Morgan Geczi",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T15:01:51.868Z"
     }
   ],
-  "lastUpdated": "2026-06-22T15:01:33.684Z"
+  "lastUpdated": "2026-06-22T15:01:51.868Z"
 }
