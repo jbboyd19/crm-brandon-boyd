@@ -4401,7 +4401,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T15:01:51.868Z"
+    },
+    {
+      "id": "mqpcgqnoy2s3nkmrfee",
+      "name": "Rob Mauro",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T15:02:21.684Z"
     }
   ],
-  "lastUpdated": "2026-06-22T15:01:51.868Z"
+  "lastUpdated": "2026-06-22T15:02:21.684Z"
 }
