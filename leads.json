@@ -4527,7 +4527,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T15:06:08.481Z"
+    },
+    {
+      "id": "mqpcm0k5brnyfxq2qd",
+      "name": "Jackson Rivero",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T15:06:27.797Z"
     }
   ],
-  "lastUpdated": "2026-06-22T15:06:08.481Z"
+  "lastUpdated": "2026-06-22T15:06:27.797Z"
 }
