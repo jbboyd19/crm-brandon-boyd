@@ -4455,7 +4455,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T15:03:05.283Z"
+    },
+    {
+      "id": "mqpcjp6cp2aahqpmcd",
+      "name": "Michael Weber",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T15:04:39.732Z"
     }
   ],
-  "lastUpdated": "2026-06-22T15:03:05.283Z"
+  "lastUpdated": "2026-06-22T15:04:39.732Z"
 }
