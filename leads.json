@@ -4491,7 +4491,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T15:05:10.899Z"
+    },
+    {
+      "id": "mqpcktwjw5mphajrqap",
+      "name": "Crypto Denzel",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T15:05:32.515Z"
     }
   ],
-  "lastUpdated": "2026-06-22T15:05:10.899Z"
+  "lastUpdated": "2026-06-22T15:05:32.515Z"
 }
