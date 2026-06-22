@@ -4509,7 +4509,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T15:05:32.515Z"
+    },
+    {
+      "id": "mqpcllnl0n5106czj7fp",
+      "name": "Roderick Jenerette",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T15:06:08.481Z"
     }
   ],
-  "lastUpdated": "2026-06-22T15:05:32.515Z"
+  "lastUpdated": "2026-06-22T15:06:08.481Z"
 }
