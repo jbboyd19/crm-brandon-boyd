@@ -4437,7 +4437,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T15:02:47.617Z"
+    },
+    {
+      "id": "mqpchoarxr9f5mxvfo",
+      "name": "Emmanuel Ocean",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T15:03:05.283Z"
     }
   ],
-  "lastUpdated": "2026-06-22T15:02:47.617Z"
+  "lastUpdated": "2026-06-22T15:03:05.283Z"
 }
