@@ -4419,7 +4419,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T15:02:21.684Z"
+    },
+    {
+      "id": "mqpchao19fw8t8bboo4",
+      "name": "Jonathan Lewis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T15:02:47.617Z"
     }
   ],
-  "lastUpdated": "2026-06-22T15:02:21.684Z"
+  "lastUpdated": "2026-06-22T15:02:47.617Z"
 }
