@@ -4671,7 +4671,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T15:00:29.085Z"
+    },
+    {
+      "id": "mqqruqdyvqz4omsodk9",
+      "name": "Anthony Obineme",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T15:00:54.934Z"
     }
   ],
-  "lastUpdated": "2026-06-23T15:00:29.085Z"
+  "lastUpdated": "2026-06-23T15:00:54.934Z"
 }
