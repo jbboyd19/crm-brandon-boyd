@@ -4707,7 +4707,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T15:01:13.201Z"
+    },
+    {
+      "id": "mqqrvm28t1hmz4qzsi",
+      "name": "Lance Brown",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T15:01:35.984Z"
     }
   ],
-  "lastUpdated": "2026-06-23T15:01:13.201Z"
+  "lastUpdated": "2026-06-23T15:01:35.984Z"
 }
