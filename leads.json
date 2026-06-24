@@ -4779,7 +4779,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T14:21:07.647Z"
+    },
+    {
+      "id": "mqs5vta2shqm7cjqt1h",
+      "name": "Robert Sneed",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T14:21:26.138Z"
     }
   ],
-  "lastUpdated": "2026-06-24T14:21:07.647Z"
+  "lastUpdated": "2026-06-24T14:21:26.138Z"
 }
