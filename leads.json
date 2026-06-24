@@ -4869,7 +4869,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T14:23:07.745Z"
+    },
+    {
+      "id": "mqs5z4f5s8fa68ri77",
+      "name": "Lamidi Usman",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T14:24:00.545Z"
     }
   ],
-  "lastUpdated": "2026-06-24T14:23:07.745Z"
+  "lastUpdated": "2026-06-24T14:24:00.545Z"
 }
