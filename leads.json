@@ -4743,7 +4743,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T14:20:06.315Z"
+    },
+    {
+      "id": "mqs5uyyok3c4zyxeqrl",
+      "name": "Terris Crews",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T14:20:46.848Z"
     }
   ],
-  "lastUpdated": "2026-06-24T14:20:06.315Z"
+  "lastUpdated": "2026-06-24T14:20:46.848Z"
 }
