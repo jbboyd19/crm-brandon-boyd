@@ -4833,7 +4833,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T14:22:05.979Z"
+    },
+    {
+      "id": "mqs5xm0dmq4o62rsv3",
+      "name": "Shakib Khondakar",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T14:22:50.029Z"
     }
   ],
-  "lastUpdated": "2026-06-24T14:22:05.979Z"
+  "lastUpdated": "2026-06-24T14:22:50.029Z"
 }
