@@ -4905,7 +4905,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T14:24:30.361Z"
+    },
+    {
+      "id": "mqtjnfvtzqdkxhul75",
+      "name": "Andrei Voitenko",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T13:34:36.329Z"
     }
   ],
-  "lastUpdated": "2026-06-24T14:24:30.361Z"
+  "lastUpdated": "2026-06-25T13:34:36.329Z"
 }
