@@ -4923,7 +4923,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T13:34:36.329Z"
+    },
+    {
+      "id": "mqtjnuu7tq6ksmnmpn",
+      "name": "Roy Roovers",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T13:34:55.711Z"
     }
   ],
-  "lastUpdated": "2026-06-25T13:34:36.329Z"
+  "lastUpdated": "2026-06-25T13:34:55.711Z"
 }
