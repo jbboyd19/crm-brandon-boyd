@@ -5049,7 +5049,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T13:37:37.642Z"
+    },
+    {
+      "id": "mqtjrvtl6v3rzenbpo6",
+      "name": "Jason Bruce",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T13:38:03.609Z"
     }
   ],
-  "lastUpdated": "2026-06-25T13:37:37.642Z"
+  "lastUpdated": "2026-06-25T13:38:03.609Z"
 }
