@@ -5085,7 +5085,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T13:38:44.475Z"
+    },
+    {
+      "id": "mqwfu3bjy5je4ft8wqk",
+      "name": "Amanda Grace",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-27",
+      "nextFollowUp": "2026-06-30",
+      "notes": "",
+      "lastModified": "2026-06-27",
+      "dateAdded": "2026-06-27",
+      "addedAt": "2026-06-27T14:11:06.704Z"
     }
   ],
-  "lastUpdated": "2026-06-25T13:38:44.475Z"
+  "lastUpdated": "2026-06-27T14:11:06.704Z"
 }
