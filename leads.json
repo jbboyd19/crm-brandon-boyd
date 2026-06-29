@@ -5175,7 +5175,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T16:50:42.851Z"
+    },
+    {
+      "id": "mqzgghutrqvx4ro459g",
+      "name": "Zeus",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T16:51:50.501Z"
     }
   ],
-  "lastUpdated": "2026-06-29T16:50:42.851Z"
+  "lastUpdated": "2026-06-29T16:51:50.501Z"
 }
