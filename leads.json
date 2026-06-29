@@ -5121,7 +5121,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T16:49:47.853Z"
+    },
+    {
+      "id": "mqzge7n385ae9qe0ogk",
+      "name": "Acez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T16:50:03.951Z"
     }
   ],
-  "lastUpdated": "2026-06-29T16:49:47.853Z"
+  "lastUpdated": "2026-06-29T16:50:03.951Z"
 }
