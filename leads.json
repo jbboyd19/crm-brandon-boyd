@@ -5193,7 +5193,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T16:51:50.501Z"
+    },
+    {
+      "id": "mqzgh4yb0txzk332407",
+      "name": "Bill Klinglesmith",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T16:52:20.435Z"
     }
   ],
-  "lastUpdated": "2026-06-29T16:51:50.501Z"
+  "lastUpdated": "2026-06-29T16:52:20.435Z"
 }
