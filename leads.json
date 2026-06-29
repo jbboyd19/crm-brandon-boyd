@@ -5201,12 +5201,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-29",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-06-30",
       "notes": "",
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
@@ -5231,5 +5231,5 @@
       "addedAt": "2026-06-29T16:52:51.002Z"
     }
   ],
-  "lastUpdated": "2026-06-29T16:52:51.002Z"
+  "lastUpdated": "2026-06-29T16:56:27.505Z"
 }
