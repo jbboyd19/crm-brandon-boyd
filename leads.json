@@ -5283,7 +5283,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T14:48:28.508Z"
+    },
+    {
+      "id": "mr0ri6e42505zfndylc",
+      "name": "Jerry Teel",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T14:48:50.908Z"
     }
   ],
-  "lastUpdated": "2026-06-30T14:48:28.508Z"
+  "lastUpdated": "2026-06-30T14:48:50.908Z"
 }
