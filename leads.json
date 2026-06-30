@@ -5373,7 +5373,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T14:50:54.455Z"
+    },
+    {
+      "id": "mr0rloava7ls8j1e5ni",
+      "name": "Jeremy Duncan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T14:51:34.087Z"
     }
   ],
-  "lastUpdated": "2026-06-30T14:50:54.455Z"
+  "lastUpdated": "2026-06-30T14:51:34.087Z"
 }
