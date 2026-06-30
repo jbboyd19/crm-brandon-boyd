@@ -5337,7 +5337,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T14:49:45.690Z"
+    },
+    {
+      "id": "mr0rjuptutgctu6mbca",
+      "name": "Jonathan Ahardick",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T14:50:09.089Z"
     }
   ],
-  "lastUpdated": "2026-06-30T14:49:45.690Z"
+  "lastUpdated": "2026-06-30T14:50:09.089Z"
 }
