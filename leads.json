@@ -5229,7 +5229,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T16:52:51.002Z"
+    },
+    {
+      "id": "mr0r04k74dytq3fqbpw",
+      "name": "Cliff Don",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Instagram",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T14:34:48.727Z"
     }
   ],
-  "lastUpdated": "2026-06-30T01:15:15.197Z"
+  "lastUpdated": "2026-06-30T14:34:48.727Z"
 }
