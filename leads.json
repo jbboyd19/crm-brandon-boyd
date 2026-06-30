@@ -5247,7 +5247,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T14:34:48.727Z"
+    },
+    {
+      "id": "mr0rh62ah1di3u7srkd",
+      "name": "Henry Wager",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T14:48:03.826Z"
     }
   ],
-  "lastUpdated": "2026-06-30T14:34:48.727Z"
+  "lastUpdated": "2026-06-30T14:48:03.826Z"
 }
