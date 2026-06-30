@@ -5355,7 +5355,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T14:50:09.089Z"
+    },
+    {
+      "id": "mr0rktpzmnwys8rdem9",
+      "name": "Mark Steve ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T14:50:54.455Z"
     }
   ],
-  "lastUpdated": "2026-06-30T14:50:09.089Z"
+  "lastUpdated": "2026-06-30T14:50:54.455Z"
 }
