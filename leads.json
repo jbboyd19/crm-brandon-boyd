@@ -5301,7 +5301,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T14:48:50.908Z"
+    },
+    {
+      "id": "mr0rilfrlkr5u5y20p",
+      "name": "Kevin Walter",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T14:49:10.407Z"
     }
   ],
-  "lastUpdated": "2026-06-30T14:48:50.908Z"
+  "lastUpdated": "2026-06-30T14:49:10.407Z"
 }
