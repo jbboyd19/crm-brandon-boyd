@@ -5553,7 +5553,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T15:53:05.844Z"
+    },
+    {
+      "id": "mr299gd4ex202dm5igt",
+      "name": "Patrick",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-01T15:53:43.192Z"
     }
   ],
-  "lastUpdated": "2026-07-01T15:53:05.844Z"
+  "lastUpdated": "2026-07-01T15:53:43.192Z"
 }
