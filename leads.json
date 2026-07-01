@@ -5535,7 +5535,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T15:52:46.109Z"
+    },
+    {
+      "id": "mr298njo3a4nhnvj4pf",
+      "name": "Nick Hilderson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-01T15:53:05.844Z"
     }
   ],
-  "lastUpdated": "2026-07-01T15:52:46.109Z"
+  "lastUpdated": "2026-07-01T15:53:05.844Z"
 }
