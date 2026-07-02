@@ -5715,7 +5715,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T17:12:24.383Z"
+    },
+    {
+      "id": "mr3rixdbr4g6ye6iry7",
+      "name": "Joehanna Daviess",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T17:12:44.399Z"
     }
   ],
-  "lastUpdated": "2026-07-02T17:12:24.383Z"
+  "lastUpdated": "2026-07-02T17:12:44.400Z"
 }
