@@ -5733,7 +5733,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T17:12:44.399Z"
+    },
+    {
+      "id": "mr3rje8dtfeyrehcasr",
+      "name": "Rudy Yoder",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T17:13:06.253Z"
     }
   ],
-  "lastUpdated": "2026-07-02T17:12:44.400Z"
+  "lastUpdated": "2026-07-02T17:13:06.253Z"
 }
