@@ -5661,7 +5661,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T17:11:04.132Z"
+    },
+    {
+      "id": "mr3rhml2xq8se4z99uo",
+      "name": "Ryan Anthony",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T17:11:43.766Z"
     }
   ],
-  "lastUpdated": "2026-07-02T17:11:04.133Z"
+  "lastUpdated": "2026-07-02T17:11:43.766Z"
 }
