@@ -5751,7 +5751,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T17:13:06.253Z"
+    },
+    {
+      "id": "mr3rjtfzingqzft2el",
+      "name": "Jesse Myles",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T17:13:25.967Z"
     }
   ],
-  "lastUpdated": "2026-07-02T17:13:06.253Z"
+  "lastUpdated": "2026-07-02T17:13:25.967Z"
 }
