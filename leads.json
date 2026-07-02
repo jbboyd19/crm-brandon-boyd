@@ -5607,7 +5607,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T17:09:53.867Z"
+    },
+    {
+      "id": "mr3rfmbodpl2sbnfjg",
+      "name": "Grant Terry",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T17:10:10.116Z"
     }
   ],
-  "lastUpdated": "2026-07-02T17:09:53.867Z"
+  "lastUpdated": "2026-07-02T17:10:10.116Z"
 }
