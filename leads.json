@@ -5589,7 +5589,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T15:54:11.741Z"
+    },
+    {
+      "id": "mr3rf9sbzyvterpsnwi",
+      "name": "Jesus Bergoin",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T17:09:53.867Z"
     }
   ],
-  "lastUpdated": "2026-07-01T15:54:11.741Z"
+  "lastUpdated": "2026-07-02T17:09:53.867Z"
 }
