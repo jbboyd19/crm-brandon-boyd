@@ -5679,7 +5679,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T17:11:43.766Z"
+    },
+    {
+      "id": "mr3ri2se09vy6c2l7oyc",
+      "name": "Frank Paton",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T17:12:04.766Z"
     }
   ],
-  "lastUpdated": "2026-07-02T17:11:43.766Z"
+  "lastUpdated": "2026-07-02T17:12:04.766Z"
 }
