@@ -5782,12 +5782,12 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-03",
+      "lastModified": "2026-07-04",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T20:43:16.896Z"
     }
   ],
-  "lastUpdated": "2026-07-03T20:43:16.896Z"
+  "lastUpdated": "2026-07-04T14:55:48.638Z"
 }
