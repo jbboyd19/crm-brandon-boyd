@@ -5841,7 +5841,25 @@
       "lastModified": "2026-07-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T16:03:19.806Z"
+    },
+    {
+      "id": "mrjez4dpqr4tmh3byt8",
+      "name": "Roy Kelly",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T16:05:43.789Z"
     }
   ],
-  "lastUpdated": "2026-07-13T16:03:19.806Z"
+  "lastUpdated": "2026-07-13T16:05:43.789Z"
 }
