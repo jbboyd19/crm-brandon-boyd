@@ -5877,7 +5877,25 @@
       "lastModified": "2026-07-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T16:06:12.958Z"
+    },
+    {
+      "id": "mrjf0go4qs7xap0ao8c",
+      "name": "Grace Marchand",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T16:06:46.372Z"
     }
   ],
-  "lastUpdated": "2026-07-13T16:06:12.958Z"
+  "lastUpdated": "2026-07-13T16:06:46.372Z"
 }
