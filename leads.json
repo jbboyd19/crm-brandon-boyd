@@ -6057,7 +6057,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T15:06:53.105Z"
+    },
+    {
+      "id": "mrksccy5qwkghbtgbnm",
+      "name": "Ron Cormier",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-14",
+      "dateAdded": "2026-07-14",
+      "addedAt": "2026-07-14T15:07:42.605Z"
     }
   ],
-  "lastUpdated": "2026-07-14T15:06:53.105Z"
+  "lastUpdated": "2026-07-14T15:07:42.605Z"
 }
