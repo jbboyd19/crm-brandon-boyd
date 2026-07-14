@@ -6021,7 +6021,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T15:05:52.621Z"
+    },
+    {
+      "id": "mrksaw9uc87vci1oyyp",
+      "name": "Michal Duranowski",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-14",
+      "dateAdded": "2026-07-14",
+      "addedAt": "2026-07-14T15:06:34.338Z"
     }
   ],
-  "lastUpdated": "2026-07-14T15:05:52.621Z"
+  "lastUpdated": "2026-07-14T15:06:34.338Z"
 }
