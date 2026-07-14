@@ -6111,7 +6111,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T15:08:53.916Z"
+    },
+    {
+      "id": "mrksei0yr72jxbdlbya",
+      "name": "Darren Bradford",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-14",
+      "dateAdded": "2026-07-14",
+      "addedAt": "2026-07-14T15:09:22.498Z"
     }
   ],
-  "lastUpdated": "2026-07-14T15:08:53.916Z"
+  "lastUpdated": "2026-07-14T15:09:22.499Z"
 }
