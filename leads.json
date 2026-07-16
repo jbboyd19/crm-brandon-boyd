@@ -6201,7 +6201,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T16:03:00.522Z"
+    },
+    {
+      "id": "mrnp7wv9l78gdbldpum",
+      "name": "Cody Brown",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T16:03:34.821Z"
     }
   ],
-  "lastUpdated": "2026-07-16T16:03:00.522Z"
+  "lastUpdated": "2026-07-16T16:03:34.821Z"
 }
