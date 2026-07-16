@@ -6165,7 +6165,25 @@
       "lastModified": "2026-07-15",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T17:36:49.520Z"
+    },
+    {
+      "id": "mrnovnguadsf4nu764s",
+      "name": "Ryan Bell",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T15:54:02.766Z"
     }
   ],
-  "lastUpdated": "2026-07-15T17:36:49.520Z"
+  "lastUpdated": "2026-07-16T15:54:02.766Z"
 }
