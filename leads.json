@@ -6183,7 +6183,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T15:54:02.766Z"
+    },
+    {
+      "id": "mrnp76eimf5simz07k",
+      "name": "Leroy Lawson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T16:03:00.522Z"
     }
   ],
-  "lastUpdated": "2026-07-16T15:54:02.766Z"
+  "lastUpdated": "2026-07-16T16:03:00.522Z"
 }
