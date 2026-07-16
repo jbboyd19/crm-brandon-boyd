@@ -6273,7 +6273,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T16:19:36.702Z"
+    },
+    {
+      "id": "mrnr1px80ekhy8s1d18f",
+      "name": "Frederick Jackson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T16:54:45.116Z"
     }
   ],
-  "lastUpdated": "2026-07-16T16:19:36.702Z"
+  "lastUpdated": "2026-07-16T16:54:45.116Z"
 }
