@@ -6435,7 +6435,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T15:37:59.854Z"
+    },
+    {
+      "id": "mrp3rqkba9epc8ibwnk",
+      "name": "Nathan Paul",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T15:38:40.571Z"
     }
   ],
-  "lastUpdated": "2026-07-17T15:37:59.855Z"
+  "lastUpdated": "2026-07-17T15:38:40.571Z"
 }
