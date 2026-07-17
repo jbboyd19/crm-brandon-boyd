@@ -6399,7 +6399,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T15:36:25.510Z"
+    },
+    {
+      "id": "mrp3pry2df2fk06hnxr",
+      "name": "Diana Haight",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T15:37:09.050Z"
     }
   ],
-  "lastUpdated": "2026-07-17T15:36:25.510Z"
+  "lastUpdated": "2026-07-17T15:37:09.050Z"
 }
