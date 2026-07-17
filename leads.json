@@ -6417,7 +6417,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T15:37:09.050Z"
+    },
+    {
+      "id": "mrp3qv5ada3fe0sysn",
+      "name": "Shaun Baldwin",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T15:37:59.854Z"
     }
   ],
-  "lastUpdated": "2026-07-17T15:37:09.050Z"
+  "lastUpdated": "2026-07-17T15:37:59.855Z"
 }
