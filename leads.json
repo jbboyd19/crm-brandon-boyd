@@ -6363,7 +6363,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T15:35:24.360Z"
+    },
+    {
+      "id": "mrp3obzyn8jbah6b4pm",
+      "name": "David Wills",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T15:36:01.726Z"
     }
   ],
-  "lastUpdated": "2026-07-17T15:35:24.360Z"
+  "lastUpdated": "2026-07-17T15:36:01.726Z"
 }
