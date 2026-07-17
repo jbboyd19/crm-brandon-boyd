@@ -6453,7 +6453,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T15:38:40.571Z"
+    },
+    {
+      "id": "mrp3s7nmmrh8cb6k79r",
+      "name": "Carla Brown",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T15:39:02.722Z"
     }
   ],
-  "lastUpdated": "2026-07-17T15:38:40.571Z"
+  "lastUpdated": "2026-07-17T15:39:02.722Z"
 }
