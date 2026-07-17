@@ -6381,7 +6381,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T15:36:01.726Z"
+    },
+    {
+      "id": "mrp3oucmigz3pllood",
+      "name": "Earl Innis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T15:36:25.510Z"
     }
   ],
-  "lastUpdated": "2026-07-17T15:36:01.726Z"
+  "lastUpdated": "2026-07-17T15:36:25.510Z"
 }
