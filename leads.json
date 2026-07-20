@@ -6597,7 +6597,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:55:34.463Z"
+    },
+    {
+      "id": "mrtck85witg1f5nevra",
+      "name": "Ors Veress",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T14:55:51.380Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:55:34.463Z"
+  "lastUpdated": "2026-07-20T14:55:51.380Z"
 }
