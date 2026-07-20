@@ -6543,7 +6543,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:53:37.096Z"
+    },
+    {
+      "id": "mrtcht1cjksxu4y3xxo",
+      "name": "Jesse Jamaz",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T14:53:58.464Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:53:37.096Z"
+  "lastUpdated": "2026-07-20T14:53:58.464Z"
 }
