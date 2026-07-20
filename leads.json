@@ -6471,7 +6471,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T15:39:02.722Z"
+    },
+    {
+      "id": "mrtcf29ezijn9qw6dq",
+      "name": "Henry Wager",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T14:51:50.450Z"
     }
   ],
-  "lastUpdated": "2026-07-17T15:39:02.722Z"
+  "lastUpdated": "2026-07-20T14:51:50.450Z"
 }
