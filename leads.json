@@ -6777,7 +6777,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T16:05:09.102Z"
+    },
+    {
+      "id": "mruuj07o9a8qkrfkgej",
+      "name": "Joseph Lalonde",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T16:06:33.684Z"
     }
   ],
-  "lastUpdated": "2026-07-21T16:05:09.102Z"
+  "lastUpdated": "2026-07-21T16:06:33.684Z"
 }
