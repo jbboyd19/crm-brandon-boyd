@@ -6759,7 +6759,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T16:04:43.553Z"
+    },
+    {
+      "id": "mruuh6y6g2iy3ih7u3",
+      "name": "David Tka",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T16:05:09.102Z"
     }
   ],
-  "lastUpdated": "2026-07-21T16:04:43.553Z"
+  "lastUpdated": "2026-07-21T16:05:09.102Z"
 }
