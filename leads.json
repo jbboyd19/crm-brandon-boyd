@@ -6741,7 +6741,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T16:01:04.132Z"
+    },
+    {
+      "id": "mruugn8ha2meo9yq0r7",
+      "name": "Robby Dayher",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T16:04:43.553Z"
     }
   ],
-  "lastUpdated": "2026-07-21T16:01:04.132Z"
+  "lastUpdated": "2026-07-21T16:04:43.553Z"
 }
