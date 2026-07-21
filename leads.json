@@ -6687,7 +6687,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T16:00:05.833Z"
+    },
+    {
+      "id": "mruub3qfb8pyvtinh3g",
+      "name": "Anthony Lombardo",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T16:00:24.999Z"
     }
   ],
-  "lastUpdated": "2026-07-21T16:00:05.833Z"
+  "lastUpdated": "2026-07-21T16:00:24.999Z"
 }
