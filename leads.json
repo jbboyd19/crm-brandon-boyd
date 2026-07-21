@@ -6651,7 +6651,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:57:23.712Z"
+    },
+    {
+      "id": "mruuaapkn0nd85xa32g",
+      "name": "Matt Speler",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T15:59:47.384Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:57:23.712Z"
+  "lastUpdated": "2026-07-21T15:59:47.384Z"
 }
