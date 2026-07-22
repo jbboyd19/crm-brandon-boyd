@@ -6921,7 +6921,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T19:03:02.530Z"
+    },
+    {
+      "id": "mrwgaccvm5g554sc9ls",
+      "name": "Brian Kelley",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T19:03:27.247Z"
     }
   ],
-  "lastUpdated": "2026-07-22T19:03:02.530Z"
+  "lastUpdated": "2026-07-22T19:03:27.247Z"
 }
