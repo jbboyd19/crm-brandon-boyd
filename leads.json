@@ -6903,7 +6903,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T19:02:46.646Z"
+    },
+    {
+      "id": "mrwg9taax6vf2ewb73m",
+      "name": "Ridoy",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T19:03:02.530Z"
     }
   ],
-  "lastUpdated": "2026-07-22T19:02:46.646Z"
+  "lastUpdated": "2026-07-22T19:03:02.530Z"
 }
