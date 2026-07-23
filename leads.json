@@ -7119,7 +7119,25 @@
       "lastModified": "2026-07-23",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T17:51:55.540Z"
+    },
+    {
+      "id": "mrxt6n75jy3dkqyfin",
+      "name": "Daniel Canalas",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-23",
+      "dateAdded": "2026-07-23",
+      "addedAt": "2026-07-23T17:52:15.857Z"
     }
   ],
-  "lastUpdated": "2026-07-23T17:51:55.540Z"
+  "lastUpdated": "2026-07-23T17:52:15.857Z"
 }
