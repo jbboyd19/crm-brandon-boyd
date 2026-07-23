@@ -7137,7 +7137,25 @@
       "lastModified": "2026-07-23",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T17:52:15.857Z"
+    },
+    {
+      "id": "mrxt74w64wed1bkhhyw",
+      "name": "Chadwick Anderson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-23",
+      "dateAdded": "2026-07-23",
+      "addedAt": "2026-07-23T17:52:38.790Z"
     }
   ],
-  "lastUpdated": "2026-07-23T17:52:15.857Z"
+  "lastUpdated": "2026-07-23T17:52:38.790Z"
 }
