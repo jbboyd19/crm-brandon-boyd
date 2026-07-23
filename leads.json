@@ -6993,7 +6993,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T19:04:54.981Z"
+    },
+    {
+      "id": "mrxt2sxw7qel6bqcg04",
+      "name": "Dr. Brandy Davis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-23",
+      "dateAdded": "2026-07-23",
+      "addedAt": "2026-07-23T17:49:16.676Z"
     }
   ],
-  "lastUpdated": "2026-07-23T15:33:10.002Z"
+  "lastUpdated": "2026-07-23T17:49:16.676Z"
 }
