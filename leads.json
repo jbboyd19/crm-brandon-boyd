@@ -7173,7 +7173,25 @@
       "lastModified": "2026-07-23",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T17:53:12.590Z"
+    },
+    {
+      "id": "ms1wki92duc490gjita",
+      "name": "Patricia Faraday",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Instagram",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-26",
+      "nextFollowUp": "2026-07-27",
+      "notes": "",
+      "lastModified": "2026-07-26",
+      "dateAdded": "2026-07-26",
+      "addedAt": "2026-07-26T14:38:06.182Z"
     }
   ],
-  "lastUpdated": "2026-07-24T23:02:46.659Z"
+  "lastUpdated": "2026-07-26T14:38:06.183Z"
 }
