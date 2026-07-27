@@ -7209,7 +7209,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T15:16:26.182Z"
+    },
+    {
+      "id": "ms3de0ob7jn6771qq75",
+      "name": "Robert Fitzgerald",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T15:16:43.115Z"
     }
   ],
-  "lastUpdated": "2026-07-27T15:16:26.182Z"
+  "lastUpdated": "2026-07-27T15:16:43.115Z"
 }
