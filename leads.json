@@ -7281,7 +7281,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T15:32:30.547Z"
+    },
+    {
+      "id": "ms3dzonfwrklz1tzwe9",
+      "name": "Angel Gomez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T15:33:33.963Z"
     }
   ],
-  "lastUpdated": "2026-07-27T15:32:30.547Z"
+  "lastUpdated": "2026-07-27T15:33:33.963Z"
 }
