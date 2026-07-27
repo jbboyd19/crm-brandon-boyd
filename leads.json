@@ -7191,7 +7191,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T14:38:06.182Z"
+    },
+    {
+      "id": "ms3ddnly3g9ybcihmwt",
+      "name": "Elliott Brooks",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T15:16:26.182Z"
     }
   ],
-  "lastUpdated": "2026-07-27T15:10:01.237Z"
+  "lastUpdated": "2026-07-27T15:16:26.182Z"
 }
