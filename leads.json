@@ -7245,7 +7245,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T15:19:48.014Z"
+    },
+    {
+      "id": "ms3dpz0ltofsijdyc5j",
+      "name": "Kevin Berkau",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T15:26:00.837Z"
     }
   ],
-  "lastUpdated": "2026-07-27T15:19:48.014Z"
+  "lastUpdated": "2026-07-27T15:26:00.837Z"
 }
