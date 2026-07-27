@@ -7263,7 +7263,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T15:26:00.837Z"
+    },
+    {
+      "id": "ms3dybpveg7qy3qfxeh",
+      "name": "Audrey McDonald",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T15:32:30.547Z"
     }
   ],
-  "lastUpdated": "2026-07-27T15:26:00.837Z"
+  "lastUpdated": "2026-07-27T15:32:30.547Z"
 }
