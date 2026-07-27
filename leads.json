@@ -7353,7 +7353,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T15:36:44.660Z"
+    },
+    {
+      "id": "ms3e5194eadse03gu5f",
+      "name": "Nicola Polacios",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T15:37:43.576Z"
     }
   ],
-  "lastUpdated": "2026-07-27T15:36:44.660Z"
+  "lastUpdated": "2026-07-27T15:37:43.576Z"
 }
