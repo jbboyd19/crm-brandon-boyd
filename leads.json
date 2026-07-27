@@ -7317,7 +7317,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T15:34:26.429Z"
+    },
+    {
+      "id": "ms3e26dgivri4q6cw",
+      "name": "Jay Smith",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T15:35:30.244Z"
     }
   ],
-  "lastUpdated": "2026-07-27T15:34:26.429Z"
+  "lastUpdated": "2026-07-27T15:35:30.244Z"
 }
