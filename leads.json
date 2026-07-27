@@ -7299,7 +7299,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T15:33:33.963Z"
+    },
+    {
+      "id": "ms3e0t4tnqjf72jyhsp",
+      "name": "Chitwant Bahrma",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T15:34:26.429Z"
     }
   ],
-  "lastUpdated": "2026-07-27T15:33:33.963Z"
+  "lastUpdated": "2026-07-27T15:34:26.429Z"
 }
