@@ -7389,7 +7389,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T15:37:52.582Z"
+    },
+    {
+      "id": "ms4tmiktac5vw95esg",
+      "name": "Gary Clarke",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-28T15:38:59.597Z"
     }
   ],
-  "lastUpdated": "2026-07-28T15:37:52.582Z"
+  "lastUpdated": "2026-07-28T15:38:59.597Z"
 }
