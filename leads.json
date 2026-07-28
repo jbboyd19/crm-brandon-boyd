@@ -7371,7 +7371,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T15:37:43.576Z"
+    },
+    {
+      "id": "ms4tl2val88d27id399",
+      "name": "Chad Innebo",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-28T15:37:52.582Z"
     }
   ],
-  "lastUpdated": "2026-07-28T15:36:30.052Z"
+  "lastUpdated": "2026-07-28T15:37:52.582Z"
 }
