@@ -3419,14 +3419,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": null,
+      "lastContact": "2026-08-02",
+      "nextFollowUp": "2026-08-03",
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-08-02",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T17:28:12.149Z"
     },
@@ -7463,5 +7463,5 @@
       "addedAt": "2026-07-30T03:54:50.377Z"
     }
   ],
-  "lastUpdated": "2026-07-31T01:02:11.749Z"
+  "lastUpdated": "2026-08-02T16:06:55.787Z"
 }
