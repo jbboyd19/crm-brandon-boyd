@@ -7183,16 +7183,17 @@
       "phone": "",
       "social": "",
       "source": "Instagram",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
+      "lastAction": "Closed",
       "lastContact": "2026-07-26",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-08-02",
       "dateAdded": "2026-07-26",
-      "addedAt": "2026-07-26T14:38:06.182Z"
+      "addedAt": "2026-07-26T14:38:06.182Z",
+      "customerSince": "2026-08-02"
     },
     {
       "id": "ms3ddnly3g9ybcihmwt",
@@ -7465,5 +7466,5 @@
       "addedAt": "2026-07-30T03:54:50.377Z"
     }
   ],
-  "lastUpdated": "2026-08-02T21:33:48.460Z"
+  "lastUpdated": "2026-08-02T21:34:04.093Z"
 }
