@@ -7554,7 +7554,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T19:28:53.310Z"
+    },
+    {
+      "id": "msdmj3kaes2vrhgxxrw",
+      "name": "Ron Baker",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T19:30:18.442Z"
     }
   ],
-  "lastUpdated": "2026-08-03T19:28:53.310Z"
+  "lastUpdated": "2026-08-03T19:30:18.442Z"
 }
