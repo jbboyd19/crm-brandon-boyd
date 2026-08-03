@@ -7590,7 +7590,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T19:30:45.442Z"
+    },
+    {
+      "id": "msdmsg27c11jo8z24gh",
+      "name": "Leroy Lawson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T19:37:34.543Z"
     }
   ],
-  "lastUpdated": "2026-08-03T19:30:45.442Z"
+  "lastUpdated": "2026-08-03T19:37:34.543Z"
 }
