@@ -7464,7 +7464,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-30T03:54:50.377Z"
+    },
+    {
+      "id": "msdbfghhl03mvbs3e7q",
+      "name": "Violeta Popa",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T14:19:32.789Z"
     }
   ],
-  "lastUpdated": "2026-08-02T21:34:04.093Z"
+  "lastUpdated": "2026-08-03T14:19:32.789Z"
 }
