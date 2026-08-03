@@ -7608,7 +7608,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T19:37:34.543Z"
+    },
+    {
+      "id": "msdmt10u1rb3pwjr7d",
+      "name": "Kendrick Ray",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T19:38:01.710Z"
     }
   ],
-  "lastUpdated": "2026-08-03T19:37:34.543Z"
+  "lastUpdated": "2026-08-03T19:38:01.710Z"
 }
