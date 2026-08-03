@@ -7500,7 +7500,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T17:42:19.821Z"
+    },
+    {
+      "id": "msdlkauvrsdg66ozon7",
+      "name": "Carolyne Jaynes",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T19:03:14.935Z"
     }
   ],
-  "lastUpdated": "2026-08-03T17:55:44.007Z"
+  "lastUpdated": "2026-08-03T19:03:14.935Z"
 }
