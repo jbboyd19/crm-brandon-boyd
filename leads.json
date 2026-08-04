@@ -7680,7 +7680,25 @@
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T15:59:13.571Z"
+    },
+    {
+      "id": "mseufyrvugkv3hx7nj",
+      "name": "John Smith",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T15:59:35.371Z"
     }
   ],
-  "lastUpdated": "2026-08-04T15:59:13.571Z"
+  "lastUpdated": "2026-08-04T15:59:35.371Z"
 }
