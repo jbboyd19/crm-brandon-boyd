@@ -7734,7 +7734,25 @@
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T16:01:44.805Z"
+    },
+    {
+      "id": "mseut6nxlrwkzkesbv",
+      "name": "Candace Banks",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T16:09:52.125Z"
     }
   ],
-  "lastUpdated": "2026-08-04T16:01:44.805Z"
+  "lastUpdated": "2026-08-04T16:09:52.125Z"
 }
