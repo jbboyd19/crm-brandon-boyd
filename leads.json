@@ -7770,7 +7770,25 @@
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T16:10:29.525Z"
+    },
+    {
+      "id": "msev0d1dpznz690ednh",
+      "name": "Jorge Weatherford",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T16:15:26.977Z"
     }
   ],
-  "lastUpdated": "2026-08-04T16:10:29.525Z"
+  "lastUpdated": "2026-08-04T16:15:26.977Z"
 }
