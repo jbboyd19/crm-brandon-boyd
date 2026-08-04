@@ -7752,7 +7752,25 @@
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T16:09:52.125Z"
+    },
+    {
+      "id": "mseutzito7orbfvnc2r",
+      "name": "Chris Nappa",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T16:10:29.525Z"
     }
   ],
-  "lastUpdated": "2026-08-04T16:09:52.125Z"
+  "lastUpdated": "2026-08-04T16:10:29.525Z"
 }
