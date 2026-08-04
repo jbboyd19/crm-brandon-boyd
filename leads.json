@@ -7698,7 +7698,25 @@
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T15:59:35.371Z"
+    },
+    {
+      "id": "mseui4g68jxzu70pizy",
+      "name": "Rick Katz",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T16:01:16.038Z"
     }
   ],
-  "lastUpdated": "2026-08-04T15:59:35.371Z"
+  "lastUpdated": "2026-08-04T16:01:16.038Z"
 }
