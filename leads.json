@@ -7760,12 +7760,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-04",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-08-05",
       "notes": "",
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
@@ -7826,5 +7826,5 @@
       "addedAt": "2026-08-04T16:16:34.811Z"
     }
   ],
-  "lastUpdated": "2026-08-04T16:16:34.811Z"
+  "lastUpdated": "2026-08-04T20:20:09.023Z"
 }
