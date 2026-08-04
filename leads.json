@@ -7644,7 +7644,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T19:42:50.812Z"
+    },
+    {
+      "id": "mseuf4rcozh8ph9sou",
+      "name": "Armin Ponce",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T15:58:56.472Z"
     }
   ],
-  "lastUpdated": "2026-08-03T19:42:50.812Z"
+  "lastUpdated": "2026-08-04T15:58:56.472Z"
 }
