@@ -7878,7 +7878,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:31:34.159Z"
+    },
+    {
+      "id": "msg6rrsftuea9ydxb4l",
+      "name": "Lea Martin",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:32:27.759Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:31:34.160Z"
+  "lastUpdated": "2026-08-05T14:32:27.759Z"
 }
