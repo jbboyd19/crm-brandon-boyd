@@ -7932,7 +7932,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:36:37.122Z"
+    },
+    {
+      "id": "msg6xkd3b4jygpglw9",
+      "name": "Vincent Fuguel",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:36:58.071Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:36:37.122Z"
+  "lastUpdated": "2026-08-05T14:36:58.071Z"
 }
