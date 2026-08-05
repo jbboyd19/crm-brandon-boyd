@@ -8004,7 +8004,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:41:32.519Z"
+    },
+    {
+      "id": "msg74q53xxr3ba17fu",
+      "name": "Katarzyna Kozarnek",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:42:32.151Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:41:32.519Z"
+  "lastUpdated": "2026-08-05T14:42:32.151Z"
 }
