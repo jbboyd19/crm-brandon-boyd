@@ -8040,7 +8040,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:42:57.850Z"
+    },
+    {
+      "id": "msg75s4ol27uefanp8a",
+      "name": "Sebastian Gabernewski",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:43:21.384Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:42:57.850Z"
+  "lastUpdated": "2026-08-05T14:43:21.384Z"
 }
