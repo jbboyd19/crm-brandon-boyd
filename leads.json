@@ -7986,7 +7986,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:40:50.219Z"
+    },
+    {
+      "id": "msg73g4nyvakmgm46co",
+      "name": "Kings Reddys",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:41:32.519Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:40:50.219Z"
+  "lastUpdated": "2026-08-05T14:41:32.519Z"
 }
