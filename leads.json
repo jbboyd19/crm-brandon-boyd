@@ -7761,13 +7761,13 @@
       "social": "",
       "source": "Facebook",
       "status": "Sent Video",
-      "videoSent": true,
+      "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-04",
-      "nextFollowUp": "2026-08-05",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-04",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T16:10:29.525Z"
     },
@@ -7844,5 +7844,5 @@
       "addedAt": "2026-08-04T20:22:24.192Z"
     }
   ],
-  "lastUpdated": "2026-08-04T20:22:24.192Z"
+  "lastUpdated": "2026-08-05T14:28:54.114Z"
 }
