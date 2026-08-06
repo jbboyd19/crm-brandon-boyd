@@ -8071,12 +8071,12 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-08-06",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-08-06",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T19:49:34.831Z"
     }
   ],
-  "lastUpdated": "2026-08-06T04:34:38.475Z"
+  "lastUpdated": "2026-08-06T15:50:41.565Z"
 }
