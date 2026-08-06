@@ -8094,7 +8094,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T15:53:01.812Z"
+    },
+    {
+      "id": "mshp3t44zae3l5w5t4",
+      "name": "Gerald Milton",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T15:53:28.612Z"
     }
   ],
-  "lastUpdated": "2026-08-06T15:53:01.812Z"
+  "lastUpdated": "2026-08-06T15:53:28.612Z"
 }
