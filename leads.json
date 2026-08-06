@@ -8166,7 +8166,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T15:55:51.046Z"
+    },
+    {
+      "id": "mshp7lvawn67kxq5swd",
+      "name": "Charles Draven",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T15:56:25.846Z"
     }
   ],
-  "lastUpdated": "2026-08-06T15:55:51.046Z"
+  "lastUpdated": "2026-08-06T15:56:25.846Z"
 }
