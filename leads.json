@@ -8346,7 +8346,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T14:58:16.656Z"
+    },
+    {
+      "id": "msj2l88bpbxhjzhtybq",
+      "name": "Gabriel Liceaga",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-07T14:58:42.539Z"
     }
   ],
-  "lastUpdated": "2026-08-07T14:58:16.656Z"
+  "lastUpdated": "2026-08-07T14:58:42.539Z"
 }
