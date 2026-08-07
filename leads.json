@@ -8328,7 +8328,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T14:55:06.259Z"
+    },
+    {
+      "id": "msj2ko9c54ad58zcttx",
+      "name": "Rick Holland",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-07T14:58:16.656Z"
     }
   ],
-  "lastUpdated": "2026-08-07T14:55:06.259Z"
+  "lastUpdated": "2026-08-07T14:58:16.656Z"
 }
