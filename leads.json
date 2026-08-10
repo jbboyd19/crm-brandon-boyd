@@ -8526,7 +8526,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T14:53:53.560Z"
+    },
+    {
+      "id": "msncuv352r4u9j6mhci",
+      "name": "Jonathan Fanfan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T14:57:12.929Z"
     }
   ],
-  "lastUpdated": "2026-08-10T14:53:53.560Z"
+  "lastUpdated": "2026-08-10T14:57:12.929Z"
 }
