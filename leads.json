@@ -8418,7 +8418,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T14:41:58.646Z"
+    },
+    {
+      "id": "msncfhb3l83zxmhupum",
+      "name": "Jonathan Belcher",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T14:45:15.231Z"
     }
   ],
-  "lastUpdated": "2026-08-10T14:41:58.646Z"
+  "lastUpdated": "2026-08-10T14:45:15.231Z"
 }
