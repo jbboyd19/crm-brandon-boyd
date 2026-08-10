@@ -8400,7 +8400,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T14:29:26.981Z"
+    },
+    {
+      "id": "msncb9mezpdauvkhc4j",
+      "name": "Gabe Burgos",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T14:41:58.646Z"
     }
   ],
-  "lastUpdated": "2026-08-10T14:29:26.981Z"
+  "lastUpdated": "2026-08-10T14:41:58.646Z"
 }
