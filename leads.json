@@ -8382,7 +8382,25 @@
       "lastModified": "2026-08-08",
       "dateAdded": "2026-08-08",
       "addedAt": "2026-08-08T15:53:11.385Z"
+    },
+    {
+      "id": "msnbv5mtjz74koqcbhl",
+      "name": "LeWade Hostetler",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T14:29:26.981Z"
     }
   ],
-  "lastUpdated": "2026-08-08T17:56:52.683Z"
+  "lastUpdated": "2026-08-10T14:29:26.981Z"
 }
