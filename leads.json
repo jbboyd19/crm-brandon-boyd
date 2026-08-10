@@ -8454,7 +8454,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T14:45:43.965Z"
+    },
+    {
+      "id": "msnch0c52gi5noqv62f",
+      "name": "Michael Anthony",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T14:46:26.549Z"
     }
   ],
-  "lastUpdated": "2026-08-10T14:45:43.965Z"
+  "lastUpdated": "2026-08-10T14:46:26.549Z"
 }
