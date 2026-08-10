@@ -8544,7 +8544,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T14:57:12.929Z"
+    },
+    {
+      "id": "msncvmp5q54a4js15qm",
+      "name": "Glenn Stucki",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T14:57:48.713Z"
     }
   ],
-  "lastUpdated": "2026-08-10T14:57:12.929Z"
+  "lastUpdated": "2026-08-10T14:57:48.713Z"
 }
