@@ -8652,7 +8652,25 @@
       "lastModified": "2026-08-11",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T14:26:51.177Z"
+    },
+    {
+      "id": "msor9c4ypsn4qa7o75d",
+      "name": "Nicholas Rahman",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-11",
+      "dateAdded": "2026-08-11",
+      "addedAt": "2026-08-11T14:28:09.010Z"
     }
   ],
-  "lastUpdated": "2026-08-11T14:26:51.177Z"
+  "lastUpdated": "2026-08-11T14:28:09.010Z"
 }
