@@ -8580,7 +8580,25 @@
       "lastModified": "2026-08-11",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T14:25:19.727Z"
+    },
+    {
+      "id": "msor64eawng2xq1fjts",
+      "name": "Sarah Wilson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-11",
+      "dateAdded": "2026-08-11",
+      "addedAt": "2026-08-11T14:25:39.010Z"
     }
   ],
-  "lastUpdated": "2026-08-11T14:25:19.727Z"
+  "lastUpdated": "2026-08-11T14:25:39.010Z"
 }
