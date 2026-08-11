@@ -8670,7 +8670,25 @@
       "lastModified": "2026-08-11",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T14:28:09.010Z"
+    },
+    {
+      "id": "msor9y39q8ntyrh96vg",
+      "name": "Daren Pearson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-11",
+      "dateAdded": "2026-08-11",
+      "addedAt": "2026-08-11T14:28:37.461Z"
     }
   ],
-  "lastUpdated": "2026-08-11T14:28:09.010Z"
+  "lastUpdated": "2026-08-11T14:28:37.461Z"
 }
