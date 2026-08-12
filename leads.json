@@ -8742,7 +8742,25 @@
       "lastModified": "2026-08-11",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T14:29:46.295Z"
+    },
+    {
+      "id": "msq9a90y1w4ue5dvrn3",
+      "name": "Ross Beauvis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T15:40:30.898Z"
     }
   ],
-  "lastUpdated": "2026-08-11T14:29:46.295Z"
+  "lastUpdated": "2026-08-12T15:40:30.899Z"
 }
