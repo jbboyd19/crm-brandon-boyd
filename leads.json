@@ -8832,7 +8832,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T16:02:24.253Z"
+    },
+    {
+      "id": "msqa32c5a6wai93s2j9",
+      "name": "James Metcalf",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T16:02:55.253Z"
     }
   ],
-  "lastUpdated": "2026-08-12T16:02:24.253Z"
+  "lastUpdated": "2026-08-12T16:02:55.253Z"
 }
