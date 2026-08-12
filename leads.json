@@ -8886,7 +8886,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T16:03:50.420Z"
+    },
+    {
+      "id": "msqa5j4x5ooaseypkpo",
+      "name": "Mitch Muir",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T16:04:50.337Z"
     }
   ],
-  "lastUpdated": "2026-08-12T16:03:50.420Z"
+  "lastUpdated": "2026-08-12T16:04:50.337Z"
 }
