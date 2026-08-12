@@ -8778,7 +8778,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T15:40:53.795Z"
+    },
+    {
+      "id": "msqa1l9ztqhpradigel",
+      "name": "Mike Jones",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T16:01:46.487Z"
     }
   ],
-  "lastUpdated": "2026-08-12T15:59:53.570Z"
+  "lastUpdated": "2026-08-12T16:01:46.487Z"
 }
