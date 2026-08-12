@@ -8868,7 +8868,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T16:03:24.853Z"
+    },
+    {
+      "id": "msqa48wky5toxxncs0h",
+      "name": "Stephanie Ray",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T16:03:50.420Z"
     }
   ],
-  "lastUpdated": "2026-08-12T16:03:24.853Z"
+  "lastUpdated": "2026-08-12T16:03:50.420Z"
 }
