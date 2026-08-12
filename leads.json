@@ -8922,7 +8922,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T16:05:24.504Z"
+    },
+    {
+      "id": "msqk0o115g29iovm3ox",
+      "name": "Josh Lober",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Other",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-13",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T20:40:59.557Z"
     }
   ],
-  "lastUpdated": "2026-08-12T16:05:24.504Z"
+  "lastUpdated": "2026-08-12T20:40:59.557Z"
 }
