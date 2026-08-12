@@ -8760,7 +8760,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T15:40:30.898Z"
+    },
+    {
+      "id": "msq9aqozm2iqsqdhnp",
+      "name": "Willie Moorer",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T15:40:53.795Z"
     }
   ],
-  "lastUpdated": "2026-08-12T15:40:30.899Z"
+  "lastUpdated": "2026-08-12T15:40:53.795Z"
 }
