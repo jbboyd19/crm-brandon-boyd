@@ -8958,7 +8958,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T16:23:00.823Z"
+    },
+    {
+      "id": "msrq9443tegdzkhoiz",
+      "name": "Gene Herron",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T16:23:17.523Z"
     }
   ],
-  "lastUpdated": "2026-08-13T16:23:00.823Z"
+  "lastUpdated": "2026-08-13T16:23:17.523Z"
 }
