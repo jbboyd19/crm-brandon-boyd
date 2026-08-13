@@ -9066,7 +9066,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T16:25:42.221Z"
+    },
+    {
+      "id": "msrqciczru8ly6qqjq9",
+      "name": "Marcel ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T16:25:55.955Z"
     }
   ],
-  "lastUpdated": "2026-08-13T16:25:42.221Z"
+  "lastUpdated": "2026-08-13T16:25:55.955Z"
 }
