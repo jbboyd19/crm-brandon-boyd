@@ -9084,7 +9084,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T16:25:55.955Z"
+    },
+    {
+      "id": "msrqd0yer0vf4203zs",
+      "name": "Christopher Urso",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T16:26:20.054Z"
     }
   ],
-  "lastUpdated": "2026-08-13T16:25:55.955Z"
+  "lastUpdated": "2026-08-13T16:26:20.054Z"
 }
