@@ -8994,7 +8994,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T16:23:35.089Z"
+    },
+    {
+      "id": "msrqb17t7jmqfd8ofsk",
+      "name": "Sammy Wilson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T16:24:47.082Z"
     }
   ],
-  "lastUpdated": "2026-08-13T16:24:34.078Z"
+  "lastUpdated": "2026-08-13T16:24:47.082Z"
 }
