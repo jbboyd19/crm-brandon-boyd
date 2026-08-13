@@ -9102,7 +9102,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T16:26:20.054Z"
+    },
+    {
+      "id": "msrqdjigqhtfh5rmxll",
+      "name": "Giovanni Busallato",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T16:26:44.104Z"
     }
   ],
-  "lastUpdated": "2026-08-13T16:26:20.054Z"
+  "lastUpdated": "2026-08-13T16:26:44.104Z"
 }
