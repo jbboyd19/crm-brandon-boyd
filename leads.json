@@ -8976,7 +8976,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T16:23:17.523Z"
+    },
+    {
+      "id": "msrq9ho1ug52ms28h1k",
+      "name": "Florent Hubert",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T16:23:35.089Z"
     }
   ],
-  "lastUpdated": "2026-08-13T16:23:17.523Z"
+  "lastUpdated": "2026-08-13T16:23:35.089Z"
 }
