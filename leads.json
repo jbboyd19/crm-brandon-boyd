@@ -9264,7 +9264,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T13:54:40.886Z"
+    },
+    {
+      "id": "mst0enclp9fknlx65wh",
+      "name": "Samir Nadaf",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T13:55:18.069Z"
     }
   ],
-  "lastUpdated": "2026-08-14T13:54:40.886Z"
+  "lastUpdated": "2026-08-14T13:55:18.069Z"
 }
