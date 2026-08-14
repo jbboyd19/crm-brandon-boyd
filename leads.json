@@ -9120,7 +9120,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T16:26:44.104Z"
+    },
+    {
+      "id": "mst07nkcgld1vhzx2d8",
+      "name": "David Larson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T13:49:51.756Z"
     }
   ],
-  "lastUpdated": "2026-08-13T16:26:44.104Z"
+  "lastUpdated": "2026-08-14T13:49:51.756Z"
 }
