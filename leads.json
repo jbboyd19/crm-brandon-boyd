@@ -9246,7 +9246,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T13:54:25.086Z"
+    },
+    {
+      "id": "mst0dunq6ndimrtotwc",
+      "name": "David Smith",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T13:54:40.886Z"
     }
   ],
-  "lastUpdated": "2026-08-14T13:54:25.086Z"
+  "lastUpdated": "2026-08-14T13:54:40.886Z"
 }
