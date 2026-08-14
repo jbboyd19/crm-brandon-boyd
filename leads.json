@@ -9192,7 +9192,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T13:53:17.870Z"
+    },
+    {
+      "id": "mst0cg2wpa0je591n98",
+      "name": "Barry Gibbs",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T13:53:35.336Z"
     }
   ],
-  "lastUpdated": "2026-08-14T13:53:17.870Z"
+  "lastUpdated": "2026-08-14T13:53:35.336Z"
 }
