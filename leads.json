@@ -9282,7 +9282,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T13:55:18.069Z"
+    },
+    {
+      "id": "mst0feid58270c7kp2y",
+      "name": "Kevin Cleveland",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T13:55:53.269Z"
     }
   ],
-  "lastUpdated": "2026-08-14T13:55:18.069Z"
+  "lastUpdated": "2026-08-14T13:55:53.269Z"
 }
