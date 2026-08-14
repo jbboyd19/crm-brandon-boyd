@@ -9228,7 +9228,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T13:53:59.603Z"
+    },
+    {
+      "id": "mst0digucf6yup4fpuf",
+      "name": "Link Forester",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T13:54:25.086Z"
     }
   ],
-  "lastUpdated": "2026-08-14T13:53:59.603Z"
+  "lastUpdated": "2026-08-14T13:54:25.086Z"
 }
