@@ -9210,7 +9210,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T13:53:35.336Z"
+    },
+    {
+      "id": "mst0cysz09ei6tblr9ee",
+      "name": "Anthony Clark",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T13:53:59.603Z"
     }
   ],
-  "lastUpdated": "2026-08-14T13:53:35.336Z"
+  "lastUpdated": "2026-08-14T13:53:59.603Z"
 }
