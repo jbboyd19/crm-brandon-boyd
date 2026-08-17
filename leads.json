@@ -9426,7 +9426,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T14:46:59.630Z"
+    },
+    {
+      "id": "msxclht7l66lzjafo4p",
+      "name": "Sean Sutherland",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-17T14:47:37.579Z"
     }
   ],
-  "lastUpdated": "2026-08-17T14:46:59.630Z"
+  "lastUpdated": "2026-08-17T14:47:37.579Z"
 }
