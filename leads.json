@@ -9480,7 +9480,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T14:48:19.530Z"
+    },
+    {
+      "id": "msxg3nr9b4702vncxy4",
+      "name": "Luis Carlos",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": "2026-08-18",
+      "notes": "",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-17T16:25:43.941Z"
     }
   ],
-  "lastUpdated": "2026-08-17T14:48:19.530Z"
+  "lastUpdated": "2026-08-17T16:25:43.941Z"
 }
