@@ -9354,7 +9354,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T14:44:35.148Z"
+    },
+    {
+      "id": "msxci4dyv4d8mq5ga1j",
+      "name": "Vinay Kumar",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-17T14:45:00.214Z"
     }
   ],
-  "lastUpdated": "2026-08-17T14:44:35.148Z"
+  "lastUpdated": "2026-08-17T14:45:00.214Z"
 }
