@@ -9570,7 +9570,25 @@
       "lastModified": "2026-08-18",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-18T15:18:39.783Z"
+    },
+    {
+      "id": "msyw0keadrghgq7m9k4",
+      "name": "Aggu",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-18",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-18",
+      "dateAdded": "2026-08-18",
+      "addedAt": "2026-08-18T16:38:59.650Z"
     }
   ],
-  "lastUpdated": "2026-08-18T15:18:39.783Z"
+  "lastUpdated": "2026-08-18T16:38:59.650Z"
 }
