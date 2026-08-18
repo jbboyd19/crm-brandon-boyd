@@ -9588,7 +9588,25 @@
       "lastModified": "2026-08-18",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-18T16:38:59.650Z"
+    },
+    {
+      "id": "msyw0wzij2lo1qj132",
+      "name": "Franklin Thomas",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-18",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-18",
+      "dateAdded": "2026-08-18",
+      "addedAt": "2026-08-18T16:39:15.966Z"
     }
   ],
-  "lastUpdated": "2026-08-18T16:38:59.650Z"
+  "lastUpdated": "2026-08-18T16:39:15.966Z"
 }
