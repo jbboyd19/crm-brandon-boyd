@@ -9493,12 +9493,12 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-17",
-      "nextFollowUp": "2026-08-18",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-17",
+      "lastModified": "2026-08-18",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T16:25:43.941Z"
     }
   ],
-  "lastUpdated": "2026-08-18T14:31:56.335Z"
+  "lastUpdated": "2026-08-18T14:32:05.299Z"
 }
