@@ -9498,7 +9498,25 @@
       "lastModified": "2026-08-18",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T16:25:43.941Z"
+    },
+    {
+      "id": "msyt2abvjhe0by2sbm",
+      "name": "Chris Horton",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-18",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-18",
+      "dateAdded": "2026-08-18",
+      "addedAt": "2026-08-18T15:16:21.067Z"
     }
   ],
-  "lastUpdated": "2026-08-18T14:32:05.299Z"
+  "lastUpdated": "2026-08-18T15:16:21.067Z"
 }
