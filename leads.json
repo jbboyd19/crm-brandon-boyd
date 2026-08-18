@@ -9660,7 +9660,25 @@
       "lastModified": "2026-08-18",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-18T16:46:57.080Z"
+    },
+    {
+      "id": "msywb5vyfp2fr6g7e55",
+      "name": "Joe Zech",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-18",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-18",
+      "dateAdded": "2026-08-18",
+      "addedAt": "2026-08-18T16:47:14.062Z"
     }
   ],
-  "lastUpdated": "2026-08-18T16:46:57.080Z"
+  "lastUpdated": "2026-08-18T16:47:14.062Z"
 }
