@@ -9804,7 +9804,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:16:06.169Z"
+    },
+    {
+      "id": "mt06dhlim9m5yu36dm",
+      "name": "Miqoshi Shogun",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T14:16:44.886Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:16:06.169Z"
+  "lastUpdated": "2026-08-19T14:16:44.886Z"
 }
