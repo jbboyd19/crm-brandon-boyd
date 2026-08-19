@@ -9678,7 +9678,25 @@
       "lastModified": "2026-08-18",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-18T16:47:14.062Z"
+    },
+    {
+      "id": "mt067omckrfic2bus7e",
+      "name": "Steecciiee",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T14:12:14.052Z"
     }
   ],
-  "lastUpdated": "2026-08-18T16:47:14.062Z"
+  "lastUpdated": "2026-08-19T14:12:14.052Z"
 }
