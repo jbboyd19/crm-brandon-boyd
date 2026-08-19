@@ -9696,7 +9696,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:12:14.052Z"
+    },
+    {
+      "id": "mt068ed732g1riw58l",
+      "name": "Joey Ricardo",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T14:12:47.419Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:12:14.052Z"
+  "lastUpdated": "2026-08-19T14:12:47.419Z"
 }
