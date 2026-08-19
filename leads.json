@@ -9714,7 +9714,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:12:47.419Z"
+    },
+    {
+      "id": "mt0691lbhk4g5z3d0lw",
+      "name": "Bryan Williams",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T14:13:17.519Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:12:47.419Z"
+  "lastUpdated": "2026-08-19T14:13:17.519Z"
 }
