@@ -9750,7 +9750,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:13:50.452Z"
+    },
+    {
+      "id": "mt06abfbykkm39w4d78",
+      "name": "Chase Graham",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T14:14:16.919Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:13:50.452Z"
+  "lastUpdated": "2026-08-19T14:14:16.919Z"
 }
