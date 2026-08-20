@@ -9840,7 +9840,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:17:25.736Z"
+    },
+    {
+      "id": "mt1w5qosq9nif6tlgam",
+      "name": "Daniel Toal",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T19:06:19.612Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:17:25.736Z"
+  "lastUpdated": "2026-08-20T19:06:19.612Z"
 }
