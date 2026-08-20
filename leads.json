@@ -9912,7 +9912,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T19:08:48.643Z"
+    },
+    {
+      "id": "mt1w9g230ghhr33dskya",
+      "name": "Jason Paul Garcia",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T19:09:12.459Z"
     }
   ],
-  "lastUpdated": "2026-08-20T19:08:48.643Z"
+  "lastUpdated": "2026-08-20T19:09:12.459Z"
 }
