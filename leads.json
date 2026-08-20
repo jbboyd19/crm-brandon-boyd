@@ -9930,7 +9930,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T19:09:12.459Z"
+    },
+    {
+      "id": "mt1wafmmlgupehb3ntn",
+      "name": "Eddie Rivera",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T19:09:58.559Z"
     }
   ],
-  "lastUpdated": "2026-08-20T19:09:12.459Z"
+  "lastUpdated": "2026-08-20T19:09:58.559Z"
 }
