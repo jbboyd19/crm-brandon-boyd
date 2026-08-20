@@ -9858,7 +9858,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T19:06:19.612Z"
+    },
+    {
+      "id": "mt1w657widu35djy6tc",
+      "name": "Taalib",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T19:06:38.444Z"
     }
   ],
-  "lastUpdated": "2026-08-20T19:06:19.612Z"
+  "lastUpdated": "2026-08-20T19:06:38.444Z"
 }
