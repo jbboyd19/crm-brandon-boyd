@@ -10110,7 +10110,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T15:27:39.945Z"
+    },
+    {
+      "id": "mt7e547woqx8ih4oefn",
+      "name": "Anton",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T15:28:34.460Z"
     }
   ],
-  "lastUpdated": "2026-08-24T15:27:39.945Z"
+  "lastUpdated": "2026-08-24T15:28:34.460Z"
 }
