@@ -9984,7 +9984,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T19:11:10.724Z"
+    },
+    {
+      "id": "mt7e07tyh5ye3laiv9w",
+      "name": "Nico Gagliano",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T15:24:45.862Z"
     }
   ],
-  "lastUpdated": "2026-08-20T19:11:10.724Z"
+  "lastUpdated": "2026-08-24T15:24:45.863Z"
 }
