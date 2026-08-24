@@ -10218,7 +10218,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T20:46:53.561Z"
+    },
+    {
+      "id": "mt7pilzmmarcpejjip",
+      "name": "Randy",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T20:46:59.794Z"
     }
   ],
-  "lastUpdated": "2026-08-24T20:46:53.561Z"
+  "lastUpdated": "2026-08-24T20:46:59.794Z"
 }
