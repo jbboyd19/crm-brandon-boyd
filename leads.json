@@ -10056,7 +10056,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T15:25:50.594Z"
+    },
+    {
+      "id": "mt7e22vskj7m0wdnkea",
+      "name": "Colby Birdsell",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T15:26:12.760Z"
     }
   ],
-  "lastUpdated": "2026-08-24T15:25:50.594Z"
+  "lastUpdated": "2026-08-24T15:26:12.760Z"
 }
