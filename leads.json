@@ -10074,7 +10074,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T15:26:12.760Z"
+    },
+    {
+      "id": "mt7e3embin6rd2opu9g",
+      "name": "Aaron Andrews",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T15:27:14.627Z"
     }
   ],
-  "lastUpdated": "2026-08-24T15:26:12.760Z"
+  "lastUpdated": "2026-08-24T15:27:14.627Z"
 }
