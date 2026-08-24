@@ -10020,7 +10020,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T15:25:06.643Z"
+    },
+    {
+      "id": "mt7e11smxvnio9ybas8",
+      "name": "CJ Maxwell",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T15:25:24.694Z"
     }
   ],
-  "lastUpdated": "2026-08-24T15:25:06.643Z"
+  "lastUpdated": "2026-08-24T15:25:24.694Z"
 }
