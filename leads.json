@@ -10164,7 +10164,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T15:28:57.611Z"
+    },
+    {
+      "id": "mt7pi3j91r057mgxdff",
+      "name": "Surendra",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T20:46:35.877Z"
     }
   ],
-  "lastUpdated": "2026-08-24T15:28:57.611Z"
+  "lastUpdated": "2026-08-24T20:46:35.877Z"
 }
