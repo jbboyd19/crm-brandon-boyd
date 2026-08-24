@@ -10002,7 +10002,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T15:24:45.862Z"
+    },
+    {
+      "id": "mt7e0nv7i1y6vxc2avi",
+      "name": "Reginald Withers",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T15:25:06.643Z"
     }
   ],
-  "lastUpdated": "2026-08-24T15:24:45.863Z"
+  "lastUpdated": "2026-08-24T15:25:06.643Z"
 }
