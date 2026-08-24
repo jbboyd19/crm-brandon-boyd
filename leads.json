@@ -10128,7 +10128,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T15:28:34.460Z"
+    },
+    {
+      "id": "mt7e5al2f17gz6s70e",
+      "name": "Blake Roberts",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T15:28:42.710Z"
     }
   ],
-  "lastUpdated": "2026-08-24T15:28:34.460Z"
+  "lastUpdated": "2026-08-24T15:28:42.710Z"
 }
