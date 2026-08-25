@@ -10308,7 +10308,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T14:22:04.825Z"
+    },
+    {
+      "id": "mt8r9h0qne6k8pq7eq",
+      "name": "Arthur Amadi",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T14:23:38.858Z"
     }
   ],
-  "lastUpdated": "2026-08-25T14:22:04.825Z"
+  "lastUpdated": "2026-08-25T14:23:38.858Z"
 }
