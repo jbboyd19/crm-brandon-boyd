@@ -10326,7 +10326,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T14:23:38.858Z"
+    },
+    {
+      "id": "mt8rt2r9vfqzfj8dl7c",
+      "name": "JJ Conway ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T14:38:53.493Z"
     }
   ],
-  "lastUpdated": "2026-08-25T14:23:38.858Z"
+  "lastUpdated": "2026-08-25T14:38:53.493Z"
 }
