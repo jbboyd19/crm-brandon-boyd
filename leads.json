@@ -10254,7 +10254,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T14:18:40.509Z"
+    },
+    {
+      "id": "mt8r54nlhzthzwq1udi",
+      "name": "Patrick Palkii",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T14:20:16.209Z"
     }
   ],
-  "lastUpdated": "2026-08-25T14:18:40.509Z"
+  "lastUpdated": "2026-08-25T14:20:16.209Z"
 }
