@@ -10236,7 +10236,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T20:46:59.794Z"
+    },
+    {
+      "id": "mt8r32t9fuxz56obw1u",
+      "name": "David Miles",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T14:18:40.509Z"
     }
   ],
-  "lastUpdated": "2026-08-24T20:46:59.794Z"
+  "lastUpdated": "2026-08-25T14:18:40.509Z"
 }
