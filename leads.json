@@ -10380,7 +10380,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T14:40:31.277Z"
+    },
+    {
+      "id": "mt8rxf31k0cua11ncl",
+      "name": "Dave Rennpferd",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T14:42:16.093Z"
     }
   ],
-  "lastUpdated": "2026-08-25T14:40:31.277Z"
+  "lastUpdated": "2026-08-25T14:42:16.093Z"
 }
