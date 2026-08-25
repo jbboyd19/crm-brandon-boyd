@@ -10290,7 +10290,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T14:21:29.558Z"
+    },
+    {
+      "id": "mt8r7ggpytk5g7xwgbp",
+      "name": "Kevin McElroy",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T14:22:04.825Z"
     }
   ],
-  "lastUpdated": "2026-08-25T14:21:29.558Z"
+  "lastUpdated": "2026-08-25T14:22:04.825Z"
 }
