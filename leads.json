@@ -10272,7 +10272,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T14:20:16.209Z"
+    },
+    {
+      "id": "mt8r6p925v0w2vs3ie",
+      "name": "Matthew Clark",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T14:21:29.558Z"
     }
   ],
-  "lastUpdated": "2026-08-25T14:20:16.209Z"
+  "lastUpdated": "2026-08-25T14:21:29.558Z"
 }
