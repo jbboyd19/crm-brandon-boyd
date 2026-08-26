@@ -10488,7 +10488,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T14:16:07.059Z"
+    },
+    {
+      "id": "mta6g5i7yfp1bh3vue",
+      "name": "Matthew McKibben",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T14:16:30.943Z"
     }
   ],
-  "lastUpdated": "2026-08-26T14:16:07.059Z"
+  "lastUpdated": "2026-08-26T14:16:30.943Z"
 }
