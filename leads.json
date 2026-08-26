@@ -10423,18 +10423,18 @@
       "email": "",
       "phone": "",
       "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "source": "Other",
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-25",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-26T04:04:10.023Z"
     }
   ],
-  "lastUpdated": "2026-08-26T04:04:10.023Z"
+  "lastUpdated": "2026-08-26T13:12:04.000Z"
 }
