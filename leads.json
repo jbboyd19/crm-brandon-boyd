@@ -10434,7 +10434,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-26T04:04:10.023Z"
+    },
+    {
+      "id": "mta6chz1bic2ei6d6b7",
+      "name": "Dale Hooper",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T14:13:40.477Z"
     }
   ],
-  "lastUpdated": "2026-08-26T13:13:07.748Z"
+  "lastUpdated": "2026-08-26T14:13:40.477Z"
 }
