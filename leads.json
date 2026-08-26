@@ -10524,7 +10524,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T14:16:57.277Z"
+    },
+    {
+      "id": "mta6h4bggwr8g77nbq7",
+      "name": "Yaman",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T14:17:16.060Z"
     }
   ],
-  "lastUpdated": "2026-08-26T14:16:57.277Z"
+  "lastUpdated": "2026-08-26T14:17:16.060Z"
 }
