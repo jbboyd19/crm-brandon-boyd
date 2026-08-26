@@ -10542,7 +10542,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T14:17:16.060Z"
+    },
+    {
+      "id": "mta6hs2jhu2vxfs3qj",
+      "name": "Olivia Bhutia",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T14:17:46.843Z"
     }
   ],
-  "lastUpdated": "2026-08-26T14:17:16.060Z"
+  "lastUpdated": "2026-08-26T14:17:46.844Z"
 }
