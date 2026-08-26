@@ -10560,7 +10560,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T14:17:46.843Z"
+    },
+    {
+      "id": "mta6i8sfytmr0dur74",
+      "name": "Jones Pick",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T14:18:08.511Z"
     }
   ],
-  "lastUpdated": "2026-08-26T14:17:46.844Z"
+  "lastUpdated": "2026-08-26T14:18:08.511Z"
 }
