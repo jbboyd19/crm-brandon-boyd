@@ -10578,7 +10578,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T14:18:08.511Z"
+    },
+    {
+      "id": "mta6p5zamfyjebc45bc",
+      "name": "Peter Paeker",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T14:23:31.462Z"
     }
   ],
-  "lastUpdated": "2026-08-26T14:18:08.511Z"
+  "lastUpdated": "2026-08-26T14:23:31.462Z"
 }
