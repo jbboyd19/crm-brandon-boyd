@@ -10614,7 +10614,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T14:24:05.762Z"
+    },
+    {
+      "id": "mtaw5smbc7n53si3whn",
+      "name": "Fransisco Rodriguez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-27T02:16:17.699Z"
     }
   ],
-  "lastUpdated": "2026-08-26T14:24:05.762Z"
+  "lastUpdated": "2026-08-27T02:16:17.700Z"
 }
