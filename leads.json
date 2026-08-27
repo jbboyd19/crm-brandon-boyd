@@ -10812,7 +10812,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T14:12:46.540Z"
+    },
+    {
+      "id": "mtc3z551k84g2er5hab",
+      "name": "Dave L",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Instagram",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-27T22:42:50.437Z"
     }
   ],
-  "lastUpdated": "2026-08-27T14:12:46.540Z"
+  "lastUpdated": "2026-08-27T22:42:50.438Z"
 }
