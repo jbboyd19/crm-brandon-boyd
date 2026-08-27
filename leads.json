@@ -10740,7 +10740,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T14:07:49.124Z"
+    },
+    {
+      "id": "mtblmkicsy88b3vgmi",
+      "name": "Lee Davis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-27T14:09:10.740Z"
     }
   ],
-  "lastUpdated": "2026-08-27T14:07:49.124Z"
+  "lastUpdated": "2026-08-27T14:09:10.740Z"
 }
