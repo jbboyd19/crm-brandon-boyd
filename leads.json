@@ -10884,7 +10884,25 @@
       "lastModified": "2026-08-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T15:09:10.966Z"
+    },
+    {
+      "id": "mtd38588v3po7d2v1r",
+      "name": "James Weast",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-28",
+      "dateAdded": "2026-08-28",
+      "addedAt": "2026-08-28T15:09:37.016Z"
     }
   ],
-  "lastUpdated": "2026-08-28T15:09:10.966Z"
+  "lastUpdated": "2026-08-28T15:09:37.016Z"
 }
