@@ -10866,7 +10866,25 @@
       "lastModified": "2026-08-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T15:06:29.953Z"
+    },
+    {
+      "id": "mtd37l4m30y3kcz51p6",
+      "name": "Ryan Douglas",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-28",
+      "dateAdded": "2026-08-28",
+      "addedAt": "2026-08-28T15:09:10.966Z"
     }
   ],
-  "lastUpdated": "2026-08-28T15:06:29.953Z"
+  "lastUpdated": "2026-08-28T15:09:10.966Z"
 }
