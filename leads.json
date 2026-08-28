@@ -10830,7 +10830,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T22:42:50.437Z"
+    },
+    {
+      "id": "mtd31xcor4421v0t33k",
+      "name": "Bishop Elim",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-28",
+      "dateAdded": "2026-08-28",
+      "addedAt": "2026-08-28T15:04:46.872Z"
     }
   ],
-  "lastUpdated": "2026-08-27T22:42:50.438Z"
+  "lastUpdated": "2026-08-28T15:04:46.872Z"
 }
