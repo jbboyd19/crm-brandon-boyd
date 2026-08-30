@@ -5239,16 +5239,17 @@
       "phone": "",
       "social": "",
       "source": "Instagram",
-      "status": "Sent Video",
+      "status": "IBO",
       "videoSent": true,
       "temperature": "Hot",
-      "lastAction": "Initial Contact",
+      "lastAction": "Closed",
       "lastContact": "2026-08-30",
       "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-08-30",
       "dateAdded": "2026-06-30",
-      "addedAt": "2026-06-30T14:34:48.727Z"
+      "addedAt": "2026-06-30T14:34:48.727Z",
+      "customerSince": "2026-08-30"
     },
     {
       "id": "mr0rh62ah1di3u7srkd",
@@ -11012,5 +11013,5 @@
       "addedAt": "2026-08-28T15:13:38.910Z"
     }
   ],
-  "lastUpdated": "2026-08-30T14:19:16.501Z"
+  "lastUpdated": "2026-08-30T14:31:04.892Z"
 }
