@@ -10119,14 +10119,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-24",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-09-07",
       "notes": "",
-      "lastModified": "2026-08-24",
+      "lastModified": "2026-09-04",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T15:28:34.460Z"
     },
@@ -11013,5 +11013,5 @@
       "addedAt": "2026-08-28T15:13:38.910Z"
     }
   ],
-  "lastUpdated": "2026-08-30T14:31:04.892Z"
+  "lastUpdated": "2026-09-04T23:30:25.566Z"
 }
