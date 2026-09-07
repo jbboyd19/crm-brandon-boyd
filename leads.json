@@ -11018,15 +11018,15 @@
       "email": "",
       "phone": "",
       "social": "",
-      "source": "Facebook",
+      "source": "Instagram",
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-05",
-      "nextFollowUp": "2026-09-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-09-05",
+      "lastModified": "2026-09-07",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-05T18:47:34.544Z"
     },
@@ -11049,5 +11049,5 @@
       "addedAt": "2026-09-05T18:47:55.293Z"
     }
   ],
-  "lastUpdated": "2026-09-05T18:47:55.293Z"
+  "lastUpdated": "2026-09-07T16:20:35.692Z"
 }
