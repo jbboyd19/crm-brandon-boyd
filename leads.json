@@ -11083,7 +11083,25 @@
       "lastModified": "2026-09-08",
       "dateAdded": "2026-09-08",
       "addedAt": "2026-09-08T15:59:05.645Z"
+    },
+    {
+      "id": "mtsux9mrdtdneybajet",
+      "name": "Ren Candolosis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-08",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-08",
+      "dateAdded": "2026-09-08",
+      "addedAt": "2026-09-08T16:01:31.395Z"
     }
   ],
-  "lastUpdated": "2026-09-08T15:59:05.645Z"
+  "lastUpdated": "2026-09-08T16:01:31.395Z"
 }
