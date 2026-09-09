@@ -11245,7 +11245,25 @@
       "lastModified": "2026-09-09",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T14:18:04.716Z"
+    },
+    {
+      "id": "mtu7rrruubvhdi6cg7d",
+      "name": "Carlos Aponte",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-09",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T14:48:56.154Z"
     }
   ],
-  "lastUpdated": "2026-09-09T14:18:04.716Z"
+  "lastUpdated": "2026-09-09T14:48:56.154Z"
 }
