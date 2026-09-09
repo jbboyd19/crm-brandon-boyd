@@ -11263,7 +11263,25 @@
       "lastModified": "2026-09-09",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T14:48:56.154Z"
+    },
+    {
+      "id": "mtu7wgovnm5hyga0f4",
+      "name": "Shawn Wheeland",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-09",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T14:52:35.071Z"
     }
   ],
-  "lastUpdated": "2026-09-09T14:48:56.154Z"
+  "lastUpdated": "2026-09-09T14:52:35.071Z"
 }
