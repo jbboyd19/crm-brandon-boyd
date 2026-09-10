@@ -11389,7 +11389,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T15:38:05.199Z"
+    },
+    {
+      "id": "mtvp12b192md70zva4w",
+      "name": "Gary Clarke",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T15:39:49.357Z"
     }
   ],
-  "lastUpdated": "2026-09-10T15:38:05.199Z"
+  "lastUpdated": "2026-09-10T15:39:49.357Z"
 }
