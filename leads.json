@@ -11353,7 +11353,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T15:33:58.335Z"
+    },
+    {
+      "id": "mtvou1ylxqrw6fakwv",
+      "name": "Andrei",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T15:34:22.317Z"
     }
   ],
-  "lastUpdated": "2026-09-10T15:33:58.335Z"
+  "lastUpdated": "2026-09-10T15:34:22.317Z"
 }
