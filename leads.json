@@ -11623,7 +11623,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T14:07:12.987Z"
+    },
+    {
+      "id": "mtx17lc0g3iop457xqn",
+      "name": "Jon Haven",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-11",
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T14:08:35.520Z"
     }
   ],
-  "lastUpdated": "2026-09-11T14:07:12.987Z"
+  "lastUpdated": "2026-09-11T14:08:35.520Z"
 }
