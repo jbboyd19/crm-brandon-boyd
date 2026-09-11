@@ -11659,7 +11659,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T14:10:01.054Z"
+    },
+    {
+      "id": "mtx1aazrqaa07gpsokg",
+      "name": "Franco Julius",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-11",
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T14:10:42.087Z"
     }
   ],
-  "lastUpdated": "2026-09-11T14:10:01.054Z"
+  "lastUpdated": "2026-09-11T14:10:42.087Z"
 }
