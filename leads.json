@@ -11528,12 +11528,12 @@
       "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-10",
-      "nextFollowUp": "2026-09-11",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-09-10",
+      "lastModified": "2026-09-11",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-11T01:48:05.923Z"
     }
   ],
-  "lastUpdated": "2026-09-11T01:48:05.923Z"
+  "lastUpdated": "2026-09-11T14:00:59.223Z"
 }
