@@ -11569,7 +11569,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T14:02:58.636Z"
+    },
+    {
+      "id": "mtx10z7b6cw2trv5ntu",
+      "name": "Jeremiah Hart",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-11",
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T14:03:26.903Z"
     }
   ],
-  "lastUpdated": "2026-09-11T14:02:58.636Z"
+  "lastUpdated": "2026-09-11T14:03:26.903Z"
 }
