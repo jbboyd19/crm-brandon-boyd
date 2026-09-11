@@ -11695,7 +11695,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T14:11:09.487Z"
+    },
+    {
+      "id": "mtx1bxq4nrawu85sdpl",
+      "name": "Eduardo Fernandez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-11",
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T14:11:58.204Z"
     }
   ],
-  "lastUpdated": "2026-09-11T14:11:09.487Z"
+  "lastUpdated": "2026-09-11T14:11:58.204Z"
 }
