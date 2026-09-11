@@ -11605,7 +11605,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T14:06:33.870Z"
+    },
+    {
+      "id": "mtx15tnfoax6rjo74u",
+      "name": "Sean Tingen",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-11",
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T14:07:12.987Z"
     }
   ],
-  "lastUpdated": "2026-09-11T14:06:33.870Z"
+  "lastUpdated": "2026-09-11T14:07:12.987Z"
 }
