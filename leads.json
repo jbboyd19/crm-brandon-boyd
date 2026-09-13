@@ -11713,7 +11713,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T14:11:58.204Z"
+    },
+    {
+      "id": "mtz1xcauv11bj0uidha",
+      "name": "Tyler",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-12",
+      "nextFollowUp": "2026-09-14",
+      "notes": "",
+      "lastModified": "2026-09-12",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-13T00:04:09.222Z"
     }
   ],
-  "lastUpdated": "2026-09-11T14:11:58.204Z"
+  "lastUpdated": "2026-09-13T00:04:09.222Z"
 }
