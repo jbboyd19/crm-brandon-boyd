@@ -11875,7 +11875,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T14:57:28.183Z"
+    },
+    {
+      "id": "mu1dah7u9k1hfxjab7",
+      "name": "Jared Grant",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T14:57:50.250Z"
     }
   ],
-  "lastUpdated": "2026-09-14T14:57:28.183Z"
+  "lastUpdated": "2026-09-14T14:57:50.250Z"
 }
