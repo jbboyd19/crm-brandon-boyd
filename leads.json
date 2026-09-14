@@ -11839,7 +11839,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T14:56:17.701Z"
+    },
+    {
+      "id": "mu1d9gwgkvwyds4u05j",
+      "name": "Gary Brake",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T14:57:03.184Z"
     }
   ],
-  "lastUpdated": "2026-09-14T14:56:17.701Z"
+  "lastUpdated": "2026-09-14T14:57:03.184Z"
 }
