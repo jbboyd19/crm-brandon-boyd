@@ -11767,7 +11767,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T14:53:47.436Z"
+    },
+    {
+      "id": "mu1d7dd1g0f1hwnmhpc",
+      "name": "Alex Wah",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T14:55:25.285Z"
     }
   ],
-  "lastUpdated": "2026-09-14T14:53:47.436Z"
+  "lastUpdated": "2026-09-14T14:55:25.285Z"
 }
