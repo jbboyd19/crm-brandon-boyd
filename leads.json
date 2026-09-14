@@ -11749,7 +11749,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T14:53:27.336Z"
+    },
+    {
+      "id": "mu1d59v0gc5jjn92yba",
+      "name": "Juan Atencio",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T14:53:47.436Z"
     }
   ],
-  "lastUpdated": "2026-09-14T14:53:27.336Z"
+  "lastUpdated": "2026-09-14T14:53:47.436Z"
 }
