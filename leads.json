@@ -11731,7 +11731,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-12",
       "addedAt": "2026-09-13T00:04:09.222Z"
+    },
+    {
+      "id": "mu1d4uco8d5hxm2rooj",
+      "name": "Jim Hill",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T14:53:27.336Z"
     }
   ],
-  "lastUpdated": "2026-09-14T14:48:09.410Z"
+  "lastUpdated": "2026-09-14T14:53:27.336Z"
 }
