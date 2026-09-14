@@ -11726,12 +11726,12 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-12",
-      "nextFollowUp": "2026-09-14",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-09-12",
+      "lastModified": "2026-09-14",
       "dateAdded": "2026-09-12",
       "addedAt": "2026-09-13T00:04:09.222Z"
     }
   ],
-  "lastUpdated": "2026-09-13T00:04:09.222Z"
+  "lastUpdated": "2026-09-14T14:48:09.410Z"
 }
