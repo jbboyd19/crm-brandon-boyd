@@ -11948,7 +11948,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T14:23:50.185Z"
+    },
+    {
+      "id": "mu2rj04x0qydb2qj56vo",
+      "name": "Alan Ewa",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T14:24:08.817Z"
     }
   ],
-  "lastUpdated": "2026-09-15T14:23:50.185Z"
+  "lastUpdated": "2026-09-15T14:24:08.817Z"
 }
