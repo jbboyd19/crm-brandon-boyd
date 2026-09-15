@@ -12056,7 +12056,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T14:25:39.668Z"
+    },
+    {
+      "id": "mu2rldv179rny21k466",
+      "name": "Alex Brock",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T14:25:59.917Z"
     }
   ],
-  "lastUpdated": "2026-09-15T14:25:39.668Z"
+  "lastUpdated": "2026-09-15T14:25:59.917Z"
 }
