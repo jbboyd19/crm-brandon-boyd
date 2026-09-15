@@ -12092,7 +12092,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T14:26:17.617Z"
+    },
+    {
+      "id": "mu2roarf41uxzq0t88o",
+      "name": "Guohoa",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T14:28:15.867Z"
     }
   ],
-  "lastUpdated": "2026-09-15T14:26:17.617Z"
+  "lastUpdated": "2026-09-15T14:28:15.867Z"
 }
