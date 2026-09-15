@@ -9309,16 +9309,17 @@
       "phone": "",
       "social": "",
       "source": "Instagram",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
-      "lastAction": "Initial Contact",
+      "lastAction": "Closed",
       "lastContact": "2026-08-17",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-18",
+      "lastModified": "2026-09-15",
       "dateAdded": "2026-08-17",
-      "addedAt": "2026-08-17T14:42:54.485Z"
+      "addedAt": "2026-08-17T14:42:54.485Z",
+      "customerSince": "2026-09-15"
     },
     {
       "id": "msxch3abdfjmh1fflg",
@@ -11913,5 +11914,5 @@
       "addedAt": "2026-09-14T14:58:29.600Z"
     }
   ],
-  "lastUpdated": "2026-09-14T14:58:29.600Z"
+  "lastUpdated": "2026-09-15T13:19:58.696Z"
 }
