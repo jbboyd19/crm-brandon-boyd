@@ -12038,7 +12038,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T14:25:23.950Z"
+    },
+    {
+      "id": "mu2rky8k9ryr0qdpccc",
+      "name": "David Quinn",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T14:25:39.668Z"
     }
   ],
-  "lastUpdated": "2026-09-15T14:25:23.950Z"
+  "lastUpdated": "2026-09-15T14:25:39.668Z"
 }
