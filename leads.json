@@ -12272,7 +12272,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T14:15:33.956Z"
+    },
+    {
+      "id": "mu46o3wtnc69zchpeu",
+      "name": "Anthony Rodriguez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T14:15:47.405Z"
     }
   ],
-  "lastUpdated": "2026-09-16T14:15:33.956Z"
+  "lastUpdated": "2026-09-16T14:15:47.406Z"
 }
