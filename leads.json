@@ -12128,7 +12128,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T14:10:20.818Z"
+    },
+    {
+      "id": "mu46hj8vnfsjq4ulow8",
+      "name": "Matthew Mauer",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T14:10:40.687Z"
     }
   ],
-  "lastUpdated": "2026-09-16T14:10:20.818Z"
+  "lastUpdated": "2026-09-16T14:10:40.687Z"
 }
