@@ -12146,7 +12146,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T14:10:40.687Z"
+    },
+    {
+      "id": "mu46jsxp0inrfv308jum",
+      "name": "Ethan Gallagher",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T14:12:26.557Z"
     }
   ],
-  "lastUpdated": "2026-09-16T14:10:40.687Z"
+  "lastUpdated": "2026-09-16T14:12:26.557Z"
 }
