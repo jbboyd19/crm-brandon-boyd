@@ -12110,7 +12110,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T14:28:15.867Z"
+    },
+    {
+      "id": "mu46h3wytb1twrq2znc",
+      "name": "David Shimoney",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T14:10:20.818Z"
     }
   ],
-  "lastUpdated": "2026-09-16T13:54:00.928Z"
+  "lastUpdated": "2026-09-16T14:10:20.818Z"
 }
