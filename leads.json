@@ -11110,14 +11110,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-08",
-      "nextFollowUp": null,
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-17",
       "notes": "",
-      "lastModified": "2026-09-08",
+      "lastModified": "2026-09-16",
       "dateAdded": "2026-09-08",
       "addedAt": "2026-09-08T16:02:18.128Z"
     },
@@ -12112,5 +12112,5 @@
       "addedAt": "2026-09-15T14:28:15.867Z"
     }
   ],
-  "lastUpdated": "2026-09-15T14:28:15.867Z"
+  "lastUpdated": "2026-09-16T13:54:00.928Z"
 }
