@@ -12254,7 +12254,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T14:15:07.056Z"
+    },
+    {
+      "id": "mu46ntj8ttrgwbdjrtm",
+      "name": "Matthew Alexander",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T14:15:33.956Z"
     }
   ],
-  "lastUpdated": "2026-09-16T14:15:07.056Z"
+  "lastUpdated": "2026-09-16T14:15:33.956Z"
 }
