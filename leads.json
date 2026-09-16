@@ -12236,7 +12236,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T14:15:01.073Z"
+    },
+    {
+      "id": "mu46n8s00tlp8nau0u1m",
+      "name": "Brad Carrol",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T14:15:07.056Z"
     }
   ],
-  "lastUpdated": "2026-09-16T14:15:01.073Z"
+  "lastUpdated": "2026-09-16T14:15:07.056Z"
 }
