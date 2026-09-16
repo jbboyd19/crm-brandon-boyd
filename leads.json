@@ -12200,7 +12200,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T14:14:30.189Z"
+    },
+    {
+      "id": "mu46mldffmtmr3qq869",
+      "name": "Stephen Bower",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T14:14:36.723Z"
     }
   ],
-  "lastUpdated": "2026-09-16T14:14:30.189Z"
+  "lastUpdated": "2026-09-16T14:14:36.723Z"
 }
