@@ -12370,7 +12370,27 @@
       "addedAt": "2026-09-21T14:53:43.343Z",
       "prospectSourceId": "prospect-muab66jn-jipatm",
       "prospectUploadedAt": "2026-09-20T21:08:26.147Z"
+    },
+    {
+      "id": "mubd8mh181xh3y3lo3b",
+      "name": "Aaron Jackson Aaron Jackson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aaronjackson4112",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-21",
+      "nextFollowUp": "2026-09-22",
+      "notes": "",
+      "lastModified": "2026-09-21",
+      "dateAdded": "2026-09-21",
+      "addedAt": "2026-09-21T14:54:05.509Z",
+      "prospectSourceId": "prospect-muab66jn-yzip86",
+      "prospectUploadedAt": "2026-09-20T21:08:26.147Z"
     }
   ],
-  "lastUpdated": "2026-09-21T14:53:43.343Z"
+  "lastUpdated": "2026-09-21T14:54:05.510Z"
 }
