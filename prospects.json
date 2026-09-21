@@ -91,10 +91,12 @@
       "name": "Aaron Patton Aaron Patton",
       "social": "https://facebook.com/aaron.patton.967",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.147Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mubd9mx80rbb13xpsk9",
+      "convertedAt": "2026-09-21T14:54:52.748Z"
     },
     {
       "id": "prospect-muab66jn-hqyfw1",
@@ -49933,5 +49935,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-21T14:54:33.043Z"
+  "lastUpdated": "2026-09-21T14:54:53.607Z"
 }
