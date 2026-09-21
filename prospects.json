@@ -35,10 +35,12 @@
       "name": "Aaron Emmanuel Aaron Emmanuel",
       "social": "https://facebook.com/aaron.emmanuel.313",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.147Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mubd2q0xm4tt6go6cfd",
+      "convertedAt": "2026-09-21T14:49:30.177Z"
     },
     {
       "id": "prospect-muab66jn-d2y7oh",
@@ -49949,5 +49951,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-21T14:48:27.242Z"
+  "lastUpdated": "2026-09-21T14:49:31.776Z"
 }
