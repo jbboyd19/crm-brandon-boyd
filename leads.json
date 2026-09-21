@@ -12378,9 +12378,9 @@
       "phone": "",
       "social": "https://facebook.com/aaronjackson4112",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-21",
       "nextFollowUp": "2026-09-22",
@@ -12492,5 +12492,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-21T14:56:42.030Z"
+  "lastUpdated": "2026-09-21T18:39:50.751Z"
 }
