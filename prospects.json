@@ -43,18 +43,6 @@
       "convertedAt": "2026-09-21T14:49:30.177Z"
     },
     {
-      "id": "prospect-muab66jn-d2y7oh",
-      "firstName": "Aaron Finkel",
-      "lastName": "Aaron Finkel",
-      "name": "Aaron Finkel Aaron Finkel",
-      "social": "https://facebook.com/workwithaaronfinkel",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.147Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jn-d0spgf",
       "firstName": "Aaron Fortunes",
       "lastName": "Aaron Fortunes",
@@ -49951,5 +49939,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-21T14:49:31.776Z"
+  "lastUpdated": "2026-09-21T14:52:05.306Z"
 }
