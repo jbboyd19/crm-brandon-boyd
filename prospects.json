@@ -133,10 +133,12 @@
       "name": "Aasif Shihamudeen Aasif Shihamudeen",
       "social": "https://facebook.com/aasifshia",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mubdbz8t35720wwqxhf",
+      "convertedAt": "2026-09-21T14:56:42.029Z"
     },
     {
       "id": "prospect-muab66jo-6gcfky",
@@ -49927,5 +49929,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-21T14:56:15.648Z"
+  "lastUpdated": "2026-09-21T14:56:42.976Z"
 }
