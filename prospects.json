@@ -119,10 +119,12 @@
       "name": "Aaron Turnbull Aaron Turnbull",
       "social": "https://facebook.com/btcaaron",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mubdbdn4j1280p0qijt",
+      "convertedAt": "2026-09-21T14:56:14.032Z"
     },
     {
       "id": "prospect-muab66jo-qsym2o",
@@ -49925,5 +49927,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-21T14:55:24.207Z"
+  "lastUpdated": "2026-09-21T14:56:15.648Z"
 }
