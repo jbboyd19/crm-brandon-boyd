@@ -12430,7 +12430,27 @@
       "addedAt": "2026-09-21T14:54:52.748Z",
       "prospectSourceId": "prospect-muab66jn-e6v9mt",
       "prospectUploadedAt": "2026-09-20T21:08:26.147Z"
+    },
+    {
+      "id": "mubdaa4d78pv50ywuf9",
+      "name": "Aaron Silkties Scott Aaron Silkties Scott",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/profile.php?id=100013004053972",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-21",
+      "nextFollowUp": "2026-09-22",
+      "notes": "",
+      "lastModified": "2026-09-21",
+      "dateAdded": "2026-09-21",
+      "addedAt": "2026-09-21T14:55:22.813Z",
+      "prospectSourceId": "prospect-muab66jo-p49i57",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-21T14:54:52.749Z"
+  "lastUpdated": "2026-09-21T14:55:22.813Z"
 }
