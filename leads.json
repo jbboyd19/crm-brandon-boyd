@@ -12310,7 +12310,27 @@
       "addedAt": "2026-09-21T14:43:50.978Z",
       "prospectSourceId": "prospect-muab66jn-ktizkv",
       "prospectUploadedAt": "2026-09-20T21:08:26.147Z"
+    },
+    {
+      "id": "mubcx6nnah3qy8vy77k",
+      "name": "Aaron Andrews Aaron Andrews",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/AaronAndShara",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-21",
+      "nextFollowUp": "2026-09-22",
+      "notes": "",
+      "lastModified": "2026-09-21",
+      "dateAdded": "2026-09-21",
+      "addedAt": "2026-09-21T14:45:11.795Z",
+      "prospectSourceId": "prospect-muab66jn-ewnayp",
+      "prospectUploadedAt": "2026-09-20T21:08:26.147Z"
     }
   ],
-  "lastUpdated": "2026-09-21T14:43:50.979Z"
+  "lastUpdated": "2026-09-21T14:45:11.795Z"
 }
