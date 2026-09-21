@@ -12383,7 +12383,7 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-21",
-      "nextFollowUp": "2026-09-22",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-09-21",
       "dateAdded": "2026-09-21",
@@ -12492,5 +12492,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-21T18:39:50.751Z"
+  "lastUpdated": "2026-09-21T18:58:33.669Z"
 }
