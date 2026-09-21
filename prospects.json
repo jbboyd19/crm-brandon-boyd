@@ -63,10 +63,12 @@
       "name": "Aaron Jackson Aaron Jackson",
       "social": "https://facebook.com/aaronjackson4112",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.147Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mubd8mh181xh3y3lo3b",
+      "convertedAt": "2026-09-21T14:54:05.509Z"
     },
     {
       "id": "prospect-muab66jn-4fovv9",
@@ -49929,5 +49931,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-21T14:53:44.910Z"
+  "lastUpdated": "2026-09-21T14:54:06.620Z"
 }
