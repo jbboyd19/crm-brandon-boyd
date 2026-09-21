@@ -12330,7 +12330,27 @@
       "addedAt": "2026-09-21T14:45:11.795Z",
       "prospectSourceId": "prospect-muab66jn-ewnayp",
       "prospectUploadedAt": "2026-09-20T21:08:26.147Z"
+    },
+    {
+      "id": "mubd2q0xm4tt6go6cfd",
+      "name": "Aaron Emmanuel Aaron Emmanuel",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aaron.emmanuel.313",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-21",
+      "nextFollowUp": "2026-09-22",
+      "notes": "",
+      "lastModified": "2026-09-21",
+      "dateAdded": "2026-09-21",
+      "addedAt": "2026-09-21T14:49:30.177Z",
+      "prospectSourceId": "prospect-muab66jn-9gyku7",
+      "prospectUploadedAt": "2026-09-20T21:08:26.147Z"
     }
   ],
-  "lastUpdated": "2026-09-21T14:45:11.795Z"
+  "lastUpdated": "2026-09-21T14:49:30.178Z"
 }
