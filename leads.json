@@ -12598,7 +12598,25 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T14:23:40.775Z"
+    },
+    {
+      "id": "mucrmpo98690rue8dc5",
+      "name": "Adam Valencia",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T14:24:43.641Z"
     }
   ],
-  "lastUpdated": "2026-09-22T14:23:40.775Z"
+  "lastUpdated": "2026-09-22T14:24:43.641Z"
 }
