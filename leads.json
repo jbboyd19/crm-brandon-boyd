@@ -12580,7 +12580,25 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T14:22:44.491Z"
+    },
+    {
+      "id": "mucrld5z6tpyhqrf62s",
+      "name": "Adam Andersen",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T14:23:40.775Z"
     }
   ],
-  "lastUpdated": "2026-09-22T14:22:44.491Z"
+  "lastUpdated": "2026-09-22T14:23:40.775Z"
 }
