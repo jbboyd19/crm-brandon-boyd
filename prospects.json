@@ -141,18 +141,6 @@
       "convertedAt": "2026-09-21T14:56:42.029Z"
     },
     {
-      "id": "prospect-muab66jo-jxpjtz",
-      "firstName": "Adam Reed",
-      "lastName": "Adam Reed",
-      "name": "Adam Reed Adam Reed",
-      "social": "https://facebook.com/corey.a.reed.1",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jo-fw1lbt",
       "firstName": "Adam Roseland",
       "lastName": "Adam Roseland",
@@ -49773,5 +49761,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-22T14:28:13.091Z"
+  "lastUpdated": "2026-09-22T14:28:29.574Z"
 }
