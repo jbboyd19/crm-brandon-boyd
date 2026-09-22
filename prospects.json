@@ -141,18 +141,6 @@
       "convertedAt": "2026-09-21T14:56:42.029Z"
     },
     {
-      "id": "prospect-muab66jo-7myp3w",
-      "firstName": "Adam Grabowski",
-      "lastName": "Adam Grabowski",
-      "name": "Adam Grabowski Adam Grabowski",
-      "social": "https://facebook.com/adam.grabowski.bis",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jo-p0i7b9",
       "firstName": "Adam Haase",
       "lastName": "Adam Haase",
@@ -49797,5 +49785,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-22T14:26:31.041Z"
+  "lastUpdated": "2026-09-22T14:28:04.757Z"
 }
