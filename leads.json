@@ -12508,7 +12508,25 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T14:13:06.540Z"
+    },
+    {
+      "id": "mucrd0sgvdtnkigix6",
+      "name": "Abdi Darod",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T14:17:11.488Z"
     }
   ],
-  "lastUpdated": "2026-09-22T14:13:06.540Z"
+  "lastUpdated": "2026-09-22T14:17:11.488Z"
 }
