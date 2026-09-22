@@ -141,18 +141,6 @@
       "convertedAt": "2026-09-21T14:56:42.029Z"
     },
     {
-      "id": "prospect-muab66jo-cjid2q",
-      "firstName": "Adam Daniel Lopez",
-      "lastName": "Adam Daniel Lopez",
-      "name": "Adam Daniel Lopez Adam Daniel Lopez",
-      "social": "https://facebook.com/adam.lo3",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jo-zc1baj",
       "firstName": "Adam Di Mora",
       "lastName": "Adam Di Mora",
@@ -49821,5 +49809,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-22T14:24:36.142Z"
+  "lastUpdated": "2026-09-22T14:25:08.875Z"
 }
