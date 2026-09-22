@@ -12544,7 +12544,25 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T14:18:03.738Z"
+    },
+    {
+      "id": "mucrj0e50n54o2u3tzkk",
+      "name": "Abdullah Yahayi",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T14:21:50.909Z"
     }
   ],
-  "lastUpdated": "2026-09-22T14:18:03.738Z"
+  "lastUpdated": "2026-09-22T14:21:50.909Z"
 }
