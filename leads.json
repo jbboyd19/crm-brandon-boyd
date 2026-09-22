@@ -12526,7 +12526,25 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T14:17:11.488Z"
+    },
+    {
+      "id": "mucre53uriezwfiwtqh",
+      "name": "Abdullah Rakib",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T14:18:03.738Z"
     }
   ],
-  "lastUpdated": "2026-09-22T14:17:11.488Z"
+  "lastUpdated": "2026-09-22T14:18:03.738Z"
 }
