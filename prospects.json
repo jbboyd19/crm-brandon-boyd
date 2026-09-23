@@ -141,18 +141,6 @@
       "convertedAt": "2026-09-21T14:56:42.029Z"
     },
     {
-      "id": "prospect-muab66jo-ec66ek",
-      "firstName": "Adan Montoya",
-      "lastName": "Adan Montoya",
-      "name": "Adan Montoya Adan Montoya",
-      "social": "https://facebook.com/adan.montoya.5682",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jo-9nslnf",
       "firstName": "Adedipo Oluwarotimi Bademosi",
       "lastName": "Adedipo Oluwarotimi Bademosi",
@@ -49737,5 +49725,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-23T15:11:13.147Z"
+  "lastUpdated": "2026-09-23T15:11:50.280Z"
 }
