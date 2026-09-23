@@ -141,18 +141,6 @@
       "convertedAt": "2026-09-21T14:56:42.029Z"
     },
     {
-      "id": "prospect-muab66jo-3ri6w4",
-      "firstName": "Adam Russell",
-      "lastName": "Adam Russell",
-      "name": "Adam Russell Adam Russell",
-      "social": "https://facebook.com/adam.russell.754918",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jo-ec66ek",
       "firstName": "Adan Montoya",
       "lastName": "Adan Montoya",
@@ -49749,5 +49737,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-23T15:10:46.480Z"
+  "lastUpdated": "2026-09-23T15:11:13.147Z"
 }
