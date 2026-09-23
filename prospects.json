@@ -141,18 +141,6 @@
       "convertedAt": "2026-09-21T14:56:42.029Z"
     },
     {
-      "id": "prospect-muab66jo-sb0my2",
-      "firstName": "Adrean Miller",
-      "lastName": "Adrean Miller",
-      "name": "Adrean Miller Adrean Miller",
-      "social": "https://facebook.com/drndablaze.miller",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jo-nd682p",
       "firstName": "Adrian Mckenzie",
       "lastName": "Adrian Mckenzie",
@@ -49665,5 +49653,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-23T20:29:41.469Z"
+  "lastUpdated": "2026-09-23T20:30:26.586Z"
 }
