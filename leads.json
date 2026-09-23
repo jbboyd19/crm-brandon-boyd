@@ -12724,7 +12724,25 @@
       "lastModified": "2026-09-23",
       "dateAdded": "2026-09-23",
       "addedAt": "2026-09-23T20:26:40.987Z"
+    },
+    {
+      "id": "muek1gv2nd6sjsw0tbr",
+      "name": "Adekunle Olugbenga",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-23",
+      "dateAdded": "2026-09-23",
+      "addedAt": "2026-09-23T20:27:47.486Z"
     }
   ],
-  "lastUpdated": "2026-09-23T20:26:40.987Z"
+  "lastUpdated": "2026-09-23T20:27:47.486Z"
 }
