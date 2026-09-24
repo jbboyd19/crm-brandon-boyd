@@ -189,10 +189,12 @@
       "name": "Ahmed Mahdy Ahmed Mahdy",
       "social": "https://facebook.com/ahmed.mahdy.980967",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mufs1r4pe0pkrdeb0hc",
+      "convertedAt": "2026-09-24T16:59:43.897Z"
     },
     {
       "id": "prospect-muab66jo-rn2qt2",
@@ -49575,5 +49577,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-24T16:58:58.039Z"
+  "lastUpdated": "2026-09-24T16:59:45.545Z"
 }
