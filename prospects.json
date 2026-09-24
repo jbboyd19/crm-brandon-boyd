@@ -169,18 +169,6 @@
       "convertedAt": "2026-09-24T15:45:40.799Z"
     },
     {
-      "id": "prospect-muab66jo-b4ya9r",
-      "firstName": "Ahmed Eid Saad",
-      "lastName": "Ahmed Eid Saad",
-      "name": "Ahmed Eid Saad Ahmed Eid Saad",
-      "social": "https://facebook.com/ahmed.eid.saad.203597",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jo-9hff2n",
       "firstName": "Ahmed ElKady",
       "lastName": "Ahmed ElKady",
@@ -49585,5 +49573,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-24T15:45:41.942Z"
+  "lastUpdated": "2026-09-24T16:58:08.276Z"
 }
