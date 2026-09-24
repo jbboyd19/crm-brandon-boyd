@@ -231,10 +231,12 @@
       "name": "Aidan Dadswell Aidan Dadswell",
       "social": "https://facebook.com/aidan.dadswell.3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mufs5vvud5ofnz2j9e6",
+      "convertedAt": "2026-09-24T17:02:56.682Z"
     },
     {
       "id": "prospect-muab66jo-wf6g60",
@@ -49581,5 +49583,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-24T17:02:31.456Z"
+  "lastUpdated": "2026-09-24T17:02:57.650Z"
 }
