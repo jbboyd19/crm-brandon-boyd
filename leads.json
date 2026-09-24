@@ -13010,7 +13010,27 @@
       "addedAt": "2026-09-24T17:03:21.280Z",
       "prospectSourceId": "prospect-muab66jo-wf6g60",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "mufs7jlbnlftqkjt55q",
+      "name": "AJ Sandberg AJ Sandberg",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aj.sandberg.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-24T17:04:14.063Z",
+      "prospectSourceId": "prospect-muab66jo-c324jq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-24T17:03:21.281Z"
+  "lastUpdated": "2026-09-24T17:04:14.064Z"
 }
