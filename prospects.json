@@ -175,10 +175,12 @@
       "name": "Ahmed ElKady Ahmed ElKady",
       "social": "https://facebook.com/ahmed.elkady077",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mufs0ql0pfj4brx79t9",
+      "convertedAt": "2026-09-24T16:58:56.533Z"
     },
     {
       "id": "prospect-muab66jo-0neuqe",
@@ -49573,5 +49575,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-24T16:58:08.276Z"
+  "lastUpdated": "2026-09-24T16:58:58.039Z"
 }
