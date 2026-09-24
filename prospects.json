@@ -253,18 +253,6 @@
       "convertedAt": "2026-09-24T17:03:21.280Z"
     },
     {
-      "id": "prospect-muab66jo-ku9sld",
-      "firstName": "Aj Frazier",
-      "lastName": "Aj Frazier",
-      "name": "Aj Frazier Aj Frazier",
-      "social": "https://facebook.com/aj.frazier.3597",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jo-c324jq",
       "firstName": "AJ Sandberg",
       "lastName": "AJ Sandberg",
@@ -49585,5 +49573,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-24T17:03:22.224Z"
+  "lastUpdated": "2026-09-24T17:03:57.110Z"
 }
