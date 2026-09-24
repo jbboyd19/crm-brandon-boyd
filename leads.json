@@ -12910,7 +12910,27 @@
       "addedAt": "2026-09-24T16:58:56.533Z",
       "prospectSourceId": "prospect-muab66jo-9hff2n",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "mufs1r4pe0pkrdeb0hc",
+      "name": "Ahmed Mahdy Ahmed Mahdy",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ahmed.mahdy.980967",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-24T16:59:43.897Z",
+      "prospectSourceId": "prospect-muab66jo-0neuqe",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-24T16:58:56.533Z"
+  "lastUpdated": "2026-09-24T16:59:43.898Z"
 }
