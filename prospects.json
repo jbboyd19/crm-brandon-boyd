@@ -147,10 +147,12 @@
       "name": "Agnes Ziolkowski Agnes Ziolkowski",
       "social": "https://facebook.com/agnes.ziolkowski.94",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mufpcbneca51wqv1e0q",
+      "convertedAt": "2026-09-24T15:43:58.202Z"
     },
     {
       "id": "prospect-muab66jo-6ki6gs",
@@ -49593,5 +49595,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-24T15:43:27.698Z"
+  "lastUpdated": "2026-09-24T15:43:59.595Z"
 }
