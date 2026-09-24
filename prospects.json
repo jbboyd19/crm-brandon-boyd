@@ -273,10 +273,12 @@
       "name": "Aks Siddiqi Aks Siddiqi",
       "social": "https://facebook.com/akssiddiqii",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mufs8hb79ierc9guv1",
+      "convertedAt": "2026-09-24T17:04:57.763Z"
     },
     {
       "id": "prospect-muab66jo-o7ammj",
@@ -49563,5 +49565,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-24T17:04:37.891Z"
+  "lastUpdated": "2026-09-24T17:04:59.097Z"
 }
