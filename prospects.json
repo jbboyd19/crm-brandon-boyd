@@ -203,10 +203,12 @@
       "name": "AhzariYah YasharAhla AhzariYah YasharAhla",
       "social": "https://facebook.com/AhzariYah",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mufs43000rxes5wik3f",
+      "convertedAt": "2026-09-24T17:01:32.592Z"
     },
     {
       "id": "prospect-muab66jo-bqomjc",
@@ -49577,5 +49579,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-24T16:59:45.545Z"
+  "lastUpdated": "2026-09-24T17:01:34.253Z"
 }
