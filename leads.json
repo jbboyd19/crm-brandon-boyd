@@ -12890,7 +12890,27 @@
       "addedAt": "2026-09-24T15:45:40.798Z",
       "prospectSourceId": "prospect-muab66jo-6o5pf9",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "mufs0ql0pfj4brx79t9",
+      "name": "Ahmed ElKady Ahmed ElKady",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ahmed.elkady077",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-24T16:58:56.533Z",
+      "prospectSourceId": "prospect-muab66jo-9hff2n",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-24T15:45:40.799Z"
+  "lastUpdated": "2026-09-24T16:58:56.533Z"
 }
