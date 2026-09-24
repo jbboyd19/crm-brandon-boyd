@@ -267,18 +267,6 @@
       "convertedAt": "2026-09-24T17:04:14.063Z"
     },
     {
-      "id": "prospect-muab66jo-9baj72",
-      "firstName": "AJ Segall",
-      "lastName": "AJ Segall",
-      "name": "AJ Segall AJ Segall",
-      "social": "https://facebook.com/aj.segall",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jo-dpwas0",
       "firstName": "Aks Siddiqi",
       "lastName": "Aks Siddiqi",
@@ -49575,5 +49563,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-24T17:04:15.065Z"
+  "lastUpdated": "2026-09-24T17:04:37.891Z"
 }
