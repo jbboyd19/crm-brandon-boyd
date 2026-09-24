@@ -12870,7 +12870,27 @@
       "addedAt": "2026-09-24T15:43:58.202Z",
       "prospectSourceId": "prospect-muab66jo-4of07f",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "mufpeitap3ggfmoyi8a",
+      "name": "Ahmed Cano Geel Ahmed Cano Geel",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ahmed.yarisoow",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-24T15:45:40.798Z",
+      "prospectSourceId": "prospect-muab66jo-6o5pf9",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-24T15:43:58.203Z"
+  "lastUpdated": "2026-09-24T15:45:40.799Z"
 }
