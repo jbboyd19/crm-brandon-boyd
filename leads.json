@@ -12990,7 +12990,27 @@
       "addedAt": "2026-09-24T17:02:56.682Z",
       "prospectSourceId": "prospect-muab66jo-nrlgs9",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "mufs6ev4ehb6o8kryyo",
+      "name": "Aisha Smith Aisha Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aisha.smith.freedom",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-24T17:03:21.280Z",
+      "prospectSourceId": "prospect-muab66jo-wf6g60",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-24T17:02:56.682Z"
+  "lastUpdated": "2026-09-24T17:03:21.281Z"
 }
