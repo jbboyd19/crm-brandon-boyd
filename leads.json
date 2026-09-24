@@ -12930,7 +12930,27 @@
       "addedAt": "2026-09-24T16:59:43.897Z",
       "prospectSourceId": "prospect-muab66jo-0neuqe",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "mufs43000rxes5wik3f",
+      "name": "AhzariYah YasharAhla AhzariYah YasharAhla",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/AhzariYah",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-24T17:01:32.592Z",
+      "prospectSourceId": "prospect-muab66jo-rn2qt2",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-24T16:59:43.898Z"
+  "lastUpdated": "2026-09-24T17:01:32.592Z"
 }
