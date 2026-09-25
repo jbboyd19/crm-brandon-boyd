@@ -371,10 +371,12 @@
       "name": "Alan Best Alan Best",
       "social": "https://facebook.com/bestman1960",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muh3e2imgoenbumbe1a",
+      "convertedAt": "2026-09-25T15:05:00.478Z"
     },
     {
       "id": "prospect-muab66jo-6kfndh",
@@ -49565,5 +49567,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-25T15:04:38.978Z"
+  "lastUpdated": "2026-09-25T15:05:01.654Z"
 }
