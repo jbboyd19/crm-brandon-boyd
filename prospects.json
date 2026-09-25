@@ -287,10 +287,12 @@
       "name": "Al Jones Al Jones",
       "social": "https://facebook.com/al.jones.10420",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muh3729o1rpi958c1k9",
+      "convertedAt": "2026-09-25T14:59:33.564Z"
     },
     {
       "id": "prospect-muab66jo-tyv23p",
@@ -49553,5 +49555,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-25T14:59:11.495Z"
+  "lastUpdated": "2026-09-25T14:59:34.994Z"
 }
