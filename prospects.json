@@ -301,10 +301,12 @@
       "name": "Al Krauza Al Krauza",
       "social": "https://facebook.com/al.krauza.9",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muh37gu8uw4kegf8bl",
+      "convertedAt": "2026-09-25T14:59:52.448Z"
     },
     {
       "id": "prospect-muab66jo-ld7dgc",
@@ -49555,5 +49557,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-25T14:59:34.994Z"
+  "lastUpdated": "2026-09-25T14:59:53.538Z"
 }
