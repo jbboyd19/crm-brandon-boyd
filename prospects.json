@@ -343,10 +343,12 @@
       "name": "Alakwem Moses Alakwem Moses",
       "social": "https://facebook.com/alakwem.moses",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muh3d47xq3k9oorv2sg",
+      "convertedAt": "2026-09-25T15:04:16.029Z"
     },
     {
       "id": "prospect-muab66jo-6m0ka8",
@@ -49561,5 +49563,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-25T15:02:45.986Z"
+  "lastUpdated": "2026-09-25T15:04:17.834Z"
 }
