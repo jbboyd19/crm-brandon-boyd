@@ -385,10 +385,12 @@
       "name": "Alan Blakely Alan Blakely",
       "social": "https://facebook.com/alan.blakely.37",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muh3htj8zrkmc4a46jn",
+      "convertedAt": "2026-09-25T15:07:55.460Z"
     },
     {
       "id": "prospect-muab66jo-75wbgf",
@@ -49567,5 +49569,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-25T15:05:01.654Z"
+  "lastUpdated": "2026-09-25T15:07:57.104Z"
 }
