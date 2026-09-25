@@ -399,10 +399,12 @@
       "name": "Alan Bouchan Alan Bouchan",
       "social": "https://facebook.com/alan.bouchan.2025",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muh3ir7q1pqco3s72i9",
+      "convertedAt": "2026-09-25T15:08:39.110Z"
     },
     {
       "id": "prospect-muab66jo-vb3okq",
@@ -49569,5 +49571,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-25T15:07:57.104Z"
+  "lastUpdated": "2026-09-25T15:08:40.713Z"
 }
