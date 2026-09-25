@@ -281,18 +281,6 @@
       "convertedAt": "2026-09-24T17:04:57.763Z"
     },
     {
-      "id": "prospect-muab66jo-o7ammj",
-      "firstName": "Al Alexander",
-      "lastName": "Al Alexander",
-      "name": "Al Alexander Al Alexander",
-      "social": "https://facebook.com/assetalexander",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jo-c4bblc",
       "firstName": "Al Jones",
       "lastName": "Al Jones",
@@ -49565,5 +49553,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-24T17:04:59.097Z"
+  "lastUpdated": "2026-09-25T14:59:11.495Z"
 }
