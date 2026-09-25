@@ -329,10 +329,12 @@
       "name": "Alain Agbo Alain Agbo",
       "social": "https://facebook.com/alain.agbo.7",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muh3b5dzwwohi7oe4sf",
+      "convertedAt": "2026-09-25T15:02:44.231Z"
     },
     {
       "id": "prospect-muab66jo-9t88nh",
@@ -49559,5 +49561,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-25T15:00:17.613Z"
+  "lastUpdated": "2026-09-25T15:02:45.986Z"
 }
