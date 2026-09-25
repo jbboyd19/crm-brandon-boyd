@@ -413,10 +413,12 @@
       "name": "Alan Dziura Alan Dziura",
       "social": "https://facebook.com/alan.dziura",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muh3j9aot9yubm2zwp",
+      "convertedAt": "2026-09-25T15:09:02.544Z"
     },
     {
       "id": "prospect-muab66jo-97bm0v",
@@ -49571,5 +49573,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-25T15:08:40.713Z"
+  "lastUpdated": "2026-09-25T15:09:03.575Z"
 }
