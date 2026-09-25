@@ -13230,7 +13230,27 @@
       "addedAt": "2026-09-25T15:08:39.110Z",
       "prospectSourceId": "prospect-muab66jo-75wbgf",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "muh3j9aot9yubm2zwp",
+      "name": "Alan Dziura Alan Dziura",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alan.dziura",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-25",
+      "dateAdded": "2026-09-25",
+      "addedAt": "2026-09-25T15:09:02.544Z",
+      "prospectSourceId": "prospect-muab66jo-vb3okq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-25T15:08:39.110Z"
+  "lastUpdated": "2026-09-25T15:09:02.545Z"
 }
