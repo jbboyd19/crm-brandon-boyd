@@ -357,10 +357,12 @@
       "name": "Alan Attadia Alan Attadia",
       "social": "https://facebook.com/attadiaalan",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muh3dl2uoqkpbmiy3b",
+      "convertedAt": "2026-09-25T15:04:37.878Z"
     },
     {
       "id": "prospect-muab66jo-132ixb",
@@ -49563,5 +49565,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-25T15:04:17.834Z"
+  "lastUpdated": "2026-09-25T15:04:38.978Z"
 }
