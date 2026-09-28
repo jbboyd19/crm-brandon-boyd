@@ -581,10 +581,12 @@
       "name": "Alejandro El Tufo Zambrano Alejandro El Tufo Zambrano",
       "social": "https://facebook.com/alexzambrano1776",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muldwv9t4e36b6pb2ue",
+      "convertedAt": "2026-09-28T15:10:38.417Z"
     },
     {
       "id": "prospect-muab66jo-8qxdbp",
@@ -49535,5 +49537,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-28T15:03:57.009Z"
+  "lastUpdated": "2026-09-28T15:10:40.432Z"
 }
