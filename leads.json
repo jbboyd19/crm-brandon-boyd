@@ -13450,7 +13450,27 @@
       "addedAt": "2026-09-28T15:03:19.013Z",
       "prospectSourceId": "prospect-muab66jo-9m4d6u",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "muldo8mitep2esnqkur",
+      "name": "Alejandro Cabrera Alejandro Cabrera",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alejandro.cabreraaraya.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T15:03:55.818Z",
+      "prospectSourceId": "prospect-muab66jo-wq1wdh",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-28T15:03:19.013Z"
+  "lastUpdated": "2026-09-28T15:03:55.819Z"
 }
