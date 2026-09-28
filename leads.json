@@ -13550,7 +13550,27 @@
       "addedAt": "2026-09-28T15:12:07.247Z",
       "prospectSourceId": "prospect-muab66jp-iszbqd",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "muldzxo58adz1t3moos",
+      "name": "Alessandro Bonu Alessandro Bonu",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alessandro.bonu2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T15:13:01.493Z",
+      "prospectSourceId": "prospect-muab66jp-u9mpht",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-28T15:12:07.247Z"
+  "lastUpdated": "2026-09-28T15:13:01.493Z"
 }
