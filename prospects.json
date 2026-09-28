@@ -595,10 +595,12 @@
       "name": "Alejandro Garcia Alejandro Garcia",
       "social": "https://facebook.com/alejandro.garcia.77582359",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muldxnepmu3mvkmq78",
+      "convertedAt": "2026-09-28T15:11:14.881Z"
     },
     {
       "id": "prospect-muab66jp-trv0ei",
@@ -49537,5 +49539,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-28T15:10:40.432Z"
+  "lastUpdated": "2026-09-28T15:11:16.605Z"
 }
