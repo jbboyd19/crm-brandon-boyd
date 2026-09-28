@@ -631,18 +631,6 @@
       "convertedAt": "2026-09-28T15:12:07.247Z"
     },
     {
-      "id": "prospect-muab66jp-d113zj",
-      "firstName": "Aleksey Kaemper",
-      "lastName": "Aleksey Kaemper",
-      "name": "Aleksey Kaemper Aleksey Kaemper",
-      "social": "https://facebook.com/JuliusCaesar4991",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jp-u9mpht",
       "firstName": "Alessandro Bonu",
       "lastName": "Alessandro Bonu",
@@ -49531,5 +49519,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-28T15:12:22.262Z"
+  "lastUpdated": "2026-09-28T15:12:37.044Z"
 }
