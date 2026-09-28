@@ -561,18 +561,6 @@
       "convertedAt": "2026-09-28T15:03:19.013Z"
     },
     {
-      "id": "prospect-muab66jo-4x7psw",
-      "firstName": "Alejandro Bross",
-      "lastName": "Alejandro Bross",
-      "name": "Alejandro Bross Alejandro Bross",
-      "social": "https://facebook.com/alejandrobross",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jo-wq1wdh",
       "firstName": "Alejandro Cabrera",
       "lastName": "Alejandro Cabrera",
@@ -49545,5 +49533,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-28T15:03:20.194Z"
+  "lastUpdated": "2026-09-28T15:03:28.030Z"
 }
