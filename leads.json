@@ -13510,7 +13510,27 @@
       "addedAt": "2026-09-28T15:11:14.881Z",
       "prospectSourceId": "prospect-muab66jo-8qxdbp",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "muldy8pcew694z070he",
+      "name": "Alejandro Salgado Alejandro Salgado",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alejandro.salgado.75286",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T15:11:42.480Z",
+      "prospectSourceId": "prospect-muab66jp-trv0ei",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-28T15:11:14.882Z"
+  "lastUpdated": "2026-09-28T15:11:42.481Z"
 }
