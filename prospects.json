@@ -623,10 +623,12 @@
       "name": "Aleksandar Stojiljkovic Aleksandar Stojiljkovic",
       "social": "https://facebook.com/alexandar.alek.007",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muldyrtbnwpu5g73ee",
+      "convertedAt": "2026-09-28T15:12:07.247Z"
     },
     {
       "id": "prospect-muab66jp-jovr6x",
@@ -49541,5 +49543,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-28T15:11:43.880Z"
+  "lastUpdated": "2026-09-28T15:12:08.605Z"
 }
