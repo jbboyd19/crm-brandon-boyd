@@ -13290,7 +13290,27 @@
       "addedAt": "2026-09-28T14:57:12.936Z",
       "prospectSourceId": "prospect-muab66jo-k759sa",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "muldgzcix1ud6pg046r",
+      "name": "Alan Youngblood Alan Youngblood",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alan.youngblood.988",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T14:58:17.202Z",
+      "prospectSourceId": "prospect-muab66jo-n6r43q",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-28T14:57:12.936Z"
+  "lastUpdated": "2026-09-28T14:58:17.202Z"
 }
