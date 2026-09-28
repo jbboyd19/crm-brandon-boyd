@@ -13470,7 +13470,27 @@
       "addedAt": "2026-09-28T15:03:55.818Z",
       "prospectSourceId": "prospect-muab66jo-wq1wdh",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "muldwv9t4e36b6pb2ue",
+      "name": "Alejandro El Tufo Zambrano Alejandro El Tufo Zambrano",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alexzambrano1776",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T15:10:38.417Z",
+      "prospectSourceId": "prospect-muab66jo-t52pl5",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-28T15:03:55.819Z"
+  "lastUpdated": "2026-09-28T15:10:38.418Z"
 }
