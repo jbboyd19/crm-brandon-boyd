@@ -449,18 +449,6 @@
       "convertedAt": "2026-09-28T14:57:12.936Z"
     },
     {
-      "id": "prospect-muab66jo-p3i4x2",
-      "firstName": "Alan Parker",
-      "lastName": "Alan Parker",
-      "name": "Alan Parker Alan Parker",
-      "social": "https://facebook.com/mr.alan.james.parker",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jo-n6r43q",
       "firstName": "Alan Youngblood",
       "lastName": "Alan Youngblood",
@@ -49577,5 +49565,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-28T14:57:14.564Z"
+  "lastUpdated": "2026-09-28T14:57:33.952Z"
 }
