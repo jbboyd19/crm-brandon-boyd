@@ -13310,7 +13310,27 @@
       "addedAt": "2026-09-28T14:58:17.202Z",
       "prospectSourceId": "prospect-muab66jo-n6r43q",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "muldjtsg6hmob3z8oiu",
+      "name": "Albert Gomez Albert Gomez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/agomezteam",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T15:00:29.968Z",
+      "prospectSourceId": "prospect-muab66jo-yk03vm",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-28T14:58:17.202Z"
+  "lastUpdated": "2026-09-28T15:00:29.969Z"
 }
