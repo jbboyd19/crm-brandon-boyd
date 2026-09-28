@@ -13430,7 +13430,27 @@
       "addedAt": "2026-09-28T15:02:26.217Z",
       "prospectSourceId": "prospect-muab66jo-dzbkpt",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "muldng85sq47h7h5w4",
+      "name": "Alejandra Ricaurte Naranjo Alejandra Ricaurte Naranjo",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alejandra.ricaurtenaranjo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T15:03:19.013Z",
+      "prospectSourceId": "prospect-muab66jo-9m4d6u",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-28T15:02:26.217Z"
+  "lastUpdated": "2026-09-28T15:03:19.013Z"
 }
