@@ -497,10 +497,12 @@
       "name": "Albert Oneal Saunders Albert Oneal Saunders",
       "social": "https://facebook.com/albertsaundersjr",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muldkq81xlo1ei7sp9p",
+      "convertedAt": "2026-09-28T15:01:12.001Z"
     },
     {
       "id": "prospect-muab66jo-6ilg17",
@@ -49559,5 +49561,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-28T15:00:51.746Z"
+  "lastUpdated": "2026-09-28T15:01:13.708Z"
 }
