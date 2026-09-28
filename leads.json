@@ -13490,7 +13490,27 @@
       "addedAt": "2026-09-28T15:10:38.417Z",
       "prospectSourceId": "prospect-muab66jo-t52pl5",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "muldxnepmu3mvkmq78",
+      "name": "Alejandro Garcia Alejandro Garcia",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alejandro.garcia.77582359",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T15:11:14.881Z",
+      "prospectSourceId": "prospect-muab66jo-8qxdbp",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-28T15:10:38.418Z"
+  "lastUpdated": "2026-09-28T15:11:14.882Z"
 }
