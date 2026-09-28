@@ -631,18 +631,6 @@
       "convertedAt": "2026-09-28T15:12:07.247Z"
     },
     {
-      "id": "prospect-muab66jp-jovr6x",
-      "firstName": "Aleksander Wojciechowski",
-      "lastName": "Aleksander Wojciechowski",
-      "name": "Aleksander Wojciechowski Aleksander Wojciechowski",
-      "social": "https://facebook.com/tradewithaleks",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jp-d113zj",
       "firstName": "Aleksey Kaemper",
       "lastName": "Aleksey Kaemper",
@@ -49543,5 +49531,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-28T15:12:08.605Z"
+  "lastUpdated": "2026-09-28T15:12:22.262Z"
 }
