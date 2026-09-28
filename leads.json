@@ -13270,7 +13270,27 @@
       "addedAt": "2026-09-28T14:56:51.305Z",
       "prospectSourceId": "prospect-muab66jo-97bm0v",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "muldflrchn6s4en6h1t",
+      "name": "Alan Pariser Alan Pariser",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alan.pariser",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T14:57:12.936Z",
+      "prospectSourceId": "prospect-muab66jo-k759sa",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-28T14:56:51.306Z"
+  "lastUpdated": "2026-09-28T14:57:12.936Z"
 }
