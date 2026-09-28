@@ -13250,7 +13250,27 @@
       "addedAt": "2026-09-25T15:09:02.544Z",
       "prospectSourceId": "prospect-muab66jo-vb3okq",
       "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
+    },
+    {
+      "id": "muldf52hpuccmzelxb",
+      "name": "Alan Goff Alan Goff",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alan.goff.54",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T14:56:51.305Z",
+      "prospectSourceId": "prospect-muab66jo-97bm0v",
+      "prospectUploadedAt": "2026-09-20T21:08:26.148Z"
     }
   ],
-  "lastUpdated": "2026-09-25T15:09:02.545Z"
+  "lastUpdated": "2026-09-28T14:56:51.306Z"
 }
