@@ -553,10 +553,12 @@
       "name": "Alejandra Ricaurte Naranjo Alejandra Ricaurte Naranjo",
       "social": "https://facebook.com/alejandra.ricaurtenaranjo",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.148Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muldng85sq47h7h5w4",
+      "convertedAt": "2026-09-28T15:03:19.013Z"
     },
     {
       "id": "prospect-muab66jo-4x7psw",
@@ -49543,5 +49545,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-28T15:02:58.681Z"
+  "lastUpdated": "2026-09-28T15:03:20.194Z"
 }
