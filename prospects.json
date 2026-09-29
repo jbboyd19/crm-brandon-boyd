@@ -841,18 +841,6 @@
       "convertedAt": "2026-09-29T14:53:04.579Z"
     },
     {
-      "id": "prospect-muab66jp-ok73zn",
-      "firstName": "Alex Morton",
-      "lastName": "Alex Morton",
-      "name": "Alex Morton Alex Morton",
-      "social": "https://facebook.com/alex.morton.37",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jp-1eav7w",
       "firstName": "Alex Myrum",
       "lastName": "Alex Myrum",
@@ -49537,5 +49525,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:53:06.738Z"
+  "lastUpdated": "2026-09-29T14:53:12.993Z"
 }
