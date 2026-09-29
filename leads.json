@@ -13808,7 +13808,27 @@
       "addedAt": "2026-09-29T14:47:58.414Z",
       "prospectSourceId": "prospect-muab66jp-k92nz0",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mumsowfsqt1w2t2oltj",
+      "name": "Alex Macharia Alex Macharia",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alex.macharia.77128",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:52:07.096Z",
+      "prospectSourceId": "prospect-muab66jp-ch0b2a",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:47:58.414Z"
+  "lastUpdated": "2026-09-29T14:52:07.096Z"
 }
