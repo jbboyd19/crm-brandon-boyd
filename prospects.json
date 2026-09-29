@@ -819,10 +819,12 @@
       "name": "Alex Miller Alex Miller",
       "social": "https://facebook.com/Alexmillerealtor",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mumspo9m43or4dkp958",
+      "convertedAt": "2026-09-29T14:52:43.163Z"
     },
     {
       "id": "prospect-muab66jp-g7cewi",
@@ -49533,5 +49535,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:52:09.393Z"
+  "lastUpdated": "2026-09-29T14:52:45.029Z"
 }
