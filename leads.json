@@ -13668,7 +13668,27 @@
       "addedAt": "2026-09-29T14:44:00.643Z",
       "prospectSourceId": "prospect-muab66jp-jm7nev",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mumsf1gz116wiqhcxjxl",
+      "name": "Alex Deroy Alex Deroy",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alexander.deroy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:44:27.059Z",
+      "prospectSourceId": "prospect-muab66jp-nkv68b",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:44:00.643Z"
+  "lastUpdated": "2026-09-29T14:44:27.059Z"
 }
