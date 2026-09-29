@@ -13728,7 +13728,27 @@
       "addedAt": "2026-09-29T14:45:31.224Z",
       "prospectSourceId": "prospect-muab66jp-6ij1o1",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mumshlqpv1eki5wfdy8",
+      "name": "Alex Guauque Alex Guauque",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alex.guauque",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:46:26.641Z",
+      "prospectSourceId": "prospect-muab66jp-h4l2e4",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:45:31.225Z"
+  "lastUpdated": "2026-09-29T14:46:26.641Z"
 }
