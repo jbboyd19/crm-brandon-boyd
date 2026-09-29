@@ -13570,7 +13570,25 @@
       "addedAt": "2026-09-28T15:13:01.493Z",
       "prospectSourceId": "prospect-muab66jp-u9mpht",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mum4bgw9geylq2e5zho",
+      "name": "David Douglas",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": "2026-09-29",
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-29T03:29:49.641Z"
     }
   ],
-  "lastUpdated": "2026-09-28T15:13:01.493Z"
+  "lastUpdated": "2026-09-29T03:29:49.641Z"
 }
