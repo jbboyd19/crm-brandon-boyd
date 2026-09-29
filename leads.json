@@ -13768,7 +13768,27 @@
       "addedAt": "2026-09-29T14:47:07.546Z",
       "prospectSourceId": "prospect-muab66jp-hu8ntt",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mumsj2owhsuyblgwmdi",
+      "name": "Alex Liebeskind Alex Liebeskind",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alex.liebeskind.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:47:35.264Z",
+      "prospectSourceId": "prospect-muab66jp-74r1i5",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:47:07.546Z"
+  "lastUpdated": "2026-09-29T14:47:35.265Z"
 }
