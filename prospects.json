@@ -707,10 +707,12 @@
       "name": "Alex Deroy Alex Deroy",
       "social": "https://facebook.com/alexander.deroy",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mumsf1gz116wiqhcxjxl",
+      "convertedAt": "2026-09-29T14:44:27.059Z"
     },
     {
       "id": "prospect-muab66jp-otlfgz",
@@ -49529,5 +49531,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:44:01.859Z"
+  "lastUpdated": "2026-09-29T14:44:28.688Z"
 }
