@@ -833,10 +833,12 @@
       "name": "Alex Moreira Alex Moreira",
       "social": "https://facebook.com/alex.moreira.5264382",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mumsq4sj1aee9ndvigl",
+      "convertedAt": "2026-09-29T14:53:04.579Z"
     },
     {
       "id": "prospect-muab66jp-ok73zn",
@@ -49535,5 +49537,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:52:45.029Z"
+  "lastUpdated": "2026-09-29T14:53:06.738Z"
 }
