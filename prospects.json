@@ -757,18 +757,6 @@
       "convertedAt": "2026-09-29T14:46:26.641Z"
     },
     {
-      "id": "prospect-muab66jp-j8w9rz",
-      "firstName": "Alex Hoad",
-      "lastName": "Alex Hoad",
-      "name": "Alex Hoad Alex Hoad",
-      "social": "https://facebook.com/alex.hoad.186",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jp-hu8ntt",
       "firstName": "Alex Lewis",
       "lastName": "Alex Lewis",
@@ -49537,5 +49525,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:46:28.597Z"
+  "lastUpdated": "2026-09-29T14:46:47.291Z"
 }
