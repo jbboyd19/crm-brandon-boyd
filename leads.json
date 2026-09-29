@@ -13888,7 +13888,27 @@
       "addedAt": "2026-09-29T14:53:32.295Z",
       "prospectSourceId": "prospect-muab66jp-1eav7w",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mumsr4qx3kx4t4ikfco",
+      "name": "Alex Neris Alex Neris",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alejandro.g.neris",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:53:51.177Z",
+      "prospectSourceId": "prospect-muab66jp-yslyxh",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:53:32.295Z"
+  "lastUpdated": "2026-09-29T14:53:51.178Z"
 }
