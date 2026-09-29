@@ -13848,7 +13848,27 @@
       "addedAt": "2026-09-29T14:52:43.163Z",
       "prospectSourceId": "prospect-muab66jp-38js2e",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mumsq4sj1aee9ndvigl",
+      "name": "Alex Moreira Alex Moreira",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alex.moreira.5264382",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:53:04.579Z",
+      "prospectSourceId": "prospect-muab66jp-g7cewi",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:52:43.163Z"
+  "lastUpdated": "2026-09-29T14:53:04.579Z"
 }
