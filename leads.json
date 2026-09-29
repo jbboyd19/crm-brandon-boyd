@@ -13648,7 +13648,27 @@
       "addedAt": "2026-09-29T14:43:40.393Z",
       "prospectSourceId": "prospect-muab66jp-nx8ucx",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mumseh37oriawaoj4g",
+      "name": "Alex D'Annunzio Alex D'Annunzio",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alex.dannunzio",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:44:00.643Z",
+      "prospectSourceId": "prospect-muab66jp-jm7nev",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:43:40.394Z"
+  "lastUpdated": "2026-09-29T14:44:00.643Z"
 }
