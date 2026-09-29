@@ -13588,7 +13588,27 @@
       "lastModified": "2026-09-28",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-29T03:29:49.641Z"
+    },
+    {
+      "id": "mumscz3pge471aejlp",
+      "name": "Alex Acosta Alex Acosta",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alex.acosta.79",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:42:50.677Z",
+      "prospectSourceId": "prospect-muab66jp-gm0w3n",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-29T03:30:01.055Z"
+  "lastUpdated": "2026-09-29T14:42:50.678Z"
 }
