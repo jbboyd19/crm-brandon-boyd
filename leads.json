@@ -13748,7 +13748,27 @@
       "addedAt": "2026-09-29T14:46:26.641Z",
       "prospectSourceId": "prospect-muab66jp-h4l2e4",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mumsihayf5da06nz6w5",
+      "name": "Alex Lewis Alex Lewis",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alex.wu.275",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:47:07.546Z",
+      "prospectSourceId": "prospect-muab66jp-hu8ntt",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:46:26.641Z"
+  "lastUpdated": "2026-09-29T14:47:07.546Z"
 }
