@@ -13708,7 +13708,27 @@
       "addedAt": "2026-09-29T14:45:02.975Z",
       "prospectSourceId": "prospect-muab66jp-otlfgz",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mumsgezcpgge9fj41b",
+      "name": "Alex Fahmy Alex Fahmy",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/afahmy8",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:45:31.224Z",
+      "prospectSourceId": "prospect-muab66jp-6ij1o1",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:45:02.976Z"
+  "lastUpdated": "2026-09-29T14:45:31.225Z"
 }
