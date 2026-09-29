@@ -679,10 +679,12 @@
       "name": "Alex Bernal Alex Bernal",
       "social": "https://facebook.com/alex.bernal.161",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mumse1gpohqf1ua4cc",
+      "convertedAt": "2026-09-29T14:43:40.394Z"
     },
     {
       "id": "prospect-muab66jp-jm7nev",
@@ -49525,5 +49527,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:43:22.136Z"
+  "lastUpdated": "2026-09-29T14:43:41.581Z"
 }
