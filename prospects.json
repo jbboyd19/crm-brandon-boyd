@@ -665,10 +665,12 @@
       "name": "Alex Babiolakis Alex Babiolakis",
       "social": "https://facebook.com/alex.babiolakis",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mumsdm9yceoyf9ak4u",
+      "convertedAt": "2026-09-29T14:43:20.710Z"
     },
     {
       "id": "prospect-muab66jp-nx8ucx",
@@ -49523,5 +49525,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:42:52.432Z"
+  "lastUpdated": "2026-09-29T14:43:22.136Z"
 }
