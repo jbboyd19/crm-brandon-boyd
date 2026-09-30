@@ -959,10 +959,12 @@
       "name": "Alex Velasquez Alex Velasquez",
       "social": "https://facebook.com/TimeshareConcierge",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muoay6p48rpj62h335g",
+      "convertedAt": "2026-09-30T16:10:59.560Z"
     },
     {
       "id": "prospect-muab66jp-kecuyo",
@@ -49541,5 +49543,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-30T16:10:35.229Z"
+  "lastUpdated": "2026-09-30T16:11:00.515Z"
 }
