@@ -14088,7 +14088,27 @@
       "addedAt": "2026-09-30T16:11:49.055Z",
       "prospectSourceId": "prospect-muab66jp-dulazv",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "muob051e0fugx3bicmrn",
+      "name": "Alexander J. Luckman Alexander J. Luckman",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alexander.luckman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T16:12:30.722Z",
+      "prospectSourceId": "prospect-muab66jp-hrhfhy",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-30T16:11:49.056Z"
+  "lastUpdated": "2026-09-30T16:12:30.722Z"
 }
