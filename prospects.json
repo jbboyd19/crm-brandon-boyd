@@ -1009,18 +1009,6 @@
       "convertedAt": "2026-09-30T16:12:30.722Z"
     },
     {
-      "id": "prospect-muab66jp-5k4i5c",
-      "firstName": "Alexander Joel Crocker",
-      "lastName": "Alexander Joel Crocker",
-      "name": "Alexander Joel Crocker Alexander Joel Crocker",
-      "social": "https://facebook.com/alexander.crocker.1",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jp-v3n66o",
       "firstName": "Alexander Mateo",
       "lastName": "Alexander Mateo",
@@ -49549,5 +49537,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-30T16:12:32.488Z"
+  "lastUpdated": "2026-09-30T16:13:02.471Z"
 }
