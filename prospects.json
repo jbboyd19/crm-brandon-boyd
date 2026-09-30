@@ -1043,10 +1043,12 @@
       "name": "Alexander Studivant Alexander Studivant",
       "social": "https://facebook.com/sirstudivant",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muob2dnptpu9r623pjr",
+      "convertedAt": "2026-09-30T16:14:15.205Z"
     },
     {
       "id": "prospect-muab66jp-yh56kc",
@@ -49541,5 +49543,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-30T16:13:54.613Z"
+  "lastUpdated": "2026-09-30T16:14:17.260Z"
 }
