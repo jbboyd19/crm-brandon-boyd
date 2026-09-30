@@ -13988,7 +13988,27 @@
       "addedAt": "2026-09-30T16:09:46.795Z",
       "prospectSourceId": "prospect-muab66jp-yrccqt",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "muoax3nlw25j2bf975t",
+      "name": "Alex Thomas Alex Thomas",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/onlinemastermind",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T16:10:08.961Z",
+      "prospectSourceId": "prospect-muab66jp-3nl8vm",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-30T16:09:46.796Z"
+  "lastUpdated": "2026-09-30T16:10:08.961Z"
 }
