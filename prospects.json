@@ -1071,10 +1071,12 @@
       "name": "Alexandra EF Alexandra EF",
       "social": "https://facebook.com/alexandra.field2012",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muob3svrdyxt59wrez4",
+      "convertedAt": "2026-09-30T16:15:21.591Z"
     },
     {
       "id": "prospect-muab66jp-8roqtg",
@@ -49545,5 +49547,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-30T16:14:52.677Z"
+  "lastUpdated": "2026-09-30T16:15:23.086Z"
 }
