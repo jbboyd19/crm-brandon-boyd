@@ -14108,7 +14108,27 @@
       "addedAt": "2026-09-30T16:12:30.722Z",
       "prospectSourceId": "prospect-muab66jp-hrhfhy",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "muob1cmuwnlkiiauqgp",
+      "name": "Alexander Mateo Alexander Mateo",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alexander.mateo.7923",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T16:13:27.222Z",
+      "prospectSourceId": "prospect-muab66jp-v3n66o",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-30T16:12:30.722Z"
+  "lastUpdated": "2026-09-30T16:13:27.222Z"
 }
