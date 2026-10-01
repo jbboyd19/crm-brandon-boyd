@@ -14288,7 +14288,27 @@
       "addedAt": "2026-10-01T11:34:38.772Z",
       "prospectSourceId": "prospect-muab66jp-hkprcm",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mupgj9f1ym3boiyzin",
+      "name": "Alfonso M Goree Jr. Alfonso M Goree Jr.",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alfonso.goree",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T11:35:07.117Z",
+      "prospectSourceId": "prospect-muab66jp-ea90pm",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-01T11:34:38.772Z"
+  "lastUpdated": "2026-10-01T11:35:07.118Z"
 }
