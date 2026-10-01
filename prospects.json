@@ -1099,10 +1099,12 @@
       "name": "Alexandre Chevanel Alexandre Chevanel",
       "social": "https://facebook.com/alexandre.chevanel.7",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupghs7s7t9wnrpwgzw",
+      "convertedAt": "2026-10-01T11:33:58.168Z"
     },
     {
       "id": "prospect-muab66jp-rit36c",
@@ -49549,5 +49551,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-30T16:16:11.741Z"
+  "lastUpdated": "2026-10-01T11:34:00.153Z"
 }
