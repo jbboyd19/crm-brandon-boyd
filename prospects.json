@@ -1275,18 +1275,6 @@
       "convertedAt": "2026-10-01T11:39:31.587Z"
     },
     {
-      "id": "prospect-muab66jp-dygyac",
-      "firstName": "Allen Harrison",
-      "lastName": "Allen Harrison",
-      "name": "Allen Harrison Allen Harrison",
-      "social": "https://facebook.com/allen.harrison.9843499",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jp-0ifc50",
       "firstName": "Allen Herald",
       "lastName": "Allen Herald",
@@ -49551,5 +49539,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T11:39:32.524Z"
+  "lastUpdated": "2026-10-01T11:39:43.699Z"
 }
