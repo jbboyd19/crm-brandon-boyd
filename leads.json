@@ -14448,7 +14448,27 @@
       "addedAt": "2026-10-01T11:38:36.721Z",
       "prospectSourceId": "prospect-muab66jp-8qti3o",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mupgohpuwxht0oanf79",
+      "name": "Allan Abarca Allan Abarca",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/allan.abarcanavarro.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T11:39:11.154Z",
+      "prospectSourceId": "prospect-muab66jp-2bry7h",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-01T11:38:36.722Z"
+  "lastUpdated": "2026-10-01T11:39:11.154Z"
 }
