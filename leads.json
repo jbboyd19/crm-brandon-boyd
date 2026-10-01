@@ -14228,7 +14228,27 @@
       "addedAt": "2026-09-30T16:16:09.856Z",
       "prospectSourceId": "prospect-muab66jp-8roqtg",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mupghs7s7t9wnrpwgzw",
+      "name": "Alexandre Chevanel Alexandre Chevanel",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alexandre.chevanel.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T11:33:58.168Z",
+      "prospectSourceId": "prospect-muab66jp-5tb2s3",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-09-30T16:16:09.856Z"
+  "lastUpdated": "2026-10-01T11:33:58.168Z"
 }
