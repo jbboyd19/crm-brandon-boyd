@@ -1191,18 +1191,6 @@
       "convertedAt": "2026-10-01T11:36:43.386Z"
     },
     {
-      "id": "prospect-muab66jp-tyjcv9",
-      "firstName": "Ali Tuama",
-      "lastName": "Ali Tuama",
-      "name": "Ali Tuama Ali Tuama",
-      "social": "https://facebook.com/ali.tuama.9212",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jp-w9myim",
       "firstName": "Alina Gray",
       "lastName": "Alina Gray",
@@ -49551,5 +49539,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T11:36:44.405Z"
+  "lastUpdated": "2026-10-01T11:36:56.468Z"
 }
