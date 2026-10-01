@@ -1295,10 +1295,12 @@
       "name": "Allen Lapp Allen Lapp",
       "social": "https://facebook.com/allen.lapp.3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupgq3cdhllqjoe8565",
+      "convertedAt": "2026-10-01T11:40:25.837Z"
     },
     {
       "id": "prospect-muab66jp-b0tutx",
@@ -49529,5 +49531,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T11:40:05.211Z"
+  "lastUpdated": "2026-10-01T11:40:26.921Z"
 }
