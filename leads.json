@@ -14468,7 +14468,27 @@
       "addedAt": "2026-10-01T11:39:11.154Z",
       "prospectSourceId": "prospect-muab66jp-2bry7h",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mupgoxhf9jhd47tavcd",
+      "name": "Allan Platsko Allan Platsko",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/allan.platsko",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T11:39:31.587Z",
+      "prospectSourceId": "prospect-muab66jp-7fk7u8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-01T11:39:11.154Z"
+  "lastUpdated": "2026-10-01T11:39:31.587Z"
 }
