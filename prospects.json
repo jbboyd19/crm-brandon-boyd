@@ -1177,18 +1177,6 @@
       "convertedAt": "2026-10-01T11:36:07.953Z"
     },
     {
-      "id": "prospect-muab66jp-ektpmn",
-      "firstName": "Ali M Saleh",
-      "lastName": "Ali M Saleh",
-      "name": "Ali M Saleh Ali M Saleh",
-      "social": "https://facebook.com/aliwealth22",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jp-vpjzuv",
       "firstName": "Ali Muzamal",
       "lastName": "Ali Muzamal",
@@ -49561,5 +49549,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T11:36:09.487Z"
+  "lastUpdated": "2026-10-01T11:36:21.534Z"
 }
