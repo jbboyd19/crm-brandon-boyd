@@ -14248,7 +14248,27 @@
       "addedAt": "2026-10-01T11:33:58.168Z",
       "prospectSourceId": "prospect-muab66jp-5tb2s3",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mupgi9p14fsbv7t3la5",
+      "name": "Alexis Ariel Camineaux Ojeda Alexis Ariel Camineaux Ojeda",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alex.acofit",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T11:34:20.821Z",
+      "prospectSourceId": "prospect-muab66jp-rit36c",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-01T11:33:58.168Z"
+  "lastUpdated": "2026-10-01T11:34:20.821Z"
 }
