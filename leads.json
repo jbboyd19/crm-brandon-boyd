@@ -14308,7 +14308,27 @@
       "addedAt": "2026-10-01T11:35:07.117Z",
       "prospectSourceId": "prospect-muab66jp-ea90pm",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mupgjr5mwk25jpwc38",
+      "name": "Alfredo Nunez Alfredo Nunez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/OfficialAlfredoNunez",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T11:35:30.106Z",
+      "prospectSourceId": "prospect-muab66jp-g4chc2",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-01T11:35:07.118Z"
+  "lastUpdated": "2026-10-01T11:35:30.106Z"
 }
