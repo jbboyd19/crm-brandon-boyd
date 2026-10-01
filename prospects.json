@@ -1275,18 +1275,6 @@
       "convertedAt": "2026-10-01T11:39:31.587Z"
     },
     {
-      "id": "prospect-muab66jp-0ifc50",
-      "firstName": "Allen Herald",
-      "lastName": "Allen Herald",
-      "name": "Allen Herald Allen Herald",
-      "social": "https://facebook.com/allen.herald.7",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jp-k5ty4z",
       "firstName": "Allen Lacosse",
       "lastName": "Allen Lacosse",
@@ -49539,5 +49527,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T11:39:43.699Z"
+  "lastUpdated": "2026-10-01T11:39:48.567Z"
 }
