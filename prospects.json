@@ -1281,10 +1281,12 @@
       "name": "Allen Lacosse Allen Lacosse",
       "social": "https://facebook.com/allen.lacosse",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupgpmj9374142cyoso",
+      "convertedAt": "2026-10-01T11:40:04.053Z"
     },
     {
       "id": "prospect-muab66jp-ixhyzj",
@@ -49527,5 +49529,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T11:39:48.567Z"
+  "lastUpdated": "2026-10-01T11:40:05.211Z"
 }
