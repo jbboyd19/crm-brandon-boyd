@@ -1225,10 +1225,12 @@
       "name": "Alison E Johnston Alison E Johnston",
       "social": "https://facebook.com/alison.e.may.johnston",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupgn750gqkn0lux24c",
+      "convertedAt": "2026-10-01T11:38:10.788Z"
     },
     {
       "id": "prospect-muab66jp-8qti3o",
@@ -49543,5 +49545,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T11:37:49.940Z"
+  "lastUpdated": "2026-10-01T11:38:11.854Z"
 }
