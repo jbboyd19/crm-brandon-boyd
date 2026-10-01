@@ -14328,7 +14328,27 @@
       "addedAt": "2026-10-01T11:35:30.106Z",
       "prospectSourceId": "prospect-muab66jp-g4chc2",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mupgkkcxuatdl3rygcn",
+      "name": "Ali Ben Hariz Ali Ben Hariz",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alibenhariz95",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T11:36:07.953Z",
+      "prospectSourceId": "prospect-muab66jp-pb22tz",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-01T11:35:30.106Z"
+  "lastUpdated": "2026-10-01T11:36:07.954Z"
 }
