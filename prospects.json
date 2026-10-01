@@ -1113,10 +1113,12 @@
       "name": "Alexis Ariel Camineaux Ojeda Alexis Ariel Camineaux Ojeda",
       "social": "https://facebook.com/alex.acofit",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupgi9p14fsbv7t3la5",
+      "convertedAt": "2026-10-01T11:34:20.821Z"
     },
     {
       "id": "prospect-muab66jp-hkprcm",
@@ -49551,5 +49553,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T11:34:00.153Z"
+  "lastUpdated": "2026-10-01T11:34:21.863Z"
 }
