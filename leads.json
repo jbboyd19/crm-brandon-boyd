@@ -14488,7 +14488,27 @@
       "addedAt": "2026-10-01T11:39:31.587Z",
       "prospectSourceId": "prospect-muab66jp-7fk7u8",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "mupgpmj9374142cyoso",
+      "name": "Allen Lacosse Allen Lacosse",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/allen.lacosse",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T11:40:04.053Z",
+      "prospectSourceId": "prospect-muab66jp-k5ty4z",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-01T11:39:31.587Z"
+  "lastUpdated": "2026-10-01T11:40:04.053Z"
 }
