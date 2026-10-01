@@ -1197,10 +1197,12 @@
       "name": "Alina Gray Alina Gray",
       "social": "https://facebook.com/SxYLiLmOmMy",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupgm355zlvqiw9n209",
+      "convertedAt": "2026-10-01T11:37:18.953Z"
     },
     {
       "id": "prospect-muab66jp-idy98l",
@@ -49539,5 +49541,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T11:36:56.468Z"
+  "lastUpdated": "2026-10-01T11:37:19.937Z"
 }
