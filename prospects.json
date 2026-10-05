@@ -1365,10 +1365,12 @@
       "name": "Alvaro Durant Alvaro Durant",
       "social": "https://facebook.com/alvaro.durant.75",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muva7523iah3ukipwoj",
+      "convertedAt": "2026-10-05T13:24:20.955Z"
     },
     {
       "id": "prospect-muab66jp-oliots",
@@ -49515,5 +49517,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T13:23:52.335Z"
+  "lastUpdated": "2026-10-05T13:24:21.997Z"
 }
