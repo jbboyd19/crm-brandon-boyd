@@ -14468,7 +14468,27 @@
       "addedAt": "2026-10-01T11:39:11.154Z",
       "prospectSourceId": "prospect-muab66jp-2bry7h",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "muva4832s0icicc9bac",
+      "name": "Allison BC Allison BC",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Abchisley",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:22:04.911Z",
+      "prospectSourceId": "prospect-muab66jp-b0tutx",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:21:33.869Z"
+  "lastUpdated": "2026-10-05T13:22:04.911Z"
 }
