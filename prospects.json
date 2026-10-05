@@ -1379,10 +1379,12 @@
       "name": "Alvin Newell Alvin Newell",
       "social": "https://facebook.com/ludford.ventures",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muva87vspq03304xux",
+      "convertedAt": "2026-10-05T13:25:11.272Z"
     },
     {
       "id": "prospect-muab66jp-jtrwpo",
@@ -49517,5 +49519,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T13:24:21.997Z"
+  "lastUpdated": "2026-10-05T13:25:12.866Z"
 }
