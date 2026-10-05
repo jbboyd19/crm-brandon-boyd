@@ -1359,18 +1359,6 @@
       "convertedAt": "2026-10-05T13:23:12.707Z"
     },
     {
-      "id": "prospect-muab66jp-dska6x",
-      "firstName": "Alston Dean",
-      "lastName": "Alston Dean",
-      "name": "Alston Dean Alston Dean",
-      "social": "https://facebook.com/shekashedout",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jp-sqvc2h",
       "firstName": "Alvaro Durant",
       "lastName": "Alvaro Durant",
@@ -49527,5 +49515,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T13:23:37.554Z"
+  "lastUpdated": "2026-10-05T13:23:52.335Z"
 }
