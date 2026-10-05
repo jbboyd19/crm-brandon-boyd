@@ -14708,7 +14708,27 @@
       "addedAt": "2026-10-05T13:29:10.286Z",
       "prospectSourceId": "prospect-muab66jq-tl8gsq",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muvae23t7ulmopxhcd",
+      "name": "Amir Thomas Amir Thomas",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/thomas.kasiwa",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:29:43.721Z",
+      "prospectSourceId": "prospect-muab66jq-37imfm",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:29:10.287Z"
+  "lastUpdated": "2026-10-05T13:29:43.721Z"
 }
