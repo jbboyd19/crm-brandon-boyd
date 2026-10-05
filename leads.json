@@ -14628,7 +14628,27 @@
       "addedAt": "2026-10-05T13:26:29.288Z",
       "prospectSourceId": "prospect-muab66jp-o5ln0q",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "muvaavthwvzpztej5zn",
+      "name": "Ama Deus Ama Deus",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Capuquita",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:27:15.605Z",
+      "prospectSourceId": "prospect-muab66jp-tb9q0j",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:26:29.288Z"
+  "lastUpdated": "2026-10-05T13:27:15.606Z"
 }
