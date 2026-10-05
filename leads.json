@@ -14648,7 +14648,27 @@
       "addedAt": "2026-10-05T13:27:15.605Z",
       "prospectSourceId": "prospect-muab66jp-tb9q0j",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "muvabnfg2ov5hkdqcw",
+      "name": "Amanda Benson Amanda Benson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/amanda.johnson.5059601",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:27:51.388Z",
+      "prospectSourceId": "prospect-muab66jp-pbmakt",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:27:15.606Z"
+  "lastUpdated": "2026-10-05T13:27:51.389Z"
 }
