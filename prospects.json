@@ -1407,10 +1407,12 @@
       "name": "Alvin R. Brantley Alvin R. Brantley",
       "social": "https://facebook.com/alvin.r.brantley",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muva9w2wbxwsb6u0nfh",
+      "convertedAt": "2026-10-05T13:26:29.288Z"
     },
     {
       "id": "prospect-muab66jp-tb9q0j",
@@ -49521,5 +49523,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T13:25:47.125Z"
+  "lastUpdated": "2026-10-05T13:26:31.195Z"
 }
