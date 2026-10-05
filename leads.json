@@ -14668,7 +14668,27 @@
       "addedAt": "2026-10-05T13:27:51.388Z",
       "prospectSourceId": "prospect-muab66jp-pbmakt",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "muvacb1ej2yq7nvodkb",
+      "name": "Amar Shaouni Amar Shaouni",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/amar.shaouni.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:28:21.986Z",
+      "prospectSourceId": "prospect-muab66jp-rgqj9m",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:27:51.389Z"
+  "lastUpdated": "2026-10-05T13:28:21.987Z"
 }
