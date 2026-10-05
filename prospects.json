@@ -1457,18 +1457,6 @@
       "convertedAt": "2026-10-05T13:28:21.986Z"
     },
     {
-      "id": "prospect-muab66jp-wplkv1",
-      "firstName": "Amber Galimore",
-      "lastName": "Amber Galimore",
-      "name": "Amber Galimore Amber Galimore",
-      "social": "https://facebook.com/amber.galimore",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jp-4v4c8l",
       "firstName": "Amber Galimore",
       "lastName": "Amber Galimore",
@@ -49517,5 +49505,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T13:28:23.579Z"
+  "lastUpdated": "2026-10-05T13:28:47.384Z"
 }
