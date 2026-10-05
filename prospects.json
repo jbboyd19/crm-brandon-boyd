@@ -1421,10 +1421,12 @@
       "name": "Ama Deus Ama Deus",
       "social": "https://facebook.com/Capuquita",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muvaavthwvzpztej5zn",
+      "convertedAt": "2026-10-05T13:27:15.605Z"
     },
     {
       "id": "prospect-muab66jp-pbmakt",
@@ -49523,5 +49525,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T13:26:31.195Z"
+  "lastUpdated": "2026-10-05T13:27:17.647Z"
 }
