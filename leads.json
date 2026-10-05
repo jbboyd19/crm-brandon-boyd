@@ -14608,7 +14608,27 @@
       "addedAt": "2026-10-05T13:25:45.321Z",
       "prospectSourceId": "prospect-muab66jp-jtrwpo",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "muva9w2wbxwsb6u0nfh",
+      "name": "Alvin R. Brantley Alvin R. Brantley",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alvin.r.brantley",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:26:29.288Z",
+      "prospectSourceId": "prospect-muab66jp-o5ln0q",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:25:45.322Z"
+  "lastUpdated": "2026-10-05T13:26:29.288Z"
 }
