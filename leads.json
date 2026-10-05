@@ -14568,7 +14568,27 @@
       "addedAt": "2026-10-05T13:24:20.955Z",
       "prospectSourceId": "prospect-muab66jp-sqvc2h",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "muva87vspq03304xux",
+      "name": "Alvin Newell Alvin Newell",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ludford.ventures",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:25:11.272Z",
+      "prospectSourceId": "prospect-muab66jp-oliots",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:24:20.955Z"
+  "lastUpdated": "2026-10-05T13:25:11.273Z"
 }
