@@ -1351,10 +1351,12 @@
       "name": "Alphonso Holden Alphonso Holden",
       "social": "https://facebook.com/alphonso.holden.2025",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muva5oeb4zyzewff0q2",
+      "convertedAt": "2026-10-05T13:23:12.707Z"
     },
     {
       "id": "prospect-muab66jp-8s15tk",
@@ -49537,5 +49539,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T13:22:51.291Z"
+  "lastUpdated": "2026-10-05T13:23:13.915Z"
 }
