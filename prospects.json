@@ -1337,10 +1337,12 @@
       "name": "Alonso R. Vega Alonso R. Vega",
       "social": "https://facebook.com/alonso.r.vega",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.149Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muva56syci5itj5gc17",
+      "convertedAt": "2026-10-05T13:22:49.906Z"
     },
     {
       "id": "prospect-muab66jp-y4d689",
@@ -49535,5 +49537,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T13:22:30.109Z"
+  "lastUpdated": "2026-10-05T13:22:51.291Z"
 }
