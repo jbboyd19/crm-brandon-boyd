@@ -14488,7 +14488,27 @@
       "addedAt": "2026-10-05T13:22:04.911Z",
       "prospectSourceId": "prospect-muab66jp-b0tutx",
       "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
+    },
+    {
+      "id": "muva4qcufzj9bun7ili",
+      "name": "Alo Na Alo Na",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alo.na.397",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:22:28.590Z",
+      "prospectSourceId": "prospect-muab66jp-sd8qwk",
+      "prospectUploadedAt": "2026-09-20T21:08:26.149Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:22:04.911Z"
+  "lastUpdated": "2026-10-05T13:22:28.590Z"
 }
