@@ -1589,10 +1589,12 @@
       "name": "Andi Duli Andi Duli",
       "social": "https://facebook.com/andiduli",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muwrin766v9kxprzryd",
+      "convertedAt": "2026-10-06T14:16:57.330Z"
     },
     {
       "id": "prospect-muab66jq-m36zwk",
@@ -49451,5 +49453,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-06T14:16:27.534Z"
+  "lastUpdated": "2026-10-06T14:16:58.365Z"
 }
