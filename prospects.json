@@ -1631,10 +1631,12 @@
       "name": "Andre Jenkins Andre Jenkins",
       "social": "https://facebook.com/ajenks1967",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muwrkacvk4lis5vo19t",
+      "convertedAt": "2026-10-06T14:18:14.000Z"
     },
     {
       "id": "prospect-muab66jq-fnbw0y",
@@ -49445,5 +49447,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-06T14:17:57.164Z"
+  "lastUpdated": "2026-10-06T14:18:15.221Z"
 }
