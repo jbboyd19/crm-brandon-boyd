@@ -1547,10 +1547,12 @@
       "name": "Amy Anderson Amy Anderson",
       "social": "https://facebook.com/amy.anderson.984894",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muwrdqrdxi7142g5nf9",
+      "convertedAt": "2026-10-06T14:13:08.665Z"
     },
     {
       "id": "prospect-muab66jq-uffja8",
@@ -49493,5 +49495,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-06T14:12:45.892Z"
+  "lastUpdated": "2026-10-06T14:13:10.202Z"
 }
