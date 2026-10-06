@@ -14928,7 +14928,27 @@
       "addedAt": "2026-10-06T14:17:44.600Z",
       "prospectSourceId": "prospect-muab66jq-md8zm8",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muwrkacvk4lis5vo19t",
+      "name": "Andre Jenkins Andre Jenkins",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ajenks1967",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T14:18:13.999Z",
+      "prospectSourceId": "prospect-muab66jq-brif2t",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-06T14:17:44.601Z"
+  "lastUpdated": "2026-10-06T14:18:14.000Z"
 }
