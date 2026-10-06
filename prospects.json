@@ -1617,10 +1617,12 @@
       "name": "Andre C Martin Andre C Martin",
       "social": "https://facebook.com/andre.c.martin",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muwrjno8o8nc48k81p",
+      "convertedAt": "2026-10-06T14:17:44.600Z"
     },
     {
       "id": "prospect-muab66jq-9xb79j",
@@ -49455,5 +49457,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-06T14:17:19.496Z"
+  "lastUpdated": "2026-10-06T14:17:45.776Z"
 }
