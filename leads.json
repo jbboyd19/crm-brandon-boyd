@@ -14788,7 +14788,27 @@
       "addedAt": "2026-10-06T14:12:19.049Z",
       "prospectSourceId": "prospect-muab66jq-pxvo90",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muwrd8az9k6xni9oo15",
+      "name": "Amrit Malik Amrit Malik",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/amrit.malik1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T14:12:44.747Z",
+      "prospectSourceId": "prospect-muab66jq-79r2lu",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-06T14:12:19.049Z"
+  "lastUpdated": "2026-10-06T14:12:44.748Z"
 }
