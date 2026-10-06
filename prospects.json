@@ -1569,18 +1569,6 @@
       "convertedAt": "2026-10-06T14:13:46.532Z"
     },
     {
-      "id": "prospect-muab66jq-auc96x",
-      "firstName": "Anas Hijjah",
-      "lastName": "Anas Hijjah",
-      "name": "Anas Hijjah Anas Hijjah",
-      "social": "https://facebook.com/ahijjah",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jq-uch4kz",
       "firstName": "Anastasiia Demishkevych",
       "lastName": "Anastasiia Demishkevych",
@@ -49485,5 +49473,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-06T14:13:47.906Z"
+  "lastUpdated": "2026-10-06T14:14:41.510Z"
 }
