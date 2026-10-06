@@ -1555,18 +1555,6 @@
       "convertedAt": "2026-10-06T14:13:08.665Z"
     },
     {
-      "id": "prospect-muab66jq-uffja8",
-      "firstName": "Amy Dangerfield",
-      "lastName": "Amy Dangerfield",
-      "name": "Amy Dangerfield Amy Dangerfield",
-      "social": "https://facebook.com/amysaridangerfield",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jq-jxlxma",
       "firstName": "Ana Teran",
       "lastName": "Ana Teran",
@@ -49495,5 +49483,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-06T14:13:10.202Z"
+  "lastUpdated": "2026-10-06T14:13:29.213Z"
 }
