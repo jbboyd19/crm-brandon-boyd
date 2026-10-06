@@ -1701,10 +1701,12 @@
       "name": "Andrea Kelly Andrea Kelly",
       "social": "https://facebook.com/AndreaKellyuk",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muwror3nyh3zilioqdd",
+      "convertedAt": "2026-10-06T14:21:42.323Z"
     },
     {
       "id": "prospect-muab66jq-htc79d",
@@ -49455,5 +49457,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-06T14:21:24.340Z"
+  "lastUpdated": "2026-10-06T14:21:43.704Z"
 }
