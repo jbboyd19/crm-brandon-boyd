@@ -1673,10 +1673,12 @@
       "name": "Andrea DeLeon - Saxey Andrea DeLeon - Saxey",
       "social": "https://facebook.com/andrea.d.saxey.9277",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muwrnw6h353bu5rmgom",
+      "convertedAt": "2026-10-06T14:21:02.249Z"
     },
     {
       "id": "prospect-muab66jq-edtvad",
@@ -49451,5 +49453,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-06T14:19:05.877Z"
+  "lastUpdated": "2026-10-06T14:21:03.852Z"
 }
