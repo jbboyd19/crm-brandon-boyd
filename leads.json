@@ -15048,7 +15048,27 @@
       "addedAt": "2026-10-06T14:21:42.323Z",
       "prospectSourceId": "prospect-muab66jq-ndhrfm",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muwrp5y3n6xlsgtmpsm",
+      "name": "Andreas Leonidou Andreas Leonidou",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andreas.leonidou.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T14:22:01.563Z",
+      "prospectSourceId": "prospect-muab66jq-htc79d",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-06T14:21:42.324Z"
+  "lastUpdated": "2026-10-06T14:22:01.563Z"
 }
