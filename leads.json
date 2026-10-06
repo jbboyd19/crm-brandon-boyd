@@ -14808,7 +14808,27 @@
       "addedAt": "2026-10-06T14:12:44.747Z",
       "prospectSourceId": "prospect-muab66jq-79r2lu",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muwrdqrdxi7142g5nf9",
+      "name": "Amy Anderson Amy Anderson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/amy.anderson.984894",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T14:13:08.665Z",
+      "prospectSourceId": "prospect-muab66jq-3dsngz",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-06T14:12:44.748Z"
+  "lastUpdated": "2026-10-06T14:13:08.666Z"
 }
