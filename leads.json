@@ -14476,12 +14476,12 @@
       "phone": "",
       "social": "https://facebook.com/Abchisley",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-05",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-10-06",
       "notes": "",
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
@@ -14770,5 +14770,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:30:36.099Z"
+  "lastUpdated": "2026-10-06T03:17:36.277Z"
 }
