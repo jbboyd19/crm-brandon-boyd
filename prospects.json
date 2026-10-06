@@ -1533,10 +1533,12 @@
       "name": "Amrit Malik Amrit Malik",
       "social": "https://facebook.com/amrit.malik1",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muwrd8az9k6xni9oo15",
+      "convertedAt": "2026-10-06T14:12:44.747Z"
     },
     {
       "id": "prospect-muab66jq-3dsngz",
@@ -49491,5 +49493,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-06T14:12:21.214Z"
+  "lastUpdated": "2026-10-06T14:12:45.892Z"
 }
