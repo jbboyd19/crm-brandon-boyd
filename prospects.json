@@ -1645,10 +1645,12 @@
       "name": "Andre Payne Andre Payne",
       "social": "https://facebook.com/andre.payne3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muwrkwxdbhktg5yzwgq",
+      "convertedAt": "2026-10-06T14:18:43.249Z"
     },
     {
       "id": "prospect-muab66jq-w2cxze",
@@ -49447,5 +49449,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-06T14:18:15.221Z"
+  "lastUpdated": "2026-10-06T14:18:44.552Z"
 }
