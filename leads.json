@@ -14908,7 +14908,27 @@
       "addedAt": "2026-10-06T14:17:18.467Z",
       "prospectSourceId": "prospect-muab66jq-m36zwk",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muwrjno8o8nc48k81p",
+      "name": "Andre C Martin Andre C Martin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andre.c.martin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T14:17:44.600Z",
+      "prospectSourceId": "prospect-muab66jq-md8zm8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-06T14:17:18.468Z"
+  "lastUpdated": "2026-10-06T14:17:44.601Z"
 }
