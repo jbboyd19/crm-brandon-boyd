@@ -14988,7 +14988,27 @@
       "addedAt": "2026-10-06T14:19:04.416Z",
       "prospectSourceId": "prospect-muab66jq-w2cxze",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muwrnw6h353bu5rmgom",
+      "name": "Andrea DeLeon - Saxey Andrea DeLeon - Saxey",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andrea.d.saxey.9277",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T14:21:02.249Z",
+      "prospectSourceId": "prospect-muab66jq-ep78pt",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-06T14:19:04.417Z"
+  "lastUpdated": "2026-10-06T14:21:02.250Z"
 }
