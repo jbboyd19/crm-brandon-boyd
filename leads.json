@@ -15008,7 +15008,27 @@
       "addedAt": "2026-10-06T14:21:02.249Z",
       "prospectSourceId": "prospect-muab66jq-ep78pt",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muwrocbxeyxpzquy66",
+      "name": "Andrea Di Vincenzo Andrea Di Vincenzo",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andrea.d.vincenzo.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T14:21:23.181Z",
+      "prospectSourceId": "prospect-muab66jq-edtvad",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-06T14:21:02.250Z"
+  "lastUpdated": "2026-10-06T14:21:23.182Z"
 }
