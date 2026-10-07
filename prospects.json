@@ -1757,10 +1757,12 @@
       "name": "AndreNsheila Wilson AndreNsheila Wilson",
       "social": "https://facebook.com/Graced2Wealth",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muy6go5hvd6k0k7snsi",
+      "convertedAt": "2026-10-07T14:03:05.669Z"
     },
     {
       "id": "prospect-muab66jq-zrkp63",
@@ -49451,5 +49453,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-07T14:02:47.265Z"
+  "lastUpdated": "2026-10-07T14:03:06.807Z"
 }
