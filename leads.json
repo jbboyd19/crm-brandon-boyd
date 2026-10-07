@@ -15208,7 +15208,27 @@
       "addedAt": "2026-10-07T14:08:44.856Z",
       "prospectSourceId": "prospect-muab66jq-5uo7nx",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muy6oxgcychqrfs2kql",
+      "name": "Andrew Crain Andrew Crain",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/acrain91",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T14:09:30.972Z",
+      "prospectSourceId": "prospect-muab66jq-4x465a",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-07T14:08:44.856Z"
+  "lastUpdated": "2026-10-07T14:09:30.972Z"
 }
