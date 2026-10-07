@@ -1827,10 +1827,12 @@
       "name": "Andrew Crain Andrew Crain",
       "social": "https://facebook.com/acrain91",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muy6oxgcychqrfs2kql",
+      "convertedAt": "2026-10-07T14:09:30.972Z"
     },
     {
       "id": "prospect-muab66jq-wuz5iv",
@@ -49425,5 +49427,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-07T14:09:12.004Z"
+  "lastUpdated": "2026-10-07T14:09:32.164Z"
 }
