@@ -1933,18 +1933,6 @@
       "convertedAt": "2026-10-07T14:12:31.104Z"
     },
     {
-      "id": "prospect-muab66jq-55av3k",
-      "firstName": "Andrew James Burns",
-      "lastName": "Andrew James Burns",
-      "name": "Andrew James Burns Andrew James Burns",
-      "social": "https://facebook.com/andrew.j.burns.12",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jq-ckys3e",
       "firstName": "Andrew Kujat",
       "lastName": "Andrew Kujat",
@@ -49441,5 +49429,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-07T14:12:32.548Z"
+  "lastUpdated": "2026-10-07T14:12:39.736Z"
 }
