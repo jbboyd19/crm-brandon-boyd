@@ -1771,10 +1771,12 @@
       "name": "Andres Arboleda Andres Arboleda",
       "social": "https://facebook.com/andres.f.arboleda.54",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muy6h5m7963ayz0c9co",
+      "convertedAt": "2026-10-07T14:03:28.303Z"
     },
     {
       "id": "prospect-muab66jq-a51rjj",
@@ -49453,5 +49455,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-07T14:03:06.807Z"
+  "lastUpdated": "2026-10-07T14:03:29.526Z"
 }
