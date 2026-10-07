@@ -1785,10 +1785,12 @@
       "name": "Andres G Gomez Andres G Gomez",
       "social": "https://facebook.com/AndresgomezX17",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muy6hmxs3k7p1d0xy4c",
+      "convertedAt": "2026-10-07T14:03:50.752Z"
     },
     {
       "id": "prospect-muab66jq-qoj6sy",
@@ -49455,5 +49457,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-07T14:03:29.526Z"
+  "lastUpdated": "2026-10-07T14:03:52.044Z"
 }
