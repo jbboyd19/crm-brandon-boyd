@@ -15328,7 +15328,27 @@
       "addedAt": "2026-10-07T14:11:22.355Z",
       "prospectSourceId": "prospect-muab66jq-q2dgm9",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muy6se65zdn2ht78u6",
+      "name": "Andrew Huerta Andrew Huerta",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andrew.huerta.79",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T14:12:12.605Z",
+      "prospectSourceId": "prospect-muab66jq-g3cdxd",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-07T14:11:22.355Z"
+  "lastUpdated": "2026-10-07T14:12:12.605Z"
 }
