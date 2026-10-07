@@ -15068,7 +15068,27 @@
       "addedAt": "2026-10-06T14:22:01.563Z",
       "prospectSourceId": "prospect-muab66jq-htc79d",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muy6drfpfr25mzieza",
+      "name": "Andrei Matei Andrei Matei",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andrei.matei.7739",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T14:00:49.957Z",
+      "prospectSourceId": "prospect-muab66jq-yl6j7x",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-06T14:22:01.563Z"
+  "lastUpdated": "2026-10-07T14:00:49.958Z"
 }
