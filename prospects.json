@@ -1799,10 +1799,12 @@
       "name": "Andres J Correa Andres J Correa",
       "social": "https://facebook.com/andresjcorreav",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muy6nf9vdqcemr22sz",
+      "convertedAt": "2026-10-07T14:08:20.755Z"
     },
     {
       "id": "prospect-muab66jq-5uo7nx",
@@ -49457,5 +49459,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-07T14:03:52.044Z"
+  "lastUpdated": "2026-10-07T14:08:22.488Z"
 }
