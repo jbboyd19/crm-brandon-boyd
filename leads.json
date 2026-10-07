@@ -15088,7 +15088,27 @@
       "addedAt": "2026-10-07T14:00:49.957Z",
       "prospectSourceId": "prospect-muab66jq-yl6j7x",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muy6g8zp2g5eprsttmi",
+      "name": "Andrej Stjepcevic Andrej Stjepcevic",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andrej.stjepcevic",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T14:02:46.021Z",
+      "prospectSourceId": "prospect-muab66jq-y1om66",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-07T14:00:49.958Z"
+  "lastUpdated": "2026-10-07T14:02:46.022Z"
 }
