@@ -1743,10 +1743,12 @@
       "name": "Andrej Stjepcevic Andrej Stjepcevic",
       "social": "https://facebook.com/andrej.stjepcevic",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muy6g8zp2g5eprsttmi",
+      "convertedAt": "2026-10-07T14:02:46.021Z"
     },
     {
       "id": "prospect-muab66jq-aj481u",
@@ -49449,5 +49451,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-07T14:02:21.551Z"
+  "lastUpdated": "2026-10-07T14:02:47.265Z"
 }
