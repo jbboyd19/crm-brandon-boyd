@@ -1841,10 +1841,12 @@
       "name": "Andrew Culkin Andrew Culkin",
       "social": "https://facebook.com/culkinbiz",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muy6pe59ql4ncidndbi",
+      "convertedAt": "2026-10-07T14:09:52.606Z"
     },
     {
       "id": "prospect-muab66jq-j96mwf",
@@ -49427,5 +49429,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-07T14:09:32.164Z"
+  "lastUpdated": "2026-10-07T14:09:53.827Z"
 }
