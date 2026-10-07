@@ -1737,18 +1737,6 @@
       "convertedAt": "2026-10-07T14:00:49.957Z"
     },
     {
-      "id": "prospect-muab66jq-dyxr1j",
-      "firstName": "Andrei Voitenko",
-      "lastName": "Andrei Voitenko",
-      "name": "Andrei Voitenko Andrei Voitenko",
-      "social": "https://facebook.com/andrewvoitenk0",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jq-y1om66",
       "firstName": "Andrej Stjepcevic",
       "lastName": "Andrej Stjepcevic",
@@ -49461,5 +49449,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-07T14:00:51.973Z"
+  "lastUpdated": "2026-10-07T14:02:21.551Z"
 }
