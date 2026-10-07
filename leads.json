@@ -15108,7 +15108,27 @@
       "addedAt": "2026-10-07T14:02:46.021Z",
       "prospectSourceId": "prospect-muab66jq-y1om66",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muy6go5hvd6k0k7snsi",
+      "name": "AndreNsheila Wilson AndreNsheila Wilson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Graced2Wealth",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T14:03:05.669Z",
+      "prospectSourceId": "prospect-muab66jq-aj481u",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-07T14:02:46.022Z"
+  "lastUpdated": "2026-10-07T14:03:05.670Z"
 }
