@@ -15188,7 +15188,27 @@
       "addedAt": "2026-10-07T14:08:20.755Z",
       "prospectSourceId": "prospect-muab66jq-qoj6sy",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muy6nxvbewdksxw1r4s",
+      "name": "Andres Torres Andres Torres",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andrestorresoficial1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T14:08:44.856Z",
+      "prospectSourceId": "prospect-muab66jq-5uo7nx",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-07T14:08:20.756Z"
+  "lastUpdated": "2026-10-07T14:08:44.856Z"
 }
