@@ -1925,10 +1925,12 @@
       "name": "Andrew Jackson Andrew Jackson",
       "social": "https://facebook.com/andrew.jackson.319",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muy6ssg04o6dlrymj3i",
+      "convertedAt": "2026-10-07T14:12:31.104Z"
     },
     {
       "id": "prospect-muab66jq-55av3k",
@@ -49439,5 +49441,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-07T14:12:14.500Z"
+  "lastUpdated": "2026-10-07T14:12:32.548Z"
 }
