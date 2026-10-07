@@ -15148,7 +15148,27 @@
       "addedAt": "2026-10-07T14:03:28.303Z",
       "prospectSourceId": "prospect-muab66jq-zrkp63",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muy6hmxs3k7p1d0xy4c",
+      "name": "Andres G Gomez Andres G Gomez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/AndresgomezX17",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T14:03:50.752Z",
+      "prospectSourceId": "prospect-muab66jq-a51rjj",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-07T14:03:28.303Z"
+  "lastUpdated": "2026-10-07T14:03:50.752Z"
 }
