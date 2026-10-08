@@ -2079,10 +2079,12 @@
       "name": "Angelina Morrison Angelina Morrison",
       "social": "https://facebook.com/angelina.morrison.745239",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muzmtjc4wuzvicepo1a",
+      "convertedAt": "2026-10-08T14:28:45.988Z"
     },
     {
       "id": "prospect-muab66jq-ntgfk6",
@@ -49437,5 +49439,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-08T14:28:01.788Z"
+  "lastUpdated": "2026-10-08T14:28:47.984Z"
 }
