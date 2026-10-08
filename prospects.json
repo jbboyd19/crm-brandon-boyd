@@ -2135,10 +2135,12 @@
       "name": "Angelou Roberts Angelou Roberts",
       "social": "https://facebook.com/angelou.roberts",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muzmxng452j8bxd2n7r",
+      "convertedAt": "2026-10-08T14:31:57.940Z"
     },
     {
       "id": "prospect-muab66jq-4fe16g",
@@ -49445,5 +49447,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-08T14:31:38.106Z"
+  "lastUpdated": "2026-10-08T14:31:59.060Z"
 }
