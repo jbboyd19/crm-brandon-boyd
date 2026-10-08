@@ -15368,7 +15368,27 @@
       "addedAt": "2026-10-07T14:12:31.104Z",
       "prospectSourceId": "prospect-muab66jq-tu9r3t",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muzmf0u78liih3fmvmv",
+      "name": "Andrew Kujat Andrew Kujat",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andrew.kujat",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T14:17:28.832Z",
+      "prospectSourceId": "prospect-muab66jq-ckys3e",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-07T14:12:31.105Z"
+  "lastUpdated": "2026-10-08T14:17:28.833Z"
 }
