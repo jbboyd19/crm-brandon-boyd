@@ -2093,10 +2093,12 @@
       "name": "Angelina Reddick Angelina Reddick",
       "social": "https://facebook.com/angelina110900",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muzmu1jsntzo7wv2ez",
+      "convertedAt": "2026-10-08T14:29:09.592Z"
     },
     {
       "id": "prospect-muab66jq-1klmzc",
@@ -49439,5 +49441,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-08T14:28:47.984Z"
+  "lastUpdated": "2026-10-08T14:29:11.148Z"
 }
