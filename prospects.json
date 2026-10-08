@@ -2065,10 +2065,12 @@
       "name": "Angelina Angie Angelina Angie",
       "social": "https://facebook.com/angie.wan.336",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muzmsizwht06iu5r54",
+      "convertedAt": "2026-10-08T14:27:58.892Z"
     },
     {
       "id": "prospect-muab66jq-eyl76f",
@@ -49435,5 +49437,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-08T14:27:17.359Z"
+  "lastUpdated": "2026-10-08T14:28:01.788Z"
 }
