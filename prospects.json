@@ -1939,10 +1939,12 @@
       "name": "Andrew Kujat Andrew Kujat",
       "social": "https://facebook.com/andrew.kujat",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muzmf0u78liih3fmvmv",
+      "convertedAt": "2026-10-08T14:17:28.832Z"
     },
     {
       "id": "prospect-muab66jq-9ftel4",
@@ -49429,5 +49431,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-07T14:12:39.736Z"
+  "lastUpdated": "2026-10-08T14:17:30.651Z"
 }
