@@ -2023,10 +2023,12 @@
       "name": "Angel Knight Angel Knight",
       "social": "https://facebook.com/angelknightceo",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muzmlqc3obhddjr3qf",
+      "convertedAt": "2026-10-08T14:22:41.811Z"
     },
     {
       "id": "prospect-muab66jq-yn0gb7",
@@ -49429,5 +49431,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-08T14:22:22.045Z"
+  "lastUpdated": "2026-10-08T14:22:43.023Z"
 }
