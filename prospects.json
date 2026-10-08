@@ -2107,10 +2107,12 @@
       "name": "Angelo Bahia Angelo Bahia",
       "social": "https://facebook.com/angelo.bahia.5",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muzmweozbwpgf743des",
+      "convertedAt": "2026-10-08T14:30:59.939Z"
     },
     {
       "id": "prospect-muab66jq-e18ei1",
@@ -49441,5 +49443,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-08T14:29:11.148Z"
+  "lastUpdated": "2026-10-08T14:31:01.819Z"
 }
