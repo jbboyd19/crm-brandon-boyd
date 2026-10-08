@@ -15628,7 +15628,27 @@
       "addedAt": "2026-10-08T14:30:59.939Z",
       "prospectSourceId": "prospect-muab66jq-1klmzc",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "muzmx6vctdq71wq8x4",
+      "name": "Angelo Dejonckheere Angelo Dejonckheere",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/adejonckheere1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T14:31:36.457Z",
+      "prospectSourceId": "prospect-muab66jq-e18ei1",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-08T14:30:59.940Z"
+  "lastUpdated": "2026-10-08T14:31:36.457Z"
 }
