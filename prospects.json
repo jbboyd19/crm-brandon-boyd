@@ -2121,10 +2121,12 @@
       "name": "Angelo Dejonckheere Angelo Dejonckheere",
       "social": "https://facebook.com/adejonckheere1",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muzmx6vctdq71wq8x4",
+      "convertedAt": "2026-10-08T14:31:36.457Z"
     },
     {
       "id": "prospect-muab66jq-jtz6d9",
@@ -49443,5 +49445,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-08T14:31:01.819Z"
+  "lastUpdated": "2026-10-08T14:31:38.106Z"
 }
