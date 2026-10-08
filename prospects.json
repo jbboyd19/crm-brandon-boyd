@@ -1967,10 +1967,12 @@
       "name": "Andrew Whitlow Andrew Whitlow",
       "social": "https://facebook.com/andrew.whitlow.5",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muzmg8m37d9crmoonr",
+      "convertedAt": "2026-10-08T14:18:25.563Z"
     },
     {
       "id": "prospect-muab66jq-dhgub9",
@@ -49421,5 +49423,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-08T14:18:01.324Z"
+  "lastUpdated": "2026-10-08T14:18:26.730Z"
 }
