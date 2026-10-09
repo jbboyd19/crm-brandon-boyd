@@ -15788,7 +15788,27 @@
       "addedAt": "2026-10-09T13:40:47.304Z",
       "prospectSourceId": "prospect-muab66jq-54ff2u",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "mv10ov0tr3kaad2ecr",
+      "name": "Anna Cyma Anna Cyma",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/transformacja.emocjii",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T13:44:48.653Z",
+      "prospectSourceId": "prospect-muab66jq-94l2lu",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-09T13:40:47.305Z"
+  "lastUpdated": "2026-10-09T13:44:48.653Z"
 }
