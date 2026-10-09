@@ -2331,10 +2331,12 @@
       "name": "Anthony Butyn Anthony Butyn",
       "social": "https://facebook.com/anthony.butyn",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv10t5w8rhjquueg2u",
+      "convertedAt": "2026-10-09T13:48:09.368Z"
     },
     {
       "id": "prospect-muab66jr-4jdn2s",
@@ -49449,5 +49451,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-09T13:47:48.382Z"
+  "lastUpdated": "2026-10-09T13:48:11.104Z"
 }
