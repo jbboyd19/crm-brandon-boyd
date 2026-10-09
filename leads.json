@@ -15948,7 +15948,27 @@
       "addedAt": "2026-10-09T13:48:09.368Z",
       "prospectSourceId": "prospect-muab66jr-66k58y",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv10u6lzjbqugmd5fh",
+      "name": "Anthony Capotosti Anthony Capotosti",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/anthony.capotosti",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T13:48:56.951Z",
+      "prospectSourceId": "prospect-muab66jr-4jdn2s",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-09T13:48:09.369Z"
+  "lastUpdated": "2026-10-09T13:48:56.951Z"
 }
