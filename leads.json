@@ -15808,7 +15808,27 @@
       "addedAt": "2026-10-09T13:44:48.653Z",
       "prospectSourceId": "prospect-muab66jq-94l2lu",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "mv10pa2xi60dwav5zc",
+      "name": "Anna Konieczyńska Anna Konieczyńska",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cruellademon.official",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T13:45:08.169Z",
+      "prospectSourceId": "prospect-muab66jq-oggmhs",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-09T13:44:48.653Z"
+  "lastUpdated": "2026-10-09T13:45:08.169Z"
 }
