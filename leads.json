@@ -15708,7 +15708,27 @@
       "addedAt": "2026-10-09T13:38:52.820Z",
       "prospectSourceId": "prospect-muab66jq-6nnhxr",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "mv10hqaprtqiv8l4ah",
+      "name": "Ania Czarnecka Ania Czarnecka",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/a.czarnecka61",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T13:39:15.938Z",
+      "prospectSourceId": "prospect-muab66jq-pjtba1",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-09T13:38:52.821Z"
+  "lastUpdated": "2026-10-09T13:39:15.938Z"
 }
