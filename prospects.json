@@ -2303,10 +2303,12 @@
       "name": "Ant Elliott Ant Elliott",
       "social": "https://facebook.com/anthony.elliottii",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv10rdp5yb99mokb72e",
+      "convertedAt": "2026-10-09T13:46:46.169Z"
     },
     {
       "id": "prospect-muab66jr-4cqcca",
@@ -49457,5 +49459,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-09T13:46:28.480Z"
+  "lastUpdated": "2026-10-09T13:46:48.283Z"
 }
