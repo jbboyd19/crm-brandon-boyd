@@ -15688,7 +15688,27 @@
       "addedAt": "2026-10-09T13:38:31.240Z",
       "prospectSourceId": "prospect-muab66jq-4fe16g",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "mv10h8gkjpekb8azclh",
+      "name": "Angie Sandoya Angie Sandoya",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/angiie.gabriiela",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T13:38:52.820Z",
+      "prospectSourceId": "prospect-muab66jq-6nnhxr",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-09T13:38:31.240Z"
+  "lastUpdated": "2026-10-09T13:38:52.821Z"
 }
