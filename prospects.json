@@ -2345,10 +2345,12 @@
       "name": "Anthony Capotosti Anthony Capotosti",
       "social": "https://facebook.com/anthony.capotosti",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv10u6lzjbqugmd5fh",
+      "convertedAt": "2026-10-09T13:48:56.951Z"
     },
     {
       "id": "prospect-muab66jr-kgmnr2",
@@ -49451,5 +49453,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-09T13:48:11.104Z"
+  "lastUpdated": "2026-10-09T13:48:58.731Z"
 }
