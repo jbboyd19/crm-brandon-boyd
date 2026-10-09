@@ -2233,10 +2233,12 @@
       "name": "Anna Cyma Anna Cyma",
       "social": "https://facebook.com/transformacja.emocjii",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv10ov0tr3kaad2ecr",
+      "convertedAt": "2026-10-09T13:44:48.653Z"
     },
     {
       "id": "prospect-muab66jq-oggmhs",
@@ -49447,5 +49449,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-09T13:44:09.667Z"
+  "lastUpdated": "2026-10-09T13:44:50.160Z"
 }
