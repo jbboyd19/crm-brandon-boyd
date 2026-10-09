@@ -2261,10 +2261,12 @@
       "name": "Anna Kreamer Anna Kreamer",
       "social": "https://facebook.com/anna.kreamer",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv10q2pgd4nidr6cit",
+      "convertedAt": "2026-10-09T13:45:45.268Z"
     },
     {
       "id": "prospect-muab66jq-s46y6m",
@@ -49451,5 +49453,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-09T13:45:09.446Z"
+  "lastUpdated": "2026-10-09T13:45:47.027Z"
 }
