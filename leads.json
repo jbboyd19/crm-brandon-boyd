@@ -15848,7 +15848,27 @@
       "addedAt": "2026-10-09T13:45:45.268Z",
       "prospectSourceId": "prospect-muab66jq-x5yurf",
       "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
+    },
+    {
+      "id": "mv10qkac5wuyr2pzifq",
+      "name": "Anna Tomaszek Anna Tomaszek",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/anna.tomaszek.395",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T13:46:08.052Z",
+      "prospectSourceId": "prospect-muab66jq-s46y6m",
+      "prospectUploadedAt": "2026-09-20T21:08:26.150Z"
     }
   ],
-  "lastUpdated": "2026-10-09T13:45:45.269Z"
+  "lastUpdated": "2026-10-09T13:46:08.053Z"
 }
