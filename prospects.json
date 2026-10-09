@@ -2227,18 +2227,6 @@
       "convertedAt": "2026-10-09T13:40:47.304Z"
     },
     {
-      "id": "prospect-muab66jq-vehbp1",
-      "firstName": "Ann Torres",
-      "lastName": "Ann Torres",
-      "name": "Ann Torres Ann Torres",
-      "social": "https://facebook.com/ann.torres.58958",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jq-94l2lu",
       "firstName": "Anna Cyma",
       "lastName": "Anna Cyma",
@@ -49459,5 +49447,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-09T13:40:48.529Z"
+  "lastUpdated": "2026-10-09T13:44:09.667Z"
 }
