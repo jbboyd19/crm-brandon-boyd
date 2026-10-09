@@ -2275,10 +2275,12 @@
       "name": "Anna Tomaszek Anna Tomaszek",
       "social": "https://facebook.com/anna.tomaszek.395",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.150Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv10qkac5wuyr2pzifq",
+      "convertedAt": "2026-10-09T13:46:08.052Z"
     },
     {
       "id": "prospect-muab66jq-c0fzgf",
@@ -49453,5 +49455,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-09T13:45:47.027Z"
+  "lastUpdated": "2026-10-09T13:46:09.351Z"
 }
