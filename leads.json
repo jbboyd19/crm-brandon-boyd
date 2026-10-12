@@ -16228,7 +16228,27 @@
       "addedAt": "2026-10-12T13:29:38.871Z",
       "prospectSourceId": "prospect-muab66jr-zfn3ni",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv5ahckcniqaj9gxip",
+      "name": "Anthony Muchiri Anthony Muchiri",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/anthony.muchiri.14",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T13:29:59.004Z",
+      "prospectSourceId": "prospect-muab66jr-9p97p8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-12T13:29:38.871Z"
+  "lastUpdated": "2026-10-12T13:29:59.004Z"
 }
