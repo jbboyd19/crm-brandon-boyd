@@ -2499,10 +2499,12 @@
       "name": "Anthony Michael Anthony Michael",
       "social": "https://facebook.com/anthony.michael.94",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv5af6722teapxxqgx2",
+      "convertedAt": "2026-10-12T13:28:17.438Z"
     },
     {
       "id": "prospect-muab66jr-2k9qf6",
@@ -49425,5 +49427,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-12T13:27:35.619Z"
+  "lastUpdated": "2026-10-12T13:28:19.069Z"
 }
