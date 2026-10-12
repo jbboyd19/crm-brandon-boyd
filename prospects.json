@@ -2457,10 +2457,12 @@
       "name": "Anthony J. Teetaert Anthony J. Teetaert",
       "social": "https://facebook.com/anthony.teetaert",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv5ad6ya5vthkdbk61f",
+      "convertedAt": "2026-10-12T13:26:45.106Z"
     },
     {
       "id": "prospect-muab66jr-fzwnba",
@@ -49431,5 +49433,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-12T13:26:28.550Z"
+  "lastUpdated": "2026-10-12T13:26:46.379Z"
 }
