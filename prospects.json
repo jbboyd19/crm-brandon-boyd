@@ -2409,18 +2409,6 @@
       "convertedAt": "2026-10-12T13:25:15.290Z"
     },
     {
-      "id": "prospect-muab66jr-p78t3j",
-      "firstName": "Anthony Fx Antoine",
-      "lastName": "Anthony Fx Antoine",
-      "name": "Anthony Fx Antoine Anthony Fx Antoine",
-      "social": "https://facebook.com/anthonyfx.antoine",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jr-tav04a",
       "firstName": "Anthony Glencoe",
       "lastName": "Anthony Glencoe",
@@ -49437,5 +49425,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-12T13:25:16.460Z"
+  "lastUpdated": "2026-10-12T13:25:30.286Z"
 }
