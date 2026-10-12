@@ -2359,10 +2359,12 @@
       "name": "Anthony Deron Roberson Anthony Deron Roberson",
       "social": "https://facebook.com/aroberso04",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv5a91ncsy6arqrthui",
+      "convertedAt": "2026-10-12T13:23:31.608Z"
     },
     {
       "id": "prospect-muab66jr-0u8ol7",
@@ -49429,5 +49431,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-12T13:23:06.837Z"
+  "lastUpdated": "2026-10-12T13:23:32.944Z"
 }
