@@ -2353,18 +2353,6 @@
       "convertedAt": "2026-10-09T13:48:56.951Z"
     },
     {
-      "id": "prospect-muab66jr-kgmnr2",
-      "firstName": "Anthony Clark",
-      "lastName": "Anthony Clark",
-      "name": "Anthony Clark Anthony Clark",
-      "social": "https://facebook.com/anthony.clark.336717",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jr-933ifo",
       "firstName": "Anthony De Laere",
       "lastName": "Anthony De Laere",
@@ -49453,5 +49441,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-09T13:48:58.731Z"
+  "lastUpdated": "2026-10-12T13:23:01.755Z"
 }
