@@ -2443,10 +2443,12 @@
       "name": "Anthony Huffman Anthony Huffman",
       "social": "https://facebook.com/TheRealNinjah",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv5acsziqug1w3czvmq",
+      "convertedAt": "2026-10-12T13:26:27.006Z"
     },
     {
       "id": "prospect-muab66jr-3eexki",
@@ -49429,5 +49431,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-12T13:26:09.414Z"
+  "lastUpdated": "2026-10-12T13:26:28.550Z"
 }
