@@ -16108,7 +16108,27 @@
       "addedAt": "2026-10-12T13:26:27.006Z",
       "prospectSourceId": "prospect-muab66jr-ixzgas",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv5ad6ya5vthkdbk61f",
+      "name": "Anthony J. Teetaert Anthony J. Teetaert",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/anthony.teetaert",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T13:26:45.106Z",
+      "prospectSourceId": "prospect-muab66jr-3eexki",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-12T13:26:27.006Z"
+  "lastUpdated": "2026-10-12T13:26:45.107Z"
 }
