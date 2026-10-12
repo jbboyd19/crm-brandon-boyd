@@ -2493,18 +2493,6 @@
       "convertedAt": "2026-10-12T13:27:21.822Z"
     },
     {
-      "id": "prospect-muab66jr-tkk7r8",
-      "firstName": "Anthony Lombardo",
-      "lastName": "Anthony Lombardo",
-      "name": "Anthony Lombardo Anthony Lombardo",
-      "social": "https://facebook.com/anthony.lombardo.52459",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jr-3tcpkp",
       "firstName": "Anthony Michael",
       "lastName": "Anthony Michael",
@@ -49437,5 +49425,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-12T13:27:23.227Z"
+  "lastUpdated": "2026-10-12T13:27:35.619Z"
 }
