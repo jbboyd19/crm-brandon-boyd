@@ -2555,10 +2555,12 @@
       "name": "Anthony Ortiz Anthony Ortiz",
       "social": "https://facebook.com/ImAnthonyOrtiz",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv5ald5im026dh8cpdf",
+      "convertedAt": "2026-10-12T13:33:06.391Z"
     },
     {
       "id": "prospect-muab66jr-4pv29s",
@@ -49409,5 +49411,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-12T13:30:38.900Z"
+  "lastUpdated": "2026-10-12T13:33:08.119Z"
 }
