@@ -15968,7 +15968,27 @@
       "addedAt": "2026-10-09T13:48:56.951Z",
       "prospectSourceId": "prospect-muab66jr-4jdn2s",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv5a91ncsy6arqrthui",
+      "name": "Anthony Deron Roberson Anthony Deron Roberson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aroberso04",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T13:23:31.608Z",
+      "prospectSourceId": "prospect-muab66jr-otu5ej",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-09T13:48:56.951Z"
+  "lastUpdated": "2026-10-12T13:23:31.609Z"
 }
