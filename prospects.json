@@ -2353,18 +2353,6 @@
       "convertedAt": "2026-10-09T13:48:56.951Z"
     },
     {
-      "id": "prospect-muab66jr-933ifo",
-      "firstName": "Anthony De Laere",
-      "lastName": "Anthony De Laere",
-      "name": "Anthony De Laere Anthony De Laere",
-      "social": "https://facebook.com/de.anthony.5",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jr-otu5ej",
       "firstName": "Anthony Deron Roberson",
       "lastName": "Anthony Deron Roberson",
@@ -49441,5 +49429,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-12T13:23:01.755Z"
+  "lastUpdated": "2026-10-12T13:23:06.837Z"
 }
