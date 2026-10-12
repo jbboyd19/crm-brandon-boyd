@@ -2415,10 +2415,12 @@
       "name": "Anthony Glencoe Anthony Glencoe",
       "social": "https://facebook.com/anthony.glencoe",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv5abzm30cbiuhne7ce7",
+      "convertedAt": "2026-10-12T13:25:48.940Z"
     },
     {
       "id": "prospect-muab66jr-cieytb",
@@ -49425,5 +49427,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-12T13:25:30.286Z"
+  "lastUpdated": "2026-10-12T13:25:50.277Z"
 }
