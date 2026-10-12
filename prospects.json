@@ -2429,10 +2429,12 @@
       "name": "Anthony Herrera Anthony Herrera",
       "social": "https://facebook.com/anthony.herrera.98622",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv5acebp2asn4m0ap96",
+      "convertedAt": "2026-10-12T13:26:08.005Z"
     },
     {
       "id": "prospect-muab66jr-ixzgas",
@@ -49427,5 +49429,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-12T13:25:50.277Z"
+  "lastUpdated": "2026-10-12T13:26:09.414Z"
 }
