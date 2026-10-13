@@ -2751,10 +2751,12 @@
       "name": "Antonio Brutus Antonio Brutus",
       "social": "https://facebook.com/antonio.brutus.9",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv6t356b91or7hme2ca",
+      "convertedAt": "2026-10-13T14:58:35.123Z"
     },
     {
       "id": "prospect-muab66jr-y733km",
@@ -49389,5 +49391,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-13T14:58:17.471Z"
+  "lastUpdated": "2026-10-13T14:58:37.873Z"
 }
