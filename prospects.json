@@ -2689,18 +2689,6 @@
       "convertedAt": "2026-10-13T14:33:12.109Z"
     },
     {
-      "id": "prospect-muab66jr-v7wmvo",
-      "firstName": "Anthony Whiting",
-      "lastName": "Anthony Whiting",
-      "name": "Anthony Whiting Anthony Whiting",
-      "social": "https://facebook.com/anthony.whiting.12",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jr-lfliw6",
       "firstName": "Anthony Winter",
       "lastName": "Anthony Winter",
@@ -49417,5 +49405,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-13T14:33:14.640Z"
+  "lastUpdated": "2026-10-13T14:33:28.423Z"
 }
