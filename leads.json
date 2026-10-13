@@ -16428,7 +16428,27 @@
       "addedAt": "2026-10-13T14:14:32.778Z",
       "prospectSourceId": "prospect-muab66jr-4xl7e9",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv6s6i0dfp2ckjq6mhg",
+      "name": "Anthony Vue Anthony Vue",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/anthony.vue.908",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-13",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T14:33:12.109Z",
+      "prospectSourceId": "prospect-muab66jr-xck89i",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-13T14:14:32.779Z"
+  "lastUpdated": "2026-10-13T14:33:12.110Z"
 }
