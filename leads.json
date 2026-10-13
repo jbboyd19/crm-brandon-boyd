@@ -16488,7 +16488,27 @@
       "addedAt": "2026-10-13T14:34:40.891Z",
       "prospectSourceId": "prospect-muab66jr-vf50u4",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv6t1mg0hk8tsginm4c",
+      "name": "Anton Joseph Anton Joseph",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/antonjosephonline",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-13",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T14:57:24.192Z",
+      "prospectSourceId": "prospect-muab66jr-myo9op",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-13T14:34:40.891Z"
+  "lastUpdated": "2026-10-13T14:57:24.192Z"
 }
