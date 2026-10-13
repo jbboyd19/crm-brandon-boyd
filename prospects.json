@@ -2717,18 +2717,6 @@
       "convertedAt": "2026-10-13T14:34:40.891Z"
     },
     {
-      "id": "prospect-muab66jr-ewalbb",
-      "firstName": "Antoinette Gee",
-      "lastName": "Antoinette Gee",
-      "name": "Antoinette Gee Antoinette Gee",
-      "social": "https://facebook.com/antoinette.gee",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jr-myo9op",
       "firstName": "Anton Joseph",
       "lastName": "Anton Joseph",
@@ -49409,5 +49397,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-13T14:34:43.027Z"
+  "lastUpdated": "2026-10-13T14:55:12.038Z"
 }
