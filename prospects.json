@@ -2653,10 +2653,12 @@
       "name": "Anthony Sturge Anthony Sturge",
       "social": "https://facebook.com/tony.sturge",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv6rfnozap6dqkwjmr5",
+      "convertedAt": "2026-10-13T14:12:19.763Z"
     },
     {
       "id": "prospect-muab66jr-a3pe2g",
@@ -49423,5 +49425,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-13T14:11:57.447Z"
+  "lastUpdated": "2026-10-13T14:12:21.787Z"
 }
