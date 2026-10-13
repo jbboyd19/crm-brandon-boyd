@@ -2639,10 +2639,12 @@
       "name": "Anthony Stevens Anthony Stevens",
       "social": "https://facebook.com/somto.okoli.58",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv6rf5csrlf9a5ky3vq",
+      "convertedAt": "2026-10-13T14:11:55.996Z"
     },
     {
       "id": "prospect-muab66jr-trsy1s",
@@ -49421,5 +49423,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-13T14:11:38.775Z"
+  "lastUpdated": "2026-10-13T14:11:57.447Z"
 }
