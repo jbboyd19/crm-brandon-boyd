@@ -16388,7 +16388,27 @@
       "addedAt": "2026-10-13T14:11:55.996Z",
       "prospectSourceId": "prospect-muab66jr-d4330s",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv6rfnozap6dqkwjmr5",
+      "name": "Anthony Sturge Anthony Sturge",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/tony.sturge",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-13",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T14:12:19.763Z",
+      "prospectSourceId": "prospect-muab66jr-trsy1s",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-13T14:11:55.997Z"
+  "lastUpdated": "2026-10-13T14:12:19.764Z"
 }
