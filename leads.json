@@ -16268,7 +16268,27 @@
       "addedAt": "2026-10-12T13:33:06.391Z",
       "prospectSourceId": "prospect-muab66jr-3ta1re",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv6rcipfo2v3fl392ul",
+      "name": "Anthony Powell Anthony Powell",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/theanthonypowell",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-13",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T14:09:53.331Z",
+      "prospectSourceId": "prospect-muab66jr-4pv29s",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-12T13:33:06.391Z"
+  "lastUpdated": "2026-10-13T14:09:53.331Z"
 }
