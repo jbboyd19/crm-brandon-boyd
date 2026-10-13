@@ -2681,10 +2681,12 @@
       "name": "Anthony Vue Anthony Vue",
       "social": "https://facebook.com/anthony.vue.908",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv6s6i0dfp2ckjq6mhg",
+      "convertedAt": "2026-10-13T14:33:12.109Z"
     },
     {
       "id": "prospect-muab66jr-v7wmvo",
@@ -49415,5 +49417,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-13T14:14:34.916Z"
+  "lastUpdated": "2026-10-13T14:33:14.640Z"
 }
