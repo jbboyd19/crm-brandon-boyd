@@ -2695,10 +2695,12 @@
       "name": "Anthony Winter Anthony Winter",
       "social": "https://facebook.com/anthony.winter.jordan",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv6s7lwxnyueux0jge",
+      "convertedAt": "2026-10-13T14:34:03.825Z"
     },
     {
       "id": "prospect-muab66jr-vf50u4",
@@ -49405,5 +49407,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-13T14:33:28.423Z"
+  "lastUpdated": "2026-10-13T14:34:05.857Z"
 }
