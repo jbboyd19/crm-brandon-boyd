@@ -16508,7 +16508,27 @@
       "addedAt": "2026-10-13T14:57:24.192Z",
       "prospectSourceId": "prospect-muab66jr-myo9op",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv6t21n7o48n574blc",
+      "name": "Anton Van de Watering Anton Van de Watering",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/anton.vandewatering",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-13",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T14:57:43.891Z",
+      "prospectSourceId": "prospect-muab66jr-8jgse6",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-13T14:57:24.192Z"
+  "lastUpdated": "2026-10-13T14:57:43.892Z"
 }
