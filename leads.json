@@ -16368,7 +16368,27 @@
       "addedAt": "2026-10-13T14:11:37.428Z",
       "prospectSourceId": "prospect-muab66jr-5hu4pf",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv6rf5csrlf9a5ky3vq",
+      "name": "Anthony Stevens Anthony Stevens",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/somto.okoli.58",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-13",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T14:11:55.996Z",
+      "prospectSourceId": "prospect-muab66jr-d4330s",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-13T14:11:37.429Z"
+  "lastUpdated": "2026-10-13T14:11:55.997Z"
 }
