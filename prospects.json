@@ -2583,10 +2583,12 @@
       "name": "Anthony R Mack Jr. Anthony R Mack Jr.",
       "social": "https://facebook.com/amackjr1",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv6rd09t65yglhb3se",
+      "convertedAt": "2026-10-13T14:10:16.098Z"
     },
     {
       "id": "prospect-muab66jr-kv4snc",
@@ -49413,5 +49415,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-13T14:09:55.458Z"
+  "lastUpdated": "2026-10-13T14:10:17.496Z"
 }
