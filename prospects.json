@@ -2765,10 +2765,12 @@
       "name": "Antonio Cano Antonio Cano",
       "social": "https://facebook.com/cashflowrld",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv6t3z0hiiu6sk8ys8",
+      "convertedAt": "2026-10-13T14:59:13.793Z"
     },
     {
       "id": "prospect-muab66jr-bi5ri7",
@@ -49391,5 +49393,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-13T14:58:37.873Z"
+  "lastUpdated": "2026-10-13T14:59:15.762Z"
 }
