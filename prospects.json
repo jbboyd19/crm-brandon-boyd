@@ -2661,18 +2661,6 @@
       "convertedAt": "2026-10-13T14:12:19.763Z"
     },
     {
-      "id": "prospect-muab66jr-a3pe2g",
-      "firstName": "Anthony Tong",
-      "lastName": "Anthony Tong",
-      "name": "Anthony Tong Anthony Tong",
-      "social": "https://facebook.com/anthony.tong.946",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jr-4xl7e9",
       "firstName": "Anthony Vallone Jr.",
       "lastName": "Anthony Vallone Jr.",
@@ -49425,5 +49413,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-13T14:12:21.787Z"
+  "lastUpdated": "2026-10-13T14:14:06.808Z"
 }
