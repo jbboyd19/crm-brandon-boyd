@@ -16448,7 +16448,27 @@
       "addedAt": "2026-10-13T14:33:12.109Z",
       "prospectSourceId": "prospect-muab66jr-xck89i",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv6s7lwxnyueux0jge",
+      "name": "Anthony Winter Anthony Winter",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/anthony.winter.jordan",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-13",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T14:34:03.825Z",
+      "prospectSourceId": "prospect-muab66jr-lfliw6",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-13T14:33:12.110Z"
+  "lastUpdated": "2026-10-13T14:34:03.825Z"
 }
