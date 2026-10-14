@@ -16748,7 +16748,27 @@
       "addedAt": "2026-10-14T13:52:32.070Z",
       "prospectSourceId": "prospect-muab66jr-u6yjxc",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv866gert8jv6dbg4us",
+      "name": "Argel Mancilla Argel Mancilla",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/argel.mancilla",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T13:52:50.835Z",
+      "prospectSourceId": "prospect-muab66jr-kcdjg2",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-14T13:52:32.071Z"
+  "lastUpdated": "2026-10-14T13:52:50.836Z"
 }
