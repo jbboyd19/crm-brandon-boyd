@@ -16828,7 +16828,27 @@
       "addedAt": "2026-10-14T13:54:05.117Z",
       "prospectSourceId": "prospect-muab66jr-r7r0ut",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv868fkqbsj2u6cngk",
+      "name": "Ariel Jerez Ariel Jerez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/arieljerez11",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T13:54:23.066Z",
+      "prospectSourceId": "prospect-muab66jr-y4gjvp",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-14T13:54:05.117Z"
+  "lastUpdated": "2026-10-14T13:54:23.067Z"
 }
