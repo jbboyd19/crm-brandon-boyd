@@ -16476,14 +16476,14 @@
       "phone": "",
       "social": "https://facebook.com/allawrence74",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-13",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-10-13",
+      "lastModified": "2026-10-14",
       "dateAdded": "2026-10-13",
       "addedAt": "2026-10-13T14:34:40.891Z",
       "prospectSourceId": "prospect-muab66jr-vf50u4",
@@ -16870,5 +16870,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-14T13:54:42.087Z"
+  "lastUpdated": "2026-10-14T18:30:25.762Z"
 }
