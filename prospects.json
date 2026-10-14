@@ -2835,10 +2835,12 @@
       "name": "Antonio Sanchez Antonio Sanchez",
       "social": "https://facebook.com/aesjersey",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv864drqvuaxtv521ri",
+      "convertedAt": "2026-10-14T13:51:14.102Z"
     },
     {
       "id": "prospect-muab66jr-0vu6tt",
@@ -49401,5 +49403,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-14T13:50:56.109Z"
+  "lastUpdated": "2026-10-14T13:51:15.875Z"
 }
