@@ -16608,7 +16608,27 @@
       "addedAt": "2026-10-14T13:50:07.402Z",
       "prospectSourceId": "prospect-muab66jr-p2mdur",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv863hydiesqd06i7uj",
+      "name": "Antonio Lencic Antonio Lencic",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/antonio.lencic",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T13:50:32.869Z",
+      "prospectSourceId": "prospect-muab66jr-yirbzv",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-14T13:50:07.402Z"
+  "lastUpdated": "2026-10-14T13:50:32.870Z"
 }
