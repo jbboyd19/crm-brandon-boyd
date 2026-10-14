@@ -16588,7 +16588,27 @@
       "addedAt": "2026-10-14T13:49:44.335Z",
       "prospectSourceId": "prospect-muab66jr-bi5ri7",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv862yaylyl8ldqpjtb",
+      "name": "Antonio Cordeiro Antonio Cordeiro",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/antonio.cordeiro.613214",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T13:50:07.402Z",
+      "prospectSourceId": "prospect-muab66jr-p2mdur",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-14T13:49:44.336Z"
+  "lastUpdated": "2026-10-14T13:50:07.402Z"
 }
