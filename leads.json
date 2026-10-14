@@ -16708,7 +16708,27 @@
       "addedAt": "2026-10-14T13:51:52.404Z",
       "prospectSourceId": "prospect-muab66jr-7a85z3",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv865mvc3726doxw89q",
+      "name": "Arbi Mauril Arbi Mauril",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/arbi.mauril.50",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T13:52:12.552Z",
+      "prospectSourceId": "prospect-muab66jr-mdm5qh",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-14T13:51:52.404Z"
+  "lastUpdated": "2026-10-14T13:52:12.552Z"
 }
