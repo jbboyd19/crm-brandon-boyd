@@ -16848,7 +16848,27 @@
       "addedAt": "2026-10-14T13:54:23.066Z",
       "prospectSourceId": "prospect-muab66jr-y4gjvp",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv868u92twlqegow5xo",
+      "name": "Arild Bjørnestad Arild Bjørnestad",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/abbjornestad83",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T13:54:42.086Z",
+      "prospectSourceId": "prospect-muab66jr-k6oovj",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-14T13:54:23.067Z"
+  "lastUpdated": "2026-10-14T13:54:42.087Z"
 }
