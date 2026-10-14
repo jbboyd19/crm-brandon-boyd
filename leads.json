@@ -16788,7 +16788,27 @@
       "addedAt": "2026-10-14T13:53:21.268Z",
       "prospectSourceId": "prospect-muab66jr-66m46j",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv867m6h73v7e91rxyn",
+      "name": "Ari Maccabi Ari Maccabi",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/arimaccabiofficial",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T13:53:44.969Z",
+      "prospectSourceId": "prospect-muab66jr-sqegtr",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-14T13:53:21.269Z"
+  "lastUpdated": "2026-10-14T13:53:44.969Z"
 }
