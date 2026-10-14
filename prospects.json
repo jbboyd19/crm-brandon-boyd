@@ -2905,10 +2905,12 @@
       "name": "Argel Mancilla Argel Mancilla",
       "social": "https://facebook.com/argel.mancilla",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv866gert8jv6dbg4us",
+      "convertedAt": "2026-10-14T13:52:50.835Z"
     },
     {
       "id": "prospect-muab66jr-66m46j",
@@ -49411,5 +49413,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-14T13:52:34.015Z"
+  "lastUpdated": "2026-10-14T13:52:52.951Z"
 }
