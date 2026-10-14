@@ -16768,7 +16768,27 @@
       "addedAt": "2026-10-14T13:52:50.835Z",
       "prospectSourceId": "prospect-muab66jr-kcdjg2",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv8673w42u0vv3ax7rt",
+      "name": "Argen Joseph Argen Joseph",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/argen.joseph",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T13:53:21.268Z",
+      "prospectSourceId": "prospect-muab66jr-66m46j",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-14T13:52:50.836Z"
+  "lastUpdated": "2026-10-14T13:53:21.269Z"
 }
