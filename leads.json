@@ -16808,7 +16808,27 @@
       "addedAt": "2026-10-14T13:53:44.969Z",
       "prospectSourceId": "prospect-muab66jr-sqegtr",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv8681q5bz0qlk8ghma",
+      "name": "Ariah Rabby Ariah Rabby",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ariahrabby",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T13:54:05.117Z",
+      "prospectSourceId": "prospect-muab66jr-r7r0ut",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-14T13:53:44.969Z"
+  "lastUpdated": "2026-10-14T13:54:05.117Z"
 }
