@@ -16728,7 +16728,27 @@
       "addedAt": "2026-10-14T13:52:12.552Z",
       "prospectSourceId": "prospect-muab66jr-mdm5qh",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv8661xivs2hvzu34f",
+      "name": "Ardel Joseph Ardel Joseph",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ardel.joseph.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T13:52:32.070Z",
+      "prospectSourceId": "prospect-muab66jr-u6yjxc",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-14T13:52:12.552Z"
+  "lastUpdated": "2026-10-14T13:52:32.071Z"
 }
