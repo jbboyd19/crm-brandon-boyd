@@ -17106,7 +17106,25 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T13:34:29.503Z"
+    },
+    {
+      "id": "mv9kywhxemf0o4yzcg8",
+      "name": "Haseeb Ahmad",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T13:34:38.853Z"
     }
   ],
-  "lastUpdated": "2026-10-15T13:34:29.503Z"
+  "lastUpdated": "2026-10-15T13:34:38.853Z"
 }
