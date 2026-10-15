@@ -17124,7 +17124,25 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T13:34:38.853Z"
+    },
+    {
+      "id": "mv9kzb4bu6mwrx0qyh",
+      "name": "Shaheen Kahn",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T13:34:57.803Z"
     }
   ],
-  "lastUpdated": "2026-10-15T13:34:38.853Z"
+  "lastUpdated": "2026-10-15T13:34:57.803Z"
 }
