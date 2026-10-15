@@ -17142,7 +17142,25 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T13:34:57.803Z"
+    },
+    {
+      "id": "mv9l00fff5zltq0l0s9",
+      "name": "Saul Morga",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T13:35:30.603Z"
     }
   ],
-  "lastUpdated": "2026-10-15T13:34:57.803Z"
+  "lastUpdated": "2026-10-15T13:35:30.603Z"
 }
