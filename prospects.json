@@ -3109,18 +3109,6 @@
       "convertedAt": "2026-10-15T13:23:38.594Z"
     },
     {
-      "id": "prospect-muab66jr-mpl34s",
-      "firstName": "Arthur Amadi",
-      "lastName": "Arthur Amadi",
-      "name": "Arthur Amadi Arthur Amadi",
-      "social": "https://facebook.com/a1.yfr",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jr-a6obqa",
       "firstName": "Arthur Sedegbe",
       "lastName": "Arthur Sedegbe",
@@ -49381,5 +49369,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-15T13:23:40.620Z"
+  "lastUpdated": "2026-10-15T13:32:10.289Z"
 }
