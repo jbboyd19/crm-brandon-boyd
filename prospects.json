@@ -3115,10 +3115,12 @@
       "name": "Arthur Sedegbe Arthur Sedegbe",
       "social": "https://facebook.com/billionshunterfx",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv9kw36d09dff4z152we",
+      "convertedAt": "2026-10-15T13:32:27.541Z"
     },
     {
       "id": "prospect-muab66jr-d0t8vw",
@@ -49369,5 +49371,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-15T13:32:10.289Z"
+  "lastUpdated": "2026-10-15T13:32:29.177Z"
 }
