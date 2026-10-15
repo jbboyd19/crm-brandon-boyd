@@ -17178,7 +17178,25 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T13:35:47.919Z"
+    },
+    {
+      "id": "mv9l0qr3v9mklu09t0p",
+      "name": "Damon Douglas",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T13:36:04.719Z"
     }
   ],
-  "lastUpdated": "2026-10-15T13:35:47.919Z"
+  "lastUpdated": "2026-10-15T13:36:04.719Z"
 }
