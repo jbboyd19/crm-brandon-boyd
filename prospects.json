@@ -3045,10 +3045,12 @@
       "name": "Arne Ketelbuters Arne Ketelbuters",
       "social": "https://facebook.com/arne.ketelbuters",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv9khfd14f4fmiosr3b",
+      "convertedAt": "2026-10-15T13:21:03.493Z"
     },
     {
       "id": "prospect-muab66jr-c53619",
@@ -49395,5 +49397,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-15T13:20:43.391Z"
+  "lastUpdated": "2026-10-15T13:21:04.985Z"
 }
