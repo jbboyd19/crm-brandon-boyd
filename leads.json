@@ -16888,7 +16888,27 @@
       "addedAt": "2026-10-15T13:18:05.881Z",
       "prospectSourceId": "prospect-muab66jr-kf10ts",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv9ke4tjd7elf0bs54k",
+      "name": "Armando Estrada Armando Estrada",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/armando.estrada.696093",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T13:18:29.863Z",
+      "prospectSourceId": "prospect-muab66jr-axquh7",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-15T13:18:05.882Z"
+  "lastUpdated": "2026-10-15T13:18:29.863Z"
 }
