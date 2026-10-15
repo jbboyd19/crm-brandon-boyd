@@ -3129,10 +3129,12 @@
       "name": "Arthur Zablocki Arthur Zablocki",
       "social": "https://facebook.com/arthurzablocki",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv9kx77jss04svmdk7",
+      "convertedAt": "2026-10-15T13:33:19.423Z"
     },
     {
       "id": "prospect-muab66jr-bxscbg",
@@ -49371,5 +49373,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-15T13:32:29.177Z"
+  "lastUpdated": "2026-10-15T13:33:22.054Z"
 }
