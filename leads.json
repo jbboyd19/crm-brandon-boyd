@@ -17008,7 +17008,27 @@
       "addedAt": "2026-10-15T13:22:18.462Z",
       "prospectSourceId": "prospect-muab66jr-kbmvhs",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv9kjfsifq20k0usolm",
+      "name": "Art C. Guerrero Art C. Guerrero",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/art.a.guerrero",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T13:22:37.362Z",
+      "prospectSourceId": "prospect-muab66jr-56iazz",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-15T13:22:18.462Z"
+  "lastUpdated": "2026-10-15T13:22:37.362Z"
 }
