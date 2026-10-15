@@ -3025,18 +3025,6 @@
       "convertedAt": "2026-10-15T13:19:15.496Z"
     },
     {
-      "id": "prospect-muab66jr-q2nag1",
-      "firstName": "Armando Lopez",
-      "lastName": "Armando Lopez",
-      "name": "Armando Lopez Armando Lopez",
-      "social": "https://facebook.com/themandomadness",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jr-tq0qda",
       "firstName": "Armando Villa",
       "lastName": "Armando Villa",
@@ -49417,5 +49405,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-15T13:19:16.960Z"
+  "lastUpdated": "2026-10-15T13:19:42.408Z"
 }
