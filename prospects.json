@@ -3101,10 +3101,12 @@
       "name": "Arthur Abraham Arthur Abraham",
       "social": "https://facebook.com/beautyofparis",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mv9kkr1evhfdmbuf5j",
+      "convertedAt": "2026-10-15T13:23:38.594Z"
     },
     {
       "id": "prospect-muab66jr-mpl34s",
@@ -49379,5 +49381,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-15T13:22:38.784Z"
+  "lastUpdated": "2026-10-15T13:23:40.620Z"
 }
