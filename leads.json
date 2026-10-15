@@ -17196,7 +17196,25 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T13:36:04.719Z"
+    },
+    {
+      "id": "mv9l14hj3qdf9iy916p",
+      "name": "Monique Crain",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T13:36:22.519Z"
     }
   ],
-  "lastUpdated": "2026-10-15T13:36:04.719Z"
+  "lastUpdated": "2026-10-15T13:36:22.519Z"
 }
