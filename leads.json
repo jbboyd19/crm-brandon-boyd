@@ -17160,7 +17160,25 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T13:35:30.603Z"
+    },
+    {
+      "id": "mv9l0dsflr00iigvmof",
+      "name": "Kacper Musial",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T13:35:47.919Z"
     }
   ],
-  "lastUpdated": "2026-10-15T13:35:30.603Z"
+  "lastUpdated": "2026-10-15T13:35:47.919Z"
 }
