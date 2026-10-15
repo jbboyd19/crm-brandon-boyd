@@ -16948,7 +16948,27 @@
       "addedAt": "2026-10-15T13:20:12.311Z",
       "prospectSourceId": "prospect-muab66jr-tq0qda",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv9khfd14f4fmiosr3b",
+      "name": "Arne Ketelbuters Arne Ketelbuters",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/arne.ketelbuters",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T13:21:03.493Z",
+      "prospectSourceId": "prospect-muab66jr-49lzz7",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-15T13:20:12.311Z"
+  "lastUpdated": "2026-10-15T13:21:03.494Z"
 }
