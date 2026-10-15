@@ -16868,7 +16868,27 @@
       "addedAt": "2026-10-14T13:54:42.086Z",
       "prospectSourceId": "prospect-muab66jr-k6oovj",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mv9kdmbdrtpkw5pu9i",
+      "name": "Arinola Shegun Arinola Shegun",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/arinola.shegun",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T13:18:05.881Z",
+      "prospectSourceId": "prospect-muab66jr-kf10ts",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-15T01:05:51.661Z"
+  "lastUpdated": "2026-10-15T13:18:05.882Z"
 }
