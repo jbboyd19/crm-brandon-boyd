@@ -17454,7 +17454,27 @@
       "addedAt": "2026-10-16T14:10:16.604Z",
       "prospectSourceId": "prospect-muab66jr-dfc7tr",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mvb1px4t9z2wswajxzf",
+      "name": "Ashley Marie Nicole Ashley Marie Nicole",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ashley.m.nicole.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T14:11:19.421Z",
+      "prospectSourceId": "prospect-muab66jr-g25tkm",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-16T14:10:16.605Z"
+  "lastUpdated": "2026-10-16T14:11:19.422Z"
 }
