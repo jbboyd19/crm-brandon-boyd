@@ -3185,10 +3185,12 @@
       "name": "Arve Hannevig Arve Hannevig",
       "social": "https://facebook.com/hannevigarve",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvb1jbr0v3zf1cdvatc",
+      "convertedAt": "2026-10-16T14:06:11.772Z"
     },
     {
       "id": "prospect-muab66jr-3xc54q",
@@ -49379,5 +49381,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-16T14:03:56.825Z"
+  "lastUpdated": "2026-10-16T14:06:13.664Z"
 }
