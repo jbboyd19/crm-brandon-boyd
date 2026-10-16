@@ -17274,7 +17274,27 @@
       "addedAt": "2026-10-16T14:03:55.673Z",
       "prospectSourceId": "prospect-muab66jr-z2uwv9",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mvb1jbr0v3zf1cdvatc",
+      "name": "Arve Hannevig Arve Hannevig",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/hannevigarve",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T14:06:11.772Z",
+      "prospectSourceId": "prospect-muab66jr-rofj83",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-16T14:03:55.673Z"
+  "lastUpdated": "2026-10-16T14:06:11.772Z"
 }
