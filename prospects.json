@@ -3157,10 +3157,12 @@
       "name": "Arturo Mena Arturo Mena",
       "social": "https://facebook.com/arturo.mena.9638",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvb1ftc46ff6nn2y3th",
+      "convertedAt": "2026-10-16T14:03:27.940Z"
     },
     {
       "id": "prospect-muab66jr-z2uwv9",
@@ -49375,5 +49377,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-16T14:03:08.425Z"
+  "lastUpdated": "2026-10-16T14:03:29.258Z"
 }
