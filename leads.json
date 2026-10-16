@@ -17234,7 +17234,27 @@
       "addedAt": "2026-10-16T14:03:06.419Z",
       "prospectSourceId": "prospect-muab66jr-bxscbg",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mvb1ftc46ff6nn2y3th",
+      "name": "Arturo Mena Arturo Mena",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/arturo.mena.9638",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T14:03:27.940Z",
+      "prospectSourceId": "prospect-muab66jr-rmk92f",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-16T14:03:06.419Z"
+  "lastUpdated": "2026-10-16T14:03:27.940Z"
 }
