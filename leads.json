@@ -17214,7 +17214,27 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T13:36:22.519Z"
+    },
+    {
+      "id": "mvb1fcqbiy07io1hx88",
+      "name": "Artur Kaliski Artur Kaliski",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/artur.kaliski.business",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T14:03:06.419Z",
+      "prospectSourceId": "prospect-muab66jr-bxscbg",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-15T13:36:22.519Z"
+  "lastUpdated": "2026-10-16T14:03:06.419Z"
 }
