@@ -3339,10 +3339,12 @@
       "name": "Ashley Webb Ashley Webb",
       "social": "https://facebook.com/ashley.webb.980315",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvb1rhkpr9xfzykdbt",
+      "convertedAt": "2026-10-16T14:12:32.569Z"
     },
     {
       "id": "prospect-muab66jr-amo4l7",
@@ -49401,5 +49403,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-16T14:12:16.471Z"
+  "lastUpdated": "2026-10-16T14:12:33.999Z"
 }
