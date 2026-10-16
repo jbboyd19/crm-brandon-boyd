@@ -3213,10 +3213,12 @@
       "name": "Ash Islam Ash Islam",
       "social": "https://facebook.com/ashraf.islam3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvb1kblsa35zn56l7x",
+      "convertedAt": "2026-10-16T14:06:58.240Z"
     },
     {
       "id": "prospect-muab66jr-9rkpnr",
@@ -49383,5 +49385,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-16T14:06:37.320Z"
+  "lastUpdated": "2026-10-16T14:06:59.951Z"
 }
