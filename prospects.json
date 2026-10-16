@@ -3255,10 +3255,12 @@
       "name": "Ashley Anne Ashley Anne",
       "social": "https://facebook.com/Ashley.Anne.Nyholt",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvb1mg0mouj058ublo",
+      "convertedAt": "2026-10-16T14:08:37.270Z"
     },
     {
       "id": "prospect-muab66jr-7dhrci",
@@ -49389,5 +49391,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-16T14:07:46.850Z"
+  "lastUpdated": "2026-10-16T14:08:38.972Z"
 }
