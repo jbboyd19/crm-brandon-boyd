@@ -3199,10 +3199,12 @@
       "name": "Asanka Dharmasena Asanka Dharmasena",
       "social": "https://facebook.com/asanka.n.dharmasena",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvb1judv9szy81ndbj",
+      "convertedAt": "2026-10-16T14:06:35.923Z"
     },
     {
       "id": "prospect-muab66jr-0xymkx",
@@ -49381,5 +49383,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-16T14:06:13.664Z"
+  "lastUpdated": "2026-10-16T14:06:37.320Z"
 }
