@@ -17334,7 +17334,27 @@
       "addedAt": "2026-10-16T14:06:58.240Z",
       "prospectSourceId": "prospect-muab66jr-0xymkx",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mvb1kry5e3dxu3woeei",
+      "name": "Ashish Gupta Ashish Gupta",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Pallab.K.G",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T14:07:19.421Z",
+      "prospectSourceId": "prospect-muab66jr-9rkpnr",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-16T14:06:58.240Z"
+  "lastUpdated": "2026-10-16T14:07:19.422Z"
 }
