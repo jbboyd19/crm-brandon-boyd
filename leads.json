@@ -17394,7 +17394,27 @@
       "addedAt": "2026-10-16T14:08:37.270Z",
       "prospectSourceId": "prospect-muab66jr-5ls6rh",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mvb1n1v7d3attgpp67v",
+      "name": "Ashley Benjamin Ashley Benjamin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ashley.benjamin.9275",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T14:09:05.587Z",
+      "prospectSourceId": "prospect-muab66jr-7dhrci",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-16T14:08:37.270Z"
+  "lastUpdated": "2026-10-16T14:09:05.588Z"
 }
