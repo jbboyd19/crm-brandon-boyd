@@ -3311,10 +3311,12 @@
       "name": "Ashley Marie Nicole Ashley Marie Nicole",
       "social": "https://facebook.com/ashley.m.nicole.3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.151Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvb1px4t9z2wswajxzf",
+      "convertedAt": "2026-10-16T14:11:19.421Z"
     },
     {
       "id": "prospect-muab66jr-5gyf8m",
@@ -49397,5 +49399,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-16T14:10:18.714Z"
+  "lastUpdated": "2026-10-16T14:11:21.285Z"
 }
