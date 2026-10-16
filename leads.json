@@ -17434,7 +17434,27 @@
       "addedAt": "2026-10-16T14:09:31.739Z",
       "prospectSourceId": "prospect-muab66jr-3xsl6c",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mvb1oknwkrgzkm2qz7",
+      "name": "Ashley Cox Ashley Cox",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ashley.cox.568847",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T14:10:16.604Z",
+      "prospectSourceId": "prospect-muab66jr-dfc7tr",
+      "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-16T14:09:31.739Z"
+  "lastUpdated": "2026-10-16T14:10:16.605Z"
 }
