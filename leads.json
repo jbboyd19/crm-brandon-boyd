@@ -17442,12 +17442,12 @@
       "phone": "",
       "social": "https://facebook.com/ashley.cox.568847",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-16",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-10-19",
       "notes": "",
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
@@ -17536,5 +17536,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-16T14:13:03.370Z"
+  "lastUpdated": "2026-10-17T01:25:48.107Z"
 }
