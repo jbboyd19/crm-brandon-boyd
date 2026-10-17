@@ -17447,9 +17447,9 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-16",
-      "nextFollowUp": "2026-10-19",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-10-16",
+      "lastModified": "2026-10-17",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T14:10:16.604Z",
       "prospectSourceId": "prospect-muab66jr-dfc7tr",
@@ -17536,5 +17536,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
     }
   ],
-  "lastUpdated": "2026-10-17T01:25:48.107Z"
+  "lastUpdated": "2026-10-17T14:19:51.298Z"
 }
