@@ -17734,7 +17734,27 @@
       "addedAt": "2026-10-19T14:15:20.719Z",
       "prospectSourceId": "prospect-muab66js-q2vxs8",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvfc78wc13bpkuv3e6dh",
+      "name": "Audra Miller Audra Miller",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/audra.sommers.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T14:15:48.684Z",
+      "prospectSourceId": "prospect-muab66js-6y8i2n",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-19T14:15:20.719Z"
+  "lastUpdated": "2026-10-19T14:15:48.685Z"
 }
