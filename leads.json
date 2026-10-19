@@ -17674,7 +17674,27 @@
       "addedAt": "2026-10-19T14:14:03.885Z",
       "prospectSourceId": "prospect-muab66js-f7tizi",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvfc5dmkdflsbo208xt",
+      "name": "Atawana Brazil Williams Atawana Brazil Williams",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/atawana.brazil",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T14:14:21.500Z",
+      "prospectSourceId": "prospect-muab66js-k6gs6i",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-19T14:14:03.886Z"
+  "lastUpdated": "2026-10-19T14:14:21.501Z"
 }
