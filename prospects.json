@@ -3549,10 +3549,12 @@
       "name": "Augustine O Agyei Augustine O Agyei",
       "social": "https://facebook.com/augustine.agyei.54",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvfc9szlxws5ke9zlj",
+      "convertedAt": "2026-10-19T14:17:48.033Z"
     },
     {
       "id": "prospect-muab66js-rqf0gp",
@@ -49407,5 +49409,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-19T14:17:12.135Z"
+  "lastUpdated": "2026-10-19T14:17:50.300Z"
 }
