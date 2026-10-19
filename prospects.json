@@ -3423,10 +3423,12 @@
       "name": "Ask Anthony Ask Anthony",
       "social": "https://facebook.com/anthony.amponsah.35",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvfc3va33qszkgvoels",
+      "convertedAt": "2026-10-19T14:13:11.067Z"
     },
     {
       "id": "prospect-muab66js-mcpgfx",
@@ -49413,5 +49415,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-19T14:12:49.790Z"
+  "lastUpdated": "2026-10-19T14:13:17.578Z"
 }
