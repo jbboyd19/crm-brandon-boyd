@@ -17714,7 +17714,27 @@
       "addedAt": "2026-10-19T14:14:58.635Z",
       "prospectSourceId": "prospect-muab66js-66sxg7",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvfc6nbj8vk4n6nymey",
+      "name": "Aubrey Grant Aubrey Grant",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aubrey.grant1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T14:15:20.719Z",
+      "prospectSourceId": "prospect-muab66js-q2vxs8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-19T14:14:58.636Z"
+  "lastUpdated": "2026-10-19T14:15:20.719Z"
 }
