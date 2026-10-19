@@ -17534,7 +17534,27 @@
       "addedAt": "2026-10-16T14:13:03.370Z",
       "prospectSourceId": "prospect-muab66jr-amo4l7",
       "prospectUploadedAt": "2026-09-20T21:08:26.151Z"
+    },
+    {
+      "id": "mvfc23l3jiweezdokz",
+      "name": "Ashton Delgado Ashton Delgado",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ashtondegado",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T14:11:48.519Z",
+      "prospectSourceId": "prospect-muab66js-0vmat0",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-17T14:19:51.298Z"
+  "lastUpdated": "2026-10-19T14:11:48.520Z"
 }
