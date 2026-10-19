@@ -3479,10 +3479,12 @@
       "name": "Aubrey Bryan Jr. Aubrey Bryan Jr.",
       "social": "https://facebook.com/aubreyebryanjr",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvfc66a3qrf3clz65of",
+      "convertedAt": "2026-10-19T14:14:58.635Z"
     },
     {
       "id": "prospect-muab66js-q2vxs8",
@@ -49409,5 +49411,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-19T14:14:38.298Z"
+  "lastUpdated": "2026-10-19T14:15:00.073Z"
 }
