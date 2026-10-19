@@ -17814,7 +17814,27 @@
       "addedAt": "2026-10-19T14:17:48.033Z",
       "prospectSourceId": "prospect-muab66js-06gcho",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvfcacwa9qz48ek811b",
+      "name": "Augusto Bruscoli Augusto Bruscoli",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/AugustoBruscoli",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T14:18:13.834Z",
+      "prospectSourceId": "prospect-muab66js-rqf0gp",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-19T14:17:48.034Z"
+  "lastUpdated": "2026-10-19T14:18:13.834Z"
 }
