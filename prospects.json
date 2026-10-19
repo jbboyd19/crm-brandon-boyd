@@ -3563,10 +3563,12 @@
       "name": "Augusto Bruscoli Augusto Bruscoli",
       "social": "https://facebook.com/AugustoBruscoli",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvfcacwa9qz48ek811b",
+      "convertedAt": "2026-10-19T14:18:13.834Z"
     },
     {
       "id": "prospect-muab66js-zpsaqg",
@@ -49409,5 +49411,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-19T14:17:50.300Z"
+  "lastUpdated": "2026-10-19T14:18:15.491Z"
 }
