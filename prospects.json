@@ -3521,10 +3521,12 @@
       "name": "Augustine Alaneme Augustine Alaneme",
       "social": "https://facebook.com/AlanemeAugustine",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvfc8a2r3us26li7xoo",
+      "convertedAt": "2026-10-19T14:16:36.868Z"
     },
     {
       "id": "prospect-muab66js-2lnebr",
@@ -49403,5 +49405,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-19T14:16:11.932Z"
+  "lastUpdated": "2026-10-19T14:16:38.177Z"
 }
