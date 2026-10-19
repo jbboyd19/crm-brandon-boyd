@@ -17574,7 +17574,27 @@
       "addedAt": "2026-10-19T14:12:09.733Z",
       "prospectSourceId": "prospect-muab66js-m93aoi",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvfc2xx563qvw4gofhd",
+      "name": "Ashwin Deshmukh Ashwin Deshmukh",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ashwin.deshmukh.184",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T14:12:27.833Z",
+      "prospectSourceId": "prospect-muab66js-infnr0",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-19T14:12:09.733Z"
+  "lastUpdated": "2026-10-19T14:12:27.834Z"
 }
