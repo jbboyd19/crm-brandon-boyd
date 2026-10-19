@@ -17594,7 +17594,27 @@
       "addedAt": "2026-10-19T14:12:27.833Z",
       "prospectSourceId": "prospect-muab66js-infnr0",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvfc3dl3qhysz0nfbyg",
+      "name": "Asia Jones Asia Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/asia.jones.395454",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T14:12:48.135Z",
+      "prospectSourceId": "prospect-muab66js-esjful",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-19T14:12:27.834Z"
+  "lastUpdated": "2026-10-19T14:12:48.136Z"
 }
