@@ -3451,10 +3451,12 @@
       "name": "Asuanti Jones Asuanti Jones",
       "social": "https://facebook.com/asuanti.jones.1",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvfc5019ojr2e7l4rks",
+      "convertedAt": "2026-10-19T14:14:03.885Z"
     },
     {
       "id": "prospect-muab66js-k6gs6i",
@@ -49417,5 +49419,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-19T14:13:40.854Z"
+  "lastUpdated": "2026-10-19T14:14:05.122Z"
 }
