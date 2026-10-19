@@ -3409,10 +3409,12 @@
       "name": "Asia Jones Asia Jones",
       "social": "https://facebook.com/asia.jones.395454",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvfc3dl3qhysz0nfbyg",
+      "convertedAt": "2026-10-19T14:12:48.135Z"
     },
     {
       "id": "prospect-muab66js-cu1ill",
@@ -49411,5 +49413,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-19T14:12:29.172Z"
+  "lastUpdated": "2026-10-19T14:12:49.790Z"
 }
