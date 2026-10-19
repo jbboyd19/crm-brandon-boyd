@@ -3381,10 +3381,12 @@
       "name": "Ashton Gopaul Ashton Gopaul",
       "social": "https://facebook.com/ashton.starz.9",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvfc2jycv3gvubh0lmn",
+      "convertedAt": "2026-10-19T14:12:09.733Z"
     },
     {
       "id": "prospect-muab66js-infnr0",
@@ -49407,5 +49409,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-19T14:11:51.650Z"
+  "lastUpdated": "2026-10-19T14:12:11.083Z"
 }
