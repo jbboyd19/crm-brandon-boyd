@@ -3507,10 +3507,12 @@
       "name": "Audra Miller Audra Miller",
       "social": "https://facebook.com/audra.sommers.3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvfc78wc13bpkuv3e6dh",
+      "convertedAt": "2026-10-19T14:15:48.684Z"
     },
     {
       "id": "prospect-muab66js-f9ev8l",
@@ -49413,5 +49415,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-19T14:15:22.126Z"
+  "lastUpdated": "2026-10-19T14:15:49.785Z"
 }
