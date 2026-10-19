@@ -17614,7 +17614,27 @@
       "addedAt": "2026-10-19T14:12:48.135Z",
       "prospectSourceId": "prospect-muab66js-esjful",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvfc3va33qszkgvoels",
+      "name": "Ask Anthony Ask Anthony",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/anthony.amponsah.35",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T14:13:11.067Z",
+      "prospectSourceId": "prospect-muab66js-cu1ill",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-19T14:12:48.136Z"
+  "lastUpdated": "2026-10-19T14:13:11.068Z"
 }
