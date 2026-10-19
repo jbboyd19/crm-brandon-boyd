@@ -17754,7 +17754,27 @@
       "addedAt": "2026-10-19T14:15:48.684Z",
       "prospectSourceId": "prospect-muab66js-6y8i2n",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvfc8a2r3us26li7xoo",
+      "name": "Augustine Alaneme Augustine Alaneme",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/AlanemeAugustine",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T14:16:36.868Z",
+      "prospectSourceId": "prospect-muab66js-pmxvpo",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-19T14:15:48.685Z"
+  "lastUpdated": "2026-10-19T14:16:36.868Z"
 }
