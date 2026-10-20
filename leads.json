@@ -17834,7 +17834,25 @@
       "addedAt": "2026-10-19T14:18:13.834Z",
       "prospectSourceId": "prospect-muab66js-rqf0gp",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvgr0p8g7rhw1e6z7bh",
+      "name": "Nthabiseng Masilo",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": "2026-10-21",
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T13:58:23.681Z"
     }
   ],
-  "lastUpdated": "2026-10-19T14:18:13.834Z"
+  "lastUpdated": "2026-10-20T13:58:23.681Z"
 }
