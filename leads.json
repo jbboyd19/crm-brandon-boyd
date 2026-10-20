@@ -17972,7 +17972,27 @@
       "addedAt": "2026-10-20T14:14:43.455Z",
       "prospectSourceId": "prospect-muab66js-ifhoqq",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvgrm63xwaay0yk28la",
+      "name": "Avinash Biekram Avinash Biekram",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/avinash.biekram",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T14:15:05.325Z",
+      "prospectSourceId": "prospect-muab66js-wu1zpy",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-20T14:14:43.456Z"
+  "lastUpdated": "2026-10-20T14:15:05.326Z"
 }
