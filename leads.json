@@ -18092,7 +18092,27 @@
       "addedAt": "2026-10-20T14:17:29.126Z",
       "prospectSourceId": "prospect-muab66js-0rj83i",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvgrpykguhd9q3wdr3",
+      "name": "Azibato Faith Azibato Faith",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/azibato.faith",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T14:18:02.176Z",
+      "prospectSourceId": "prospect-muab66js-7hh1yz",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-20T14:17:29.126Z"
+  "lastUpdated": "2026-10-20T14:18:02.176Z"
 }
