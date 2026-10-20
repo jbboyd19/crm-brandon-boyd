@@ -3661,10 +3661,12 @@
       "name": "Avinash Biekram Avinash Biekram",
       "social": "https://facebook.com/avinash.biekram",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgrm63xwaay0yk28la",
+      "convertedAt": "2026-10-20T14:15:05.325Z"
     },
     {
       "id": "prospect-muab66js-xa9ai0",
@@ -49411,5 +49413,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T14:14:45.248Z"
+  "lastUpdated": "2026-10-20T14:15:06.818Z"
 }
