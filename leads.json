@@ -17872,7 +17872,27 @@
       "addedAt": "2026-10-20T14:12:17.194Z",
       "prospectSourceId": "prospect-muab66js-zpsaqg",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvgrjd8xbnutr6qr7hc",
+      "name": "Austill Crabtree Austill Crabtree",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/austill.crabtree",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T14:12:54.609Z",
+      "prospectSourceId": "prospect-muab66js-l5g3hn",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-20T14:12:17.194Z"
+  "lastUpdated": "2026-10-20T14:12:54.610Z"
 }
