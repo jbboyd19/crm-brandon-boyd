@@ -3585,18 +3585,6 @@
       "convertedAt": "2026-10-20T14:12:17.194Z"
     },
     {
-      "id": "prospect-muab66js-z1yf6m",
-      "firstName": "Austan Child",
-      "lastName": "Austan Child",
-      "name": "Austan Child Austan Child",
-      "social": "https://facebook.com/austan.child.3",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66js-l5g3hn",
       "firstName": "Austill Crabtree",
       "lastName": "Austill Crabtree",
@@ -49413,5 +49401,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T14:12:19.804Z"
+  "lastUpdated": "2026-10-20T14:12:29.523Z"
 }
