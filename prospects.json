@@ -3647,10 +3647,12 @@
       "name": "Avery A. Fortenberry Avery A. Fortenberry",
       "social": "https://facebook.com/avery.a.fortenberry.2025",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgrlp8fk8vz4wr10wt",
+      "convertedAt": "2026-10-20T14:14:43.455Z"
     },
     {
       "id": "prospect-muab66js-wu1zpy",
@@ -49409,5 +49411,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T14:14:11.216Z"
+  "lastUpdated": "2026-10-20T14:14:45.248Z"
 }
