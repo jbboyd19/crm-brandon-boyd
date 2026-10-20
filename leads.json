@@ -17892,7 +17892,27 @@
       "addedAt": "2026-10-20T14:12:54.609Z",
       "prospectSourceId": "prospect-muab66js-l5g3hn",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvgrjw0ecwkutpcnvhk",
+      "name": "Austin Fix Austin Fix",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/austin.fix.58",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T14:13:18.926Z",
+      "prospectSourceId": "prospect-muab66js-vvft3i",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-20T14:12:54.610Z"
+  "lastUpdated": "2026-10-20T14:13:18.926Z"
 }
