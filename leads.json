@@ -17932,7 +17932,27 @@
       "addedAt": "2026-10-20T14:13:44.191Z",
       "prospectSourceId": "prospect-muab66js-hp2jcl",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvgrkyrrsur4tnhgmr",
+      "name": "Austin Tanner Austin Tanner",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/austinltanner",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T14:14:09.159Z",
+      "prospectSourceId": "prospect-muab66js-dh3d4f",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-20T14:13:44.191Z"
+  "lastUpdated": "2026-10-20T14:14:09.159Z"
 }
