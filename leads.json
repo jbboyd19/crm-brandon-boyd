@@ -17952,7 +17952,27 @@
       "addedAt": "2026-10-20T14:14:09.159Z",
       "prospectSourceId": "prospect-muab66js-dh3d4f",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvgrlp8fk8vz4wr10wt",
+      "name": "Avery A. Fortenberry Avery A. Fortenberry",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/avery.a.fortenberry.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T14:14:43.455Z",
+      "prospectSourceId": "prospect-muab66js-ifhoqq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-20T14:14:09.159Z"
+  "lastUpdated": "2026-10-20T14:14:43.456Z"
 }
