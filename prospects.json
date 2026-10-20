@@ -3577,10 +3577,12 @@
       "name": "Auriel Serai Auriel Serai",
       "social": "https://facebook.com/taylor.robinson.758",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgrikdmzsbpedh8m5r",
+      "convertedAt": "2026-10-20T14:12:17.194Z"
     },
     {
       "id": "prospect-muab66js-z1yf6m",
@@ -49411,5 +49413,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-19T14:18:15.491Z"
+  "lastUpdated": "2026-10-20T14:12:19.804Z"
 }
