@@ -17912,7 +17912,27 @@
       "addedAt": "2026-10-20T14:13:18.926Z",
       "prospectSourceId": "prospect-muab66js-vvft3i",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvgrkfi7law92qmpg4l",
+      "name": "Austin Lowery Austin Lowery",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/austin.lowery.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T14:13:44.191Z",
+      "prospectSourceId": "prospect-muab66js-hp2jcl",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-20T14:13:18.926Z"
+  "lastUpdated": "2026-10-20T14:13:44.191Z"
 }
