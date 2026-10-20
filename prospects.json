@@ -3731,10 +3731,12 @@
       "name": "Azan Ahmer Azan Ahmer",
       "social": "https://facebook.com/azanahmer",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgrp92ef76anw2h37b",
+      "convertedAt": "2026-10-20T14:17:29.126Z"
     },
     {
       "id": "prospect-muab66js-7hh1yz",
@@ -49421,5 +49423,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T14:17:10.214Z"
+  "lastUpdated": "2026-10-20T14:17:30.491Z"
 }
