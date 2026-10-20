@@ -3619,10 +3619,12 @@
       "name": "Austin Lowery Austin Lowery",
       "social": "https://facebook.com/austin.lowery.9",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgrkfi7law92qmpg4l",
+      "convertedAt": "2026-10-20T14:13:44.191Z"
     },
     {
       "id": "prospect-muab66js-dh3d4f",
@@ -49405,5 +49407,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T14:13:20.838Z"
+  "lastUpdated": "2026-10-20T14:13:46.639Z"
 }
