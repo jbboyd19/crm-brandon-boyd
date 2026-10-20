@@ -17852,7 +17852,27 @@
       "lastModified": "2026-10-20",
       "dateAdded": "2026-10-20",
       "addedAt": "2026-10-20T13:58:23.681Z"
+    },
+    {
+      "id": "mvgrikdmzsbpedh8m5r",
+      "name": "Auriel Serai Auriel Serai",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/taylor.robinson.758",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T14:12:17.194Z",
+      "prospectSourceId": "prospect-muab66js-zpsaqg",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-20T13:58:38.312Z"
+  "lastUpdated": "2026-10-20T14:12:17.194Z"
 }
