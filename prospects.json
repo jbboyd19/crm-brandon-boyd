@@ -3717,10 +3717,12 @@
       "name": "Ayodeji Oladimeji Ayodeji Oladimeji",
       "social": "https://facebook.com/ayooladimeji.b",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgrosv2pz8e30crk1e",
+      "convertedAt": "2026-10-20T14:17:08.126Z"
     },
     {
       "id": "prospect-muab66js-0rj83i",
@@ -49419,5 +49421,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T14:16:33.108Z"
+  "lastUpdated": "2026-10-20T14:17:10.214Z"
 }
