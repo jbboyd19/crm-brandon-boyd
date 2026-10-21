@@ -18152,7 +18152,27 @@
       "addedAt": "2026-10-21T16:31:34.386Z",
       "prospectSourceId": "prospect-muab66js-utorb8",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvibyudofrfxthvckv7",
+      "name": "Bagus Sekawan Bagus Sekawan",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bagus.sekawan.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T16:32:35.148Z",
+      "prospectSourceId": "prospect-muab66js-84es9o",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-21T16:31:34.386Z"
+  "lastUpdated": "2026-10-21T16:32:35.149Z"
 }
