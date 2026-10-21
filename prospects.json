@@ -3815,10 +3815,12 @@
       "name": "Bairon Choconta Barrero Bairon Choconta Barrero",
       "social": "https://facebook.com/bairon.Oficial17",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvic8edw0k1emrmqee9",
+      "convertedAt": "2026-10-21T16:40:00.981Z"
     },
     {
       "id": "prospect-muab66js-587rdu",
@@ -49421,5 +49423,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T16:33:39.664Z"
+  "lastUpdated": "2026-10-21T16:40:04.108Z"
 }
