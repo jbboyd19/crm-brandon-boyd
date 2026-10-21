@@ -3829,10 +3829,12 @@
       "name": "Bajramović Almir Bajramović Almir",
       "social": "https://facebook.com/almir.bajramovic.733",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvic9633kdzar3we55a",
+      "convertedAt": "2026-10-21T16:40:36.879Z"
     },
     {
       "id": "prospect-muab66js-32k9oo",
@@ -49423,5 +49425,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T16:40:04.108Z"
+  "lastUpdated": "2026-10-21T16:40:39.509Z"
 }
