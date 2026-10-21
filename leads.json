@@ -18272,7 +18272,27 @@
       "addedAt": "2026-10-21T17:55:20.064Z",
       "prospectSourceId": "prospect-muab66js-832u4w",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mviexoqm3o31u4l1udx",
+      "name": "Barbara Weakley Barbara Weakley",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/barbara.weakley.77985",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T17:55:40.030Z",
+      "prospectSourceId": "prospect-muab66js-b365p1",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-21T17:55:20.064Z"
+  "lastUpdated": "2026-10-21T17:55:40.031Z"
 }
