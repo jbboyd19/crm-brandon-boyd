@@ -3843,10 +3843,12 @@
       "name": "Balwinder Marwaha Balwinder Marwaha",
       "social": "https://facebook.com/balwinder.marwaha",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mviewraz7zot8k8u4a9",
+      "convertedAt": "2026-10-21T17:54:56.699Z"
     },
     {
       "id": "prospect-muab66js-832u4w",
@@ -49425,5 +49427,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T16:40:39.509Z"
+  "lastUpdated": "2026-10-21T17:54:58.833Z"
 }
