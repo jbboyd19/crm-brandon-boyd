@@ -18392,7 +18392,27 @@
       "addedAt": "2026-10-21T17:58:15.413Z",
       "prospectSourceId": "prospect-muab66js-r98626",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvifawtec7lpm920lpp",
+      "name": "Barry Bevier Barry Bevier",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bbevier",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T18:05:57.026Z",
+      "prospectSourceId": "prospect-muab66js-ipuc60",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-21T17:58:15.414Z"
+  "lastUpdated": "2026-10-21T18:05:57.027Z"
 }
