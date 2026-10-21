@@ -3885,10 +3885,12 @@
       "name": "Barbora Papírníková Barbora Papírníková",
       "social": "https://facebook.com/barbora.povejsilova",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvieygvkdvkkug38vf",
+      "convertedAt": "2026-10-21T17:56:16.496Z"
     },
     {
       "id": "prospect-muab66js-xnsxc3",
@@ -49431,5 +49433,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T17:55:41.738Z"
+  "lastUpdated": "2026-10-21T17:56:18.092Z"
 }
