@@ -3857,10 +3857,12 @@
       "name": "Barbara Solly Barbara Solly",
       "social": "https://facebook.com/Bubssy",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mviex9c0v36ysbzitaq",
+      "convertedAt": "2026-10-21T17:55:20.064Z"
     },
     {
       "id": "prospect-muab66js-b365p1",
@@ -49427,5 +49429,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T17:54:58.833Z"
+  "lastUpdated": "2026-10-21T17:55:21.568Z"
 }
