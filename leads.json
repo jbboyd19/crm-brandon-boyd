@@ -18212,7 +18212,27 @@
       "addedAt": "2026-10-21T16:40:00.981Z",
       "prospectSourceId": "prospect-muab66js-tg3xy7",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvic9633kdzar3we55a",
+      "name": "Bajramović Almir Bajramović Almir",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/almir.bajramovic.733",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T16:40:36.879Z",
+      "prospectSourceId": "prospect-muab66js-587rdu",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-21T16:40:00.982Z"
+  "lastUpdated": "2026-10-21T16:40:36.880Z"
 }
