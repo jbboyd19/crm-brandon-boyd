@@ -3927,10 +3927,12 @@
       "name": "Barima Asuo Afram Barima Asuo Afram",
       "social": "https://facebook.com/AsuoBoy",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvieztyqvr2fyz9m4kf",
+      "convertedAt": "2026-10-21T17:57:20.114Z"
     },
     {
       "id": "prospect-muab66js-r98626",
@@ -49437,5 +49439,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T17:57:00.609Z"
+  "lastUpdated": "2026-10-21T17:57:21.341Z"
 }
