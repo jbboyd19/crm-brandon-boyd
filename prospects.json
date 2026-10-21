@@ -3899,10 +3899,12 @@
       "name": "Bari Drabczyk Bari Drabczyk",
       "social": "https://facebook.com/baridrabczyk",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvieyxac6ov6ai2klj4",
+      "convertedAt": "2026-10-21T17:56:37.764Z"
     },
     {
       "id": "prospect-muab66js-dmlyvu",
@@ -49433,5 +49435,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T17:56:18.092Z"
+  "lastUpdated": "2026-10-21T17:56:39.074Z"
 }
