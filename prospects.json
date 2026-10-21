@@ -3941,10 +3941,12 @@
       "name": "Barrett Carlon Barrett Carlon",
       "social": "https://facebook.com/carlon.barrett",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvif10mtrbi23u75ea",
+      "convertedAt": "2026-10-21T17:58:15.413Z"
     },
     {
       "id": "prospect-muab66js-ipuc60",
@@ -49439,5 +49441,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T17:57:21.341Z"
+  "lastUpdated": "2026-10-21T17:58:17.491Z"
 }
