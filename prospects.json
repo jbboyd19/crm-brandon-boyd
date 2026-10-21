@@ -3787,10 +3787,12 @@
       "name": "Bagus Sekawan Bagus Sekawan",
       "social": "https://facebook.com/bagus.sekawan.9",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvibyudofrfxthvckv7",
+      "convertedAt": "2026-10-21T16:32:35.148Z"
     },
     {
       "id": "prospect-muab66js-2lzqir",
@@ -49417,5 +49419,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T16:32:07.413Z"
+  "lastUpdated": "2026-10-21T16:32:36.944Z"
 }
