@@ -18292,7 +18292,27 @@
       "addedAt": "2026-10-21T17:55:40.030Z",
       "prospectSourceId": "prospect-muab66js-b365p1",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvieygvkdvkkug38vf",
+      "name": "Barbora Papírníková Barbora Papírníková",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/barbora.povejsilova",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T17:56:16.496Z",
+      "prospectSourceId": "prospect-muab66js-61d5tz",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-21T17:55:40.031Z"
+  "lastUpdated": "2026-10-21T17:56:16.496Z"
 }
