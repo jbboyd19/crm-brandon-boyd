@@ -3871,10 +3871,12 @@
       "name": "Barbara Weakley Barbara Weakley",
       "social": "https://facebook.com/barbara.weakley.77985",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mviexoqm3o31u4l1udx",
+      "convertedAt": "2026-10-21T17:55:40.030Z"
     },
     {
       "id": "prospect-muab66js-61d5tz",
@@ -49429,5 +49431,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T17:55:21.568Z"
+  "lastUpdated": "2026-10-21T17:55:41.738Z"
 }
