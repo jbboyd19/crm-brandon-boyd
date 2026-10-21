@@ -18192,7 +18192,27 @@
       "addedAt": "2026-10-21T16:33:36.598Z",
       "prospectSourceId": "prospect-muab66js-2lzqir",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvic8edw0k1emrmqee9",
+      "name": "Bairon Choconta Barrero Bairon Choconta Barrero",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bairon.Oficial17",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T16:40:00.981Z",
+      "prospectSourceId": "prospect-muab66js-tg3xy7",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-21T16:33:36.599Z"
+  "lastUpdated": "2026-10-21T16:40:00.982Z"
 }
