@@ -18252,7 +18252,27 @@
       "addedAt": "2026-10-21T17:54:56.699Z",
       "prospectSourceId": "prospect-muab66js-32k9oo",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mviex9c0v36ysbzitaq",
+      "name": "Barbara Solly Barbara Solly",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Bubssy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T17:55:20.064Z",
+      "prospectSourceId": "prospect-muab66js-832u4w",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-21T17:54:56.700Z"
+  "lastUpdated": "2026-10-21T17:55:20.064Z"
 }
