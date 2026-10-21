@@ -17847,9 +17847,9 @@
       "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-20",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-10-20",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-10-20",
       "addedAt": "2026-10-20T13:58:23.681Z"
     },
@@ -18134,5 +18134,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-20T16:31:26.220Z"
+  "lastUpdated": "2026-10-21T16:26:47.867Z"
 }
