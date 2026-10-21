@@ -18232,7 +18232,27 @@
       "addedAt": "2026-10-21T16:40:36.879Z",
       "prospectSourceId": "prospect-muab66js-587rdu",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mviewraz7zot8k8u4a9",
+      "name": "Balwinder Marwaha Balwinder Marwaha",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/balwinder.marwaha",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T17:54:56.699Z",
+      "prospectSourceId": "prospect-muab66js-32k9oo",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-21T16:40:36.880Z"
+  "lastUpdated": "2026-10-21T17:54:56.700Z"
 }
