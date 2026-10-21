@@ -3913,10 +3913,12 @@
       "name": "Bari Energy Bari Energy",
       "social": "https://facebook.com/bari.energy",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mviezd63vy7p8wcmpml",
+      "convertedAt": "2026-10-21T17:56:58.347Z"
     },
     {
       "id": "prospect-muab66js-e5k000",
@@ -49435,5 +49437,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T17:56:39.074Z"
+  "lastUpdated": "2026-10-21T17:57:00.609Z"
 }
