@@ -4179,10 +4179,12 @@
       "name": "Benjamin Allen Dahl Benjamin Allen Dahl",
       "social": "https://facebook.com/ben.a.dahl",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvjlx9m4uwgyfwto7lm",
+      "convertedAt": "2026-10-22T13:59:03.916Z"
     },
     {
       "id": "prospect-muab66js-fz41zf",
@@ -49437,5 +49439,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-22T13:58:53.538Z"
+  "lastUpdated": "2026-10-22T13:59:05.405Z"
 }
