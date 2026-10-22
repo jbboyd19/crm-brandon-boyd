@@ -3983,10 +3983,12 @@
       "name": "Barry Farrington Barry Farrington",
       "social": "https://facebook.com/barry.farrington",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvjlnyrlpoapslk34",
+      "convertedAt": "2026-10-22T13:51:49.953Z"
     },
     {
       "id": "prospect-muab66js-wx10f7",
@@ -49445,5 +49447,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-22T13:51:31.976Z"
+  "lastUpdated": "2026-10-22T13:51:51.431Z"
 }
