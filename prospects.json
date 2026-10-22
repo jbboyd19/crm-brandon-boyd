@@ -4165,10 +4165,12 @@
       "name": "Ben Roman Ben Roman",
       "social": "https://facebook.com/BenRRoman",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvjlx0js324b3q7vj38",
+      "convertedAt": "2026-10-22T13:58:52.168Z"
     },
     {
       "id": "prospect-muab66js-ku3v15",
@@ -49435,5 +49437,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-22T13:58:31.280Z"
+  "lastUpdated": "2026-10-22T13:58:53.538Z"
 }
