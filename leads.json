@@ -18672,7 +18672,27 @@
       "addedAt": "2026-10-22T13:56:40.984Z",
       "prospectSourceId": "prospect-muab66js-70eo21",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvjlvl8zi7tnai291e",
+      "name": "Bello Adeshola Bello Adeshola",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bello.adeshola.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T13:57:45.683Z",
+      "prospectSourceId": "prospect-muab66js-bfci4t",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-22T13:56:40.985Z"
+  "lastUpdated": "2026-10-22T13:57:45.684Z"
 }
