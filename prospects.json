@@ -4025,10 +4025,12 @@
       "name": "Barsham Murphy Barsham Murphy",
       "social": "https://facebook.com/barsham.murphy",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvjlp943g01zusw3kpp",
+      "convertedAt": "2026-10-22T13:52:50.019Z"
     },
     {
       "id": "prospect-muab66js-urkzkb",
@@ -49451,5 +49453,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-22T13:52:29.528Z"
+  "lastUpdated": "2026-10-22T13:52:51.204Z"
 }
