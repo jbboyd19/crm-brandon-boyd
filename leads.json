@@ -18712,7 +18712,27 @@
       "addedAt": "2026-10-22T13:58:52.168Z",
       "prospectSourceId": "prospect-muab66js-ddj8hs",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvjlx9m4uwgyfwto7lm",
+      "name": "Benjamin Allen Dahl Benjamin Allen Dahl",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ben.a.dahl",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T13:59:03.916Z",
+      "prospectSourceId": "prospect-muab66js-ku3v15",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-22T13:58:52.169Z"
+  "lastUpdated": "2026-10-22T13:59:03.917Z"
 }
