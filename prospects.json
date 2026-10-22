@@ -4109,10 +4109,12 @@
       "name": "Becky Figueroa Becky Figueroa",
       "social": "https://facebook.com/figueroabecky92",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvjlt6d77q3i3cq3zng",
+      "convertedAt": "2026-10-22T13:55:53.083Z"
     },
     {
       "id": "prospect-muab66js-oolpb0",
@@ -49451,5 +49453,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-22T13:55:15.413Z"
+  "lastUpdated": "2026-10-22T13:55:54.852Z"
 }
