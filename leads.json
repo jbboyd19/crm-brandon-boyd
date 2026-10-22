@@ -18632,7 +18632,27 @@
       "addedAt": "2026-10-22T13:55:53.083Z",
       "prospectSourceId": "prospect-muab66js-niivfd",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvjltnctoxztoe1kcyh",
+      "name": "Beezzee Bee Beezzee Bee",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brandon.cornwell.104",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T13:56:15.101Z",
+      "prospectSourceId": "prospect-muab66js-oolpb0",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-22T13:55:53.083Z"
+  "lastUpdated": "2026-10-22T13:56:15.101Z"
 }
