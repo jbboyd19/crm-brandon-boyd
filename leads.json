@@ -18532,7 +18532,27 @@
       "addedAt": "2026-10-22T13:53:11.853Z",
       "prospectSourceId": "prospect-muab66js-urkzkb",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvjlq8p2t2xzl0b27cb",
+      "name": "Bartosz Gryska Bartosz Gryska",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bartosz.gryska",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T13:53:36.134Z",
+      "prospectSourceId": "prospect-muab66js-dcva7j",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-22T13:53:11.854Z"
+  "lastUpdated": "2026-10-22T13:53:36.135Z"
 }
