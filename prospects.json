@@ -4383,18 +4383,6 @@
       "convertedAt": "2026-10-23T15:29:25.200Z"
     },
     {
-      "id": "prospect-muab66js-4w16pl",
-      "firstName": "Beth Richardson",
-      "lastName": "Beth Richardson",
-      "name": "Beth Richardson Beth Richardson",
-      "social": "https://facebook.com/beth.richardson.3304",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66js-33mcnr",
       "firstName": "Bigg Chieff",
       "lastName": "Bigg Chieff",
@@ -49455,5 +49443,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-23T15:29:26.584Z"
+  "lastUpdated": "2026-10-23T15:29:54.663Z"
 }
