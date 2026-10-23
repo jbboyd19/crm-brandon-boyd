@@ -18932,7 +18932,27 @@
       "addedAt": "2026-10-23T15:27:22.067Z",
       "prospectSourceId": "prospect-muab66js-5d04vr",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvl4j2v89nn619jo8wm",
+      "name": "Bert Martin Bert Martin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bert.martin.716",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T15:27:40.868Z",
+      "prospectSourceId": "prospect-muab66js-6n3iok",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:27:22.068Z"
+  "lastUpdated": "2026-10-23T15:27:40.869Z"
 }
