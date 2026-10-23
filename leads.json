@@ -18972,7 +18972,27 @@
       "addedAt": "2026-10-23T15:28:22.167Z",
       "prospectSourceId": "prospect-muab66js-ugb0ao",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvl4kql7i1ks6ptuxk",
+      "name": "Bertrand Tento Bertrand Tento",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/BTENTO",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T15:28:58.267Z",
+      "prospectSourceId": "prospect-muab66js-qis517",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:28:22.168Z"
+  "lastUpdated": "2026-10-23T15:28:58.267Z"
 }
