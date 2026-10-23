@@ -4403,10 +4403,12 @@
       "name": "Bikesh Shrestha Bikesh Shrestha",
       "social": "https://facebook.com/bikesh.shrestha.961",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvl4mvmb4ejmuu5sqyb",
+      "convertedAt": "2026-10-23T15:30:38.099Z"
     },
     {
       "id": "prospect-muab66js-cwhhe7",
@@ -49445,5 +49447,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-23T15:30:33.656Z"
+  "lastUpdated": "2026-10-23T15:30:39.329Z"
 }
