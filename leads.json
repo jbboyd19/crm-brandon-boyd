@@ -18872,7 +18872,27 @@
       "addedAt": "2026-10-23T15:24:33.168Z",
       "prospectSourceId": "prospect-muab66js-l5k43d",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvl4florm2fprt8c5y",
+      "name": "Bernard Mills Bernard Mills",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bernard.mills.50",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T15:24:58.635Z",
+      "prospectSourceId": "prospect-muab66js-2rbbbj",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:24:33.169Z"
+  "lastUpdated": "2026-10-23T15:24:58.636Z"
 }
