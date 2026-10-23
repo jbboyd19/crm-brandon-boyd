@@ -4425,18 +4425,6 @@
       "convertedAt": "2026-10-23T15:30:54.781Z"
     },
     {
-      "id": "prospect-muab66js-mwygk3",
-      "firstName": "Bill Carmon",
-      "lastName": "Bill Carmon",
-      "name": "Bill Carmon Bill Carmon",
-      "social": "https://facebook.com/bill.carmon",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66js-jyxwgl",
       "firstName": "Bill Soriano",
       "lastName": "Bill Soriano",
@@ -49449,5 +49437,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-23T15:30:55.949Z"
+  "lastUpdated": "2026-10-23T15:31:32.828Z"
 }
