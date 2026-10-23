@@ -4305,10 +4305,12 @@
       "name": "Bernhard Abrahamsen Bernhard Abrahamsen",
       "social": "https://facebook.com/bernhard.abrahamsen.73",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvl4g4lniwhuw405vyc",
+      "convertedAt": "2026-10-23T15:25:23.147Z"
     },
     {
       "id": "prospect-muab66js-5d04vr",
@@ -49443,5 +49445,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-23T15:24:59.977Z"
+  "lastUpdated": "2026-10-23T15:25:24.235Z"
 }
