@@ -18892,7 +18892,27 @@
       "addedAt": "2026-10-23T15:24:58.635Z",
       "prospectSourceId": "prospect-muab66js-2rbbbj",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvl4g4lniwhuw405vyc",
+      "name": "Bernhard Abrahamsen Bernhard Abrahamsen",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bernhard.abrahamsen.73",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T15:25:23.147Z",
+      "prospectSourceId": "prospect-muab66js-z33i35",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:24:58.636Z"
+  "lastUpdated": "2026-10-23T15:25:23.148Z"
 }
