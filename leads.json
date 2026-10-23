@@ -18912,7 +18912,27 @@
       "addedAt": "2026-10-23T15:25:23.147Z",
       "prospectSourceId": "prospect-muab66js-z33i35",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvl4ioczc26rkvhd89",
+      "name": "Bernie Butts Bernie Butts",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bernie.butts.96",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T15:27:22.067Z",
+      "prospectSourceId": "prospect-muab66js-5d04vr",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:25:23.148Z"
+  "lastUpdated": "2026-10-23T15:27:22.068Z"
 }
