@@ -4193,10 +4193,12 @@
       "name": "Benjamin Best Benjamin Best",
       "social": "https://facebook.com/b3njaml",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvl4b7f4tp8r40un0dq",
+      "convertedAt": "2026-10-23T15:21:33.520Z"
     },
     {
       "id": "prospect-muab66js-pwjcpw",
@@ -49439,5 +49441,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-22T13:59:05.405Z"
+  "lastUpdated": "2026-10-23T15:21:35.749Z"
 }
