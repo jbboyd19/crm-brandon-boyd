@@ -18812,7 +18812,27 @@
       "addedAt": "2026-10-23T15:23:22.035Z",
       "prospectSourceId": "prospect-muab66js-ycxwtk",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvl4e5gojf1maf63vmh",
+      "name": "Benji Lee Benji Lee",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/benj.wayman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T15:23:50.952Z",
+      "prospectSourceId": "prospect-muab66js-ln6gek",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:23:22.036Z"
+  "lastUpdated": "2026-10-23T15:23:50.953Z"
 }
