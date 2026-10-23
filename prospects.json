@@ -4389,10 +4389,12 @@
       "name": "Bigg Chieff Bigg Chieff",
       "social": "https://facebook.com/Binwrightofficial",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvl4mqvgou7kprbahb9",
+      "convertedAt": "2026-10-23T15:30:31.948Z"
     },
     {
       "id": "prospect-muab66js-xuynhy",
@@ -49443,5 +49445,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-23T15:29:54.663Z"
+  "lastUpdated": "2026-10-23T15:30:33.656Z"
 }
