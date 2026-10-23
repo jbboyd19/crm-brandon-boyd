@@ -4445,10 +4445,12 @@
       "name": "Billy Dwaydar Billy Dwaydar",
       "social": "https://facebook.com/billy.dwaydar",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvl4p5bzqnj61el84f",
+      "convertedAt": "2026-10-23T15:32:23.999Z"
     },
     {
       "id": "prospect-muab66js-rdzy3g",
@@ -49427,5 +49429,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-23T15:32:05.978Z"
+  "lastUpdated": "2026-10-23T15:32:25.272Z"
 }
