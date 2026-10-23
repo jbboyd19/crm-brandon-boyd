@@ -4333,10 +4333,12 @@
       "name": "Bert Martin Bert Martin",
       "social": "https://facebook.com/bert.martin.716",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvl4j2v89nn619jo8wm",
+      "convertedAt": "2026-10-23T15:27:40.868Z"
     },
     {
       "id": "prospect-muab66js-ugb0ao",
@@ -49447,5 +49449,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-23T15:27:23.850Z"
+  "lastUpdated": "2026-10-23T15:27:42.126Z"
 }
