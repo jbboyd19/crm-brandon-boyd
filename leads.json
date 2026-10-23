@@ -18952,7 +18952,27 @@
       "addedAt": "2026-10-23T15:27:40.868Z",
       "prospectSourceId": "prospect-muab66js-6n3iok",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvl4jyqfe3y7ln4zxwt",
+      "name": "Bertram Ramsay Bertram Ramsay",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bretramramsay",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T15:28:22.167Z",
+      "prospectSourceId": "prospect-muab66js-ugb0ao",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:27:40.869Z"
+  "lastUpdated": "2026-10-23T15:28:22.168Z"
 }
