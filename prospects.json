@@ -4417,10 +4417,12 @@
       "name": "Bill Bush Bill Bush",
       "social": "https://facebook.com/bill.bush.75098",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvl4n8hpk6s5wm0mk2",
+      "convertedAt": "2026-10-23T15:30:54.781Z"
     },
     {
       "id": "prospect-muab66js-mwygk3",
@@ -49447,5 +49449,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-23T15:30:39.329Z"
+  "lastUpdated": "2026-10-23T15:30:55.949Z"
 }
