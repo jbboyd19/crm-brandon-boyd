@@ -19092,7 +19092,27 @@
       "addedAt": "2026-10-23T15:31:55.298Z",
       "prospectSourceId": "prospect-muab66js-jyxwgl",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvl4p5bzqnj61el84f",
+      "name": "Billy Dwaydar Billy Dwaydar",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/billy.dwaydar",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T15:32:23.999Z",
+      "prospectSourceId": "prospect-muab66js-sfdtz1",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:31:55.299Z"
+  "lastUpdated": "2026-10-23T15:32:24.000Z"
 }
