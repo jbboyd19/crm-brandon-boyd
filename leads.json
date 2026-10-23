@@ -19052,7 +19052,27 @@
       "addedAt": "2026-10-23T15:30:38.099Z",
       "prospectSourceId": "prospect-muab66js-xuynhy",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvl4n8hpk6s5wm0mk2",
+      "name": "Bill Bush Bill Bush",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bill.bush.75098",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T15:30:54.781Z",
+      "prospectSourceId": "prospect-muab66js-cwhhe7",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:30:38.099Z"
+  "lastUpdated": "2026-10-23T15:30:54.781Z"
 }
