@@ -19152,7 +19152,25 @@
       "addedAt": "2026-10-23T15:33:12.131Z",
       "prospectSourceId": "prospect-muab66js-nr4v1l",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvlb5xjmg4w49t3nugr",
+      "name": "Ezokian",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T18:33:24.754Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:33:12.132Z"
+  "lastUpdated": "2026-10-23T18:33:24.755Z"
 }
