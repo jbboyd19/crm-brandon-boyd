@@ -18832,7 +18832,27 @@
       "addedAt": "2026-10-23T15:23:50.952Z",
       "prospectSourceId": "prospect-muab66js-ln6gek",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvl4ek7pk4wknzt6rvg",
+      "name": "Benny Valentino Benny Valentino",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/benjamin.stemberger",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T15:24:10.069Z",
+      "prospectSourceId": "prospect-muab66js-wl5kzs",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:23:50.953Z"
+  "lastUpdated": "2026-10-23T15:24:10.070Z"
 }
