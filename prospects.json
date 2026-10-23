@@ -4215,18 +4215,6 @@
       "convertedAt": "2026-10-23T15:22:11.202Z"
     },
     {
-      "id": "prospect-muab66js-wl438x",
-      "firstName": "Benjamin Heath",
-      "lastName": "Benjamin Heath",
-      "name": "Benjamin Heath Benjamin Heath",
-      "social": "https://facebook.com/benjaminhheath",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66js-8enumw",
       "firstName": "Benjamin Musukwa",
       "lastName": "Benjamin Musukwa",
@@ -49443,5 +49431,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-23T15:22:13.093Z"
+  "lastUpdated": "2026-10-23T15:22:23.982Z"
 }
