@@ -18792,7 +18792,27 @@
       "addedAt": "2026-10-23T15:22:51.703Z",
       "prospectSourceId": "prospect-muab66js-8enumw",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvl4dj5fonu33wplvhl",
+      "name": "Benjamin Navez Benjamin Navez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/benjamin.navez",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T15:23:22.035Z",
+      "prospectSourceId": "prospect-muab66js-ycxwtk",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:22:51.704Z"
+  "lastUpdated": "2026-10-23T15:23:22.036Z"
 }
