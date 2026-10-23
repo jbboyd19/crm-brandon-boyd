@@ -19032,7 +19032,27 @@
       "addedAt": "2026-10-23T15:30:31.948Z",
       "prospectSourceId": "prospect-muab66js-33mcnr",
       "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
+    },
+    {
+      "id": "mvl4mvmb4ejmuu5sqyb",
+      "name": "Bikesh Shrestha Bikesh Shrestha",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bikesh.shrestha.961",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T15:30:38.099Z",
+      "prospectSourceId": "prospect-muab66js-xuynhy",
+      "prospectUploadedAt": "2026-09-20T21:08:26.152Z"
     }
   ],
-  "lastUpdated": "2026-10-23T15:30:31.949Z"
+  "lastUpdated": "2026-10-23T15:30:38.099Z"
 }
