@@ -4319,10 +4319,12 @@
       "name": "Bernie Butts Bernie Butts",
       "social": "https://facebook.com/bernie.butts.96",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.152Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvl4ioczc26rkvhd89",
+      "convertedAt": "2026-10-23T15:27:22.067Z"
     },
     {
       "id": "prospect-muab66js-6n3iok",
@@ -49445,5 +49447,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-23T15:25:24.235Z"
+  "lastUpdated": "2026-10-23T15:27:23.850Z"
 }
