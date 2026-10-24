@@ -19165,12 +19165,12 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-23",
-      "nextFollowUp": "2026-10-26",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-10-23",
       "dateAdded": "2026-10-23",
       "addedAt": "2026-10-23T18:33:24.754Z"
     }
   ],
-  "lastUpdated": "2026-10-23T18:33:24.755Z"
+  "lastUpdated": "2026-10-24T03:28:57.721Z"
 }
