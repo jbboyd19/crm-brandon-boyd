@@ -4487,10 +4487,12 @@
       "name": "BJ Stephens BJ Stephens",
       "social": "https://facebook.com/goosebumpmomentsbyBJ",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvqpbyoiv6vtj0vqbun",
+      "convertedAt": "2026-10-27T13:08:51.666Z"
     },
     {
       "id": "prospect-muab66jt-96p72r",
@@ -49409,5 +49411,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-27T13:08:33.727Z"
+  "lastUpdated": "2026-10-27T13:08:52.928Z"
 }
