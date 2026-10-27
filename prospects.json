@@ -4669,10 +4669,12 @@
       "name": "Bob Miller Bob Miller",
       "social": "https://facebook.com/bob.miller.1217727",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvqpmvypcmwdw8pw158",
+      "convertedAt": "2026-10-27T13:17:21.361Z"
     },
     {
       "id": "prospect-muab66jt-4xc3w3",
@@ -49375,5 +49377,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-27T13:16:56.963Z"
+  "lastUpdated": "2026-10-27T13:17:22.814Z"
 }
