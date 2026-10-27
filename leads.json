@@ -19370,7 +19370,27 @@
       "addedAt": "2026-10-27T13:15:22.663Z",
       "prospectSourceId": "prospect-muab66jt-tos61p",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvqplamd6yjzf3clwol",
+      "name": "Bob Kerr Bob Kerr",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/robertbob.kerr.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-27",
+      "dateAdded": "2026-10-27",
+      "addedAt": "2026-10-27T13:16:07.045Z",
+      "prospectSourceId": "prospect-muab66jt-z1iwes",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-27T13:15:22.663Z"
+  "lastUpdated": "2026-10-27T13:16:07.046Z"
 }
