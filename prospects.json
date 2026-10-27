@@ -4543,10 +4543,12 @@
       "name": "Blaqk C-King Blaqk C-King",
       "social": "https://facebook.com/blaqkking",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvqpdsp7efc0cq1cfsd",
+      "convertedAt": "2026-10-27T13:10:17.227Z"
     },
     {
       "id": "prospect-muab66jt-1pdl5m",
@@ -49417,5 +49419,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-27T13:09:59.959Z"
+  "lastUpdated": "2026-10-27T13:10:18.492Z"
 }
