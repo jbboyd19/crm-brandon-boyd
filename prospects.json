@@ -4481,18 +4481,6 @@
       "convertedAt": "2026-10-23T15:33:12.131Z"
     },
     {
-      "id": "prospect-muab66jt-x7wb89",
-      "firstName": "Bishop Stewart",
-      "lastName": "Bishop Stewart",
-      "name": "Bishop Stewart Bishop Stewart",
-      "social": "https://facebook.com/KingBishopStewart",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jt-z208dp",
       "firstName": "BJ Stephens",
       "lastName": "BJ Stephens",
@@ -49421,5 +49409,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-27T13:08:18.428Z"
+  "lastUpdated": "2026-10-27T13:08:33.727Z"
 }
