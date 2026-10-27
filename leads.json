@@ -19290,7 +19290,27 @@
       "addedAt": "2026-10-27T13:10:47.779Z",
       "prospectSourceId": "prospect-muab66jt-1pdl5m",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvqpi48uqz4o7ft89ig",
+      "name": "Bo Bowidowicz Bo Bowidowicz",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bobowidowicz00",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-27",
+      "dateAdded": "2026-10-27",
+      "addedAt": "2026-10-27T13:13:38.814Z",
+      "prospectSourceId": "prospect-muab66jt-czhjpg",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-27T13:10:47.779Z"
+  "lastUpdated": "2026-10-27T13:13:38.815Z"
 }
