@@ -4481,18 +4481,6 @@
       "convertedAt": "2026-10-23T15:33:12.131Z"
     },
     {
-      "id": "prospect-muab66jt-o8rcvw",
-      "firstName": "Bishop Elim",
-      "lastName": "Bishop Elim",
-      "name": "Bishop Elim Bishop Elim",
-      "social": "https://facebook.com/bishop.elim",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jt-x7wb89",
       "firstName": "Bishop Stewart",
       "lastName": "Bishop Stewart",
@@ -49433,5 +49421,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-23T15:33:13.476Z"
+  "lastUpdated": "2026-10-27T13:08:18.428Z"
 }
