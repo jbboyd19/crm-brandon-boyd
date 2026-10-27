@@ -4529,10 +4529,12 @@
       "name": "Blanca Chapa Blanca Chapa",
       "social": "https://facebook.com/blanca.chapa.31",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvqpdei72qx6c0yy8hs",
+      "convertedAt": "2026-10-27T13:09:58.831Z"
     },
     {
       "id": "prospect-muab66jt-o7pu0e",
@@ -49415,5 +49417,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-27T13:09:43.698Z"
+  "lastUpdated": "2026-10-27T13:09:59.959Z"
 }
