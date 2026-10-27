@@ -19430,7 +19430,27 @@
       "addedAt": "2026-10-27T13:16:55.394Z",
       "prospectSourceId": "prospect-muab66jt-9dpqwi",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvqpmvypcmwdw8pw158",
+      "name": "Bob Miller Bob Miller",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bob.miller.1217727",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-27",
+      "dateAdded": "2026-10-27",
+      "addedAt": "2026-10-27T13:17:21.361Z",
+      "prospectSourceId": "prospect-muab66jt-6jeqp1",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-27T13:16:55.394Z"
+  "lastUpdated": "2026-10-27T13:17:21.362Z"
 }
