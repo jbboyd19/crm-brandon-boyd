@@ -19270,7 +19270,27 @@
       "addedAt": "2026-10-27T13:10:17.227Z",
       "prospectSourceId": "prospect-muab66jt-o7pu0e",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvqpeg9viduvez1f24a",
+      "name": "Blessed Leatualii Blessed Leatualii",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/leatualii",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-27",
+      "dateAdded": "2026-10-27",
+      "addedAt": "2026-10-27T13:10:47.779Z",
+      "prospectSourceId": "prospect-muab66jt-1pdl5m",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-27T13:10:17.228Z"
+  "lastUpdated": "2026-10-27T13:10:47.779Z"
 }
