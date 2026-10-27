@@ -4571,10 +4571,12 @@
       "name": "Bo Bowidowicz Bo Bowidowicz",
       "social": "https://facebook.com/bobowidowicz00",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvqpi48uqz4o7ft89ig",
+      "convertedAt": "2026-10-27T13:13:38.814Z"
     },
     {
       "id": "prospect-muab66jt-u7dvj5",
@@ -49421,5 +49423,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-27T13:10:48.905Z"
+  "lastUpdated": "2026-10-27T13:13:40.925Z"
 }
