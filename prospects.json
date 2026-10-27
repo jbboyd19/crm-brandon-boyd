@@ -4627,10 +4627,12 @@
       "name": "Bob Kerr Bob Kerr",
       "social": "https://facebook.com/robertbob.kerr.1",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvqplamd6yjzf3clwol",
+      "convertedAt": "2026-10-27T13:16:07.045Z"
     },
     {
       "id": "prospect-muab66jt-7iqom3",
@@ -49369,5 +49371,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-27T13:15:43.708Z"
+  "lastUpdated": "2026-10-27T13:16:08.453Z"
 }
