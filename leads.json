@@ -19330,7 +19330,27 @@
       "addedAt": "2026-10-27T13:14:19.846Z",
       "prospectSourceId": "prospect-muab66jt-ou0vd3",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvqpjxg01uxtjorkm6s",
+      "name": "Bob Gourley Bob Gourley",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bob.gourley.31",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-27",
+      "dateAdded": "2026-10-27",
+      "addedAt": "2026-10-27T13:15:03.312Z",
+      "prospectSourceId": "prospect-muab66jt-8mkrlq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-27T13:14:19.847Z"
+  "lastUpdated": "2026-10-27T13:15:03.313Z"
 }
