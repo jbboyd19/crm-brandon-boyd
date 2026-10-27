@@ -4683,10 +4683,12 @@
       "name": "Bob Reish Bob Reish",
       "social": "https://facebook.com/coachbobreish",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvqpnaadlp8x9jagl1",
+      "convertedAt": "2026-10-27T13:17:39.925Z"
     },
     {
       "id": "prospect-muab66jt-wopd5d",
@@ -49377,5 +49379,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-27T13:17:22.814Z"
+  "lastUpdated": "2026-10-27T13:17:41.167Z"
 }
