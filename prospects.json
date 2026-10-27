@@ -4585,10 +4585,12 @@
       "name": "Bob Bearden Bob Bearden",
       "social": "https://facebook.com/thebobbearden",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvqpizwmxuaghf32ba",
+      "convertedAt": "2026-10-27T13:14:19.846Z"
     },
     {
       "id": "prospect-muab66jt-4ptct8",
@@ -49411,5 +49413,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-27T13:13:46.342Z"
+  "lastUpdated": "2026-10-27T13:14:21.783Z"
 }
