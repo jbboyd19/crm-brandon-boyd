@@ -4515,10 +4515,12 @@
       "name": "Blake Wilson Blake Wilson",
       "social": "https://facebook.com/blake.wilson.370",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvqpd1v2oodulcs9pr",
+      "convertedAt": "2026-10-27T13:09:42.446Z"
     },
     {
       "id": "prospect-muab66jt-a9wwnf",
@@ -49413,5 +49415,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-27T13:09:16.910Z"
+  "lastUpdated": "2026-10-27T13:09:43.698Z"
 }
