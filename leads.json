@@ -19250,7 +19250,27 @@
       "addedAt": "2026-10-27T13:09:58.831Z",
       "prospectSourceId": "prospect-muab66jt-a9wwnf",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvqpdsp7efc0cq1cfsd",
+      "name": "Blaqk C-King Blaqk C-King",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/blaqkking",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-27",
+      "dateAdded": "2026-10-27",
+      "addedAt": "2026-10-27T13:10:17.227Z",
+      "prospectSourceId": "prospect-muab66jt-o7pu0e",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-27T13:09:58.831Z"
+  "lastUpdated": "2026-10-27T13:10:17.228Z"
 }
