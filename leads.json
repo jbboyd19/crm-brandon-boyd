@@ -19510,7 +19510,27 @@
       "addedAt": "2026-10-28T13:55:26.754Z",
       "prospectSourceId": "prospect-muab66jt-ed6jp0",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvs6ga4hgltki5sly7g",
+      "name": "Bobby Craig Bobby Craig",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Bobbyiswealthy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T13:55:52.769Z",
+      "prospectSourceId": "prospect-muab66jt-278h55",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T13:55:26.754Z"
+  "lastUpdated": "2026-10-28T13:55:52.770Z"
 }
