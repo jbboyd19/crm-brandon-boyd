@@ -4851,10 +4851,12 @@
       "name": "Boruch Gros Boruch Gros",
       "social": "https://facebook.com/abe.gros",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvs6sciw7ip13gcenzx",
+      "convertedAt": "2026-10-28T14:05:15.752Z"
     },
     {
       "id": "prospect-muab66jt-k0hqum",
@@ -49401,5 +49403,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-28T14:03:43.025Z"
+  "lastUpdated": "2026-10-28T14:05:18.134Z"
 }
