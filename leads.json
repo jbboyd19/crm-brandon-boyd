@@ -19630,7 +19630,27 @@
       "addedAt": "2026-10-28T13:57:46.419Z",
       "prospectSourceId": "prospect-muab66jt-c88g1s",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvs6j9k4bbazj0g7b5j",
+      "name": "Bodie Hannifey Bodie Hannifey",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bodie.hannifey",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T13:58:12.004Z",
+      "prospectSourceId": "prospect-muab66jt-0dregl",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T13:57:46.419Z"
+  "lastUpdated": "2026-10-28T13:58:12.004Z"
 }
