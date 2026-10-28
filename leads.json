@@ -19650,7 +19650,27 @@
       "addedAt": "2026-10-28T13:58:12.004Z",
       "prospectSourceId": "prospect-muab66jt-0dregl",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvs6px7vpha4jmd6x7",
+      "name": "Bogdan Vas Bogdan Vas",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Bboy1c3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T14:03:22.603Z",
+      "prospectSourceId": "prospect-muab66jt-wh5ktb",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T13:58:12.004Z"
+  "lastUpdated": "2026-10-28T14:03:22.603Z"
 }
