@@ -4823,10 +4823,12 @@
       "name": "Bogdan Vas Bogdan Vas",
       "social": "https://facebook.com/Bboy1c3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvs6px7vpha4jmd6x7",
+      "convertedAt": "2026-10-28T14:03:22.603Z"
     },
     {
       "id": "prospect-muab66jt-l8dle9",
@@ -49397,5 +49399,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-28T13:58:13.398Z"
+  "lastUpdated": "2026-10-28T14:03:24.432Z"
 }
