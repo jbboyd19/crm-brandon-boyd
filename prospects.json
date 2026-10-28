@@ -4697,10 +4697,12 @@
       "name": "Bob Richardson Bob Richardson",
       "social": "https://facebook.com/bob.richardson.16121",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvs6dm51jbb4vco88j",
+      "convertedAt": "2026-10-28T13:53:48.373Z"
     },
     {
       "id": "prospect-muab66jt-ed6jp0",
@@ -49379,5 +49381,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-27T13:17:41.167Z"
+  "lastUpdated": "2026-10-28T13:53:50.842Z"
 }
