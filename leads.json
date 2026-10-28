@@ -19590,7 +19590,27 @@
       "addedAt": "2026-10-28T13:57:03.520Z",
       "prospectSourceId": "prospect-muab66jt-597zs8",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvs6iavyplkc0b85n2f",
+      "name": "Bobby Schimmenti Bobby Schimmenti",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bschimmenti",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T13:57:27.070Z",
+      "prospectSourceId": "prospect-muab66jt-irt5sq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T13:57:03.521Z"
+  "lastUpdated": "2026-10-28T13:57:27.070Z"
 }
