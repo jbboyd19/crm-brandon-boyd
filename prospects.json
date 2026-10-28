@@ -4893,10 +4893,12 @@
       "name": "Brad Aspin Brad Aspin",
       "social": "https://facebook.com/emzagold",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvs6vyhgk4ll1013mvm",
+      "convertedAt": "2026-10-28T14:08:04.180Z"
     },
     {
       "id": "prospect-muab66jt-moq9ex",
@@ -49395,5 +49397,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-28T14:07:27.590Z"
+  "lastUpdated": "2026-10-28T14:08:06.915Z"
 }
