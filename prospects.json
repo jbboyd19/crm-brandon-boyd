@@ -4809,10 +4809,12 @@
       "name": "Bodie Hannifey Bodie Hannifey",
       "social": "https://facebook.com/bodie.hannifey",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvs6j9k4bbazj0g7b5j",
+      "convertedAt": "2026-10-28T13:58:12.004Z"
     },
     {
       "id": "prospect-muab66jt-wh5ktb",
@@ -49395,5 +49397,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-28T13:57:47.659Z"
+  "lastUpdated": "2026-10-28T13:58:13.398Z"
 }
