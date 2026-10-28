@@ -4865,10 +4865,12 @@
       "name": "Boyd Barlow Boyd Barlow",
       "social": "https://facebook.com/boyd.barlow.biohacker",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvs6ta6xieahtxxjvtf",
+      "convertedAt": "2026-10-28T14:05:59.385Z"
     },
     {
       "id": "prospect-muab66jt-qppptn",
@@ -49403,5 +49405,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-28T14:05:18.134Z"
+  "lastUpdated": "2026-10-28T14:06:01.103Z"
 }
