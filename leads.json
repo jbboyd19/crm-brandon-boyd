@@ -19550,7 +19550,27 @@
       "addedAt": "2026-10-28T13:56:14.871Z",
       "prospectSourceId": "prospect-muab66jt-yihqy9",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvs6h5fd7r82wvoov2e",
+      "name": "Bobby R Lucero Bobby R Lucero",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bobby.lucero.TheContingencyPlanner",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T13:56:33.337Z",
+      "prospectSourceId": "prospect-muab66jt-af29d6",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T13:56:14.871Z"
+  "lastUpdated": "2026-10-28T13:56:33.337Z"
 }
