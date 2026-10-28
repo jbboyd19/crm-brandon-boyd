@@ -19750,7 +19750,27 @@
       "addedAt": "2026-10-28T14:07:25.782Z",
       "prospectSourceId": "prospect-muab66jt-rsc43s",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvs6vyhgk4ll1013mvm",
+      "name": "Brad Aspin Brad Aspin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/emzagold",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T14:08:04.180Z",
+      "prospectSourceId": "prospect-muab66jt-72w7cr",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T14:07:25.783Z"
+  "lastUpdated": "2026-10-28T14:08:04.181Z"
 }
