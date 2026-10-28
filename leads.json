@@ -19570,7 +19570,27 @@
       "addedAt": "2026-10-28T13:56:33.337Z",
       "prospectSourceId": "prospect-muab66jt-af29d6",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvs6hsps8idxh2gihvv",
+      "name": "Bobby Robinson Bobby Robinson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bobby.robinson.3958",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T13:57:03.520Z",
+      "prospectSourceId": "prospect-muab66jt-597zs8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T13:56:33.337Z"
+  "lastUpdated": "2026-10-28T13:57:03.521Z"
 }
