@@ -19710,7 +19710,27 @@
       "addedAt": "2026-10-28T14:05:15.752Z",
       "prospectSourceId": "prospect-muab66jt-sjeqsr",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvs6ta6xieahtxxjvtf",
+      "name": "Boyd Barlow Boyd Barlow",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/boyd.barlow.biohacker",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T14:05:59.385Z",
+      "prospectSourceId": "prospect-muab66jt-k0hqum",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T14:05:15.752Z"
+  "lastUpdated": "2026-10-28T14:05:59.385Z"
 }
