@@ -4873,18 +4873,6 @@
       "convertedAt": "2026-10-28T14:05:59.385Z"
     },
     {
-      "id": "prospect-muab66jt-qppptn",
-      "firstName": "Boyd Ivey",
-      "lastName": "Boyd Ivey",
-      "name": "Boyd Ivey Boyd Ivey",
-      "social": "https://facebook.com/boyd.ivey",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jt-rsc43s",
       "firstName": "Bożydar Gruchalski",
       "lastName": "Bożydar Gruchalski",
@@ -49405,5 +49393,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-28T14:06:01.103Z"
+  "lastUpdated": "2026-10-28T14:06:58.398Z"
 }
