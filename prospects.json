@@ -4711,10 +4711,12 @@
       "name": "Bob Sidhu Bob Sidhu",
       "social": "https://facebook.com/bob.sidhu.964193",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvs6fq1uiyqy6xrtw4",
+      "convertedAt": "2026-10-28T13:55:26.754Z"
     },
     {
       "id": "prospect-muab66jt-278h55",
@@ -49381,5 +49383,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-28T13:53:50.842Z"
+  "lastUpdated": "2026-10-28T13:55:28.796Z"
 }
