@@ -19670,7 +19670,27 @@
       "addedAt": "2026-10-28T14:03:22.603Z",
       "prospectSourceId": "prospect-muab66jt-wh5ktb",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvs6qbv66ph3uzsvp6g",
+      "name": "Bolaji Phillips Bolaji Phillips",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bolaji.phillips.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T14:03:41.586Z",
+      "prospectSourceId": "prospect-muab66jt-l8dle9",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T14:03:22.603Z"
+  "lastUpdated": "2026-10-28T14:03:41.586Z"
 }
