@@ -4725,10 +4725,12 @@
       "name": "Bobby Craig Bobby Craig",
       "social": "https://facebook.com/Bobbyiswealthy",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvs6ga4hgltki5sly7g",
+      "convertedAt": "2026-10-28T13:55:52.769Z"
     },
     {
       "id": "prospect-muab66jt-yihqy9",
@@ -49383,5 +49385,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-28T13:55:28.796Z"
+  "lastUpdated": "2026-10-28T13:55:54.570Z"
 }
