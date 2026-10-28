@@ -19530,7 +19530,27 @@
       "addedAt": "2026-10-28T13:55:52.769Z",
       "prospectSourceId": "prospect-muab66jt-278h55",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvs6gr6exq95q9wrhsr",
+      "name": "Bobby Felder Bobby Felder",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bfelder5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T13:56:14.871Z",
+      "prospectSourceId": "prospect-muab66jt-yihqy9",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T13:55:52.770Z"
+  "lastUpdated": "2026-10-28T13:56:14.871Z"
 }
