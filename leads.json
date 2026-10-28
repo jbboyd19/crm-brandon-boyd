@@ -19730,7 +19730,27 @@
       "addedAt": "2026-10-28T14:05:59.385Z",
       "prospectSourceId": "prospect-muab66jt-k0hqum",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvs6v4uu8l4jbhim5ki",
+      "name": "Bożydar Gruchalski Bożydar Gruchalski",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bozydar.gruchalski",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T14:07:25.782Z",
+      "prospectSourceId": "prospect-muab66jt-rsc43s",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T14:05:59.385Z"
+  "lastUpdated": "2026-10-28T14:07:25.783Z"
 }
