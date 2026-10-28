@@ -19490,7 +19490,27 @@
       "addedAt": "2026-10-28T13:53:48.373Z",
       "prospectSourceId": "prospect-muab66jt-wopd5d",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvs6fq1uiyqy6xrtw4",
+      "name": "Bob Sidhu Bob Sidhu",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bob.sidhu.964193",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T13:55:26.754Z",
+      "prospectSourceId": "prospect-muab66jt-ed6jp0",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T13:53:48.374Z"
+  "lastUpdated": "2026-10-28T13:55:26.754Z"
 }
