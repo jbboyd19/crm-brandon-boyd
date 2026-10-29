@@ -19910,7 +19910,27 @@
       "addedAt": "2026-10-29T13:54:33.949Z",
       "prospectSourceId": "prospect-muab66jt-sq0y50",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvtlvxe1a15jce97vxb",
+      "name": "Brandon Acevedo Brandon Acevedo",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brandon.acevedo.3781",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-29",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T13:55:43.177Z",
+      "prospectSourceId": "prospect-muab66jt-soprhe",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-29T13:54:33.950Z"
+  "lastUpdated": "2026-10-29T13:55:43.178Z"
 }
