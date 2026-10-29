@@ -5111,18 +5111,6 @@
       "convertedAt": "2026-10-29T13:59:20.943Z"
     },
     {
-      "id": "prospect-muab66ju-ue03hr",
-      "firstName": "Brandon Godfrey",
-      "lastName": "Brandon Godfrey",
-      "name": "Brandon Godfrey Brandon Godfrey",
-      "social": "https://facebook.com/brandon.godfrey.98622",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66ju-y4t6f2",
       "firstName": "Brandon Goins",
       "lastName": "Brandon Goins",
@@ -49367,5 +49355,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-29T13:59:22.280Z"
+  "lastUpdated": "2026-10-29T13:59:34.145Z"
 }
