@@ -19830,7 +19830,27 @@
       "addedAt": "2026-10-29T13:49:51.217Z",
       "prospectSourceId": "prospect-muab66jt-d9zs9y",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvtlorzjbilpi8ondkt",
+      "name": "Brad Olson Brad Olson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brad.olson.98",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-29",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T13:50:09.583Z",
+      "prospectSourceId": "prospect-muab66jt-cexdnt",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-29T13:49:51.217Z"
+  "lastUpdated": "2026-10-29T13:50:09.584Z"
 }
