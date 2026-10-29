@@ -19810,7 +19810,27 @@
       "addedAt": "2026-10-29T13:49:28.786Z",
       "prospectSourceId": "prospect-muab66jt-49679z",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvtlodtd3vpnbmzb607",
+      "name": "Brad MacMayer Brad MacMayer",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Brad.MacMayer",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-29",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T13:49:51.217Z",
+      "prospectSourceId": "prospect-muab66jt-d9zs9y",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-29T13:49:28.788Z"
+  "lastUpdated": "2026-10-29T13:49:51.217Z"
 }
