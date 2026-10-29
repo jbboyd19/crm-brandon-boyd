@@ -5005,10 +5005,12 @@
       "name": "Brandon Acevedo Brandon Acevedo",
       "social": "https://facebook.com/brandon.acevedo.3781",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvtlvxe1a15jce97vxb",
+      "convertedAt": "2026-10-29T13:55:43.177Z"
     },
     {
       "id": "prospect-muab66jt-7bid47",
@@ -49363,5 +49365,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-29T13:55:21.812Z"
+  "lastUpdated": "2026-10-29T13:55:44.780Z"
 }
