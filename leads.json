@@ -19790,7 +19790,27 @@
       "addedAt": "2026-10-28T14:08:24.684Z",
       "prospectSourceId": "prospect-muab66jt-moq9ex",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvtlnwiaade8i3h4kzp",
+      "name": "Brad Lindstrom Brad Lindstrom",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brad.lindstrom",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-29",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T13:49:28.786Z",
+      "prospectSourceId": "prospect-muab66jt-49679z",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-28T14:08:24.684Z"
+  "lastUpdated": "2026-10-29T13:49:28.788Z"
 }
