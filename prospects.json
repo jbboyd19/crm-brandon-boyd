@@ -5103,10 +5103,12 @@
       "name": "Brandon Fournier Brandon Fournier",
       "social": "https://facebook.com/brandon.fournier.771",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvtm0lf39q8jk1g75gd",
+      "convertedAt": "2026-10-29T13:59:20.943Z"
     },
     {
       "id": "prospect-muab66ju-ue03hr",
@@ -49365,5 +49367,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-29T13:59:02.004Z"
+  "lastUpdated": "2026-10-29T13:59:22.280Z"
 }
