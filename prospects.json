@@ -5055,18 +5055,6 @@
       "convertedAt": "2026-10-29T13:56:55.527Z"
     },
     {
-      "id": "prospect-muab66ju-liat43",
-      "firstName": "Brandon Coleman",
-      "lastName": "Brandon Coleman",
-      "name": "Brandon Coleman Brandon Coleman",
-      "social": "https://facebook.com/bcoleman1906",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66ju-yyc6mt",
       "firstName": "Brandon Collier",
       "lastName": "Brandon Collier",
@@ -49371,5 +49359,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-29T13:56:56.973Z"
+  "lastUpdated": "2026-10-29T13:57:46.261Z"
 }
