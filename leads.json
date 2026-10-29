@@ -19870,7 +19870,27 @@
       "addedAt": "2026-10-29T13:50:29.831Z",
       "prospectSourceId": "prospect-muab66jt-w2cspt",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvtlt40655ywhdlj9ak",
+      "name": "Bradley Bell Bradley Bell",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Brad.Bell.J",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-29",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T13:53:31.782Z",
+      "prospectSourceId": "prospect-muab66jt-uhv7a8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-29T13:50:29.831Z"
+  "lastUpdated": "2026-10-29T13:53:31.783Z"
 }
