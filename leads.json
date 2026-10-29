@@ -19890,7 +19890,27 @@
       "addedAt": "2026-10-29T13:53:31.782Z",
       "prospectSourceId": "prospect-muab66jt-uhv7a8",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvtlufz1gp3git3ekl4",
+      "name": "Bradley Parker Bradley Parker",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bradley.parker.754365",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-29",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T13:54:33.949Z",
+      "prospectSourceId": "prospect-muab66jt-sq0y50",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-29T13:53:31.783Z"
+  "lastUpdated": "2026-10-29T13:54:33.950Z"
 }
