@@ -5089,10 +5089,12 @@
       "name": "Brandon Daniel Brandon Daniel",
       "social": "https://facebook.com/brandon.rhoades.125",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvtm05pt9aj291lkwke",
+      "convertedAt": "2026-10-29T13:59:00.593Z"
     },
     {
       "id": "prospect-muab66ju-30n968",
@@ -49363,5 +49365,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-29T13:58:39.680Z"
+  "lastUpdated": "2026-10-29T13:59:02.004Z"
 }
