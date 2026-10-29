@@ -4991,10 +4991,12 @@
       "name": "Bradley Parker Bradley Parker",
       "social": "https://facebook.com/bradley.parker.754365",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvtlufz1gp3git3ekl4",
+      "convertedAt": "2026-10-29T13:54:33.949Z"
     },
     {
       "id": "prospect-muab66jt-z41ybs",
@@ -49373,5 +49375,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-29T13:54:07.312Z"
+  "lastUpdated": "2026-10-29T13:54:35.357Z"
 }
