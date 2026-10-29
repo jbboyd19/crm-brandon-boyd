@@ -5111,18 +5111,6 @@
       "convertedAt": "2026-10-29T13:59:20.943Z"
     },
     {
-      "id": "prospect-muab66ju-y4t6f2",
-      "firstName": "Brandon Goins",
-      "lastName": "Brandon Goins",
-      "name": "Brandon Goins Brandon Goins",
-      "social": "https://facebook.com/brandon.goins",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66ju-aob5fr",
       "firstName": "Brandon Harbaugh",
       "lastName": "Brandon Harbaugh",
@@ -49355,5 +49343,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-29T13:59:34.145Z"
+  "lastUpdated": "2026-10-29T13:59:37.594Z"
 }
