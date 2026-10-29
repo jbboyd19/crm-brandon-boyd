@@ -4963,10 +4963,12 @@
       "name": "Brad Rabe Brad Rabe",
       "social": "https://facebook.com/bradravenrabe52",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvtlp7lzt8k52z6ol7",
+      "convertedAt": "2026-10-29T13:50:29.831Z"
     },
     {
       "id": "prospect-muab66jt-f1ggyq",
@@ -49405,5 +49407,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-29T13:50:11.159Z"
+  "lastUpdated": "2026-10-29T13:50:31.117Z"
 }
