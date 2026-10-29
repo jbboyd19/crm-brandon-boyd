@@ -20010,7 +20010,27 @@
       "addedAt": "2026-10-29T13:58:17.094Z",
       "prospectSourceId": "prospect-muab66ju-yyc6mt",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mvtlzoe7t7aw8ti2ywf",
+      "name": "Brandon Dagrava Brandon Dagrava",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brandon.dagrava",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-29",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T13:58:38.143Z",
+      "prospectSourceId": "prospect-muab66ju-ttwkwz",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-10-29T13:58:17.094Z"
+  "lastUpdated": "2026-10-29T13:58:38.144Z"
 }
