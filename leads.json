@@ -19930,7 +19930,27 @@
       "addedAt": "2026-10-29T13:55:43.177Z",
       "prospectSourceId": "prospect-muab66jt-soprhe",
       "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
+    },
+    {
+      "id": "mvtlwi17gr6frr0djt",
+      "name": "Brandon Allred Brandon Allred",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brandon.allred.16",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-29",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T13:56:09.931Z",
+      "prospectSourceId": "prospect-muab66jt-7bid47",
+      "prospectUploadedAt": "2026-09-20T21:08:26.153Z"
     }
   ],
-  "lastUpdated": "2026-10-29T13:55:43.178Z"
+  "lastUpdated": "2026-10-29T13:56:09.932Z"
 }
