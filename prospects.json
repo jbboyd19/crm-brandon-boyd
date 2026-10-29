@@ -4921,10 +4921,12 @@
       "name": "Brad Lindstrom Brad Lindstrom",
       "social": "https://facebook.com/brad.lindstrom",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvtlnwiaade8i3h4kzp",
+      "convertedAt": "2026-10-29T13:49:28.787Z"
     },
     {
       "id": "prospect-muab66jt-d9zs9y",
@@ -49399,5 +49401,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-28T14:08:26.117Z"
+  "lastUpdated": "2026-10-29T13:49:32.158Z"
 }
