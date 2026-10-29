@@ -5075,10 +5075,12 @@
       "name": "Brandon Dagrava Brandon Dagrava",
       "social": "https://facebook.com/brandon.dagrava",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvtlzoe7t7aw8ti2ywf",
+      "convertedAt": "2026-10-29T13:58:38.143Z"
     },
     {
       "id": "prospect-muab66ju-5hqn1q",
@@ -49361,5 +49363,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-29T13:58:18.690Z"
+  "lastUpdated": "2026-10-29T13:58:39.680Z"
 }
