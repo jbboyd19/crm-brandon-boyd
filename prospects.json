@@ -5061,10 +5061,12 @@
       "name": "Brandon Collier Brandon Collier",
       "social": "https://facebook.com/brandon.collier.16",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvtlz85hj8hi128xt8",
+      "convertedAt": "2026-10-29T13:58:17.094Z"
     },
     {
       "id": "prospect-muab66ju-ttwkwz",
@@ -49359,5 +49361,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-29T13:57:46.261Z"
+  "lastUpdated": "2026-10-29T13:58:18.690Z"
 }
