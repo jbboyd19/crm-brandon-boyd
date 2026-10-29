@@ -4977,10 +4977,12 @@
       "name": "Bradley Bell Bradley Bell",
       "social": "https://facebook.com/Brad.Bell.J",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.153Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvtlt40655ywhdlj9ak",
+      "convertedAt": "2026-10-29T13:53:31.782Z"
     },
     {
       "id": "prospect-muab66jt-5jvsu8",
@@ -49383,5 +49385,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-29T13:50:53.913Z"
+  "lastUpdated": "2026-10-29T13:53:33.623Z"
 }
