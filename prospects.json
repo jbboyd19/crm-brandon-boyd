@@ -5257,10 +5257,12 @@
       "name": "Brandon Rickman Brandon Rickman",
       "social": "https://facebook.com/brandon.rickman.431258",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvv0v2585ax3fda5k4",
+      "convertedAt": "2026-10-30T13:42:43.100Z"
     },
     {
       "id": "prospect-muab66ju-av0cyd",
@@ -49351,5 +49353,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-30T13:42:27.389Z"
+  "lastUpdated": "2026-10-30T13:42:44.765Z"
 }
