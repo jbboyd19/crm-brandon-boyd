@@ -5285,10 +5285,12 @@
       "name": "Brandon Tillman Brandon Tillman",
       "social": "https://facebook.com/brandontillman5",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvv0w42iemaaxmhizy4",
+      "convertedAt": "2026-10-30T13:43:32.250Z"
     },
     {
       "id": "prospect-muab66ju-vwyygg",
@@ -49331,5 +49333,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-30T13:43:17.696Z"
+  "lastUpdated": "2026-10-30T13:43:34.768Z"
 }
