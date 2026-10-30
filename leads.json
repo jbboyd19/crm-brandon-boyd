@@ -20370,7 +20370,27 @@
       "addedAt": "2026-10-30T13:44:07.066Z",
       "prospectSourceId": "prospect-muab66ju-irjkm7",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mvv0xiwx0yt6yw0qcmbb",
+      "name": "Brandon Weddle Brandon Weddle",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bweddle2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-30",
+      "dateAdded": "2026-10-30",
+      "addedAt": "2026-10-30T13:44:38.146Z",
+      "prospectSourceId": "prospect-muab66ju-uhzl4p",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-10-30T13:44:07.066Z"
+  "lastUpdated": "2026-10-30T13:44:38.146Z"
 }
