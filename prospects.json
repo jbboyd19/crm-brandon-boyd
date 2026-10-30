@@ -5145,10 +5145,12 @@
       "name": "Brandon L Neely Brandon L Neely",
       "social": "https://facebook.com/boe.neely.7",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvv0s5um5lkhn0n4ld2",
+      "convertedAt": "2026-10-30T13:40:27.935Z"
     },
     {
       "id": "prospect-muab66ju-v4pqtv",
@@ -49335,5 +49337,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-30T13:40:11.066Z"
+  "lastUpdated": "2026-10-30T13:40:29.326Z"
 }
