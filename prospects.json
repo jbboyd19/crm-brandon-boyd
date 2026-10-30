@@ -5299,10 +5299,12 @@
       "name": "Brandon Vincent Brandon Vincent",
       "social": "https://facebook.com/brandon.vincent.12",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvv0wix8mu1vl7jj3ia",
+      "convertedAt": "2026-10-30T13:43:51.500Z"
     },
     {
       "id": "prospect-muab66ju-irjkm7",
@@ -49333,5 +49335,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-30T13:43:34.768Z"
+  "lastUpdated": "2026-10-30T13:43:53.059Z"
 }
