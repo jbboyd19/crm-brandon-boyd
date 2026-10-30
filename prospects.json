@@ -5131,10 +5131,12 @@
       "name": "Brandon Johnson Brandon Johnson",
       "social": "https://facebook.com/brandon.johnson.3701",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvv0rr43zi7t3gc1p5",
+      "convertedAt": "2026-10-30T13:40:08.835Z"
     },
     {
       "id": "prospect-muab66ju-kmfqqp",
@@ -49333,5 +49335,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-29T14:00:12.258Z"
+  "lastUpdated": "2026-10-30T13:40:11.066Z"
 }
