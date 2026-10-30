@@ -5271,10 +5271,12 @@
       "name": "Brandon Romanek Brandon Romanek",
       "social": "https://facebook.com/brandon.romanek.5",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvv0vegqsnffvk577gs",
+      "convertedAt": "2026-10-30T13:42:59.066Z"
     },
     {
       "id": "prospect-muab66ju-ahaphj",
@@ -49353,5 +49355,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-30T13:42:44.765Z"
+  "lastUpdated": "2026-10-30T13:43:00.427Z"
 }
