@@ -5201,10 +5201,12 @@
       "name": "Brandon McDonald Brandon McDonald",
       "social": "https://facebook.com/blm928",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvv0tk06ew67bsaiou",
+      "convertedAt": "2026-10-30T13:41:32.934Z"
     },
     {
       "id": "prospect-muab66ju-n69vmz",
@@ -49343,5 +49345,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-30T13:41:19.668Z"
+  "lastUpdated": "2026-10-30T13:41:34.205Z"
 }
