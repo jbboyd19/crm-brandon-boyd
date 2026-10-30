@@ -5187,10 +5187,12 @@
       "name": "Brandon McCoy Brandon McCoy",
       "social": "https://facebook.com/brandon.mccoy.7967",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvv0t8kkemru4grruy5",
+      "convertedAt": "2026-10-30T13:41:18.116Z"
     },
     {
       "id": "prospect-muab66ju-kv151r",
@@ -49341,5 +49343,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-30T13:41:04.452Z"
+  "lastUpdated": "2026-10-30T13:41:19.668Z"
 }
