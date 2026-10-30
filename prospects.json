@@ -5279,18 +5279,6 @@
       "convertedAt": "2026-10-30T13:42:59.066Z"
     },
     {
-      "id": "prospect-muab66ju-ahaphj",
-      "firstName": "Brandon Sagastegui",
-      "lastName": "Brandon Sagastegui",
-      "name": "Brandon Sagastegui Brandon Sagastegui",
-      "social": "https://facebook.com/brandon.sagastegui.940",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66ju-0gartu",
       "firstName": "Brandon Struthers",
       "lastName": "Brandon Struthers",
@@ -49355,5 +49343,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-30T13:43:00.427Z"
+  "lastUpdated": "2026-10-30T13:43:10.830Z"
 }
