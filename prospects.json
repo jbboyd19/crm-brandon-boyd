@@ -5327,10 +5327,12 @@
       "name": "Brandon Weddle Brandon Weddle",
       "social": "https://facebook.com/bweddle2",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvv0xiwx0yt6yw0qcmbb",
+      "convertedAt": "2026-10-30T13:44:38.146Z"
     },
     {
       "id": "prospect-muab66ju-lmse4a",
@@ -49337,5 +49339,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-30T13:44:08.298Z"
+  "lastUpdated": "2026-10-30T13:44:39.414Z"
 }
