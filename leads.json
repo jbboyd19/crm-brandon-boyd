@@ -20330,7 +20330,27 @@
       "addedAt": "2026-10-30T13:43:32.250Z",
       "prospectSourceId": "prospect-muab66ju-te0mne",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mvv0wix8mu1vl7jj3ia",
+      "name": "Brandon Vincent Brandon Vincent",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brandon.vincent.12",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-30",
+      "dateAdded": "2026-10-30",
+      "addedAt": "2026-10-30T13:43:51.500Z",
+      "prospectSourceId": "prospect-muab66ju-vwyygg",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-10-30T13:43:32.251Z"
+  "lastUpdated": "2026-10-30T13:43:51.500Z"
 }
