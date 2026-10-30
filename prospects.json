@@ -5313,10 +5313,12 @@
       "name": "Brandon Vydelingum Brandon Vydelingum",
       "social": "https://facebook.com/brandonvee007",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvv0wuxmc2jmr2wgqfr",
+      "convertedAt": "2026-10-30T13:44:07.066Z"
     },
     {
       "id": "prospect-muab66ju-uhzl4p",
@@ -49335,5 +49337,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-30T13:43:53.059Z"
+  "lastUpdated": "2026-10-30T13:44:08.298Z"
 }
