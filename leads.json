@@ -20530,7 +20530,27 @@
       "addedAt": "2026-11-02T16:55:12.603Z",
       "prospectSourceId": "prospect-muab66ju-f2t2bg",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mvzi3ckjk5qpnhggn6n",
+      "name": "Brenden Norton Brenden Norton",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/iiambren",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T16:56:08.035Z",
+      "prospectSourceId": "prospect-muab66ju-vqupkk",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-02T16:55:12.603Z"
+  "lastUpdated": "2026-11-02T16:56:08.036Z"
 }
