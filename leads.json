@@ -20610,7 +20610,27 @@
       "addedAt": "2026-11-02T16:58:38.249Z",
       "prospectSourceId": "prospect-muab66ju-vc9iva",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mvzi7h0j6fu24l1n9l5",
+      "name": "Brett Denlinger Brett Denlinger",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brett.denlinger",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T16:59:20.419Z",
+      "prospectSourceId": "prospect-muab66ju-77qtui",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-02T16:58:38.250Z"
+  "lastUpdated": "2026-11-02T16:59:20.420Z"
 }
