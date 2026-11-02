@@ -5397,10 +5397,12 @@
       "name": "Brendan Hill Brendan Hill",
       "social": "https://facebook.com/BrendanHillInvest",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvzi07ns0f76ukcw0rz",
+      "convertedAt": "2026-11-02T16:53:41.704Z"
     },
     {
       "id": "prospect-muab66ju-dw8byz",
@@ -49335,5 +49337,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-02T16:53:23.065Z"
+  "lastUpdated": "2026-11-02T16:53:43.747Z"
 }
