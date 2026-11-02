@@ -20670,7 +20670,27 @@
       "addedAt": "2026-11-02T17:00:48.881Z",
       "prospectSourceId": "prospect-muab66ju-a6hjtn",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mvziaa58o408xj5i2",
+      "name": "Brian Abramson Brian Abramson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brian.abramson.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T17:01:31.484Z",
+      "prospectSourceId": "prospect-muab66ju-nwz2ww",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-02T17:00:48.881Z"
+  "lastUpdated": "2026-11-02T17:01:31.484Z"
 }
