@@ -5467,10 +5467,12 @@
       "name": "Brett Butler Brett Butler",
       "social": "https://facebook.com/bbutler92",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvzi6kh5cwnkiuz6459",
+      "convertedAt": "2026-11-02T16:58:38.249Z"
     },
     {
       "id": "prospect-muab66ju-77qtui",
@@ -49321,5 +49323,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-02T16:57:45.498Z"
+  "lastUpdated": "2026-11-02T16:58:41.713Z"
 }
