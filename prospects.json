@@ -5523,10 +5523,12 @@
       "name": "Brian Abramson Brian Abramson",
       "social": "https://facebook.com/brian.abramson.3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvziaa58o408xj5i2",
+      "convertedAt": "2026-11-02T17:01:31.484Z"
     },
     {
       "id": "prospect-muab66ju-uo6m5h",
@@ -49329,5 +49331,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-02T17:00:52.289Z"
+  "lastUpdated": "2026-11-02T17:01:34.066Z"
 }
