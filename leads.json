@@ -20570,7 +20570,27 @@
       "addedAt": "2026-11-02T16:56:30.736Z",
       "prospectSourceId": "prospect-muab66ju-t3546n",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mvzi4yyv03mt3gh82f02",
+      "name": "Brett Barrett Brett Barrett",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brettpotterbarrett",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T16:57:23.719Z",
+      "prospectSourceId": "prospect-muab66ju-jqw4i9",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-02T16:56:30.736Z"
+  "lastUpdated": "2026-11-02T16:57:23.720Z"
 }
