@@ -20390,7 +20390,27 @@
       "addedAt": "2026-10-30T13:44:38.146Z",
       "prospectSourceId": "prospect-muab66ju-uhzl4p",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mvzhx5a69al4u22di5t",
+      "name": "Brandon Wilson Brandon Wilson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/thebrandonwilson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T16:51:18.655Z",
+      "prospectSourceId": "prospect-muab66ju-lmse4a",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-10-30T13:44:38.146Z"
+  "lastUpdated": "2026-11-02T16:51:18.656Z"
 }
