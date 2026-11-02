@@ -5425,10 +5425,12 @@
       "name": "Brendan Reimer Brendan Reimer",
       "social": "https://facebook.com/brendan.reimer.2025",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvzi25sra60bk9h3a45",
+      "convertedAt": "2026-11-02T16:55:12.603Z"
     },
     {
       "id": "prospect-muab66ju-vqupkk",
@@ -49339,5 +49341,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-02T16:54:54.710Z"
+  "lastUpdated": "2026-11-02T16:55:14.986Z"
 }
