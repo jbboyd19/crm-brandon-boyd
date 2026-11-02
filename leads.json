@@ -20450,7 +20450,27 @@
       "addedAt": "2026-11-02T16:52:18.138Z",
       "prospectSourceId": "prospect-muab66ju-tyc972",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mvzhzr156fal8s0tfan",
+      "name": "Brendan Grimace Brendan Grimace",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Grimace.WhoO",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T16:53:20.153Z",
+      "prospectSourceId": "prospect-muab66ju-1zav9c",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-02T16:52:18.138Z"
+  "lastUpdated": "2026-11-02T16:53:20.154Z"
 }
