@@ -5383,10 +5383,12 @@
       "name": "Brendan Grimace Brendan Grimace",
       "social": "https://facebook.com/Grimace.WhoO",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvzhzr156fal8s0tfan",
+      "convertedAt": "2026-11-02T16:53:20.154Z"
     },
     {
       "id": "prospect-muab66ju-jijk0k",
@@ -49333,5 +49335,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-02T16:52:42.185Z"
+  "lastUpdated": "2026-11-02T16:53:23.065Z"
 }
