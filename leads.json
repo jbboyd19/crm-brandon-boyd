@@ -20410,7 +20410,27 @@
       "addedAt": "2026-11-02T16:51:18.655Z",
       "prospectSourceId": "prospect-muab66ju-lmse4a",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mvzhxxvc0sk44w5bk5n",
+      "name": "Brandy Lee Adams Brandy Lee Adams",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brandylee2127",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T16:51:55.704Z",
+      "prospectSourceId": "prospect-muab66ju-mzf6s6",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-02T16:51:18.656Z"
+  "lastUpdated": "2026-11-02T16:51:55.705Z"
 }
