@@ -5481,10 +5481,12 @@
       "name": "Brett Denlinger Brett Denlinger",
       "social": "https://facebook.com/brett.denlinger",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvzi7h0j6fu24l1n9l5",
+      "convertedAt": "2026-11-02T16:59:20.419Z"
     },
     {
       "id": "prospect-muab66ju-kionrk",
@@ -49323,5 +49325,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-02T16:58:41.713Z"
+  "lastUpdated": "2026-11-02T16:59:23.203Z"
 }
