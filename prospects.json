@@ -5461,18 +5461,6 @@
       "convertedAt": "2026-11-02T16:56:30.736Z"
     },
     {
-      "id": "prospect-muab66ju-nn99w4",
-      "firstName": "Bret Cartwright",
-      "lastName": "Bret Cartwright",
-      "name": "Bret Cartwright Bret Cartwright",
-      "social": "https://facebook.com/bret.cartwright.3",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66ju-jqw4i9",
       "firstName": "Brett Barrett",
       "lastName": "Brett Barrett",
@@ -49345,5 +49333,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-02T16:56:33.517Z"
+  "lastUpdated": "2026-11-02T16:57:01.482Z"
 }
