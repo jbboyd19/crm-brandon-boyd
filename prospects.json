@@ -5341,10 +5341,12 @@
       "name": "Brandon Wilson Brandon Wilson",
       "social": "https://facebook.com/thebrandonwilson",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvzhx5a69al4u22di5t",
+      "convertedAt": "2026-11-02T16:51:18.655Z"
     },
     {
       "id": "prospect-muab66ju-mzf6s6",
@@ -49339,5 +49341,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-30T13:44:39.414Z"
+  "lastUpdated": "2026-11-02T16:51:21.418Z"
 }
