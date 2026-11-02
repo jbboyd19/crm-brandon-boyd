@@ -5461,18 +5461,6 @@
       "convertedAt": "2026-11-02T16:56:30.736Z"
     },
     {
-      "id": "prospect-muab66ju-jqw4i9",
-      "firstName": "Brett Barrett",
-      "lastName": "Brett Barrett",
-      "name": "Brett Barrett Brett Barrett",
-      "social": "https://facebook.com/brettpotterbarrett",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66ju-vc9iva",
       "firstName": "Brett Butler",
       "lastName": "Brett Butler",
@@ -49333,5 +49321,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-02T16:57:01.482Z"
+  "lastUpdated": "2026-11-02T16:57:45.498Z"
 }
