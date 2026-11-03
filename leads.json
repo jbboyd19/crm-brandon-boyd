@@ -20830,7 +20830,27 @@
       "addedAt": "2026-11-03T15:10:34.733Z",
       "prospectSourceId": "prospect-muab66ju-5lgvtz",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mw0ts68l0k9kpst8176",
+      "name": "Brian Hagens Brian Hagens",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brian.b.hagens",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T15:11:08.181Z",
+      "prospectSourceId": "prospect-muab66ju-kdod0q",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-03T15:10:34.733Z"
+  "lastUpdated": "2026-11-03T15:11:08.181Z"
 }
