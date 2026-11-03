@@ -20750,7 +20750,27 @@
       "addedAt": "2026-11-03T15:09:08.200Z",
       "prospectSourceId": "prospect-muab66ju-0ldirb",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mw0tpzdrbq7gy1r2un6",
+      "name": "Brian Cisneros Fx Brian Cisneros Fx",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/BrianCisnerosFx",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T15:09:25.983Z",
+      "prospectSourceId": "prospect-muab66ju-clsjbd",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-03T15:09:08.200Z"
+  "lastUpdated": "2026-11-03T15:09:25.984Z"
 }
