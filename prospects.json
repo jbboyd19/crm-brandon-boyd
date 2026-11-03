@@ -5537,10 +5537,12 @@
       "name": "Brian Alcock Brian Alcock",
       "social": "https://facebook.com/BrianAlcockOnline",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw0togvpggbihy2yweh",
+      "convertedAt": "2026-11-03T15:08:15.349Z"
     },
     {
       "id": "prospect-muab66ju-66n8qv",
@@ -49331,5 +49333,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-02T17:01:34.066Z"
+  "lastUpdated": "2026-11-03T15:08:17.557Z"
 }
