@@ -5691,10 +5691,12 @@
       "name": "Brian Keith Brian Keith",
       "social": "https://facebook.com/brian.keith.946",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw0tumy324zpaiom80m",
+      "convertedAt": "2026-11-03T15:13:03.147Z"
     },
     {
       "id": "prospect-muab66ju-x0donv",
@@ -49341,5 +49343,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-03T15:12:42.996Z"
+  "lastUpdated": "2026-11-03T15:13:04.854Z"
 }
