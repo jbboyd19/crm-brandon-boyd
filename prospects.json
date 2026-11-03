@@ -5705,10 +5705,12 @@
       "name": "Brian Kelley Brian Kelley",
       "social": "https://facebook.com/brian.kelley.3975012",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw0tv2uszietbv23qf8",
+      "convertedAt": "2026-11-03T15:13:23.764Z"
     },
     {
       "id": "prospect-muab66ju-hgo8kn",
@@ -49343,5 +49345,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-03T15:13:04.854Z"
+  "lastUpdated": "2026-11-03T15:13:25.279Z"
 }
