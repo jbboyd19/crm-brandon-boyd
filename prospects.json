@@ -5635,10 +5635,12 @@
       "name": "Brian Hagens Brian Hagens",
       "social": "https://facebook.com/brian.b.hagens",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw0ts68l0k9kpst8176",
+      "convertedAt": "2026-11-03T15:11:08.181Z"
     },
     {
       "id": "prospect-muab66ju-tvhkp8",
@@ -49333,5 +49335,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-03T15:10:36.076Z"
+  "lastUpdated": "2026-11-03T15:11:10.433Z"
 }
