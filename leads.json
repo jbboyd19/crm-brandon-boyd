@@ -20770,7 +20770,27 @@
       "addedAt": "2026-11-03T15:09:25.983Z",
       "prospectSourceId": "prospect-muab66ju-clsjbd",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mw0tqnrztmtuwbzb34",
+      "name": "Brian D. Kelley Brian D. Kelley",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/theguidinglight",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T15:09:57.599Z",
+      "prospectSourceId": "prospect-muab66ju-xuf2q1",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-03T15:09:25.984Z"
+  "lastUpdated": "2026-11-03T15:09:57.599Z"
 }
