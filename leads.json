@@ -20790,7 +20790,27 @@
       "addedAt": "2026-11-03T15:09:57.599Z",
       "prospectSourceId": "prospect-muab66ju-xuf2q1",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mw0tr2bhgmkb7kaeq6g",
+      "name": "Brian Davis Brian Davis",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/tbriandavis",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T15:10:16.445Z",
+      "prospectSourceId": "prospect-muab66ju-89251i",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-03T15:09:57.599Z"
+  "lastUpdated": "2026-11-03T15:10:16.445Z"
 }
