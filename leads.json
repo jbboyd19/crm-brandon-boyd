@@ -20870,7 +20870,27 @@
       "addedAt": "2026-11-03T15:11:30.382Z",
       "prospectSourceId": "prospect-muab66ju-tvhkp8",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mw0ttou8twg5ik2zesi",
+      "name": "Brian Irving Arosemena Brian Irving Arosemena",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brianirving.arosemena",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T15:12:18.944Z",
+      "prospectSourceId": "prospect-muab66ju-fpzwoy",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-03T15:11:30.382Z"
+  "lastUpdated": "2026-11-03T15:12:18.944Z"
 }
