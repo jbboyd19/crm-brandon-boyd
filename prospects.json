@@ -5593,10 +5593,12 @@
       "name": "Brian D. Kelley Brian D. Kelley",
       "social": "https://facebook.com/theguidinglight",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw0tqnrztmtuwbzb34",
+      "convertedAt": "2026-11-03T15:09:57.599Z"
     },
     {
       "id": "prospect-muab66ju-89251i",
@@ -49327,5 +49329,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-03T15:09:41.046Z"
+  "lastUpdated": "2026-11-03T15:10:00.394Z"
 }
