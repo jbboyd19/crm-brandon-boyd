@@ -5565,10 +5565,12 @@
       "name": "Brian Brunt Brian Brunt",
       "social": "https://facebook.com/Brian.Brunt1998",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw0tplnswyamiuva97h",
+      "convertedAt": "2026-11-03T15:09:08.200Z"
     },
     {
       "id": "prospect-muab66ju-clsjbd",
@@ -49335,5 +49337,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-03T15:08:37.859Z"
+  "lastUpdated": "2026-11-03T15:09:09.472Z"
 }
