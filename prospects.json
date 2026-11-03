@@ -5719,10 +5719,12 @@
       "name": "Brian Lawrence Brian Lawrence",
       "social": "https://facebook.com/brian.lawrence.7712826",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw0tw23a756tzizhdzu",
+      "convertedAt": "2026-11-03T15:14:09.430Z"
     },
     {
       "id": "prospect-muab66ju-pw2sa4",
@@ -49345,5 +49347,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-03T15:13:25.279Z"
+  "lastUpdated": "2026-11-03T15:14:11.580Z"
 }
