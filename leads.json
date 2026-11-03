@@ -20990,7 +20990,27 @@
       "addedAt": "2026-11-03T15:14:27.648Z",
       "prospectSourceId": "prospect-muab66ju-pw2sa4",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mw0twz7ay6kd29owtfo",
+      "name": "Brian Meara Brian Meara",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bjmeara2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T15:14:52.342Z",
+      "prospectSourceId": "prospect-muab66ju-kycda5",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-03T15:14:27.648Z"
+  "lastUpdated": "2026-11-03T15:14:52.342Z"
 }
