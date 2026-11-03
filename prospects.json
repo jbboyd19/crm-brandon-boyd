@@ -5741,18 +5741,6 @@
       "convertedAt": "2026-11-03T15:14:27.648Z"
     },
     {
-      "id": "prospect-muab66ju-44sw3p",
-      "firstName": "Brian Marr",
-      "lastName": "Brian Marr",
-      "name": "Brian Marr Brian Marr",
-      "social": "https://facebook.com/brian.marr.9",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66ju-kycda5",
       "firstName": "Brian Meara",
       "lastName": "Brian Meara",
@@ -49349,5 +49337,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-03T15:14:29.136Z"
+  "lastUpdated": "2026-11-03T15:14:35.993Z"
 }
