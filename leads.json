@@ -20690,7 +20690,27 @@
       "addedAt": "2026-11-02T17:01:31.484Z",
       "prospectSourceId": "prospect-muab66ju-nwz2ww",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mw0togvpggbihy2yweh",
+      "name": "Brian Alcock Brian Alcock",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/BrianAlcockOnline",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T15:08:15.349Z",
+      "prospectSourceId": "prospect-muab66ju-uo6m5h",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-02T17:01:31.484Z"
+  "lastUpdated": "2026-11-03T15:08:15.349Z"
 }
