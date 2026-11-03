@@ -20950,7 +20950,27 @@
       "addedAt": "2026-11-03T15:13:23.764Z",
       "prospectSourceId": "prospect-muab66ju-x0donv",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mw0tw23a756tzizhdzu",
+      "name": "Brian Lawrence Brian Lawrence",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brian.lawrence.7712826",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T15:14:09.430Z",
+      "prospectSourceId": "prospect-muab66ju-hgo8kn",
+      "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
     }
   ],
-  "lastUpdated": "2026-11-03T15:13:23.764Z"
+  "lastUpdated": "2026-11-03T15:14:09.430Z"
 }
