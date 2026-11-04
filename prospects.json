@@ -5811,18 +5811,6 @@
       "convertedAt": "2026-11-04T14:51:01.650Z"
     },
     {
-      "id": "prospect-muab66jv-beyyt9",
-      "firstName": "Brian Reed",
-      "lastName": "Brian Reed",
-      "name": "Brian Reed Brian Reed",
-      "social": "https://facebook.com/brianreedsolutions",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jv-f76xzu",
       "firstName": "Brian Reimer",
       "lastName": "Brian Reimer",
@@ -49335,5 +49323,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T14:51:03.270Z"
+  "lastUpdated": "2026-11-04T14:56:59.511Z"
 }
