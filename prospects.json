@@ -5943,10 +5943,12 @@
       "name": "Brooks Olumcroft Brooks Olumcroft",
       "social": "https://facebook.com/brooks.olumcroft",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw2a8igyhvifc7tk9qd",
+      "convertedAt": "2026-11-04T15:39:30.562Z"
     },
     {
       "id": "prospect-muab66jv-ydwhwy",
@@ -49283,5 +49285,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T15:39:24.216Z"
+  "lastUpdated": "2026-11-04T15:39:31.901Z"
 }
