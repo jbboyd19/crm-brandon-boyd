@@ -5803,10 +5803,12 @@
       "name": "Brian Rainey Brian Rainey",
       "social": "https://facebook.com/inchampswetrust",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw28i5xublqfyo22hbl",
+      "convertedAt": "2026-11-04T14:51:01.650Z"
     },
     {
       "id": "prospect-muab66jv-beyyt9",
@@ -49333,5 +49335,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T14:50:43.355Z"
+  "lastUpdated": "2026-11-04T14:51:03.270Z"
 }
