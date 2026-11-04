@@ -5901,10 +5901,12 @@
       "name": "Brodie Ober Brodie Ober",
       "social": "https://facebook.com/brodie.ober.7",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw2a3rq7yd1skw29atd",
+      "convertedAt": "2026-11-04T15:35:49.279Z"
     },
     {
       "id": "prospect-muab66jv-v4cl6f",
@@ -49275,5 +49277,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T15:35:24.596Z"
+  "lastUpdated": "2026-11-04T15:35:50.608Z"
 }
