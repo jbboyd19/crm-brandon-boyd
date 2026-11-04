@@ -5873,10 +5873,12 @@
       "name": "Brock Misner Brock Misner",
       "social": "https://facebook.com/brock.misner",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw2a1w3jzk6ss2wm64",
+      "convertedAt": "2026-11-04T15:34:21.631Z"
     },
     {
       "id": "prospect-muab66jv-bxt8pd",
@@ -49283,5 +49285,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T15:34:05.994Z"
+  "lastUpdated": "2026-11-04T15:34:23.314Z"
 }
