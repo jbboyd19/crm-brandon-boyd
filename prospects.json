@@ -5985,10 +5985,12 @@
       "name": "Bruno De Paepe Bruno De Paepe",
       "social": "https://facebook.com/bruno.depaepe",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw2af6cowgm89dhq4sb",
+      "convertedAt": "2026-11-04T15:44:41.448Z"
     },
     {
       "id": "prospect-muab66jv-i8ql0a",
@@ -49287,5 +49289,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T15:43:40.009Z"
+  "lastUpdated": "2026-11-04T15:44:43.456Z"
 }
