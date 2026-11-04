@@ -21010,7 +21010,25 @@
       "addedAt": "2026-11-03T15:14:52.342Z",
       "prospectSourceId": "prospect-muab66ju-kycda5",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mw1lu7wyrb03g73qmo",
+      "name": "Jay",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-04T04:16:32.914Z"
     }
   ],
-  "lastUpdated": "2026-11-03T15:14:52.342Z"
+  "lastUpdated": "2026-11-04T04:16:32.914Z"
 }
