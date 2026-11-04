@@ -5929,10 +5929,12 @@
       "name": "Brooke Lorion Brooke Lorion",
       "social": "https://facebook.com/IamBrookeLorion",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw2a4xgfty0d2z0wxtl",
+      "convertedAt": "2026-11-04T15:36:43.359Z"
     },
     {
       "id": "prospect-muab66jv-n1zkoq",
@@ -49279,5 +49281,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T15:36:26.649Z"
+  "lastUpdated": "2026-11-04T15:36:44.876Z"
 }
