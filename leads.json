@@ -21168,7 +21168,27 @@
       "addedAt": "2026-11-04T15:33:00.163Z",
       "prospectSourceId": "prospect-muab66jv-tq7mzm",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw2a0l0iljh0akyow89",
+      "name": "Brittany S Jackson Brittany S Jackson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brittany.s.jackson.87",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T15:33:20.610Z",
+      "prospectSourceId": "prospect-muab66jv-s2nfcx",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-04T15:33:00.164Z"
+  "lastUpdated": "2026-11-04T15:33:20.610Z"
 }
