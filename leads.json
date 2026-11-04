@@ -21328,7 +21328,27 @@
       "addedAt": "2026-11-04T15:39:30.562Z",
       "prospectSourceId": "prospect-muab66jv-n1zkoq",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw2adte4wdnn22075tk",
+      "name": "Bruce Nelkin Bruce Nelkin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bruce.nelkin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T15:43:37.996Z",
+      "prospectSourceId": "prospect-muab66jv-weeyx8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-04T15:39:30.562Z"
+  "lastUpdated": "2026-11-04T15:43:37.997Z"
 }
