@@ -5867,18 +5867,6 @@
       "convertedAt": "2026-11-04T15:33:20.610Z"
     },
     {
-      "id": "prospect-muab66jv-5enwsa",
-      "firstName": "Brock Goss",
-      "lastName": "Brock Goss",
-      "name": "Brock Goss Brock Goss",
-      "social": "https://facebook.com/brockgoss",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jv-4itpf7",
       "firstName": "Brock Lunardi",
       "lastName": "Brock Lunardi",
@@ -49307,5 +49295,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T15:33:44.777Z"
+  "lastUpdated": "2026-11-04T15:33:51.343Z"
 }
