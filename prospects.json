@@ -5825,18 +5825,6 @@
       "convertedAt": "2026-11-04T14:58:07.863Z"
     },
     {
-      "id": "prospect-muab66jv-gqmk2p",
-      "firstName": "Brian Smith",
-      "lastName": "Brian Smith",
-      "name": "Brian Smith Brian Smith",
-      "social": "https://facebook.com/newbreedofamericancowboy",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jv-atlgu0",
       "firstName": "Brice Pierce",
       "lastName": "Brice Pierce",
@@ -49325,5 +49313,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T14:58:09.605Z"
+  "lastUpdated": "2026-11-04T14:58:42.128Z"
 }
