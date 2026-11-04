@@ -21136,8 +21136,8 @@
       "phone": "",
       "social": "https://facebook.com/brice.pierce13",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-04",
@@ -21370,5 +21370,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-04T15:44:41.449Z"
+  "lastUpdated": "2026-11-04T17:15:35.361Z"
 }
