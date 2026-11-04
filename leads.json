@@ -21128,7 +21128,27 @@
       "addedAt": "2026-11-04T14:58:07.863Z",
       "prospectSourceId": "prospect-muab66jv-f76xzu",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw29zpubgfc2l00xsy6",
+      "name": "Brice Pierce Brice Pierce",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brice.pierce13",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T15:32:40.211Z",
+      "prospectSourceId": "prospect-muab66jv-atlgu0",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-04T14:58:07.864Z"
+  "lastUpdated": "2026-11-04T15:32:40.211Z"
 }
