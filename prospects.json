@@ -5775,10 +5775,12 @@
       "name": "Brian Novotny Brian Novotny",
       "social": "https://facebook.com/brian.novotny.969",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw28h43t3xjjzyf676r",
+      "convertedAt": "2026-11-04T14:50:12.617Z"
     },
     {
       "id": "prospect-muab66jv-hbpfgs",
@@ -49329,5 +49331,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T14:49:44.327Z"
+  "lastUpdated": "2026-11-04T14:50:14.066Z"
 }
