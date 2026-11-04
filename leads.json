@@ -21048,7 +21048,27 @@
       "addedAt": "2026-11-04T14:49:42.384Z",
       "prospectSourceId": "prospect-muab66ju-i4mpir",
       "prospectUploadedAt": "2026-09-20T21:08:26.154Z"
+    },
+    {
+      "id": "mw28h43t3xjjzyf676r",
+      "name": "Brian Novotny Brian Novotny",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brian.novotny.969",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T14:50:12.617Z",
+      "prospectSourceId": "prospect-muab66jv-05dkoa",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-04T14:49:42.384Z"
+  "lastUpdated": "2026-11-04T14:50:12.617Z"
 }
