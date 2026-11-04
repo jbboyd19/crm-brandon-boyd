@@ -21228,7 +21228,27 @@
       "addedAt": "2026-11-04T15:35:22.465Z",
       "prospectSourceId": "prospect-muab66jv-99erhe",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw2a3rq7yd1skw29atd",
+      "name": "Brodie Ober Brodie Ober",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brodie.ober.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T15:35:49.279Z",
+      "prospectSourceId": "prospect-muab66jv-qc98fq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-04T15:35:22.465Z"
+  "lastUpdated": "2026-11-04T15:35:49.279Z"
 }
