@@ -21138,10 +21138,10 @@
       "source": "Facebook",
       "status": "Sent Video",
       "videoSent": true,
-      "temperature": "Cold",
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-04",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-11-05",
       "notes": "",
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
@@ -21370,5 +21370,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-04T17:15:35.361Z"
+  "lastUpdated": "2026-11-04T17:15:47.395Z"
 }
