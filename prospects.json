@@ -5761,10 +5761,12 @@
       "name": "Brian Moreno Brian Moreno",
       "social": "https://facebook.com/morenomedia",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.154Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw28ggrzaq71xrsgwub",
+      "convertedAt": "2026-11-04T14:49:42.384Z"
     },
     {
       "id": "prospect-muab66jv-05dkoa",
@@ -49327,5 +49329,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-03T15:57:33.274Z"
+  "lastUpdated": "2026-11-04T14:49:44.327Z"
 }
