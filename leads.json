@@ -21188,7 +21188,27 @@
       "addedAt": "2026-11-04T15:33:20.610Z",
       "prospectSourceId": "prospect-muab66jv-s2nfcx",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw2a1w3jzk6ss2wm64",
+      "name": "Brock Misner Brock Misner",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/brock.misner",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T15:34:21.631Z",
+      "prospectSourceId": "prospect-muab66jv-ixlob1",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-04T15:33:20.610Z"
+  "lastUpdated": "2026-11-04T15:34:21.631Z"
 }
