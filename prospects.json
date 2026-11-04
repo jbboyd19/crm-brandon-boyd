@@ -5845,10 +5845,12 @@
       "name": "Brie Marie Schofield Brie Marie Schofield",
       "social": "https://facebook.com/BrieMarieSchofield",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw2a058jdcuktnndyht",
+      "convertedAt": "2026-11-04T15:33:00.163Z"
     },
     {
       "id": "prospect-muab66jv-s2nfcx",
@@ -49315,5 +49317,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T15:32:42.107Z"
+  "lastUpdated": "2026-11-04T15:33:01.439Z"
 }
