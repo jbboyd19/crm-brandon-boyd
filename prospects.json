@@ -5915,10 +5915,12 @@
       "name": "Brody Swanson Brody Swanson",
       "social": "https://facebook.com/brody.swanson",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw2a4iu5jeub1srvrhd",
+      "convertedAt": "2026-11-04T15:36:24.413Z"
     },
     {
       "id": "prospect-muab66jv-etr4r1",
@@ -49277,5 +49279,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T15:35:50.608Z"
+  "lastUpdated": "2026-11-04T15:36:26.649Z"
 }
