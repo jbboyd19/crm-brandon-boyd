@@ -6027,10 +6027,12 @@
       "name": "Bryan Crespo C Bryan Crespo C",
       "social": "https://facebook.com/djFressh",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw3plugrymvea7cf7tf",
+      "convertedAt": "2026-11-05T15:37:33.051Z"
     },
     {
       "id": "prospect-muab66jv-q7c4t7",
@@ -49293,5 +49295,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-05T15:37:08.248Z"
+  "lastUpdated": "2026-11-05T15:37:35.895Z"
 }
