@@ -5999,10 +5999,12 @@
       "name": "Bryan Colucci Bryan Colucci",
       "social": "https://facebook.com/bryan.colucci1",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw3pkr5jg7rkf8voe4d",
+      "convertedAt": "2026-11-05T15:36:42.103Z"
     },
     {
       "id": "prospect-muab66jv-nok9p2",
@@ -49289,5 +49291,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-04T15:44:43.456Z"
+  "lastUpdated": "2026-11-05T15:36:44.894Z"
 }
