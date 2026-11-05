@@ -6139,10 +6139,12 @@
       "name": "Buddy Rivera Buddy Rivera",
       "social": "https://facebook.com/buddy.rivera.3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw3pqwux2ahqo51jlwa",
+      "convertedAt": "2026-11-05T15:41:29.434Z"
     },
     {
       "id": "prospect-muab66jv-z7a546",
@@ -49297,5 +49299,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-05T15:41:09.814Z"
+  "lastUpdated": "2026-11-05T15:41:32.127Z"
 }
