@@ -21528,7 +21528,27 @@
       "addedAt": "2026-11-05T15:40:11.046Z",
       "prospectSourceId": "prospect-muab66jv-pnpsvh",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw3ppqg2rxl4h5kdpbm",
+      "name": "Bryant Correa Bryant Correa",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bryant.correa.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T15:40:34.467Z",
+      "prospectSourceId": "prospect-muab66jv-apxx87",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-05T15:40:11.047Z"
+  "lastUpdated": "2026-11-05T15:40:34.467Z"
 }
