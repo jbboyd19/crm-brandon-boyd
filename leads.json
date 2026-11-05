@@ -21388,7 +21388,27 @@
       "addedAt": "2026-11-05T15:36:42.103Z",
       "prospectSourceId": "prospect-muab66jv-i8ql0a",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw3pl9p4uoxebnx42a",
+      "name": "Bryan Cordoba Bryan Cordoba",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cordoba.bryan",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T15:37:06.136Z",
+      "prospectSourceId": "prospect-muab66jv-nok9p2",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-05T15:36:42.103Z"
+  "lastUpdated": "2026-11-05T15:37:06.136Z"
 }
