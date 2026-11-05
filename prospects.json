@@ -6153,10 +6153,12 @@
       "name": "Burke Hedges Burke Hedges",
       "social": "https://facebook.com/burkehedges",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw3prftsramgz1gi1l",
+      "convertedAt": "2026-11-05T15:41:54.017Z"
     },
     {
       "id": "prospect-muab66jv-hu7447",
@@ -49299,5 +49301,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-05T15:41:32.127Z"
+  "lastUpdated": "2026-11-05T15:41:56.094Z"
 }
