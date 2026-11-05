@@ -21508,7 +21508,27 @@
       "addedAt": "2026-11-05T15:39:46.868Z",
       "prospectSourceId": "prospect-muab66jv-7jdafb",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw3pp8di060a6f1xnygy",
+      "name": "Bryan Schroeder Bryan Schroeder",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/EquityAssetMachine",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T15:40:11.046Z",
+      "prospectSourceId": "prospect-muab66jv-pnpsvh",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-05T15:39:46.869Z"
+  "lastUpdated": "2026-11-05T15:40:11.047Z"
 }
