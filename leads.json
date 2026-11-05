@@ -21588,7 +21588,27 @@
       "addedAt": "2026-11-05T15:41:29.434Z",
       "prospectSourceId": "prospect-muab66jv-sjqkm0",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw3prftsramgz1gi1l",
+      "name": "Burke Hedges Burke Hedges",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/burkehedges",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T15:41:54.017Z",
+      "prospectSourceId": "prospect-muab66jv-z7a546",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-05T15:41:29.434Z"
+  "lastUpdated": "2026-11-05T15:41:54.017Z"
 }
