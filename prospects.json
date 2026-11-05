@@ -6097,10 +6097,12 @@
       "name": "Bryan Schroeder Bryan Schroeder",
       "social": "https://facebook.com/EquityAssetMachine",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw3pp8di060a6f1xnygy",
+      "convertedAt": "2026-11-05T15:40:11.046Z"
     },
     {
       "id": "prospect-muab66jv-apxx87",
@@ -49303,5 +49305,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-05T15:39:49.601Z"
+  "lastUpdated": "2026-11-05T15:40:13.045Z"
 }
