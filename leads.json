@@ -21468,7 +21468,27 @@
       "addedAt": "2026-11-05T15:38:37.585Z",
       "prospectSourceId": "prospect-muab66jv-zfd54y",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw3pnnqqd9ed90xx7l5",
+      "name": "Bryan Inirio Bryan Inirio",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/binirio",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T15:38:57.650Z",
+      "prospectSourceId": "prospect-muab66jv-ohbqan",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-05T15:38:37.585Z"
+  "lastUpdated": "2026-11-05T15:38:57.650Z"
 }
