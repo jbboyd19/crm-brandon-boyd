@@ -6041,10 +6041,12 @@
       "name": "Bryan Hisey Bryan Hisey",
       "social": "https://facebook.com/bryan.hisey",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw3pmpw9ysb9633tnvi",
+      "convertedAt": "2026-11-05T15:38:13.785Z"
     },
     {
       "id": "prospect-muab66jv-zfd54y",
@@ -49295,5 +49297,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-05T15:37:35.895Z"
+  "lastUpdated": "2026-11-05T15:38:16.752Z"
 }
