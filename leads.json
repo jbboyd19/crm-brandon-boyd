@@ -21368,7 +21368,27 @@
       "addedAt": "2026-11-04T15:44:41.448Z",
       "prospectSourceId": "prospect-muab66jv-w57fb9",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw3pkr5jg7rkf8voe4d",
+      "name": "Bryan Colucci Bryan Colucci",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bryan.colucci1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T15:36:42.103Z",
+      "prospectSourceId": "prospect-muab66jv-i8ql0a",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-05T15:35:11.634Z"
+  "lastUpdated": "2026-11-05T15:36:42.103Z"
 }
