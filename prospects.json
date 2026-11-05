@@ -6181,10 +6181,12 @@
       "name": "C.j. Smith C.j. Smith",
       "social": "https://facebook.com/c.j.smith.304206",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw3psh5srfvfy23kv0o",
+      "convertedAt": "2026-11-05T15:42:42.400Z"
     },
     {
       "id": "prospect-muab66jv-j3spzo",
@@ -49303,5 +49305,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-05T15:42:21.667Z"
+  "lastUpdated": "2026-11-05T15:42:44.018Z"
 }
