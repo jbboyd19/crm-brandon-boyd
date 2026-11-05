@@ -6223,10 +6223,12 @@
       "name": "Caleb Loera Caleb Loera",
       "social": "https://facebook.com/caleb.loera",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw3pxfkf2hh1xf3ulef",
+      "convertedAt": "2026-11-05T15:46:33.615Z"
     },
     {
       "id": "prospect-muab66jv-f5ma60",
@@ -49309,5 +49311,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-05T15:43:36.931Z"
+  "lastUpdated": "2026-11-05T15:46:35.968Z"
 }
