@@ -21628,7 +21628,27 @@
       "addedAt": "2026-11-05T15:42:18.933Z",
       "prospectSourceId": "prospect-muab66jv-hu7447",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw3psh5srfvfy23kv0o",
+      "name": "C.j. Smith C.j. Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/c.j.smith.304206",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T15:42:42.400Z",
+      "prospectSourceId": "prospect-muab66jv-18flxm",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-05T15:42:18.934Z"
+  "lastUpdated": "2026-11-05T15:42:42.400Z"
 }
