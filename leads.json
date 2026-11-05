@@ -21688,7 +21688,27 @@
       "addedAt": "2026-11-05T15:43:35.317Z",
       "prospectSourceId": "prospect-muab66jv-kpi0qf",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw3pxfkf2hh1xf3ulef",
+      "name": "Caleb Loera Caleb Loera",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/caleb.loera",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T15:46:33.615Z",
+      "prospectSourceId": "prospect-muab66jv-y1je5a",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-05T15:43:35.317Z"
+  "lastUpdated": "2026-11-05T15:46:33.616Z"
 }
