@@ -6167,10 +6167,12 @@
       "name": "Báobaku Oluwaseun Joseph Báobaku Oluwaseun Joseph",
       "social": "https://facebook.com/Baobaku.Joseph",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw3prz1x8v3pq97r9nc",
+      "convertedAt": "2026-11-05T15:42:18.933Z"
     },
     {
       "id": "prospect-muab66jv-18flxm",
@@ -49301,5 +49303,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-05T15:41:56.094Z"
+  "lastUpdated": "2026-11-05T15:42:21.667Z"
 }
