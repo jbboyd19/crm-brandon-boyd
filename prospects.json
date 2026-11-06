@@ -6335,10 +6335,12 @@
       "name": "Cameron Brunt Cameron Brunt",
       "social": "https://facebook.com/CamDaMan003",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw52uclu0sljm1k1hbhh",
+      "convertedAt": "2026-11-06T14:35:50.994Z"
     },
     {
       "id": "prospect-muab66jv-gq1z6w",
@@ -49301,5 +49303,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-06T14:35:33.108Z"
+  "lastUpdated": "2026-11-06T14:35:52.500Z"
 }
