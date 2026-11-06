@@ -6265,10 +6265,12 @@
       "name": "Calvin Fate Calvin Fate",
       "social": "https://facebook.com/C.fate.7",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw52qtpygv99yo399bm",
+      "convertedAt": "2026-11-06T14:33:06.550Z"
     },
     {
       "id": "prospect-muab66jv-kc9i7r",
@@ -49303,5 +49305,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-06T14:32:45.947Z"
+  "lastUpdated": "2026-11-06T14:33:07.998Z"
 }
