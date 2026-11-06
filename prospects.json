@@ -6391,10 +6391,12 @@
       "name": "Camilo Buttowski Fernandez Camilo Buttowski Fernandez",
       "social": "https://facebook.com/camilo.decade",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw52wg24538lrbn73j6",
+      "convertedAt": "2026-11-06T14:37:28.780Z"
     },
     {
       "id": "prospect-muab66jv-xddhtv",
@@ -49309,5 +49311,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-06T14:37:05.116Z"
+  "lastUpdated": "2026-11-06T14:37:30.096Z"
 }
