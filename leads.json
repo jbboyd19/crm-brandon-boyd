@@ -21928,7 +21928,27 @@
       "addedAt": "2026-11-06T14:37:03.951Z",
       "prospectSourceId": "prospect-muab66jv-o57fv1",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw52wg24538lrbn73j6",
+      "name": "Camilo Buttowski Fernandez Camilo Buttowski Fernandez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/camilo.decade",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T14:37:28.780Z",
+      "prospectSourceId": "prospect-muab66jv-28wl5w",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-06T14:37:03.951Z"
+  "lastUpdated": "2026-11-06T14:37:28.780Z"
 }
