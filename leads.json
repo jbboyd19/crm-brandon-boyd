@@ -21888,7 +21888,27 @@
       "addedAt": "2026-11-06T14:36:16.163Z",
       "prospectSourceId": "prospect-muab66jv-gq1z6w",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw52va9043nuoh4lwza",
+      "name": "Cameron Kirkpatrick Cameron Kirkpatrick",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cameron.kirkpatrick.940",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T14:36:34.597Z",
+      "prospectSourceId": "prospect-muab66jv-e1zboc",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-06T14:36:16.163Z"
+  "lastUpdated": "2026-11-06T14:36:34.597Z"
 }
