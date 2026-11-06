@@ -6293,10 +6293,12 @@
       "name": "Cam Manning Cam Manning",
       "social": "https://facebook.com/cmsaysstuff",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw52snn1w12ziuiczgs",
+      "convertedAt": "2026-11-06T14:34:31.982Z"
     },
     {
       "id": "prospect-muab66jv-chtk9w",
@@ -49295,5 +49297,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-06T14:34:02.513Z"
+  "lastUpdated": "2026-11-06T14:34:33.220Z"
 }
