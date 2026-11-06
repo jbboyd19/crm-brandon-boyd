@@ -6405,10 +6405,12 @@
       "name": "Candace Kanahele Candace Kanahele",
       "social": "https://facebook.com/candace.kanahele",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw52yj2ogbh7knzdznt",
+      "convertedAt": "2026-11-06T14:39:06.000Z"
     },
     {
       "id": "prospect-muab66jv-dgcs74",
@@ -49311,5 +49313,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-06T14:37:30.096Z"
+  "lastUpdated": "2026-11-06T14:39:08.167Z"
 }
