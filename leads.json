@@ -21948,7 +21948,27 @@
       "addedAt": "2026-11-06T14:37:28.780Z",
       "prospectSourceId": "prospect-muab66jv-28wl5w",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw52yj2ogbh7knzdznt",
+      "name": "Candace Kanahele Candace Kanahele",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/candace.kanahele",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T14:39:06.000Z",
+      "prospectSourceId": "prospect-muab66jv-xddhtv",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-06T14:37:28.780Z"
+  "lastUpdated": "2026-11-06T14:39:06.000Z"
 }
