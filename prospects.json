@@ -6419,10 +6419,12 @@
       "name": "Candace Ross Candace Ross",
       "social": "https://facebook.com/realcandaceross",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw52zih2vb5gvgy5f1f",
+      "convertedAt": "2026-11-06T14:39:51.879Z"
     },
     {
       "id": "prospect-muab66jv-e7dcqh",
@@ -49301,5 +49303,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-06T14:39:29.628Z"
+  "lastUpdated": "2026-11-06T14:39:53.351Z"
 }
