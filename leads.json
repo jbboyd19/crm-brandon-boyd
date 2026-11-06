@@ -21768,7 +21768,27 @@
       "addedAt": "2026-11-06T14:33:06.550Z",
       "prospectSourceId": "prospect-muab66jv-sn4de6",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw52rndvsx5w0kchbd",
+      "name": "Calvin Francis Calvin Francis",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/calvin.francis.333",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T14:33:44.995Z",
+      "prospectSourceId": "prospect-muab66jv-kc9i7r",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-06T14:33:06.551Z"
+  "lastUpdated": "2026-11-06T14:33:44.995Z"
 }
