@@ -6237,10 +6237,12 @@
       "name": "Callawau Chet Callawau Chet",
       "social": "https://facebook.com/callawau.chet",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw52pehvsr7a8gnhp8",
+      "convertedAt": "2026-11-06T14:32:00.164Z"
     },
     {
       "id": "prospect-muab66jv-4z45mz",
@@ -49311,5 +49313,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-05T15:46:35.968Z"
+  "lastUpdated": "2026-11-06T14:32:02.177Z"
 }
