@@ -6279,10 +6279,12 @@
       "name": "Calvin Francis Calvin Francis",
       "social": "https://facebook.com/calvin.francis.333",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw52rndvsx5w0kchbd",
+      "convertedAt": "2026-11-06T14:33:44.995Z"
     },
     {
       "id": "prospect-muab66jv-539rse",
@@ -49305,5 +49307,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-06T14:33:07.998Z"
+  "lastUpdated": "2026-11-06T14:33:46.831Z"
 }
