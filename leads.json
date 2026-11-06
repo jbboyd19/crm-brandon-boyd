@@ -21968,7 +21968,27 @@
       "addedAt": "2026-11-06T14:39:06.000Z",
       "prospectSourceId": "prospect-muab66jv-xddhtv",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw52zih2vb5gvgy5f1f",
+      "name": "Candace Ross Candace Ross",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/realcandaceross",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T14:39:51.879Z",
+      "prospectSourceId": "prospect-muab66jv-ptxf99",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-06T14:39:06.000Z"
+  "lastUpdated": "2026-11-06T14:39:51.879Z"
 }
