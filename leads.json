@@ -22148,7 +22148,27 @@
       "addedAt": "2026-11-07T14:53:50.776Z",
       "prospectSourceId": "prospect-muab66jw-micbmi",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw6ixu3f16o8mnt7iax",
+      "name": "Carlos Dal Santo Carlos Dal Santo",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/carlos.santo.58",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-07",
+      "dateAdded": "2026-11-07",
+      "addedAt": "2026-11-07T14:54:13.659Z",
+      "prospectSourceId": "prospect-muab66jw-q32zsf",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-07T14:53:50.776Z"
+  "lastUpdated": "2026-11-07T14:54:13.660Z"
 }
