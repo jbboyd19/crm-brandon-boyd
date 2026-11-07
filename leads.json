@@ -22128,7 +22128,27 @@
       "addedAt": "2026-11-07T14:53:14.555Z",
       "prospectSourceId": "prospect-muab66jw-yoba29",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw6ixcfslprm89g9b8e",
+      "name": "Carlos Cruz Carlos Cruz",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/josecarlos.cruzguerrero",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-07",
+      "dateAdded": "2026-11-07",
+      "addedAt": "2026-11-07T14:53:50.776Z",
+      "prospectSourceId": "prospect-muab66jw-micbmi",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-07T14:53:14.555Z"
+  "lastUpdated": "2026-11-07T14:53:50.776Z"
 }
