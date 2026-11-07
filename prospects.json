@@ -6517,10 +6517,12 @@
       "name": "Carlos Arredondo Carlos Arredondo",
       "social": "https://facebook.com/gutierrezc12",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw6iwkhmj86dqrbdx8o",
+      "convertedAt": "2026-11-07T14:53:14.555Z"
     },
     {
       "id": "prospect-muab66jw-kio7us",
@@ -49267,5 +49269,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-07T14:52:58.406Z"
+  "lastUpdated": "2026-11-07T14:53:15.808Z"
 }
