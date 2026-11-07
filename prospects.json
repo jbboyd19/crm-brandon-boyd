@@ -6559,10 +6559,12 @@
       "name": "Carlos Garcia Carlos Garcia",
       "social": "https://facebook.com/garciaCAR000",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw6iyilbviaxtxa1vo8",
+      "convertedAt": "2026-11-07T14:54:45.407Z"
     },
     {
       "id": "prospect-muab66jw-dd927i",
@@ -49249,5 +49251,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-07T14:54:31.273Z"
+  "lastUpdated": "2026-11-07T14:54:46.541Z"
 }
