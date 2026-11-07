@@ -6643,10 +6643,12 @@
       "name": "Carmelo Belardo III Carmelo Belardo III",
       "social": "https://facebook.com/carmelo.i.belardo",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw6j1988lovzhecbzq",
+      "convertedAt": "2026-11-07T14:56:53.241Z"
     },
     {
       "id": "prospect-muab66jw-2ui16s",
@@ -49249,5 +49251,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-07T14:56:37.951Z"
+  "lastUpdated": "2026-11-07T14:56:54.666Z"
 }
