@@ -22108,7 +22108,27 @@
       "addedAt": "2026-11-07T14:52:57.275Z",
       "prospectSourceId": "prospect-muab66jw-uvctmd",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw6iwkhmj86dqrbdx8o",
+      "name": "Carlos Arredondo Carlos Arredondo",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/gutierrezc12",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-07",
+      "dateAdded": "2026-11-07",
+      "addedAt": "2026-11-07T14:53:14.555Z",
+      "prospectSourceId": "prospect-muab66jw-yoba29",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-07T14:52:57.275Z"
+  "lastUpdated": "2026-11-07T14:53:14.555Z"
 }
