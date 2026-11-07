@@ -22248,7 +22248,27 @@
       "addedAt": "2026-11-07T14:55:45.241Z",
       "prospectSourceId": "prospect-muab66jw-4yxcdf",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw6j0fob53mn5dyunfs",
+      "name": "Carlos Vera Carlos Vera",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/TheMotivator",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-07",
+      "dateAdded": "2026-11-07",
+      "addedAt": "2026-11-07T14:56:14.939Z",
+      "prospectSourceId": "prospect-muab66jw-22sdrd",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-07T14:55:45.241Z"
+  "lastUpdated": "2026-11-07T14:56:14.940Z"
 }
