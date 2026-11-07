@@ -22168,7 +22168,27 @@
       "addedAt": "2026-11-07T14:54:13.659Z",
       "prospectSourceId": "prospect-muab66jw-q32zsf",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw6iyilbviaxtxa1vo8",
+      "name": "Carlos Garcia Carlos Garcia",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/garciaCAR000",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-07",
+      "dateAdded": "2026-11-07",
+      "addedAt": "2026-11-07T14:54:45.407Z",
+      "prospectSourceId": "prospect-muab66jw-8ir84d",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-07T14:54:13.660Z"
+  "lastUpdated": "2026-11-07T14:54:45.407Z"
 }
