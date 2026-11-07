@@ -6531,10 +6531,12 @@
       "name": "Carlos Cruz Carlos Cruz",
       "social": "https://facebook.com/josecarlos.cruzguerrero",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw6ixcfslprm89g9b8e",
+      "convertedAt": "2026-11-07T14:53:50.776Z"
     },
     {
       "id": "prospect-muab66jw-q32zsf",
@@ -49257,5 +49259,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-07T14:53:28.590Z"
+  "lastUpdated": "2026-11-07T14:53:51.808Z"
 }
