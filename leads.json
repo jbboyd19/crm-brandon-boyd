@@ -22208,7 +22208,27 @@
       "addedAt": "2026-11-07T14:55:05.291Z",
       "prospectSourceId": "prospect-muab66jw-dd927i",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw6izb7gn4c81s9wdgq",
+      "name": "Carlos J Perez R Carlos J Perez R",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cjperezr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-07",
+      "dateAdded": "2026-11-07",
+      "addedAt": "2026-11-07T14:55:22.492Z",
+      "prospectSourceId": "prospect-muab66jw-qnhehz",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-07T14:55:05.292Z"
+  "lastUpdated": "2026-11-07T14:55:22.493Z"
 }
