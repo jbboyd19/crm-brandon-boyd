@@ -22008,7 +22008,27 @@
       "addedAt": "2026-11-06T14:41:58.079Z",
       "prospectSourceId": "prospect-muab66jv-dhi4ly",
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
+    },
+    {
+      "id": "mw6is1omaqggx6pfizj",
+      "name": "Carl Douglas Carl Douglas",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/carl.douglas.39982",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-07",
+      "dateAdded": "2026-11-07",
+      "addedAt": "2026-11-07T14:49:43.558Z",
+      "prospectSourceId": "prospect-muab66jv-8bwhwk",
+      "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-07T14:39:32.261Z"
+  "lastUpdated": "2026-11-07T14:49:43.558Z"
 }
