@@ -6609,18 +6609,6 @@
       "convertedAt": "2026-11-07T14:55:45.241Z"
     },
     {
-      "id": "prospect-muab66jw-cvtbc4",
-      "firstName": "Carlos Rodriguez",
-      "lastName": "Carlos Rodriguez",
-      "name": "Carlos Rodriguez Carlos Rodriguez",
-      "social": "https://facebook.com/carlosrmontenegro1",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jw-22sdrd",
       "firstName": "Carlos Vera",
       "lastName": "Carlos Vera",
@@ -49257,5 +49245,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-07T14:55:46.547Z"
+  "lastUpdated": "2026-11-07T14:55:58.155Z"
 }
