@@ -6629,10 +6629,12 @@
       "name": "Carlton Owens Carlton Owens",
       "social": "https://facebook.com/carltoneowens",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw6j0whb5wu3k3yuvdk",
+      "convertedAt": "2026-11-07T14:56:36.719Z"
     },
     {
       "id": "prospect-muab66jw-zj70df",
@@ -49247,5 +49249,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-07T14:56:15.975Z"
+  "lastUpdated": "2026-11-07T14:56:37.951Z"
 }
