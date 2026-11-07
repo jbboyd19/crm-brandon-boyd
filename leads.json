@@ -22088,7 +22088,27 @@
       "addedAt": "2026-11-07T14:52:38.126Z",
       "prospectSourceId": "prospect-muab66jw-kigdc2",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw6iw75njmrms20dvic",
+      "name": "Carlos Antelo Carlos Antelo",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/antelo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-07",
+      "dateAdded": "2026-11-07",
+      "addedAt": "2026-11-07T14:52:57.275Z",
+      "prospectSourceId": "prospect-muab66jw-uvctmd",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-07T14:52:38.126Z"
+  "lastUpdated": "2026-11-07T14:52:57.275Z"
 }
