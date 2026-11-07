@@ -21738,10 +21738,10 @@
       "source": "Facebook",
       "status": "New Lead",
       "videoSent": false,
-      "temperature": "Cold",
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-06",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-11-07",
       "notes": "",
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
@@ -22010,5 +22010,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.155Z"
     }
   ],
-  "lastUpdated": "2026-11-06T14:41:58.080Z"
+  "lastUpdated": "2026-11-07T00:37:55.534Z"
 }
