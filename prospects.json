@@ -6545,10 +6545,12 @@
       "name": "Carlos Dal Santo Carlos Dal Santo",
       "social": "https://facebook.com/carlos.santo.58",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw6ixu3f16o8mnt7iax",
+      "convertedAt": "2026-11-07T14:54:13.659Z"
     },
     {
       "id": "prospect-muab66jw-h0xg0p",
@@ -49259,5 +49261,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-07T14:53:51.808Z"
+  "lastUpdated": "2026-11-07T14:54:15.004Z"
 }
