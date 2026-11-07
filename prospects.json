@@ -6587,10 +6587,12 @@
       "name": "Carlos J Perez R Carlos J Perez R",
       "social": "https://facebook.com/cjperezr",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw6izb7gn4c81s9wdgq",
+      "convertedAt": "2026-11-07T14:55:22.492Z"
     },
     {
       "id": "prospect-muab66jw-4yxcdf",
@@ -49253,5 +49255,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-07T14:55:06.407Z"
+  "lastUpdated": "2026-11-07T14:55:24.020Z"
 }
