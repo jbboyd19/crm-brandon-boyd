@@ -6489,10 +6489,12 @@
       "name": "Carli Lopresto Carli Lopresto",
       "social": "https://facebook.com/carli.thompson77",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw6ivsdqk3ww1sa1k8q",
+      "convertedAt": "2026-11-07T14:52:38.126Z"
     },
     {
       "id": "prospect-muab66jw-uvctmd",
@@ -49263,5 +49265,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-07T14:51:50.490Z"
+  "lastUpdated": "2026-11-07T14:52:39.847Z"
 }
