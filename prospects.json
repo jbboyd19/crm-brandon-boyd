@@ -6447,10 +6447,12 @@
       "name": "Carl Douglas Carl Douglas",
       "social": "https://facebook.com/carl.douglas.39982",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.155Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw6is1omaqggx6pfizj",
+      "convertedAt": "2026-11-07T14:49:43.558Z"
     },
     {
       "id": "prospect-muab66jv-ntlr15",
@@ -49293,5 +49295,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-06T14:41:59.803Z"
+  "lastUpdated": "2026-11-07T14:49:45.781Z"
 }
