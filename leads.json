@@ -22268,7 +22268,27 @@
       "addedAt": "2026-11-07T14:56:14.939Z",
       "prospectSourceId": "prospect-muab66jw-22sdrd",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw6j0whb5wu3k3yuvdk",
+      "name": "Carlton Owens Carlton Owens",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/carltoneowens",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-07",
+      "dateAdded": "2026-11-07",
+      "addedAt": "2026-11-07T14:56:36.719Z",
+      "prospectSourceId": "prospect-muab66jw-qygt6t",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-07T14:56:14.940Z"
+  "lastUpdated": "2026-11-07T14:56:36.720Z"
 }
