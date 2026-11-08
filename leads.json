@@ -21996,14 +21996,14 @@
       "phone": "",
       "social": "https://facebook.com/carina.casillas.5",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-06",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-11-09",
       "notes": "",
-      "lastModified": "2026-11-06",
+      "lastModified": "2026-11-07",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T14:41:58.079Z",
       "prospectSourceId": "prospect-muab66jv-dhi4ly",
@@ -22310,5 +22310,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-07T15:08:31.364Z"
+  "lastUpdated": "2026-11-08T01:08:53.333Z"
 }
