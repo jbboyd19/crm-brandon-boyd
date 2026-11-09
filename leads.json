@@ -22368,7 +22368,27 @@
       "addedAt": "2026-11-09T14:28:53.609Z",
       "prospectSourceId": "prospect-muab66jw-yifeg9",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw9cxnxoqxik17qwou",
+      "name": "Carolus Magnus Konou Carolus Magnus Konou",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/CarolusMagnus.Konou",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T14:29:26.508Z",
+      "prospectSourceId": "prospect-muab66jw-65jg5e",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-09T14:28:53.610Z"
+  "lastUpdated": "2026-11-09T14:29:26.509Z"
 }
