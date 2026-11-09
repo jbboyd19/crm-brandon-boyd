@@ -6755,10 +6755,12 @@
       "name": "Cassidy Villano Cassidy Villano",
       "social": "https://facebook.com/cassidyvillano",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw9czroysdct7bewve",
+      "convertedAt": "2026-11-09T14:31:04.690Z"
     },
     {
       "id": "prospect-muab66jw-5ynt8x",
@@ -49229,5 +49231,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-09T14:30:47.649Z"
+  "lastUpdated": "2026-11-09T14:31:06.718Z"
 }
