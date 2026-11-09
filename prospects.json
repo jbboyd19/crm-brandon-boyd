@@ -6839,10 +6839,12 @@
       "name": "Cedric Rashad Cedric Rashad",
       "social": "https://facebook.com/Cedric.A.Rashad",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw9d2oh779qolk7qrdt",
+      "convertedAt": "2026-11-09T14:33:20.491Z"
     },
     {
       "id": "prospect-muab66jw-ne70v3",
@@ -49229,5 +49231,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-09T14:32:56.404Z"
+  "lastUpdated": "2026-11-09T14:33:21.922Z"
 }
