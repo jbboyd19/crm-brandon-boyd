@@ -22328,7 +22328,27 @@
       "addedAt": "2026-11-09T14:28:11.343Z",
       "prospectSourceId": "prospect-muab66jw-2ui16s",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw9cwivb0yv6ekxv3uzq",
+      "name": "Carol Miller Carol Miller",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/imcarol",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T14:28:33.287Z",
+      "prospectSourceId": "prospect-muab66jw-9w3ui6",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-09T14:28:11.344Z"
+  "lastUpdated": "2026-11-09T14:28:33.288Z"
 }
