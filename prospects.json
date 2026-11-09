@@ -6811,10 +6811,12 @@
       "name": "Cecilia Lopes Cecilia Lopes",
       "social": "https://facebook.com/cecilia.lopes.927",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw9d19sn6gr9e72gcel",
+      "convertedAt": "2026-11-09T14:32:14.808Z"
     },
     {
       "id": "prospect-muab66jw-ut90m9",
@@ -49237,5 +49239,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-09T14:32:00.530Z"
+  "lastUpdated": "2026-11-09T14:32:16.324Z"
 }
