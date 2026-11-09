@@ -22428,7 +22428,27 @@
       "addedAt": "2026-11-09T14:30:26.620Z",
       "prospectSourceId": "prospect-muab66jw-0hw39h",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw9czd8mdmzli391s5c",
+      "name": "Casey Smith Casey Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/caseyrrsmith",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T14:30:45.958Z",
+      "prospectSourceId": "prospect-muab66jw-86ej6q",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-09T14:30:26.620Z"
+  "lastUpdated": "2026-11-09T14:30:45.959Z"
 }
