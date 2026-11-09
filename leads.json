@@ -22588,7 +22588,27 @@
       "addedAt": "2026-11-09T14:33:20.491Z",
       "prospectSourceId": "prospect-muab66jw-h3kkva",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw9d39c0iu1g3c9dws",
+      "name": "Cedric Sanou Cedric Sanou",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cedric.sanou.39",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T14:33:47.521Z",
+      "prospectSourceId": "prospect-muab66jw-ne70v3",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-09T14:33:20.491Z"
+  "lastUpdated": "2026-11-09T14:33:47.521Z"
 }
