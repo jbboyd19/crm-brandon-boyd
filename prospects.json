@@ -6825,10 +6825,12 @@
       "name": "Cedric Campbell Cedric Campbell",
       "social": "https://facebook.com/cedric.campbell2",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw9d1r1yqjlk7psv32p",
+      "convertedAt": "2026-11-09T14:32:37.174Z"
     },
     {
       "id": "prospect-muab66jw-obn8l2",
@@ -49239,5 +49241,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-09T14:32:16.324Z"
+  "lastUpdated": "2026-11-09T14:32:38.545Z"
 }
