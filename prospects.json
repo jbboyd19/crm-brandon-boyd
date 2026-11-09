@@ -6741,10 +6741,12 @@
       "name": "Casey Smith Casey Smith",
       "social": "https://facebook.com/caseyrrsmith",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mw9czd8mdmzli391s5c",
+      "convertedAt": "2026-11-09T14:30:45.958Z"
     },
     {
       "id": "prospect-muab66jw-mvt5go",
@@ -49227,5 +49229,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-09T14:30:27.821Z"
+  "lastUpdated": "2026-11-09T14:30:47.649Z"
 }
