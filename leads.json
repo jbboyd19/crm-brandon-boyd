@@ -22548,7 +22548,27 @@
       "addedAt": "2026-11-09T14:32:14.808Z",
       "prospectSourceId": "prospect-muab66jw-4phk5r",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw9d1r1yqjlk7psv32p",
+      "name": "Cedric Campbell Cedric Campbell",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cedric.campbell2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T14:32:37.174Z",
+      "prospectSourceId": "prospect-muab66jw-ut90m9",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-09T14:32:14.808Z"
+  "lastUpdated": "2026-11-09T14:32:37.175Z"
 }
