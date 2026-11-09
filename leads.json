@@ -22388,7 +22388,27 @@
       "addedAt": "2026-11-09T14:29:26.508Z",
       "prospectSourceId": "prospect-muab66jw-65jg5e",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw9cyg7mxhcs1izhr7",
+      "name": "Carter Barlow Carter Barlow",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/carter.barlow.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T14:30:03.154Z",
+      "prospectSourceId": "prospect-muab66jw-dwn2pv",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-09T14:29:26.509Z"
+  "lastUpdated": "2026-11-09T14:30:03.154Z"
 }
