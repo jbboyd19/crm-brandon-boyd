@@ -22528,7 +22528,27 @@
       "addedAt": "2026-11-09T14:31:59.423Z",
       "prospectSourceId": "prospect-muab66jw-hg2rqh",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw9d19sn6gr9e72gcel",
+      "name": "Cecilia Lopes Cecilia Lopes",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cecilia.lopes.927",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T14:32:14.808Z",
+      "prospectSourceId": "prospect-muab66jw-4phk5r",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-09T14:31:59.423Z"
+  "lastUpdated": "2026-11-09T14:32:14.808Z"
 }
