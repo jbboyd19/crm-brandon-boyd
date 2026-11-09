@@ -22308,7 +22308,27 @@
       "addedAt": "2026-11-07T14:56:53.241Z",
       "prospectSourceId": "prospect-muab66jw-zj70df",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mw9cw1xqi8jfdgy8gj",
+      "name": "Carol Hill Anglin Carol Hill Anglin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/carol.h.anglin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T14:28:11.343Z",
+      "prospectSourceId": "prospect-muab66jw-2ui16s",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-08T16:11:21.633Z"
+  "lastUpdated": "2026-11-09T14:28:11.344Z"
 }
