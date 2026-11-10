@@ -6987,18 +6987,6 @@
       "convertedAt": "2026-11-10T14:37:24.007Z"
     },
     {
-      "id": "prospect-muab66jw-d1l574",
-      "firstName": "Chadwick Anderson",
-      "lastName": "Chadwick Anderson",
-      "name": "Chadwick Anderson Chadwick Anderson",
-      "social": "https://facebook.com/chadwick.anderson",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jw-757ig9",
       "firstName": "Chalcye Atkins",
       "lastName": "Chalcye Atkins",
@@ -49167,5 +49155,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-10T14:37:25.137Z"
+  "lastUpdated": "2026-11-10T14:37:35.369Z"
 }
