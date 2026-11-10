@@ -22736,12 +22736,12 @@
       "phone": "",
       "social": "https://facebook.com/chad.labonte.1",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-10",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-11-11",
       "notes": "",
       "lastModified": "2026-11-10",
       "dateAdded": "2026-11-10",
@@ -22910,5 +22910,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-10T19:55:20.724Z"
+  "lastUpdated": "2026-11-10T23:23:37.274Z"
 }
