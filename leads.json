@@ -22648,7 +22648,27 @@
       "addedAt": "2026-11-10T14:33:33.941Z",
       "prospectSourceId": "prospect-muab66jw-x0rqbb",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwasj8nlrfwfqnav8ug",
+      "name": "Cesar Ramirez Cesar Ramirez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cramirez8",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T14:33:53.553Z",
+      "prospectSourceId": "prospect-muab66jw-x6tqof",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-10T14:33:33.941Z"
+  "lastUpdated": "2026-11-10T14:33:53.553Z"
 }
