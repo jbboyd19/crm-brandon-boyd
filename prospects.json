@@ -6923,10 +6923,12 @@
       "name": "Chad Ike Chad Ike",
       "social": "https://facebook.com/Fresh7",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwasl5q84v8cc7repsi",
+      "convertedAt": "2026-11-10T14:35:23.072Z"
     },
     {
       "id": "prospect-muab66jw-4qbygb",
@@ -49181,5 +49183,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-10T14:35:02.470Z"
+  "lastUpdated": "2026-11-10T14:35:24.799Z"
 }
