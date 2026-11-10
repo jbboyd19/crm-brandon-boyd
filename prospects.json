@@ -7063,10 +7063,12 @@
       "name": "Charles Dyson Charles Dyson",
       "social": "https://facebook.com/MrKingdomKash",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwass96jo3dpr2qz2mm",
+      "convertedAt": "2026-11-10T14:40:54.139Z"
     },
     {
       "id": "prospect-muab66jw-lna9nq",
@@ -49057,5 +49059,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-10T14:40:39.452Z"
+  "lastUpdated": "2026-11-10T14:40:55.628Z"
 }
