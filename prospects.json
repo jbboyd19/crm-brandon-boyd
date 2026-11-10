@@ -6895,10 +6895,12 @@
       "name": "Cesar Ramirez Cesar Ramirez",
       "social": "https://facebook.com/cramirez8",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwasj8nlrfwfqnav8ug",
+      "convertedAt": "2026-11-10T14:33:53.553Z"
     },
     {
       "id": "prospect-muab66jw-9dnjf2",
@@ -49213,5 +49215,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-10T14:33:35.387Z"
+  "lastUpdated": "2026-11-10T14:33:55.114Z"
 }
