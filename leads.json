@@ -22808,7 +22808,27 @@
       "addedAt": "2026-11-10T14:37:54.473Z",
       "prospectSourceId": "prospect-muab66jw-757ig9",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwasou2mdattlgd8djm",
+      "name": "Chamayne Renee Chamayne Renee",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/creneesmithpr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T14:38:14.590Z",
+      "prospectSourceId": "prospect-muab66jw-reph93",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-10T14:37:54.473Z"
+  "lastUpdated": "2026-11-10T14:38:14.590Z"
 }
