@@ -22688,7 +22688,27 @@
       "addedAt": "2026-11-10T14:34:20.539Z",
       "prospectSourceId": "prospect-muab66jw-9dnjf2",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwasl5q84v8cc7repsi",
+      "name": "Chad Ike Chad Ike",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Fresh7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T14:35:23.072Z",
+      "prospectSourceId": "prospect-muab66jw-g6ioyi",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-10T14:34:20.540Z"
+  "lastUpdated": "2026-11-10T14:35:23.073Z"
 }
