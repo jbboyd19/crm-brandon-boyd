@@ -6979,10 +6979,12 @@
       "name": "Chadd Olson Chadd Olson",
       "social": "https://facebook.com/chadd.olson.9",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwasnr1jdwdc8yh2moo",
+      "convertedAt": "2026-11-10T14:37:24.007Z"
     },
     {
       "id": "prospect-muab66jw-d1l574",
@@ -49165,5 +49167,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-10T14:37:07.935Z"
+  "lastUpdated": "2026-11-10T14:37:25.137Z"
 }
