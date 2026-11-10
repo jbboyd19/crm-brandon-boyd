@@ -22728,7 +22728,27 @@
       "addedAt": "2026-11-10T14:35:43.757Z",
       "prospectSourceId": "prospect-muab66jw-4qbygb",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwasm0rcy1mgrb2of7a",
+      "name": "Chad LaBonte Chad LaBonte",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chad.labonte.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T14:36:03.288Z",
+      "prospectSourceId": "prospect-muab66jw-1ul744",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-10T14:35:43.757Z"
+  "lastUpdated": "2026-11-10T14:36:03.289Z"
 }
