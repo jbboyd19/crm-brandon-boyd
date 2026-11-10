@@ -6937,10 +6937,12 @@
       "name": "Chad Joel George Chad Joel George",
       "social": "https://facebook.com/chad.george.148",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwasllot33wb1khu8w",
+      "convertedAt": "2026-11-10T14:35:43.757Z"
     },
     {
       "id": "prospect-muab66jw-1ul744",
@@ -49183,5 +49185,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-10T14:35:24.799Z"
+  "lastUpdated": "2026-11-10T14:35:45.297Z"
 }
