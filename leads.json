@@ -22708,7 +22708,27 @@
       "addedAt": "2026-11-10T14:35:23.072Z",
       "prospectSourceId": "prospect-muab66jw-g6ioyi",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwasllot33wb1khu8w",
+      "name": "Chad Joel George Chad Joel George",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chad.george.148",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T14:35:43.757Z",
+      "prospectSourceId": "prospect-muab66jw-4qbygb",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-10T14:35:23.073Z"
+  "lastUpdated": "2026-11-10T14:35:43.757Z"
 }
