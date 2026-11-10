@@ -22848,7 +22848,27 @@
       "addedAt": "2026-11-10T14:38:46.718Z",
       "prospectSourceId": "prospect-muab66jw-gqimeo",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwasr29mzii1jby4bl",
+      "name": "Charles B. McInnis Charles B. McInnis",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/charles.b.mcinnis",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T14:39:58.522Z",
+      "prospectSourceId": "prospect-muab66jw-bxh6lu",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-10T14:38:46.719Z"
+  "lastUpdated": "2026-11-10T14:39:58.522Z"
 }
