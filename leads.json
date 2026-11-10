@@ -22748,7 +22748,27 @@
       "addedAt": "2026-11-10T14:36:03.288Z",
       "prospectSourceId": "prospect-muab66jw-1ul744",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwasms89h2kok8jd3x4",
+      "name": "Chad R Johnston Chad R Johnston",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chad.johnston.39566",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T14:36:38.890Z",
+      "prospectSourceId": "prospect-muab66jw-4j1ven",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-10T14:36:03.289Z"
+  "lastUpdated": "2026-11-10T14:36:38.890Z"
 }
