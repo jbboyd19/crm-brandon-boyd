@@ -22768,7 +22768,27 @@
       "addedAt": "2026-11-10T14:36:38.890Z",
       "prospectSourceId": "prospect-muab66jw-4j1ven",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwasnr1jdwdc8yh2moo",
+      "name": "Chadd Olson Chadd Olson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chadd.olson.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T14:37:24.007Z",
+      "prospectSourceId": "prospect-muab66jw-qcshd2",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-10T14:36:38.890Z"
+  "lastUpdated": "2026-11-10T14:37:24.008Z"
 }
