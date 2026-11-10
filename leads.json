@@ -22788,7 +22788,27 @@
       "addedAt": "2026-11-10T14:37:24.007Z",
       "prospectSourceId": "prospect-muab66jw-qcshd2",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwasoejt16nw7xyvyapj",
+      "name": "Chalcye Atkins Chalcye Atkins",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chalcyejo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T14:37:54.473Z",
+      "prospectSourceId": "prospect-muab66jw-757ig9",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-10T14:37:24.008Z"
+  "lastUpdated": "2026-11-10T14:37:54.473Z"
 }
