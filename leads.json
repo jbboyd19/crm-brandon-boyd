@@ -22828,7 +22828,27 @@
       "addedAt": "2026-11-10T14:38:14.590Z",
       "prospectSourceId": "prospect-muab66jw-reph93",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwaspiv2r0n557nbe8c",
+      "name": "Chance Metz Chance Metz",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chance.metz.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T14:38:46.718Z",
+      "prospectSourceId": "prospect-muab66jw-gqimeo",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-10T14:38:14.590Z"
+  "lastUpdated": "2026-11-10T14:38:46.719Z"
 }
