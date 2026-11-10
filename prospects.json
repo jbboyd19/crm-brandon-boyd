@@ -7021,10 +7021,12 @@
       "name": "Chance Metz Chance Metz",
       "social": "https://facebook.com/chance.metz.7",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwaspiv2r0n557nbe8c",
+      "convertedAt": "2026-11-10T14:38:46.718Z"
     },
     {
       "id": "prospect-muab66jw-2ej2gc",
@@ -49135,5 +49137,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-10T14:38:31.886Z"
+  "lastUpdated": "2026-11-10T14:38:48.183Z"
 }
