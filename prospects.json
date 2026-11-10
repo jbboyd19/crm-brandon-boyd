@@ -6875,18 +6875,6 @@
       "convertedAt": "2026-11-10T14:33:06.172Z"
     },
     {
-      "id": "prospect-muab66jw-4abbe5",
-      "firstName": "Cesar Fox",
-      "lastName": "Cesar Fox",
-      "name": "Cesar Fox Cesar Fox",
-      "social": "https://facebook.com/cesar.fox.1422",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jw-x0rqbb",
       "firstName": "Cesar Huerta",
       "lastName": "Cesar Huerta",
@@ -49223,5 +49211,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-10T14:33:08.212Z"
+  "lastUpdated": "2026-11-10T14:33:19.285Z"
 }
