@@ -6909,10 +6909,12 @@
       "name": "Cezary Maćkowiak Cezary Maćkowiak",
       "social": "https://facebook.com/cezary.mackowiak.92",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwasjth7dz5lcuhrsx",
+      "convertedAt": "2026-11-10T14:34:20.539Z"
     },
     {
       "id": "prospect-muab66jw-jj62u8",
@@ -49215,5 +49217,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-10T14:33:55.114Z"
+  "lastUpdated": "2026-11-10T14:34:22.147Z"
 }
