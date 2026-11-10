@@ -22868,7 +22868,27 @@
       "addedAt": "2026-11-10T14:39:58.522Z",
       "prospectSourceId": "prospect-muab66jw-bxh6lu",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwasrmyz7a20e53xy7p",
+      "name": "Charles Cormier Charles Cormier",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/charles.eric91",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T14:40:25.355Z",
+      "prospectSourceId": "prospect-muab66jw-7cot4k",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-10T14:39:58.522Z"
+  "lastUpdated": "2026-11-10T14:40:25.356Z"
 }
