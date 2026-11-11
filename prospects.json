@@ -7259,10 +7259,12 @@
       "name": "Chenea Taylor Chenea Taylor",
       "social": "https://facebook.com/chenea.taylor",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc82c5zuqupjoih04g",
+      "convertedAt": "2026-11-11T14:36:24.983Z"
     },
     {
       "id": "prospect-muab66jw-ngfrj5",
@@ -49037,5 +49039,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T14:35:58.499Z"
+  "lastUpdated": "2026-11-11T14:36:26.531Z"
 }
