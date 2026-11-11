@@ -23188,7 +23188,27 @@
       "addedAt": "2026-11-11T14:36:24.983Z",
       "prospectSourceId": "prospect-muab66jw-2ydbxl",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwc8342ivmwlg8m1bv",
+      "name": "Chess Roach Chess Roach",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Chess.Roach1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T14:37:01.146Z",
+      "prospectSourceId": "prospect-muab66jw-ngfrj5",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-11T14:36:24.983Z"
+  "lastUpdated": "2026-11-11T14:37:01.146Z"
 }
