@@ -7217,10 +7217,12 @@
       "name": "Chase Williams Chase Williams",
       "social": "https://facebook.com/chase.williams.1614",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc810lxamenajqlwfk",
+      "convertedAt": "2026-11-11T14:35:23.350Z"
     },
     {
       "id": "prospect-muab66jw-dfcj8d",
@@ -49031,5 +49033,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T14:35:05.894Z"
+  "lastUpdated": "2026-11-11T14:35:24.694Z"
 }
