@@ -22908,7 +22908,27 @@
       "addedAt": "2026-11-10T14:40:54.139Z",
       "prospectSourceId": "prospect-muab66jw-zjpsk7",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwc7v1s75prxgvb1qwi",
+      "name": "Charles Fuchs Charles Fuchs",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/charlesfuchs",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T14:30:44.935Z",
+      "prospectSourceId": "prospect-muab66jw-lna9nq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-11T14:29:41.529Z"
+  "lastUpdated": "2026-11-11T14:30:44.936Z"
 }
