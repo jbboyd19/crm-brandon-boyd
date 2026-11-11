@@ -22968,7 +22968,27 @@
       "addedAt": "2026-11-11T14:32:06.299Z",
       "prospectSourceId": "prospect-muab66jw-b79hqw",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwc7x4lpqbgqsqvotd",
+      "name": "Charlie Nava Charlie Nava",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/charlie.nava.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T14:32:21.901Z",
+      "prospectSourceId": "prospect-muab66jw-tfgu3o",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-11T14:32:06.300Z"
+  "lastUpdated": "2026-11-11T14:32:21.901Z"
 }
