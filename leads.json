@@ -23128,7 +23128,27 @@
       "addedAt": "2026-11-11T14:35:23.350Z",
       "prospectSourceId": "prospect-muab66jw-yj7oru",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwc81el6ke6pgm49agp",
+      "name": "Chaz Horn Chaz Horn",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chaz.horn",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T14:35:41.466Z",
+      "prospectSourceId": "prospect-muab66jw-dfcj8d",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-11T14:35:23.350Z"
+  "lastUpdated": "2026-11-11T14:35:41.467Z"
 }
