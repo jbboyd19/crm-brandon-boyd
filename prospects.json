@@ -7169,18 +7169,6 @@
       "convertedAt": "2026-11-11T14:34:02.150Z"
     },
     {
-      "id": "prospect-muab66jw-67quww",
-      "firstName": "Chase Graham",
-      "lastName": "Chase Graham",
-      "name": "Chase Graham Chase Graham",
-      "social": "https://facebook.com/chase.graham.180",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jw-qdejwt",
       "firstName": "Chase Hyles",
       "lastName": "Chase Hyles",
@@ -49037,5 +49025,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T14:34:04.002Z"
+  "lastUpdated": "2026-11-11T14:34:14.795Z"
 }
