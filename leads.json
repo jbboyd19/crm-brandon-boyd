@@ -23088,7 +23088,27 @@
       "addedAt": "2026-11-11T14:34:47.833Z",
       "prospectSourceId": "prospect-muab66jw-pgtnql",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwc80m8stu20e3pgtmf",
+      "name": "Chase Meadows Chase Meadows",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chase.meadows.754",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T14:35:04.732Z",
+      "prospectSourceId": "prospect-muab66jw-pi24xe",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-11T14:34:47.834Z"
+  "lastUpdated": "2026-11-11T14:35:04.733Z"
 }
