@@ -7231,10 +7231,12 @@
       "name": "Chaz Horn Chaz Horn",
       "social": "https://facebook.com/chaz.horn",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc81el6ke6pgm49agp",
+      "convertedAt": "2026-11-11T14:35:41.466Z"
     },
     {
       "id": "prospect-muab66jw-zzh349",
@@ -49033,5 +49035,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T14:35:24.694Z"
+  "lastUpdated": "2026-11-11T14:35:42.643Z"
 }
