@@ -7099,18 +7099,6 @@
       "convertedAt": "2026-11-11T14:31:18.467Z"
     },
     {
-      "id": "prospect-muab66jw-gpctsg",
-      "firstName": "Charles Riggins",
-      "lastName": "Charles Riggins",
-      "name": "Charles Riggins Charles Riggins",
-      "social": "https://facebook.com/charles.riggins.33",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jw-ltoxw7",
       "firstName": "Charlie Jones",
       "lastName": "Charlie Jones",
@@ -49051,5 +49039,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T14:31:19.841Z"
+  "lastUpdated": "2026-11-11T14:31:38.048Z"
 }
