@@ -7133,10 +7133,12 @@
       "name": "Charlie Parvin Charlie Parvin",
       "social": "https://facebook.com/charles.parvin",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc7xhhk74yyfnim5t5",
+      "convertedAt": "2026-11-11T14:32:38.600Z"
     },
     {
       "id": "prospect-muab66jw-vn66tw",
@@ -49031,5 +49033,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T14:32:23.023Z"
+  "lastUpdated": "2026-11-11T14:32:39.919Z"
 }
