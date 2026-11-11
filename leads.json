@@ -22988,7 +22988,27 @@
       "addedAt": "2026-11-11T14:32:21.901Z",
       "prospectSourceId": "prospect-muab66jw-tfgu3o",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwc7xhhk74yyfnim5t5",
+      "name": "Charlie Parvin Charlie Parvin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/charles.parvin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T14:32:38.600Z",
+      "prospectSourceId": "prospect-muab66jw-xsq518",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-11T14:32:21.901Z"
+  "lastUpdated": "2026-11-11T14:32:38.601Z"
 }
