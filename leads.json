@@ -22928,7 +22928,27 @@
       "addedAt": "2026-11-11T14:30:44.935Z",
       "prospectSourceId": "prospect-muab66jw-lna9nq",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwc7vrnnuuki1j4qgh",
+      "name": "Charles Nicholson Charles Nicholson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/gmitravel",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T14:31:18.467Z",
+      "prospectSourceId": "prospect-muab66jw-xcw05q",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-11T14:30:44.936Z"
+  "lastUpdated": "2026-11-11T14:31:18.468Z"
 }
