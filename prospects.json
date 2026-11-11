@@ -7147,10 +7147,12 @@
       "name": "Charlii Roberts Charlii Roberts",
       "social": "https://facebook.com/charlii.roberts.1",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc7xvwkj3zxrrug3bd",
+      "convertedAt": "2026-11-11T14:32:57.284Z"
     },
     {
       "id": "prospect-muab66jw-dsv7xd",
@@ -49033,5 +49035,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T14:32:39.919Z"
+  "lastUpdated": "2026-11-11T14:32:58.964Z"
 }
