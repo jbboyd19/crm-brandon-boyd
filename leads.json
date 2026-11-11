@@ -22948,7 +22948,27 @@
       "addedAt": "2026-11-11T14:31:18.467Z",
       "prospectSourceId": "prospect-muab66jw-xcw05q",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwc7wskb3jyjekq8swd",
+      "name": "Charlie McHale Charlie McHale",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/charlie.mchale.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T14:32:06.299Z",
+      "prospectSourceId": "prospect-muab66jw-b79hqw",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-11T14:31:18.468Z"
+  "lastUpdated": "2026-11-11T14:32:06.300Z"
 }
