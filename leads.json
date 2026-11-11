@@ -23068,7 +23068,27 @@
       "addedAt": "2026-11-11T14:34:31.367Z",
       "prospectSourceId": "prospect-muab66jw-qdejwt",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwc8097dp3kw6j3a4d",
+      "name": "Chase Kost Chase Kost",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chasedaddy702",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T14:34:47.833Z",
+      "prospectSourceId": "prospect-muab66jw-pgtnql",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-11T14:34:31.367Z"
+  "lastUpdated": "2026-11-11T14:34:47.834Z"
 }
