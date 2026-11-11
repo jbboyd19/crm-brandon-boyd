@@ -7273,10 +7273,12 @@
       "name": "Chess Roach Chess Roach",
       "social": "https://facebook.com/Chess.Roach1",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc8342ivmwlg8m1bv",
+      "convertedAt": "2026-11-11T14:37:01.146Z"
     },
     {
       "id": "prospect-muab66jw-t7wtsk",
@@ -49039,5 +49041,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T14:36:26.531Z"
+  "lastUpdated": "2026-11-11T14:37:02.897Z"
 }
