@@ -23048,7 +23048,27 @@
       "addedAt": "2026-11-11T14:34:02.150Z",
       "prospectSourceId": "prospect-muab66jw-dsv7xd",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwc7zwhye8bt6q9to9f",
+      "name": "Chase Hyles Chase Hyles",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ChatWithChase",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T14:34:31.367Z",
+      "prospectSourceId": "prospect-muab66jw-qdejwt",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-11T14:34:02.151Z"
+  "lastUpdated": "2026-11-11T14:34:31.367Z"
 }
