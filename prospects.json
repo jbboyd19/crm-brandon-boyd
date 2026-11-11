@@ -7077,10 +7077,12 @@
       "name": "Charles Fuchs Charles Fuchs",
       "social": "https://facebook.com/charlesfuchs",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc7v1s75prxgvb1qwi",
+      "convertedAt": "2026-11-11T14:30:44.935Z"
     },
     {
       "id": "prospect-muab66jw-t7x553",
@@ -49059,5 +49061,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-10T14:40:55.628Z"
+  "lastUpdated": "2026-11-11T14:30:46.792Z"
 }
