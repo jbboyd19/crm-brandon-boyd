@@ -7175,10 +7175,12 @@
       "name": "Chase Hyles Chase Hyles",
       "social": "https://facebook.com/ChatWithChase",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc7zwhye8bt6q9to9f",
+      "convertedAt": "2026-11-11T14:34:31.367Z"
     },
     {
       "id": "prospect-muab66jw-pgtnql",
@@ -49025,5 +49027,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T14:34:14.795Z"
+  "lastUpdated": "2026-11-11T14:34:33.167Z"
 }
