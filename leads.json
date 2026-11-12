@@ -23548,7 +23548,27 @@
       "addedAt": "2026-11-12T20:42:38.646Z",
       "prospectSourceId": "prospect-muab66jx-07qp9v",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwe0md4epol8tdrilm",
+      "name": "Chris L'Europa Chris L'Europa",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chrisleuropa",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:43:34.767Z",
+      "prospectSourceId": "prospect-muab66jx-c1q1os",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-12T20:42:38.646Z"
+  "lastUpdated": "2026-11-12T20:43:34.767Z"
 }
