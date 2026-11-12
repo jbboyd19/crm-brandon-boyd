@@ -23588,7 +23588,27 @@
       "addedAt": "2026-11-12T20:43:51.698Z",
       "prospectSourceId": "prospect-muab66jx-d7bexi",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwe0nak265ro11r3sac",
+      "name": "Chris M. Braden Chris M. Braden",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.m.braden",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:44:18.099Z",
+      "prospectSourceId": "prospect-muab66jx-jss2xm",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-12T20:43:51.699Z"
+  "lastUpdated": "2026-11-12T20:44:18.099Z"
 }
