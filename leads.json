@@ -23228,7 +23228,27 @@
       "addedAt": "2026-11-12T14:14:44.045Z",
       "prospectSourceId": "prospect-muab66jw-t7wtsk",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwdmqo9snatrybay9in",
+      "name": "Chip Browne Chip Browne",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chip.browne",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:15:01.216Z",
+      "prospectSourceId": "prospect-muab66jw-tflh13",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-12T14:14:44.046Z"
+  "lastUpdated": "2026-11-12T14:15:01.217Z"
 }
