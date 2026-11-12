@@ -23328,7 +23328,27 @@
       "addedAt": "2026-11-12T14:16:43.049Z",
       "prospectSourceId": "prospect-muab66jw-44tds0",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwdmwo3ooxhxq8gq6ce",
+      "name": "Chris Bowers Chris Bowers",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bowerstribe1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:19:40.932Z",
+      "prospectSourceId": "prospect-muab66jw-9qlhyw",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-12T14:16:43.049Z"
+  "lastUpdated": "2026-11-12T14:19:40.932Z"
 }
