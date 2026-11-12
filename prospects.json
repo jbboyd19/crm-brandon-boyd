@@ -7287,10 +7287,12 @@
       "name": "Chinsamy Denzel Chinsamy Denzel",
       "social": "https://facebook.com/Dk.chinz",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdmqb0tleuejaervyd",
+      "convertedAt": "2026-11-12T14:14:44.045Z"
     },
     {
       "id": "prospect-muab66jw-tflh13",
@@ -49041,5 +49043,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T14:37:02.897Z"
+  "lastUpdated": "2026-11-12T14:14:45.876Z"
 }
