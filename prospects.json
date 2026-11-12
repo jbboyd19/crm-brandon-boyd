@@ -7301,10 +7301,12 @@
       "name": "Chip Browne Chip Browne",
       "social": "https://facebook.com/chip.browne",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdmqo9snatrybay9in",
+      "convertedAt": "2026-11-12T14:15:01.216Z"
     },
     {
       "id": "prospect-muab66jw-o9zxip",
@@ -49043,5 +49045,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T14:14:45.876Z"
+  "lastUpdated": "2026-11-12T14:15:02.576Z"
 }
