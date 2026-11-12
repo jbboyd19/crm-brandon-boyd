@@ -7595,10 +7595,12 @@
       "name": "Chris Mitchell Chris Mitchell",
       "social": "https://facebook.com/chris.mitchell.428885",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwe0zeq9uf3vzb8iemn",
+      "convertedAt": "2026-11-12T20:53:43.377Z"
     },
     {
       "id": "prospect-muab66jx-xmrfoj",
@@ -49025,5 +49027,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T20:53:25.158Z"
+  "lastUpdated": "2026-11-12T20:53:45.110Z"
 }
