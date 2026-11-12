@@ -7519,18 +7519,6 @@
       "convertedAt": "2026-11-12T20:42:38.646Z"
     },
     {
-      "id": "prospect-muab66jx-dpzys9",
-      "firstName": "Chris Kirch",
-      "lastName": "Chris Kirch",
-      "name": "Chris Kirch Chris Kirch",
-      "social": "https://facebook.com/chris.kirch.2025",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jx-c1q1os",
       "firstName": "Chris L'Europa",
       "lastName": "Chris L'Europa",
@@ -49039,5 +49027,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T20:42:52.929Z"
+  "lastUpdated": "2026-11-12T20:43:06.079Z"
 }
