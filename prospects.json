@@ -7413,10 +7413,12 @@
       "name": "Chris Cavallini Chris Cavallini",
       "social": "https://facebook.com/chris.cavallini.7",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdmy5ljzqrp1plavie",
+      "convertedAt": "2026-11-12T14:20:50.263Z"
     },
     {
       "id": "prospect-muab66jx-pmlrwj",
@@ -49059,5 +49061,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T14:20:33.455Z"
+  "lastUpdated": "2026-11-12T14:20:51.479Z"
 }
