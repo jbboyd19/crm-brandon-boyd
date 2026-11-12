@@ -7581,10 +7581,12 @@
       "name": "Chris McGovern Chris McGovern",
       "social": "https://facebook.com/chris.mcgovern.1426",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwe0wer8mmo4ollh27b",
+      "convertedAt": "2026-11-12T20:51:23.444Z"
     },
     {
       "id": "prospect-muab66jx-qwafst",
@@ -49035,5 +49037,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T20:51:05.957Z"
+  "lastUpdated": "2026-11-12T20:51:25.366Z"
 }
