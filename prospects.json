@@ -7357,10 +7357,12 @@
       "name": "Chris Anderson Chris Anderson",
       "social": "https://facebook.com/chris.anderson.409819",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdmsuugyoeugfwx0ud",
+      "convertedAt": "2026-11-12T14:16:43.049Z"
     },
     {
       "id": "prospect-muab66jw-9qlhyw",
@@ -49051,5 +49053,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T14:16:24.929Z"
+  "lastUpdated": "2026-11-12T14:16:44.363Z"
 }
