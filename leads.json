@@ -23568,7 +23568,27 @@
       "addedAt": "2026-11-12T20:43:34.767Z",
       "prospectSourceId": "prospect-muab66jx-c1q1os",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwe0mq6qek8w6dnl7yh",
+      "name": "Chris Leyland Chris Leyland",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.leyland.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:43:51.698Z",
+      "prospectSourceId": "prospect-muab66jx-d7bexi",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-12T20:43:34.767Z"
+  "lastUpdated": "2026-11-12T20:43:51.699Z"
 }
