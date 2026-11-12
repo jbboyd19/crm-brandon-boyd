@@ -23348,7 +23348,27 @@
       "addedAt": "2026-11-12T14:19:40.932Z",
       "prospectSourceId": "prospect-muab66jw-9qlhyw",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwdmxbezrofnze7kh1b",
+      "name": "Chris Bucksey Chris Bucksey",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.bucksey",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:20:11.147Z",
+      "prospectSourceId": "prospect-muab66jw-f0fadg",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-12T14:19:40.932Z"
+  "lastUpdated": "2026-11-12T14:20:11.148Z"
 }
