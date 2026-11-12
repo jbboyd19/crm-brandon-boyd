@@ -7329,10 +7329,12 @@
       "name": "Chitwant Singh Bhamra Chitwant Singh Bhamra",
       "social": "https://facebook.com/chitwantsingh.bhamra",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdms0xyv9bkuzq46",
+      "convertedAt": "2026-11-12T14:16:04.295Z"
     },
     {
       "id": "prospect-muab66jw-4563wd",
@@ -49047,5 +49049,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T14:15:20.784Z"
+  "lastUpdated": "2026-11-12T14:16:07.804Z"
 }
