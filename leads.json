@@ -23708,7 +23708,27 @@
       "addedAt": "2026-11-12T20:55:30.690Z",
       "prospectSourceId": "prospect-muab66jx-l8oaaf",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwe131ancvsr4180cug",
+      "name": "Chris Moore Chris Moore",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.moore.648416",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:56:32.592Z",
+      "prospectSourceId": "prospect-muab66jx-9rggem",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-12T20:55:30.691Z"
+  "lastUpdated": "2026-11-12T20:56:32.592Z"
 }
