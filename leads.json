@@ -23628,7 +23628,27 @@
       "addedAt": "2026-11-12T20:51:03.342Z",
       "prospectSourceId": "prospect-muab66jx-f1it1l",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwe0wer8mmo4ollh27b",
+      "name": "Chris McGovern Chris McGovern",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.mcgovern.1426",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:51:23.444Z",
+      "prospectSourceId": "prospect-muab66jx-kx2vd6",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-12T20:51:03.342Z"
+  "lastUpdated": "2026-11-12T20:51:23.445Z"
 }
