@@ -23208,7 +23208,27 @@
       "addedAt": "2026-11-11T14:37:01.146Z",
       "prospectSourceId": "prospect-muab66jw-ngfrj5",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwdmqb0tleuejaervyd",
+      "name": "Chinsamy Denzel Chinsamy Denzel",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Dk.chinz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:14:44.045Z",
+      "prospectSourceId": "prospect-muab66jw-t7wtsk",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-12T14:14:04.499Z"
+  "lastUpdated": "2026-11-12T14:14:44.046Z"
 }
