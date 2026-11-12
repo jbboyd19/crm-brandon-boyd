@@ -7637,10 +7637,12 @@
       "name": "Chris Moore Chris Moore",
       "social": "https://facebook.com/chris.moore.648416",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwe131ancvsr4180cug",
+      "convertedAt": "2026-11-12T20:56:32.592Z"
     },
     {
       "id": "prospect-muab66jx-j159w7",
@@ -49031,5 +49033,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T20:55:33.243Z"
+  "lastUpdated": "2026-11-12T20:56:35.386Z"
 }
