@@ -23248,7 +23248,27 @@
       "addedAt": "2026-11-12T14:15:01.216Z",
       "prospectSourceId": "prospect-muab66jw-tflh13",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwdmr2hdwlucqs6rsuc",
+      "name": "Chip Hopper Chip Hopper",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chiphopper",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:15:19.633Z",
+      "prospectSourceId": "prospect-muab66jw-o9zxip",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-12T14:15:01.217Z"
+  "lastUpdated": "2026-11-12T14:15:19.634Z"
 }
