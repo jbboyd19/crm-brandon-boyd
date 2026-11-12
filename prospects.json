@@ -7455,10 +7455,12 @@
       "name": "Chris Donevski Chris Donevski",
       "social": "https://facebook.com/noone2911",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdn0c4u4n9d5gfzrkt",
+      "convertedAt": "2026-11-12T14:22:32.046Z"
     },
     {
       "id": "prospect-muab66jx-drrrlg",
@@ -49065,5 +49067,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T14:22:04.953Z"
+  "lastUpdated": "2026-11-12T14:22:33.198Z"
 }
