@@ -7427,10 +7427,12 @@
       "name": "Chris Cefaretti Chris Cefaretti",
       "social": "https://facebook.com/ChrisACVIP",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdmz8fpuhhhljoujno",
+      "convertedAt": "2026-11-12T14:21:40.597Z"
     },
     {
       "id": "prospect-muab66jx-tmjka8",
@@ -49061,5 +49063,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T14:20:51.479Z"
+  "lastUpdated": "2026-11-12T14:21:42.651Z"
 }
