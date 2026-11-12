@@ -7385,10 +7385,12 @@
       "name": "Chris Bucksey Chris Bucksey",
       "social": "https://facebook.com/chris.bucksey",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.156Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdmxbezrofnze7kh1b",
+      "convertedAt": "2026-11-12T14:20:11.147Z"
     },
     {
       "id": "prospect-muab66jw-msnkl2",
@@ -49055,5 +49057,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T14:19:42.782Z"
+  "lastUpdated": "2026-11-12T14:20:12.941Z"
 }
