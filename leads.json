@@ -23428,7 +23428,27 @@
       "addedAt": "2026-11-12T14:21:40.597Z",
       "prospectSourceId": "prospect-muab66jx-pmlrwj",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwdmzqbp6hvxzq22aow",
+      "name": "Chris Charles Chris Charles",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Chrisnetwebs",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:22:03.781Z",
+      "prospectSourceId": "prospect-muab66jx-tmjka8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-12T14:21:40.598Z"
+  "lastUpdated": "2026-11-12T14:22:03.781Z"
 }
