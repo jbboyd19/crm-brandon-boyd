@@ -23488,7 +23488,27 @@
       "addedAt": "2026-11-12T14:23:30.477Z",
       "prospectSourceId": "prospect-muab66jx-r5w2y4",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwdn1yndy14kfyqvnx",
+      "name": "Chris Glod Chris Glod",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.glod",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:23:47.881Z",
+      "prospectSourceId": "prospect-muab66jx-w5uece",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-12T14:23:30.477Z"
+  "lastUpdated": "2026-11-12T14:23:47.882Z"
 }
