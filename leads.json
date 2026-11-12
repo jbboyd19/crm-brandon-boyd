@@ -23288,7 +23288,27 @@
       "addedAt": "2026-11-12T14:16:04.295Z",
       "prospectSourceId": "prospect-muab66jw-wbns4z",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwdmsfms3lt16kuponk",
+      "name": "Chriis Collado Chriis Collado",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chriis.collado",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:16:23.333Z",
+      "prospectSourceId": "prospect-muab66jw-4563wd",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-12T14:16:04.295Z"
+  "lastUpdated": "2026-11-12T14:16:23.333Z"
 }
