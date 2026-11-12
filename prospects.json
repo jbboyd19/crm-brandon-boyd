@@ -7589,18 +7589,6 @@
       "convertedAt": "2026-11-12T20:51:23.444Z"
     },
     {
-      "id": "prospect-muab66jx-qwafst",
-      "firstName": "Chris Miles",
-      "lastName": "Chris Miles",
-      "name": "Chris Miles Chris Miles",
-      "social": "https://facebook.com/chris.miles9177",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jx-te0ci4",
       "firstName": "Chris Mitchell",
       "lastName": "Chris Mitchell",
@@ -49037,5 +49025,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T20:51:25.366Z"
+  "lastUpdated": "2026-11-12T20:53:25.158Z"
 }
