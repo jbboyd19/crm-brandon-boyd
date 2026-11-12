@@ -7623,10 +7623,12 @@
       "name": "Chris Mooneyham Chris Mooneyham",
       "social": "https://facebook.com/chris.mooneyham.9",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwe11pj6i21a5cjbq7f",
+      "convertedAt": "2026-11-12T20:55:30.690Z"
     },
     {
       "id": "prospect-muab66jx-9rggem",
@@ -49029,5 +49031,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T20:54:41.510Z"
+  "lastUpdated": "2026-11-12T20:55:33.243Z"
 }
