@@ -7497,10 +7497,12 @@
       "name": "Chris Gritzmaker Chris Gritzmaker",
       "social": "https://facebook.com/chris.gritzmaker.7",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwe0khqwt8f282wds5",
+      "convertedAt": "2026-11-12T20:42:07.448Z"
     },
     {
       "id": "prospect-muab66jx-07qp9v",
@@ -49047,5 +49049,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T14:23:49.003Z"
+  "lastUpdated": "2026-11-12T20:42:10.247Z"
 }
