@@ -23468,7 +23468,27 @@
       "addedAt": "2026-11-12T14:22:32.046Z",
       "prospectSourceId": "prospect-muab66jx-rmzmt8",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwdn1l7xmvz1q3n9qp",
+      "name": "Chris Fidelis Chris Fidelis",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.adang.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:23:30.477Z",
+      "prospectSourceId": "prospect-muab66jx-r5w2y4",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-12T14:22:32.046Z"
+  "lastUpdated": "2026-11-12T14:23:30.477Z"
 }
