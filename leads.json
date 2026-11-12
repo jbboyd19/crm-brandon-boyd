@@ -23608,7 +23608,27 @@
       "addedAt": "2026-11-12T20:44:18.099Z",
       "prospectSourceId": "prospect-muab66jx-jss2xm",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwe0vz8tz6838kev4vb",
+      "name": "Chris Manis Chris Manis",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.manis.16",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:51:03.342Z",
+      "prospectSourceId": "prospect-muab66jx-f1it1l",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-12T20:44:18.099Z"
+  "lastUpdated": "2026-11-12T20:51:03.342Z"
 }
