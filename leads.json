@@ -23528,7 +23528,27 @@
       "addedAt": "2026-11-12T20:42:07.448Z",
       "prospectSourceId": "prospect-muab66jx-p21jc8",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwe0l5ti5wo38e80w2i",
+      "name": "Chris Hawk Jones Chris Hawk Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/meetchrisjones",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:42:38.646Z",
+      "prospectSourceId": "prospect-muab66jx-07qp9v",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-12T20:42:07.449Z"
+  "lastUpdated": "2026-11-12T20:42:38.646Z"
 }
