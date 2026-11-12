@@ -23388,7 +23388,27 @@
       "addedAt": "2026-11-12T14:20:31.714Z",
       "prospectSourceId": "prospect-muab66jw-msnkl2",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwdmy5ljzqrp1plavie",
+      "name": "Chris Cavallini Chris Cavallini",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.cavallini.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:20:50.263Z",
+      "prospectSourceId": "prospect-muab66jx-dvyy4e",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-12T14:20:31.715Z"
+  "lastUpdated": "2026-11-12T14:20:50.263Z"
 }
