@@ -23268,7 +23268,27 @@
       "addedAt": "2026-11-12T14:15:19.633Z",
       "prospectSourceId": "prospect-muab66jw-o9zxip",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwdms0xyv9bkuzq46",
+      "name": "Chitwant Singh Bhamra Chitwant Singh Bhamra",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chitwantsingh.bhamra",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:16:04.295Z",
+      "prospectSourceId": "prospect-muab66jw-wbns4z",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-12T14:15:19.634Z"
+  "lastUpdated": "2026-11-12T14:16:04.295Z"
 }
