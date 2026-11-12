@@ -7519,18 +7519,6 @@
       "convertedAt": "2026-11-12T20:42:38.646Z"
     },
     {
-      "id": "prospect-muab66jx-au4v4e",
-      "firstName": "Chris Horton",
-      "lastName": "Chris Horton",
-      "name": "Chris Horton Chris Horton",
-      "social": "https://facebook.com/chris.horton.1612147",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jx-dpzys9",
       "firstName": "Chris Kirch",
       "lastName": "Chris Kirch",
@@ -49051,5 +49039,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T20:42:40.464Z"
+  "lastUpdated": "2026-11-12T20:42:52.929Z"
 }
