@@ -23308,7 +23308,27 @@
       "addedAt": "2026-11-12T14:16:23.333Z",
       "prospectSourceId": "prospect-muab66jw-4563wd",
       "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
+    },
+    {
+      "id": "mwdmsuugyoeugfwx0ud",
+      "name": "Chris Anderson Chris Anderson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.anderson.409819",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:16:43.049Z",
+      "prospectSourceId": "prospect-muab66jw-44tds0",
+      "prospectUploadedAt": "2026-09-20T21:08:26.156Z"
     }
   ],
-  "lastUpdated": "2026-11-12T14:16:23.333Z"
+  "lastUpdated": "2026-11-12T14:16:43.049Z"
 }
