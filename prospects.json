@@ -7721,10 +7721,12 @@
       "name": "Chrish Darius Chrish Darius",
       "social": "https://facebook.com/chrishanthusdariusburkey",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwf2wmknwm8f2idrylq",
+      "convertedAt": "2026-11-13T14:35:18.983Z"
     },
     {
       "id": "prospect-muab66jx-xl8lnv",
@@ -49007,5 +49009,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:34:57.715Z"
+  "lastUpdated": "2026-11-13T14:35:20.110Z"
 }
