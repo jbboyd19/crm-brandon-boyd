@@ -23868,7 +23868,27 @@
       "addedAt": "2026-11-13T14:36:15.146Z",
       "prospectSourceId": "prospect-muab66jx-x71jon",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf2yk9bb2pk1d1pwfl",
+      "name": "Christian Borja Christian Borja",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/christianborjaaa",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:36:49.296Z",
+      "prospectSourceId": "prospect-muab66jx-ih10up",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:36:15.146Z"
+  "lastUpdated": "2026-11-13T14:36:49.296Z"
 }
