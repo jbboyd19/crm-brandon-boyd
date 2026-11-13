@@ -23848,7 +23848,27 @@
       "addedAt": "2026-11-13T14:35:39.250Z",
       "prospectSourceId": "prospect-muab66jx-xl8lnv",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf2xtwqrdd2bja1fo",
+      "name": "Christen Nieves Christen Nieves",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/christen.nieves.75",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:36:15.146Z",
+      "prospectSourceId": "prospect-muab66jx-x71jon",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:35:39.250Z"
+  "lastUpdated": "2026-11-13T14:36:15.146Z"
 }
