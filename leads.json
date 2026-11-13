@@ -23908,7 +23908,27 @@
       "addedAt": "2026-11-13T14:37:39.728Z",
       "prospectSourceId": "prospect-muab66jx-wxf494",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf35u490xanjat1ewzj",
+      "name": "Christian Savusa Christian Savusa",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/sauvsa",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:42:28.665Z",
+      "prospectSourceId": "prospect-muab66jx-asihpb",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:37:39.729Z"
+  "lastUpdated": "2026-11-13T14:42:28.665Z"
 }
