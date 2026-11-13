@@ -23728,7 +23728,27 @@
       "addedAt": "2026-11-13T14:32:19.464Z",
       "prospectSourceId": "prospect-muab66jx-v28vbu",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf2tcej1nb3fvh96kj",
+      "name": "Chris Ramsey Chris Ramsey",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.ramsey.200937",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:32:45.835Z",
+      "prospectSourceId": "prospect-muab66jx-bei22q",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:32:19.465Z"
+  "lastUpdated": "2026-11-13T14:32:45.836Z"
 }
