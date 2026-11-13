@@ -24128,7 +24128,27 @@
       "addedAt": "2026-11-13T17:52:47.974Z",
       "prospectSourceId": "prospect-muab66jx-l1hbig",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf9z9l8jw3n9f27sj",
+      "name": "Christopher Bennett Christopher Bennett",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/christopher.bennett.54943",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T17:53:19.436Z",
+      "prospectSourceId": "prospect-muab66jx-xgc6at",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T17:52:47.975Z"
+  "lastUpdated": "2026-11-13T17:53:19.436Z"
 }
