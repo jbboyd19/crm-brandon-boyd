@@ -7805,10 +7805,12 @@
       "name": "Christian Steiner Christian Steiner",
       "social": "https://facebook.com/christian.steiner.14473",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwf36eidwyh7401g6wc",
+      "convertedAt": "2026-11-13T14:42:55.093Z"
     },
     {
       "id": "prospect-muab66jx-amxfou",
@@ -48959,5 +48961,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:42:30.399Z"
+  "lastUpdated": "2026-11-13T14:42:57.021Z"
 }
