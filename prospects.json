@@ -7651,10 +7651,12 @@
       "name": "Chris Nappa Chris Nappa",
       "social": "https://facebook.com/chris.nappa1",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwf2ss20q05md9mla6",
+      "convertedAt": "2026-11-13T14:32:19.464Z"
     },
     {
       "id": "prospect-muab66jx-bei22q",
@@ -49021,5 +49023,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:31:43.015Z"
+  "lastUpdated": "2026-11-13T14:32:21.525Z"
 }
