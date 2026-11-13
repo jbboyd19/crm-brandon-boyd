@@ -23948,7 +23948,27 @@
       "addedAt": "2026-11-13T14:42:55.093Z",
       "prospectSourceId": "prospect-muab66jx-ks7vw8",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf36t2xg0nfr89owg4",
+      "name": "Christian Stewart Jr. Christian Stewart Jr.",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Christianstewartjr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:43:13.977Z",
+      "prospectSourceId": "prospect-muab66jx-amxfou",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:42:55.094Z"
+  "lastUpdated": "2026-11-13T14:43:13.977Z"
 }
