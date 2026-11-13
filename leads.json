@@ -23748,7 +23748,27 @@
       "addedAt": "2026-11-13T14:32:45.835Z",
       "prospectSourceId": "prospect-muab66jx-bei22q",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf2tyll4w3bi8fn2qf",
+      "name": "Chris Stanczyk Chris Stanczyk",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.stanczyk.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:33:14.601Z",
+      "prospectSourceId": "prospect-muab66jx-8qd147",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:32:45.836Z"
+  "lastUpdated": "2026-11-13T14:33:14.602Z"
 }
