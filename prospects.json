@@ -7847,10 +7847,12 @@
       "name": "Christina Beck Christina Beck",
       "social": "https://facebook.com/christina.beck.370",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwf37zrytmmh4u9ujcj",
+      "convertedAt": "2026-11-13T14:44:09.310Z"
     },
     {
       "id": "prospect-muab66jx-b8b03z",
@@ -48965,5 +48967,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:43:50.687Z"
+  "lastUpdated": "2026-11-13T14:44:10.826Z"
 }
