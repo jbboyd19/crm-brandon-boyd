@@ -23888,7 +23888,27 @@
       "addedAt": "2026-11-13T14:36:49.296Z",
       "prospectSourceId": "prospect-muab66jx-ih10up",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf2zn68hgcpk16yja",
+      "name": "Christian Macfarland Christian Macfarland",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/christian.macfarland.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:37:39.728Z",
+      "prospectSourceId": "prospect-muab66jx-wxf494",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:36:49.296Z"
+  "lastUpdated": "2026-11-13T14:37:39.729Z"
 }
