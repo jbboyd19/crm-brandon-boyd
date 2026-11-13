@@ -8015,10 +8015,12 @@
       "name": "Christopher Evans Christopher Evans",
       "social": "https://facebook.com/christopher.evans.129",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwfaf2p5cjf24znpsw4",
+      "convertedAt": "2026-11-13T18:05:37.001Z"
     },
     {
       "id": "prospect-muab66jx-ic6a25",
@@ -48989,5 +48991,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T18:05:16.016Z"
+  "lastUpdated": "2026-11-13T18:05:38.136Z"
 }
