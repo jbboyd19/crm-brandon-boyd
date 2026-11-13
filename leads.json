@@ -23968,7 +23968,27 @@
       "addedAt": "2026-11-13T14:43:13.977Z",
       "prospectSourceId": "prospect-muab66jx-amxfou",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf37k3liiinntvrkjk",
+      "name": "Christian Vazquez Christian Vazquez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/christian.vazquez.7587",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:43:48.993Z",
+      "prospectSourceId": "prospect-muab66jx-qlrx5u",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:43:13.977Z"
+  "lastUpdated": "2026-11-13T14:43:48.993Z"
 }
