@@ -7777,10 +7777,12 @@
       "name": "Christian Macfarland Christian Macfarland",
       "social": "https://facebook.com/christian.macfarland.3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwf2zn68hgcpk16yja",
+      "convertedAt": "2026-11-13T14:37:39.728Z"
     },
     {
       "id": "prospect-muab66jx-vzy2gr",
@@ -48967,5 +48969,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:37:20.564Z"
+  "lastUpdated": "2026-11-13T14:37:41.799Z"
 }
