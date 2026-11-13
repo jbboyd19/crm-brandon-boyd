@@ -23988,7 +23988,27 @@
       "addedAt": "2026-11-13T14:43:48.993Z",
       "prospectSourceId": "prospect-muab66jx-qlrx5u",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf37zrytmmh4u9ujcj",
+      "name": "Christina Beck Christina Beck",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/christina.beck.370",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:44:09.310Z",
+      "prospectSourceId": "prospect-muab66jx-7f842y",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:43:48.993Z"
+  "lastUpdated": "2026-11-13T14:44:09.310Z"
 }
