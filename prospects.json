@@ -7673,18 +7673,6 @@
       "convertedAt": "2026-11-13T14:32:45.835Z"
     },
     {
-      "id": "prospect-muab66jx-8n7lr9",
-      "firstName": "Chris Rueckert",
-      "lastName": "Chris Rueckert",
-      "name": "Chris Rueckert Chris Rueckert",
-      "social": "https://facebook.com/christopher.rueckert",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jx-8qd147",
       "firstName": "Chris Stanczyk",
       "lastName": "Chris Stanczyk",
@@ -49025,5 +49013,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:32:47.537Z"
+  "lastUpdated": "2026-11-13T14:32:55.414Z"
 }
