@@ -24188,7 +24188,27 @@
       "addedAt": "2026-11-13T18:00:34.623Z",
       "prospectSourceId": "prospect-muab66jx-0liukq",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwfadyofg9rxbuehba",
+      "name": "Christopher D. Schultz Christopher D. Schultz",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ChristopherSchultz27",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T18:04:45.135Z",
+      "prospectSourceId": "prospect-muab66jx-36od3z",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T18:00:34.624Z"
+  "lastUpdated": "2026-11-13T18:04:45.135Z"
 }
