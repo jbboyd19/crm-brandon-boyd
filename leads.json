@@ -23768,7 +23768,27 @@
       "addedAt": "2026-11-13T14:33:14.601Z",
       "prospectSourceId": "prospect-muab66jx-8qd147",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf2uizquj29u2vatod",
+      "name": "Chris Sullivan Chris Sullivan",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.sullivan.52012",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:33:41.030Z",
+      "prospectSourceId": "prospect-muab66jx-8w4s1r",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:33:14.602Z"
+  "lastUpdated": "2026-11-13T14:33:41.030Z"
 }
