@@ -24148,7 +24148,27 @@
       "addedAt": "2026-11-13T17:53:19.436Z",
       "prospectSourceId": "prospect-muab66jx-xgc6at",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwfa1qrvhd7vl4pv1k",
+      "name": "Christopher Bowen Christopher Bowen",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cbowen.invest",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T17:55:15.019Z",
+      "prospectSourceId": "prospect-muab66jx-mjud8h",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T17:53:19.436Z"
+  "lastUpdated": "2026-11-13T17:55:15.019Z"
 }
