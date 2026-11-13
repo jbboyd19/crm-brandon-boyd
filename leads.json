@@ -24008,7 +24008,27 @@
       "addedAt": "2026-11-13T14:44:09.310Z",
       "prospectSourceId": "prospect-muab66jx-7f842y",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf9p0kmaa9qg48aj7t",
+      "name": "Christina Kopaczewski Christina Kopaczewski",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ChristinaKopaczewski",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T17:45:21.190Z",
+      "prospectSourceId": "prospect-muab66jx-b8b03z",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:44:09.310Z"
+  "lastUpdated": "2026-11-13T17:45:21.191Z"
 }
