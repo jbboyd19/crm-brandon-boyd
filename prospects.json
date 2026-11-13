@@ -7707,10 +7707,12 @@
       "name": "Chris Williams Chris Williams",
       "social": "https://facebook.com/chris.williams.264014",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwf2w55t8plh4cvzvbo",
+      "convertedAt": "2026-11-13T14:34:56.417Z"
     },
     {
       "id": "prospect-muab66jx-aytliz",
@@ -49005,5 +49007,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:34:38.614Z"
+  "lastUpdated": "2026-11-13T14:34:57.715Z"
 }
