@@ -7693,10 +7693,12 @@
       "name": "Chris Sullivan Chris Sullivan",
       "social": "https://facebook.com/chris.sullivan.52012",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwf2uizquj29u2vatod",
+      "convertedAt": "2026-11-13T14:33:41.030Z"
     },
     {
       "id": "prospect-muab66jx-zfyoz3",
@@ -49015,5 +49017,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:33:16.523Z"
+  "lastUpdated": "2026-11-13T14:33:42.626Z"
 }
