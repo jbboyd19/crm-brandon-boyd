@@ -7987,10 +7987,12 @@
       "name": "Christopher D. Schultz Christopher D. Schultz",
       "social": "https://facebook.com/ChristopherSchultz27",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwfadyofg9rxbuehba",
+      "convertedAt": "2026-11-13T18:04:45.135Z"
     },
     {
       "id": "prospect-muab66jx-i4igeo",
@@ -48985,5 +48987,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T18:00:37.078Z"
+  "lastUpdated": "2026-11-13T18:04:47.601Z"
 }
