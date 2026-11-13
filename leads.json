@@ -23828,7 +23828,27 @@
       "addedAt": "2026-11-13T14:35:18.983Z",
       "prospectSourceId": "prospect-muab66jx-aytliz",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf2x27mc340xer9ojm",
+      "name": "Chrissy Pips Chrissy Pips",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ChrissyPips2022",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:35:39.250Z",
+      "prospectSourceId": "prospect-muab66jx-xl8lnv",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:35:18.984Z"
+  "lastUpdated": "2026-11-13T14:35:39.250Z"
 }
