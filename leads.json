@@ -24168,7 +24168,27 @@
       "addedAt": "2026-11-13T17:55:15.019Z",
       "prospectSourceId": "prospect-muab66jx-mjud8h",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwfa8ldrdkl7dg88a4r",
+      "name": "Christopher Casillas Christopher Casillas",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/christopher.casillas.298269",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T18:00:34.623Z",
+      "prospectSourceId": "prospect-muab66jx-0liukq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T17:55:15.019Z"
+  "lastUpdated": "2026-11-13T18:00:34.624Z"
 }
