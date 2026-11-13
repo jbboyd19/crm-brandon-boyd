@@ -7749,10 +7749,12 @@
       "name": "Christen Nieves Christen Nieves",
       "social": "https://facebook.com/christen.nieves.75",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwf2xtwqrdd2bja1fo",
+      "convertedAt": "2026-11-13T14:36:15.146Z"
     },
     {
       "id": "prospect-muab66jx-ih10up",
@@ -48999,5 +49001,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:35:55.411Z"
+  "lastUpdated": "2026-11-13T14:36:16.425Z"
 }
