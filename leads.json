@@ -23788,7 +23788,27 @@
       "addedAt": "2026-11-13T14:33:41.030Z",
       "prospectSourceId": "prospect-muab66jx-8w4s1r",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf2w55t8plh4cvzvbo",
+      "name": "Chris Williams Chris Williams",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.williams.264014",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:34:56.417Z",
+      "prospectSourceId": "prospect-muab66jx-87f1vd",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:33:41.030Z"
+  "lastUpdated": "2026-11-13T14:34:56.418Z"
 }
