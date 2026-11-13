@@ -7665,10 +7665,12 @@
       "name": "Chris Ramsey Chris Ramsey",
       "social": "https://facebook.com/chris.ramsey.200937",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwf2tcej1nb3fvh96kj",
+      "convertedAt": "2026-11-13T14:32:45.835Z"
     },
     {
       "id": "prospect-muab66jx-8n7lr9",
@@ -49023,5 +49025,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:32:21.525Z"
+  "lastUpdated": "2026-11-13T14:32:47.537Z"
 }
