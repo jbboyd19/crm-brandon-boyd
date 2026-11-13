@@ -7791,10 +7791,12 @@
       "name": "Christian Savusa Christian Savusa",
       "social": "https://facebook.com/sauvsa",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwf35u490xanjat1ewzj",
+      "convertedAt": "2026-11-13T14:42:28.665Z"
     },
     {
       "id": "prospect-muab66jx-ks7vw8",
@@ -48957,5 +48959,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:42:06.395Z"
+  "lastUpdated": "2026-11-13T14:42:30.399Z"
 }
