@@ -23708,7 +23708,27 @@
       "addedAt": "2026-11-12T20:56:32.592Z",
       "prospectSourceId": "prospect-muab66jx-9rggem",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf2ss20q05md9mla6",
+      "name": "Chris Nappa Chris Nappa",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chris.nappa1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:32:19.464Z",
+      "prospectSourceId": "prospect-muab66jx-v28vbu",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:30:31.601Z"
+  "lastUpdated": "2026-11-13T14:32:19.465Z"
 }
