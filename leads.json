@@ -23928,7 +23928,27 @@
       "addedAt": "2026-11-13T14:42:28.665Z",
       "prospectSourceId": "prospect-muab66jx-asihpb",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf36eidwyh7401g6wc",
+      "name": "Christian Steiner Christian Steiner",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/christian.steiner.14473",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T14:42:55.093Z",
+      "prospectSourceId": "prospect-muab66jx-ks7vw8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:42:28.665Z"
+  "lastUpdated": "2026-11-13T14:42:55.094Z"
 }
