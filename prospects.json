@@ -7833,10 +7833,12 @@
       "name": "Christian Vazquez Christian Vazquez",
       "social": "https://facebook.com/christian.vazquez.7587",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwf37k3liiinntvrkjk",
+      "convertedAt": "2026-11-13T14:43:48.993Z"
     },
     {
       "id": "prospect-muab66jx-7f842y",
@@ -48963,5 +48965,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:43:15.267Z"
+  "lastUpdated": "2026-11-13T14:43:50.687Z"
 }
