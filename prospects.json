@@ -7785,18 +7785,6 @@
       "convertedAt": "2026-11-13T14:37:39.728Z"
     },
     {
-      "id": "prospect-muab66jx-vzy2gr",
-      "firstName": "Christian Michael",
-      "lastName": "Christian Michael",
-      "name": "Christian Michael Christian Michael",
-      "social": "https://facebook.com/christian.michael.10441861",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jx-asihpb",
       "firstName": "Christian Savusa",
       "lastName": "Christian Savusa",
@@ -48969,5 +48957,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T14:37:41.799Z"
+  "lastUpdated": "2026-11-13T14:42:06.395Z"
 }
