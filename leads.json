@@ -24048,7 +24048,27 @@
       "addedAt": "2026-11-13T17:45:42.272Z",
       "prospectSourceId": "prospect-muab66jx-91uiz7",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwf9punxtlft5umw1p8",
+      "name": "Christina Smith Christina Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/definaty",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T17:46:00.189Z",
+      "prospectSourceId": "prospect-muab66jx-be6t5m",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-13T17:45:42.272Z"
+  "lastUpdated": "2026-11-13T17:46:00.189Z"
 }
