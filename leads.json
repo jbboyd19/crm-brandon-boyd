@@ -24524,7 +24524,27 @@
       "addedAt": "2026-11-16T16:56:48.990Z",
       "prospectSourceId": "prospect-muab66jx-f428an",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwjiaz68hwk9ildkkg9",
+      "name": "Christopher Rice Christopher Rice",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/christopher.rice.102",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-16T16:57:27.440Z",
+      "prospectSourceId": "prospect-muab66jx-uvy5d0",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-16T16:56:48.991Z"
+  "lastUpdated": "2026-11-16T16:57:27.440Z"
 }
