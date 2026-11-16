@@ -8141,10 +8141,12 @@
       "name": "Christopher Mikels Christopher Mikels",
       "social": "https://facebook.com/christopher.mikels",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwji8gfl0iikpg0bb7iu",
+      "convertedAt": "2026-11-16T16:55:29.841Z"
     },
     {
       "id": "prospect-muab66jx-3ha5q5",
@@ -48995,5 +48997,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-16T16:55:10.041Z"
+  "lastUpdated": "2026-11-16T16:55:31.302Z"
 }
