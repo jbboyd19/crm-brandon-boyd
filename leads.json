@@ -24384,7 +24384,27 @@
       "addedAt": "2026-11-16T16:53:31.831Z",
       "prospectSourceId": "prospect-muab66jx-7q19x8",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwji6d3la60tj6oiems",
+      "name": "Christopher M. Gasner Christopher M. Gasner",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/christopher.gasner",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-16T16:53:52.209Z",
+      "prospectSourceId": "prospect-muab66jx-7av37w",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-16T16:53:31.831Z"
+  "lastUpdated": "2026-11-16T16:53:52.209Z"
 }
