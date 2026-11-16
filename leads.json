@@ -24364,7 +24364,27 @@
       "addedAt": "2026-11-16T16:53:05.626Z",
       "prospectSourceId": "prospect-muab66jx-06iuc4",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwji5xdju0w4hthywv",
+      "name": "Christopher M Blodgett Christopher M Blodgett",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/tntruckerchris",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-16T16:53:31.831Z",
+      "prospectSourceId": "prospect-muab66jx-7q19x8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-16T16:53:05.626Z"
+  "lastUpdated": "2026-11-16T16:53:31.831Z"
 }
