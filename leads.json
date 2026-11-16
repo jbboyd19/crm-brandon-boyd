@@ -24279,12 +24279,12 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-15",
-      "nextFollowUp": "2026-11-16",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-11-15",
+      "lastModified": "2026-11-16",
       "dateAdded": "2026-11-15",
       "addedAt": "2026-11-15T21:00:24.464Z"
     }
   ],
-  "lastUpdated": "2026-11-16T01:45:48.323Z"
+  "lastUpdated": "2026-11-16T15:13:30.842Z"
 }
