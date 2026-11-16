@@ -24624,7 +24624,27 @@
       "addedAt": "2026-11-16T16:59:51.616Z",
       "prospectSourceId": "prospect-muab66jx-i3lwi1",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwjiejugm35zrmq0men",
+      "name": "Chuck Misja Chuck Misja",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chuck.misjasr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-16T17:00:14.200Z",
+      "prospectSourceId": "prospect-muab66jx-yrhe96",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-16T16:59:51.617Z"
+  "lastUpdated": "2026-11-16T17:00:14.201Z"
 }
