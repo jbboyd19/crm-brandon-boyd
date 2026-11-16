@@ -24504,7 +24504,27 @@
       "addedAt": "2026-11-16T16:56:32.741Z",
       "prospectSourceId": "prospect-muab66jx-i2wkae",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwjia5i6r8udab6yxzs",
+      "name": "Christopher Peters Christopher Peters",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/christopher.peters.423386",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-16T16:56:48.990Z",
+      "prospectSourceId": "prospect-muab66jx-f428an",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-16T16:56:32.741Z"
+  "lastUpdated": "2026-11-16T16:56:48.991Z"
 }
