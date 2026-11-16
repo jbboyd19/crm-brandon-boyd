@@ -24404,7 +24404,27 @@
       "addedAt": "2026-11-16T16:53:52.209Z",
       "prospectSourceId": "prospect-muab66jx-7av37w",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwji6wasu0hp16ket6q",
+      "name": "Christopher Martinez Christopher Martinez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/lightbearer.cmtz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-16T16:54:17.092Z",
+      "prospectSourceId": "prospect-muab66jx-iwjfsl",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-16T16:53:52.209Z"
+  "lastUpdated": "2026-11-16T16:54:17.092Z"
 }
