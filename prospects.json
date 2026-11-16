@@ -8127,10 +8127,12 @@
       "name": "Christopher Mensah Christopher Mensah",
       "social": "https://facebook.com/ChristopherAnthonyMensah",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwji803n3oachmeznhi",
+      "convertedAt": "2026-11-16T16:55:08.675Z"
     },
     {
       "id": "prospect-muab66jx-d4gqrv",
@@ -48993,5 +48995,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-16T16:54:46.077Z"
+  "lastUpdated": "2026-11-16T16:55:10.041Z"
 }
