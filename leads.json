@@ -24464,7 +24464,27 @@
       "addedAt": "2026-11-16T16:55:29.841Z",
       "prospectSourceId": "prospect-muab66jx-d4gqrv",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwji9a8qefxe69ajkya",
+      "name": "Christopher Morin Christopher Morin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/imchrismorin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-16T16:56:08.474Z",
+      "prospectSourceId": "prospect-muab66jx-3ha5q5",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-16T16:55:29.841Z"
+  "lastUpdated": "2026-11-16T16:56:08.474Z"
 }
