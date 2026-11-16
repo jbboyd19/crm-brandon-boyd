@@ -24544,7 +24544,27 @@
       "addedAt": "2026-11-16T16:57:27.440Z",
       "prospectSourceId": "prospect-muab66jx-uvy5d0",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwjibe9axzqpn0ey5r",
+      "name": "Chrlstopher Atklns Chrlstopher Atklns",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/iam.christopheratkins",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-16T16:57:46.990Z",
+      "prospectSourceId": "prospect-muab66jx-97ah1z",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-16T16:57:27.440Z"
+  "lastUpdated": "2026-11-16T16:57:46.990Z"
 }
