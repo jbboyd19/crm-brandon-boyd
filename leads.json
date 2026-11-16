@@ -7762,13 +7762,13 @@
       "social": "",
       "source": "Facebook",
       "status": "Sent Video",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-04",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-11-15",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T16:10:29.525Z"
     },
@@ -24286,5 +24286,5 @@
       "addedAt": "2026-11-15T21:00:24.464Z"
     }
   ],
-  "lastUpdated": "2026-11-15T21:00:24.464Z"
+  "lastUpdated": "2026-11-16T01:45:48.323Z"
 }
