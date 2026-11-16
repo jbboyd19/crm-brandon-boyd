@@ -24564,7 +24564,27 @@
       "addedAt": "2026-11-16T16:57:46.990Z",
       "prospectSourceId": "prospect-muab66jx-97ah1z",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwjibs40rwlmy5smsvq",
+      "name": "Chuck Hanson Chuck Hanson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/mlmlegend",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-16T16:58:04.944Z",
+      "prospectSourceId": "prospect-muab66jx-fl6n1p",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-16T16:57:46.990Z"
+  "lastUpdated": "2026-11-16T16:58:04.944Z"
 }
