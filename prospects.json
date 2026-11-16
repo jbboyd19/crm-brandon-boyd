@@ -8267,10 +8267,12 @@
       "name": "Chuck Misja Chuck Misja",
       "social": "https://facebook.com/chuck.misjasr",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwjiejugm35zrmq0men",
+      "convertedAt": "2026-11-16T17:00:14.200Z"
     },
     {
       "id": "prospect-muab66jx-eriu43",
@@ -49001,5 +49003,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-16T16:59:53.435Z"
+  "lastUpdated": "2026-11-16T17:00:15.656Z"
 }
