@@ -8029,10 +8029,12 @@
       "name": "Christopher Hutchinson Christopher Hutchinson",
       "social": "https://facebook.com/vegascity1968",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwji3i67gh9houlnjel",
+      "convertedAt": "2026-11-16T16:51:38.816Z"
     },
     {
       "id": "prospect-muab66jx-mvdhii",
@@ -48991,5 +48993,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T18:05:38.136Z"
+  "lastUpdated": "2026-11-16T16:51:41.202Z"
 }
