@@ -8197,10 +8197,12 @@
       "name": "Christopher Rice Christopher Rice",
       "social": "https://facebook.com/christopher.rice.102",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwjiaz68hwk9ildkkg9",
+      "convertedAt": "2026-11-16T16:57:27.440Z"
     },
     {
       "id": "prospect-muab66jx-97ah1z",
@@ -48991,5 +48993,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-16T16:57:09.408Z"
+  "lastUpdated": "2026-11-16T16:57:28.854Z"
 }
