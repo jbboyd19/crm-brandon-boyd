@@ -24284,7 +24284,27 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-15",
       "addedAt": "2026-11-15T21:00:24.464Z"
+    },
+    {
+      "id": "mwji3i67gh9houlnjel",
+      "name": "Christopher Hutchinson Christopher Hutchinson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/vegascity1968",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-16T16:51:38.816Z",
+      "prospectSourceId": "prospect-muab66jx-ic6a25",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-16T15:13:30.842Z"
+  "lastUpdated": "2026-11-16T16:51:38.817Z"
 }
