@@ -8043,10 +8043,12 @@
       "name": "Christopher Kelly Christopher Kelly",
       "social": "https://facebook.com/christopherkelly.2022",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwji4buk74urmhahht",
+      "convertedAt": "2026-11-16T16:52:17.276Z"
     },
     {
       "id": "prospect-muab66jx-tiqq8v",
@@ -48993,5 +48995,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-16T16:51:41.202Z"
+  "lastUpdated": "2026-11-16T16:52:22.176Z"
 }
