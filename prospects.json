@@ -8183,10 +8183,12 @@
       "name": "Christopher Peters Christopher Peters",
       "social": "https://facebook.com/christopher.peters.423386",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwjia5i6r8udab6yxzs",
+      "convertedAt": "2026-11-16T16:56:48.990Z"
     },
     {
       "id": "prospect-muab66jx-5f0s66",
@@ -49001,5 +49003,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-16T16:56:34.141Z"
+  "lastUpdated": "2026-11-16T16:56:50.453Z"
 }
