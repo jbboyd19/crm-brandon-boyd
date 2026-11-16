@@ -8191,18 +8191,6 @@
       "convertedAt": "2026-11-16T16:56:48.990Z"
     },
     {
-      "id": "prospect-muab66jx-5f0s66",
-      "firstName": "Christopher Promise",
-      "lastName": "Christopher Promise",
-      "name": "Christopher Promise Christopher Promise",
-      "social": "https://facebook.com/christopher.promise.253285",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jx-uvy5d0",
       "firstName": "Christopher Rice",
       "lastName": "Christopher Rice",
@@ -49003,5 +48991,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-16T16:56:50.453Z"
+  "lastUpdated": "2026-11-16T16:57:09.408Z"
 }
