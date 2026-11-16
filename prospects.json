@@ -8085,10 +8085,12 @@
       "name": "Christopher M Blodgett Christopher M Blodgett",
       "social": "https://facebook.com/tntruckerchris",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwji5xdju0w4hthywv",
+      "convertedAt": "2026-11-16T16:53:31.831Z"
     },
     {
       "id": "prospect-muab66jx-7av37w",
@@ -48999,5 +49001,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-16T16:53:07.339Z"
+  "lastUpdated": "2026-11-16T16:53:33.028Z"
 }
