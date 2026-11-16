@@ -8239,10 +8239,12 @@
       "name": "Chuck Lester Chuck Lester",
       "social": "https://facebook.com/chuck.lester.35",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwjichwx4rqlev3cnk6",
+      "convertedAt": "2026-11-16T16:58:38.385Z"
     },
     {
       "id": "prospect-muab66jx-i3lwi1",
@@ -48997,5 +48999,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-16T16:58:06.233Z"
+  "lastUpdated": "2026-11-16T16:58:40.323Z"
 }
