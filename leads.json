@@ -25044,7 +25044,27 @@
       "addedAt": "2026-11-17T16:52:16.749Z",
       "prospectSourceId": "prospect-muab66jy-ykv5zd",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwkxkiary5px14uyvqr",
+      "name": "Clinton O Mejia Clinton O Mejia",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/metallejia1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T16:52:32.547Z",
+      "prospectSourceId": "prospect-muab66jy-1j6gkb",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-17T16:52:16.750Z"
+  "lastUpdated": "2026-11-17T16:52:32.547Z"
 }
