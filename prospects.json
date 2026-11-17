@@ -8407,10 +8407,12 @@
       "name": "Clarence B Wiley Jr. Clarence B Wiley Jr.",
       "social": "https://facebook.com/clarence.b.wiley",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwkrwm57t1gorpt55gb",
+      "convertedAt": "2026-11-17T14:13:59.707Z"
     },
     {
       "id": "prospect-muab66jx-p4ncgf",
@@ -48997,5 +48999,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-17T14:13:25.953Z"
+  "lastUpdated": "2026-11-17T14:14:01.618Z"
 }
