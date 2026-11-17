@@ -24912,12 +24912,12 @@
       "phone": "",
       "social": "https://facebook.com/clayton.sorensen.3",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-17",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-11-18",
       "notes": "",
       "lastModified": "2026-11-17",
       "dateAdded": "2026-11-17",
@@ -25066,5 +25066,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-17T16:52:32.547Z"
+  "lastUpdated": "2026-11-17T18:01:31.491Z"
 }
