@@ -8547,10 +8547,12 @@
       "name": "Clinton M. Lewis Clinton M. Lewis",
       "social": "https://facebook.com/clinton.m.lewis.sr",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwkxk63xtqyb3w1mii",
+      "convertedAt": "2026-11-17T16:52:16.749Z"
     },
     {
       "id": "prospect-muab66jy-1j6gkb",
@@ -48981,5 +48983,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-17T16:52:02.786Z"
+  "lastUpdated": "2026-11-17T16:52:17.977Z"
 }
