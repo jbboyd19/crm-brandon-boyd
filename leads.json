@@ -24684,7 +24684,27 @@
       "addedAt": "2026-11-17T14:07:36.563Z",
       "prospectSourceId": "prospect-muab66jx-zzwfuv",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwkrovou3efav6v0001",
+      "name": "Ciaran Caplan Ciaran Caplan",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/HaveYouGuessedWhatIDidYet",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T14:07:58.830Z",
+      "prospectSourceId": "prospect-muab66jx-qdbekz",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-17T14:07:36.563Z"
+  "lastUpdated": "2026-11-17T14:07:58.831Z"
 }
