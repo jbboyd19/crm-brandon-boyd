@@ -8281,10 +8281,12 @@
       "name": "Chueyee Moua Chueyee Moua",
       "social": "https://facebook.com/Chueyee8",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwkrnv7h71o43qfarze",
+      "convertedAt": "2026-11-17T14:07:11.550Z"
     },
     {
       "id": "prospect-muab66jx-zzwfuv",
@@ -49003,5 +49005,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-16T17:00:15.656Z"
+  "lastUpdated": "2026-11-17T14:07:14.245Z"
 }
