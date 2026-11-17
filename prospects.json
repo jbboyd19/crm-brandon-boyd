@@ -8379,10 +8379,12 @@
       "name": "Cj Wharton Cj Wharton",
       "social": "https://facebook.com/cj.wharton",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwkrv0gh7wn9dc7h67h",
+      "convertedAt": "2026-11-17T14:12:44.945Z"
     },
     {
       "id": "prospect-muab66jx-lzjzes",
@@ -48993,5 +48995,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-17T14:11:48.119Z"
+  "lastUpdated": "2026-11-17T14:12:46.679Z"
 }
