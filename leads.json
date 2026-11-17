@@ -25024,7 +25024,27 @@
       "addedAt": "2026-11-17T16:52:01.628Z",
       "prospectSourceId": "prospect-muab66jy-ttc5ws",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwkxk63xtqyb3w1mii",
+      "name": "Clinton M. Lewis Clinton M. Lewis",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/clinton.m.lewis.sr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T16:52:16.749Z",
+      "prospectSourceId": "prospect-muab66jy-ykv5zd",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-17T16:52:01.628Z"
+  "lastUpdated": "2026-11-17T16:52:16.750Z"
 }
