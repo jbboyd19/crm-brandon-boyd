@@ -24804,7 +24804,27 @@
       "addedAt": "2026-11-17T14:12:44.945Z",
       "prospectSourceId": "prospect-muab66jx-wpnvkn",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwkrvujchk45v7as6bh",
+      "name": "Cjinkztattooz McDaniel Cjinkztattooz McDaniel",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cj.mcdaniel.10",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T14:13:23.928Z",
+      "prospectSourceId": "prospect-muab66jx-lzjzes",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-17T14:12:44.946Z"
+  "lastUpdated": "2026-11-17T14:13:23.928Z"
 }
