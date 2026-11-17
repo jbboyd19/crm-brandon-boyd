@@ -24844,7 +24844,27 @@
       "addedAt": "2026-11-17T14:13:59.707Z",
       "prospectSourceId": "prospect-muab66jx-gb7ocs",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwkrx1smrgn3ancoxmg",
+      "name": "Clarence Moore Jr. Clarence Moore Jr.",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/coachcj22",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T14:14:19.990Z",
+      "prospectSourceId": "prospect-muab66jx-p4ncgf",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-17T14:13:59.707Z"
+  "lastUpdated": "2026-11-17T14:14:19.991Z"
 }
