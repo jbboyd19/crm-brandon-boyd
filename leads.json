@@ -24964,7 +24964,27 @@
       "addedAt": "2026-11-17T16:50:34.199Z",
       "prospectSourceId": "prospect-muab66jy-clizuk",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwkxidg0vnys3zga03g",
+      "name": "Cleverson Kilembe Cleverson Kilembe",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cleverson.kilembe",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T16:50:52.944Z",
+      "prospectSourceId": "prospect-muab66jy-dralod",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-17T16:50:34.200Z"
+  "lastUpdated": "2026-11-17T16:50:52.944Z"
 }
