@@ -24644,7 +24644,27 @@
       "addedAt": "2026-11-16T17:00:14.200Z",
       "prospectSourceId": "prospect-muab66jx-yrhe96",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwkrnv7h71o43qfarze",
+      "name": "Chueyee Moua Chueyee Moua",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Chueyee8",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T14:07:11.550Z",
+      "prospectSourceId": "prospect-muab66jx-eriu43",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-16T17:00:14.201Z"
+  "lastUpdated": "2026-11-17T14:07:11.550Z"
 }
