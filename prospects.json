@@ -8463,10 +8463,12 @@
       "name": "Clayton Sorensen Clayton Sorensen",
       "social": "https://facebook.com/clayton.sorensen.3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwkrz9i6wjn1h4xtr7q",
+      "convertedAt": "2026-11-17T14:16:03.294Z"
     },
     {
       "id": "prospect-muab66jy-8krlhp",
@@ -48993,5 +48995,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-17T14:15:38.624Z"
+  "lastUpdated": "2026-11-17T14:16:04.906Z"
 }
