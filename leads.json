@@ -24724,7 +24724,27 @@
       "addedAt": "2026-11-17T14:08:46.380Z",
       "prospectSourceId": "prospect-muab66jx-tfdvdb",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwkrqbytfvkq92c679p",
+      "name": "Cintia Fernandez Cintia Fernandez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cintia.fernandez.121398",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T14:09:06.581Z",
+      "prospectSourceId": "prospect-muab66jx-yofcce",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-17T14:08:46.381Z"
+  "lastUpdated": "2026-11-17T14:09:06.581Z"
 }
