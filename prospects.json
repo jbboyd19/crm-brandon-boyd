@@ -8533,10 +8533,12 @@
       "name": "Clint Manukai Caballes Clint Manukai Caballes",
       "social": "https://facebook.com/manu.caballes.31",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwkxjufvguktkjp8n6g",
+      "convertedAt": "2026-11-17T16:52:01.628Z"
     },
     {
       "id": "prospect-muab66jy-ykv5zd",
@@ -48979,5 +48981,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-17T16:51:32.712Z"
+  "lastUpdated": "2026-11-17T16:52:02.786Z"
 }
