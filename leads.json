@@ -24884,7 +24884,27 @@
       "addedAt": "2026-11-17T14:14:38.357Z",
       "prospectSourceId": "prospect-muab66jx-ah6fv2",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwkry8a9dutg7wxpvjd",
+      "name": "Claudy Destin Claudy Destin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Ledestinclau",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T14:15:15.057Z",
+      "prospectSourceId": "prospect-muab66jy-6nl7hi",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-17T14:14:38.357Z"
+  "lastUpdated": "2026-11-17T14:15:15.057Z"
 }
