@@ -24664,7 +24664,27 @@
       "addedAt": "2026-11-17T14:07:11.550Z",
       "prospectSourceId": "prospect-muab66jx-eriu43",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwkroeibtwm0srl76zd",
+      "name": "Chächïaraa Åřella Chächïaraa Åřella",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/chiaracar.jarella",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T14:07:36.563Z",
+      "prospectSourceId": "prospect-muab66jx-zzwfuv",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-17T14:07:11.550Z"
+  "lastUpdated": "2026-11-17T14:07:36.563Z"
 }
