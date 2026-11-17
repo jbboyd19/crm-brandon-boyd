@@ -24924,7 +24924,27 @@
       "addedAt": "2026-11-17T14:16:03.294Z",
       "prospectSourceId": "prospect-muab66jy-g1mlx7",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwkrzn5qws64afh2ok",
+      "name": "Clemerson Yomanza Clemerson Yomanza",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/clemerson.yomanza",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T14:16:20.990Z",
+      "prospectSourceId": "prospect-muab66jy-8krlhp",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-17T14:16:03.295Z"
+  "lastUpdated": "2026-11-17T14:16:20.990Z"
 }
