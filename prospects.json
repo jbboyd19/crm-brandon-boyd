@@ -8435,10 +8435,12 @@
       "name": "Clarkens Pierre-Louis Clarkens Pierre-Louis",
       "social": "https://facebook.com/Lil.Cacou",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwkrxfytzmm0j98epjm",
+      "convertedAt": "2026-11-17T14:14:38.357Z"
     },
     {
       "id": "prospect-muab66jy-6nl7hi",
@@ -49001,5 +49003,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-17T14:14:22.055Z"
+  "lastUpdated": "2026-11-17T14:14:39.975Z"
 }
