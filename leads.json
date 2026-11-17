@@ -24904,7 +24904,27 @@
       "addedAt": "2026-11-17T14:15:15.057Z",
       "prospectSourceId": "prospect-muab66jy-6nl7hi",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwkrz9i6wjn1h4xtr7q",
+      "name": "Clayton Sorensen Clayton Sorensen",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/clayton.sorensen.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T14:16:03.294Z",
+      "prospectSourceId": "prospect-muab66jy-g1mlx7",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-17T14:15:15.057Z"
+  "lastUpdated": "2026-11-17T14:16:03.295Z"
 }
