@@ -8345,18 +8345,6 @@
       "convertedAt": "2026-11-17T14:09:06.581Z"
     },
     {
-      "id": "prospect-muab66jx-tuojh9",
-      "firstName": "CJ Maxwell",
-      "lastName": "CJ Maxwell",
-      "name": "CJ Maxwell CJ Maxwell",
-      "social": "https://facebook.com/cjmaxwellmusic",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.157Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jx-aaxdlz",
       "firstName": "Cj Pa Moore",
       "lastName": "Cj Pa Moore",
@@ -49001,5 +48989,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-17T14:09:08.031Z"
+  "lastUpdated": "2026-11-17T14:09:26.326Z"
 }
