@@ -8505,10 +8505,12 @@
       "name": "Cleverson Kilembe Cleverson Kilembe",
       "social": "https://facebook.com/cleverson.kilembe",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwkxidg0vnys3zga03g",
+      "convertedAt": "2026-11-17T16:50:52.944Z"
     },
     {
       "id": "prospect-muab66jy-gguisb",
@@ -48999,5 +49001,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-17T16:50:36.044Z"
+  "lastUpdated": "2026-11-17T16:50:54.218Z"
 }
