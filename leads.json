@@ -24824,7 +24824,27 @@
       "addedAt": "2026-11-17T14:13:23.928Z",
       "prospectSourceId": "prospect-muab66jx-lzjzes",
       "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
+    },
+    {
+      "id": "mwkrwm57t1gorpt55gb",
+      "name": "Clarence B Wiley Jr. Clarence B Wiley Jr.",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/clarence.b.wiley",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T14:13:59.707Z",
+      "prospectSourceId": "prospect-muab66jx-gb7ocs",
+      "prospectUploadedAt": "2026-09-20T21:08:26.157Z"
     }
   ],
-  "lastUpdated": "2026-11-17T14:13:23.928Z"
+  "lastUpdated": "2026-11-17T14:13:59.707Z"
 }
