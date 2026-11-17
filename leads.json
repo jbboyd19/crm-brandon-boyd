@@ -25004,7 +25004,27 @@
       "addedAt": "2026-11-17T16:51:12.498Z",
       "prospectSourceId": "prospect-muab66jy-gguisb",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwkxjufvguktkjp8n6g",
+      "name": "Clint Manukai Caballes Clint Manukai Caballes",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/manu.caballes.31",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T16:52:01.628Z",
+      "prospectSourceId": "prospect-muab66jy-ttc5ws",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-17T16:51:12.499Z"
+  "lastUpdated": "2026-11-17T16:52:01.628Z"
 }
