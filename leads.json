@@ -25244,7 +25244,27 @@
       "addedAt": "2026-11-18T13:32:10.848Z",
       "prospectSourceId": "prospect-muab66jy-mpte7m",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwm5v3tudt55zbil6wn",
+      "name": "Cody Shopshire Cody Shopshire",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/shoppy5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T13:32:30.114Z",
+      "prospectSourceId": "prospect-muab66jy-w2smoc",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-18T13:32:10.849Z"
+  "lastUpdated": "2026-11-18T13:32:30.115Z"
 }
