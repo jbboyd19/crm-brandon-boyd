@@ -8715,10 +8715,12 @@
       "name": "Cody Young Cody Young",
       "social": "https://facebook.com/cody.young.35977",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwm5vp8o0iuyr3bkzcd",
+      "convertedAt": "2026-11-18T13:32:57.864Z"
     },
     {
       "id": "prospect-muab66jy-3q1hdt",
@@ -48993,5 +48995,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-18T13:32:31.971Z"
+  "lastUpdated": "2026-11-18T13:32:59.214Z"
 }
