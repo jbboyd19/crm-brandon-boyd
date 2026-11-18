@@ -8743,10 +8743,12 @@
       "name": "Colin Cooper Colin Cooper",
       "social": "https://facebook.com/colincooperofficial",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwm5wzgi1685vikuzsl",
+      "convertedAt": "2026-11-18T13:33:57.762Z"
     },
     {
       "id": "prospect-muab66jy-bfzusp",
@@ -48985,5 +48987,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-18T13:33:39.172Z"
+  "lastUpdated": "2026-11-18T13:33:59.259Z"
 }
