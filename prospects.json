@@ -8687,10 +8687,12 @@
       "name": "Cody Crowley Cody Crowley",
       "social": "https://facebook.com/cody.crowley.3557",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwm5uoyoe5af8ohtc3w",
+      "convertedAt": "2026-11-18T13:32:10.848Z"
     },
     {
       "id": "prospect-muab66jy-w2smoc",
@@ -48989,5 +48991,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-18T13:31:44.295Z"
+  "lastUpdated": "2026-11-18T13:32:13.054Z"
 }
