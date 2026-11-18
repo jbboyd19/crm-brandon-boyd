@@ -25284,7 +25284,27 @@
       "addedAt": "2026-11-18T13:32:57.864Z",
       "prospectSourceId": "prospect-muab66jy-3xh05r",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwm5wk5m5lom8nmfgtd",
+      "name": "Cole Custer Cole Custer",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cole.custer.94",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T13:33:37.930Z",
+      "prospectSourceId": "prospect-muab66jy-g79uki",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-18T13:32:57.865Z"
+  "lastUpdated": "2026-11-18T13:33:37.931Z"
 }
