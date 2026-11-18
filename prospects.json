@@ -8723,18 +8723,6 @@
       "convertedAt": "2026-11-18T13:32:57.864Z"
     },
     {
-      "id": "prospect-muab66jy-3q1hdt",
-      "firstName": "Colby Birdsell",
-      "lastName": "Colby Birdsell",
-      "name": "Colby Birdsell Colby Birdsell",
-      "social": "https://facebook.com/clbirdsell",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jy-g79uki",
       "firstName": "Cole Custer",
       "lastName": "Cole Custer",
@@ -48995,5 +48983,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-18T13:32:59.214Z"
+  "lastUpdated": "2026-11-18T13:33:20.111Z"
 }
