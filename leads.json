@@ -25164,7 +25164,27 @@
       "addedAt": "2026-11-18T13:30:04.997Z",
       "prospectSourceId": "prospect-muab66jy-mb5qsx",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwm5se5p7v1po0c6xx3",
+      "name": "Clyde Richardson Clyde Richardson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/clyde.richardson.12",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T13:30:23.533Z",
+      "prospectSourceId": "prospect-muab66jy-xoefyk",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-18T13:30:04.998Z"
+  "lastUpdated": "2026-11-18T13:30:23.533Z"
 }
