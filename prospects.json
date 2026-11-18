@@ -8771,10 +8771,12 @@
       "name": "Colten Echave Colten Echave",
       "social": "https://facebook.com/colten.shea.echave",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwm71i65fvkyec8fkhh",
+      "convertedAt": "2026-11-18T14:05:28.254Z"
     },
     {
       "id": "prospect-muab66jy-tvdibv",
@@ -48989,5 +48991,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-18T13:34:17.775Z"
+  "lastUpdated": "2026-11-18T14:05:30.588Z"
 }
