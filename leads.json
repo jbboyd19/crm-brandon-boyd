@@ -25064,7 +25064,27 @@
       "addedAt": "2026-11-17T16:52:32.547Z",
       "prospectSourceId": "prospect-muab66jy-1j6gkb",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwm5qbmpg2wu41hj3sq",
+      "name": "Clinton Rogers Clinton Rogers",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/clintonjamesrogers",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T13:28:46.945Z",
+      "prospectSourceId": "prospect-muab66jy-ptpq6n",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:37:24.894Z"
+  "lastUpdated": "2026-11-18T13:28:46.945Z"
 }
