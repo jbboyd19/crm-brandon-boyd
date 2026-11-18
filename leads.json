@@ -25204,7 +25204,27 @@
       "addedAt": "2026-11-18T13:31:16.899Z",
       "prospectSourceId": "prospect-muab66jy-7i4nq2",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwm5u2giswymndpwxfa",
+      "name": "Cody Chadek Cody Chadek",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/McCurley.Cody",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T13:31:41.682Z",
+      "prospectSourceId": "prospect-muab66jy-ffa8zk",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-18T13:31:16.900Z"
+  "lastUpdated": "2026-11-18T13:31:41.683Z"
 }
