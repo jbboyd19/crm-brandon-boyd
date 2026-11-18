@@ -8729,10 +8729,12 @@
       "name": "Cole Custer Cole Custer",
       "social": "https://facebook.com/cole.custer.94",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwm5wk5m5lom8nmfgtd",
+      "convertedAt": "2026-11-18T13:33:37.931Z"
     },
     {
       "id": "prospect-muab66jy-lwb3j7",
@@ -48983,5 +48985,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-18T13:33:20.111Z"
+  "lastUpdated": "2026-11-18T13:33:39.172Z"
 }
