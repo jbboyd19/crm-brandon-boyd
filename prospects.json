@@ -8673,10 +8673,12 @@
       "name": "Cody Chadek Cody Chadek",
       "social": "https://facebook.com/McCurley.Cody",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwm5u2giswymndpwxfa",
+      "convertedAt": "2026-11-18T13:31:41.682Z"
     },
     {
       "id": "prospect-muab66jy-mpte7m",
@@ -48987,5 +48989,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-18T13:31:18.303Z"
+  "lastUpdated": "2026-11-18T13:31:44.295Z"
 }
