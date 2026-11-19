@@ -25464,7 +25464,27 @@
       "addedAt": "2026-11-19T13:51:44.006Z",
       "prospectSourceId": "prospect-muab66jy-tjf8ye",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwnm8i5h5j96wu1ehnd",
+      "name": "Colum McGrady Colum McGrady",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/colum.mcgrady.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-19",
+      "dateAdded": "2026-11-19",
+      "addedAt": "2026-11-19T13:58:35.237Z",
+      "prospectSourceId": "prospect-muab66jy-kvaxt3",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:51:44.007Z"
+  "lastUpdated": "2026-11-19T13:58:35.237Z"
 }
