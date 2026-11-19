@@ -8785,10 +8785,12 @@
       "name": "Colton Kelley Colton Kelley",
       "social": "https://facebook.com/Colton.Kelley.8",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwnlxm5k6d533f3wvi6",
+      "convertedAt": "2026-11-19T13:50:07.209Z"
     },
     {
       "id": "prospect-muab66jy-vwf72u",
@@ -48991,5 +48993,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-18T14:05:30.588Z"
+  "lastUpdated": "2026-11-19T13:50:09.055Z"
 }
