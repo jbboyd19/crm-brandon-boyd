@@ -25644,7 +25644,27 @@
       "addedAt": "2026-11-19T14:05:38.571Z",
       "prospectSourceId": "prospect-muab66jy-g3qczj",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwnmhyd6jgpyaenuhvd",
+      "name": "Corey Parks Corey Parks",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Parksfx",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-19",
+      "dateAdded": "2026-11-19",
+      "addedAt": "2026-11-19T14:05:56.154Z",
+      "prospectSourceId": "prospect-muab66jy-oecws7",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-19T14:05:38.571Z"
+  "lastUpdated": "2026-11-19T14:05:56.154Z"
 }
