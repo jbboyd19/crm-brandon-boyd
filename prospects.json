@@ -9023,10 +9023,12 @@
       "name": "Cosco Lopez Cosco Lopez",
       "social": "https://facebook.com/cosco.lopez",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwnwmc85n3kqu7sfio",
+      "convertedAt": "2026-11-19T18:49:16.902Z"
     },
     {
       "id": "prospect-muab66jy-y12wou",
@@ -49001,5 +49003,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-19T18:48:59.421Z"
+  "lastUpdated": "2026-11-19T18:49:18.281Z"
 }
