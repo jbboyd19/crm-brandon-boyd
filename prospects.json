@@ -8967,10 +8967,12 @@
       "name": "Corey J. Roberts Corey J. Roberts",
       "social": "https://facebook.com/cjroberts3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwnmhksr9ta3mupp4f",
+      "convertedAt": "2026-11-19T14:05:38.571Z"
     },
     {
       "id": "prospect-muab66jy-oecws7",
@@ -48993,5 +48995,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-19T14:04:50.068Z"
+  "lastUpdated": "2026-11-19T14:05:40.250Z"
 }
