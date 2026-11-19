@@ -25504,7 +25504,27 @@
       "addedAt": "2026-11-19T13:58:58.052Z",
       "prospectSourceId": "prospect-muab66jy-acoylr",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwnmassesxkmxq34blm",
+      "name": "Constantin Caciuc Constantin Caciuc",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/constantin.caciuc",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-19",
+      "dateAdded": "2026-11-19",
+      "addedAt": "2026-11-19T14:00:22.334Z",
+      "prospectSourceId": "prospect-muab66jy-ub0cqx",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:58:58.053Z"
+  "lastUpdated": "2026-11-19T14:00:22.335Z"
 }
