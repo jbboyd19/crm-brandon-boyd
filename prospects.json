@@ -9065,10 +9065,12 @@
       "name": "Craig Davis Craig Davis",
       "social": "https://facebook.com/craig.davis.641714",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwnwnmg56bifiuciwe",
+      "convertedAt": "2026-11-19T18:50:16.805Z"
     },
     {
       "id": "prospect-muab66jy-38ohhv",
@@ -48995,5 +48997,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-19T18:50:01.119Z"
+  "lastUpdated": "2026-11-19T18:50:18.057Z"
 }
