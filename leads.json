@@ -25584,7 +25584,27 @@
       "addedAt": "2026-11-19T14:03:10.833Z",
       "prospectSourceId": "prospect-muab66jy-ka4xgp",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwnmf3hb6b61o6369vn",
+      "name": "Corey Ellington Corey Ellington",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/corey.ellington.31",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-19",
+      "dateAdded": "2026-11-19",
+      "addedAt": "2026-11-19T14:03:42.815Z",
+      "prospectSourceId": "prospect-muab66jy-jg5wzp",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-19T14:03:10.834Z"
+  "lastUpdated": "2026-11-19T14:03:42.816Z"
 }
