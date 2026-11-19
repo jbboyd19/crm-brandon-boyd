@@ -25564,7 +25564,27 @@
       "addedAt": "2026-11-19T14:01:22.252Z",
       "prospectSourceId": "prospect-muab66jy-gav23i",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwnmeesxk1ke37o41f",
+      "name": "Corey Artis Corey Artis",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/artiscd",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-19",
+      "dateAdded": "2026-11-19",
+      "addedAt": "2026-11-19T14:03:10.833Z",
+      "prospectSourceId": "prospect-muab66jy-ka4xgp",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-19T14:01:22.252Z"
+  "lastUpdated": "2026-11-19T14:03:10.834Z"
 }
