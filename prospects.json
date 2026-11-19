@@ -8855,10 +8855,12 @@
       "name": "Colum McGrady Colum McGrady",
       "social": "https://facebook.com/colum.mcgrady.7",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwnm8i5h5j96wu1ehnd",
+      "convertedAt": "2026-11-19T13:58:35.237Z"
     },
     {
       "id": "prospect-muab66jy-acoylr",
@@ -49001,5 +49003,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-19T13:51:45.715Z"
+  "lastUpdated": "2026-11-19T13:58:37.608Z"
 }
