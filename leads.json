@@ -25704,7 +25704,27 @@
       "addedAt": "2026-11-19T18:48:58.290Z",
       "prospectSourceId": "prospect-muab66jy-w2euk8",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwnwmc85n3kqu7sfio",
+      "name": "Cosco Lopez Cosco Lopez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cosco.lopez",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-19",
+      "dateAdded": "2026-11-19",
+      "addedAt": "2026-11-19T18:49:16.901Z",
+      "prospectSourceId": "prospect-muab66jy-7mvyid",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-19T18:48:58.290Z"
+  "lastUpdated": "2026-11-19T18:49:16.902Z"
 }
