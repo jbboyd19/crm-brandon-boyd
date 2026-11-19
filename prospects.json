@@ -8827,10 +8827,12 @@
       "name": "Colton Ray Colton Ray",
       "social": "https://facebook.com/iamcoltonray",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwnlzbpaxyscrpg189a",
+      "convertedAt": "2026-11-19T13:51:26.974Z"
     },
     {
       "id": "prospect-muab66jy-tjf8ye",
@@ -48997,5 +48999,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-19T13:51:08.082Z"
+  "lastUpdated": "2026-11-19T13:51:28.494Z"
 }
