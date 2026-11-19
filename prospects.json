@@ -8911,10 +8911,12 @@
       "name": "Corbin Warren Evans Corbin Warren Evans",
       "social": "https://facebook.com/warren.evans.5015",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwnmc30spyur7ibkhvr",
+      "convertedAt": "2026-11-19T14:01:22.252Z"
     },
     {
       "id": "prospect-muab66jy-ka4xgp",
@@ -48997,5 +48999,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-19T14:00:45.440Z"
+  "lastUpdated": "2026-11-19T14:01:24.223Z"
 }
