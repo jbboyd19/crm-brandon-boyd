@@ -8939,10 +8939,12 @@
       "name": "Corey Ellington Corey Ellington",
       "social": "https://facebook.com/corey.ellington.31",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwnmf3hb6b61o6369vn",
+      "convertedAt": "2026-11-19T14:03:42.815Z"
     },
     {
       "id": "prospect-muab66jy-whew6b",
@@ -49001,5 +49003,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-19T14:03:12.944Z"
+  "lastUpdated": "2026-11-19T14:03:44.290Z"
 }
