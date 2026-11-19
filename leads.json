@@ -25424,7 +25424,27 @@
       "addedAt": "2026-11-19T13:51:05.958Z",
       "prospectSourceId": "prospect-muab66jy-qe6dac",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwnlzbpaxyscrpg189a",
+      "name": "Colton Ray Colton Ray",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/iamcoltonray",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-19",
+      "dateAdded": "2026-11-19",
+      "addedAt": "2026-11-19T13:51:26.974Z",
+      "prospectSourceId": "prospect-muab66jy-tqxxjl",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:51:05.958Z"
+  "lastUpdated": "2026-11-19T13:51:26.974Z"
 }
