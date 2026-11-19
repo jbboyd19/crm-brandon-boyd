@@ -25684,7 +25684,27 @@
       "addedAt": "2026-11-19T18:48:42.086Z",
       "prospectSourceId": "prospect-muab66jy-mgx8e5",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwnwlxv67fmqn6vedcv",
+      "name": "Cory Clyne Cory Clyne",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cory.clyne.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-19",
+      "dateAdded": "2026-11-19",
+      "addedAt": "2026-11-19T18:48:58.290Z",
+      "prospectSourceId": "prospect-muab66jy-w2euk8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-19T18:48:42.086Z"
+  "lastUpdated": "2026-11-19T18:48:58.290Z"
 }
