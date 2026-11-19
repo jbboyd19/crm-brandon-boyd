@@ -8869,10 +8869,12 @@
       "name": "Connor Johnson Connor Johnson",
       "social": "https://facebook.com/connor.johnson.1656",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwnm8zr8p7ujwgbbvlo",
+      "convertedAt": "2026-11-19T13:58:58.052Z"
     },
     {
       "id": "prospect-muab66jy-qkjyo8",
@@ -49003,5 +49005,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-19T13:58:37.608Z"
+  "lastUpdated": "2026-11-19T13:58:59.686Z"
 }
