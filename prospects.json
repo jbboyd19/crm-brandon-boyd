@@ -8925,10 +8925,12 @@
       "name": "Corey Artis Corey Artis",
       "social": "https://facebook.com/artiscd",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwnmeesxk1ke37o41f",
+      "convertedAt": "2026-11-19T14:03:10.833Z"
     },
     {
       "id": "prospect-muab66jy-jg5wzp",
@@ -48999,5 +49001,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-19T14:01:24.223Z"
+  "lastUpdated": "2026-11-19T14:03:12.944Z"
 }
