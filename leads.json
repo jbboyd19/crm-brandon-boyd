@@ -25764,7 +25764,27 @@
       "addedAt": "2026-11-19T18:49:52.589Z",
       "prospectSourceId": "prospect-muab66jy-8kss74",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwnwnmg56bifiuciwe",
+      "name": "Craig Davis Craig Davis",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/craig.davis.641714",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-19",
+      "dateAdded": "2026-11-19",
+      "addedAt": "2026-11-19T18:50:16.805Z",
+      "prospectSourceId": "prospect-muab66jy-vv2lvm",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-19T18:49:52.589Z"
+  "lastUpdated": "2026-11-19T18:50:16.805Z"
 }
