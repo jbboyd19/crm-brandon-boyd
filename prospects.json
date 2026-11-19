@@ -8953,10 +8953,12 @@
       "name": "Corey Greer Corey Greer",
       "social": "https://facebook.com/cgreer28",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwnmgi9pij7yupkpzg",
+      "convertedAt": "2026-11-19T14:04:48.637Z"
     },
     {
       "id": "prospect-muab66jy-g3qczj",
@@ -48991,5 +48993,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-19T14:04:26.684Z"
+  "lastUpdated": "2026-11-19T14:04:50.068Z"
 }
