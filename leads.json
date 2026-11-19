@@ -24101,9 +24101,9 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-18",
-      "nextFollowUp": "2026-11-19",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-11-18",
+      "lastModified": "2026-11-19",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-13T17:48:22.674Z",
       "prospectSourceId": "prospect-muab66jx-nt2qex",
@@ -25366,5 +25366,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-18T18:09:06.481Z"
+  "lastUpdated": "2026-11-19T13:42:26.761Z"
 }
