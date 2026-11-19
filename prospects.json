@@ -9037,10 +9037,12 @@
       "name": "Cosette Snarr Cosette Snarr",
       "social": "https://facebook.com/cosette.snarr.2025",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwnwmqsti7jj2e41b9s",
+      "convertedAt": "2026-11-19T18:49:35.789Z"
     },
     {
       "id": "prospect-muab66jy-8kss74",
@@ -49003,5 +49005,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-19T18:49:18.281Z"
+  "lastUpdated": "2026-11-19T18:49:37.957Z"
 }
