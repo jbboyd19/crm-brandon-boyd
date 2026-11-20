@@ -25864,7 +25864,27 @@
       "addedAt": "2026-11-20T13:51:29.538Z",
       "prospectSourceId": "prospect-muab66jy-q89910",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwp1fn8zucon23e1tz8",
+      "name": "Cristi Chitic Cristi Chitic",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cristi.chitic.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-20",
+      "dateAdded": "2026-11-20",
+      "addedAt": "2026-11-20T13:51:48.851Z",
+      "prospectSourceId": "prospect-muab66jy-uv66ux",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-20T13:51:29.539Z"
+  "lastUpdated": "2026-11-20T13:51:48.851Z"
 }
