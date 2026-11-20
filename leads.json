@@ -25844,7 +25844,27 @@
       "addedAt": "2026-11-20T13:51:13.170Z",
       "prospectSourceId": "prospect-muab66jy-vg3nfa",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwp1f8cikn9bftfajxb",
+      "name": "Craig Walker Craig Walker",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Souls4kingdom",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-20",
+      "dateAdded": "2026-11-20",
+      "addedAt": "2026-11-20T13:51:29.538Z",
+      "prospectSourceId": "prospect-muab66jy-q89910",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-20T13:51:13.171Z"
+  "lastUpdated": "2026-11-20T13:51:29.539Z"
 }
