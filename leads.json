@@ -26044,7 +26044,27 @@
       "addedAt": "2026-11-20T13:55:41.849Z",
       "prospectSourceId": "prospect-muab66jy-q8ypij",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwp1l0s4desyr8c7v14",
+      "name": "Curt Leda Curt Leda",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/betterhealthdude",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-20",
+      "dateAdded": "2026-11-20",
+      "addedAt": "2026-11-20T13:55:59.669Z",
+      "prospectSourceId": "prospect-muab66jy-4rqa9x",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-20T13:55:41.849Z"
+  "lastUpdated": "2026-11-20T13:55:59.669Z"
 }
