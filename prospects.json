@@ -9163,10 +9163,12 @@
       "name": "Cristian Joya Cristian Joya",
       "social": "https://facebook.com/cristian.joya26",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwp1gpavmvn90mp8r0f",
+      "convertedAt": "2026-11-20T13:52:38.167Z"
     },
     {
       "id": "prospect-muab66jy-odgaha",
@@ -48997,5 +48999,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-20T13:52:15.681Z"
+  "lastUpdated": "2026-11-20T13:52:39.953Z"
 }
