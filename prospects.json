@@ -9079,10 +9079,12 @@
       "name": "Craig Ford Jr. Craig Ford Jr.",
       "social": "https://facebook.com/craig.ford.jr.2025",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwp1dn1iqtonjmz6ulf",
+      "convertedAt": "2026-11-20T13:50:15.270Z"
     },
     {
       "id": "prospect-muab66jy-aprwlx",
@@ -48997,5 +48999,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-19T18:50:18.057Z"
+  "lastUpdated": "2026-11-20T13:50:17.373Z"
 }
