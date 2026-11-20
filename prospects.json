@@ -9233,10 +9233,12 @@
       "name": "Crypto Kelz Crypto Kelz",
       "social": "https://facebook.com/kelli.edwards.9041",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwp1k7x9mj7jctac0ks",
+      "convertedAt": "2026-11-20T13:55:22.269Z"
     },
     {
       "id": "prospect-muab66jy-q8ypij",
@@ -48983,5 +48985,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-20T13:55:08.151Z"
+  "lastUpdated": "2026-11-20T13:55:23.692Z"
 }
