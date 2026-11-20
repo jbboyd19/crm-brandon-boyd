@@ -9247,10 +9247,12 @@
       "name": "Crystal Paul Reyes Crystal Paul Reyes",
       "social": "https://facebook.com/crystalsarah.dajero",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwp1kn152lyw4m4o1x9",
+      "convertedAt": "2026-11-20T13:55:41.849Z"
     },
     {
       "id": "prospect-muab66jy-4rqa9x",
@@ -48985,5 +48987,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-20T13:55:23.692Z"
+  "lastUpdated": "2026-11-20T13:55:43.186Z"
 }
