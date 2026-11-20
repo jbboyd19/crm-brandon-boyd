@@ -25944,7 +25944,27 @@
       "addedAt": "2026-11-20T13:53:12.954Z",
       "prospectSourceId": "prospect-muab66jy-odgaha",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwp1hz3gnoifm5quus8",
+      "name": "Cristian Vargas Cristian Vargas",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cristian.vargas.73",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-20",
+      "dateAdded": "2026-11-20",
+      "addedAt": "2026-11-20T13:53:37.516Z",
+      "prospectSourceId": "prospect-muab66jy-ksciss",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-20T13:53:12.954Z"
+  "lastUpdated": "2026-11-20T13:53:37.517Z"
 }
