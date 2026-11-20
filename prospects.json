@@ -9275,10 +9275,12 @@
       "name": "Curtis Edwards Curtis Edwards",
       "social": "https://facebook.com/curtis.edwards.714",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwp1lnsu72tdcomiyhr",
+      "convertedAt": "2026-11-20T13:56:29.502Z"
     },
     {
       "id": "prospect-muab66jy-sf6r2k",
@@ -48977,5 +48979,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-20T13:56:16.916Z"
+  "lastUpdated": "2026-11-20T13:56:30.867Z"
 }
