@@ -21621,7 +21621,7 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-20",
-      "nextFollowUp": "2026-11-21",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-11-20",
       "dateAdded": "2026-11-05",
@@ -26086,5 +26086,5 @@
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-20T14:51:09.794Z"
+  "lastUpdated": "2026-11-21T00:16:58.953Z"
 }
