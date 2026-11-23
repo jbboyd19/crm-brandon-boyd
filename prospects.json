@@ -9457,10 +9457,12 @@
       "name": "Dale Daniels Dale Daniels",
       "social": "https://facebook.com/Y.DIPPs19",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwte4kcl6t0frv4urxa",
+      "convertedAt": "2026-11-23T14:58:11.589Z"
     },
     {
       "id": "prospect-muab66jy-7tgmgr",
@@ -48943,5 +48945,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-23T14:57:37.565Z"
+  "lastUpdated": "2026-11-23T14:58:14.263Z"
 }
