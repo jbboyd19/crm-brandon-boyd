@@ -9415,10 +9415,12 @@
       "name": "Dakota Reagle Dakota Reagle",
       "social": "https://facebook.com/dakota.reagle",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwte28ukryx86b6wyoh",
+      "convertedAt": "2026-11-23T14:56:23.372Z"
     },
     {
       "id": "prospect-muab66jy-efh1ie",
@@ -48937,5 +48939,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-23T14:56:01.586Z"
+  "lastUpdated": "2026-11-23T14:56:26.129Z"
 }
