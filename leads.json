@@ -26284,7 +26284,27 @@
       "addedAt": "2026-11-23T14:56:23.372Z",
       "prospectSourceId": "prospect-muab66jy-nf4545",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwte2r4x8udl899pmy9",
+      "name": "Dalamu Adekunle Michael Dalamu Adekunle Michael",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/omodalas",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T14:56:47.073Z",
+      "prospectSourceId": "prospect-muab66jy-efh1ie",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-23T14:56:23.373Z"
+  "lastUpdated": "2026-11-23T14:56:47.073Z"
 }
