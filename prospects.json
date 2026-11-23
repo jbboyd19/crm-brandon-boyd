@@ -9409,18 +9409,6 @@
       "convertedAt": "2026-11-23T14:55:43.456Z"
     },
     {
-      "id": "prospect-muab66jy-i91wsh",
-      "firstName": "Dakota Miller",
-      "lastName": "Dakota Miller",
-      "name": "Dakota Miller Dakota Miller",
-      "social": "https://facebook.com/dk.moneyy",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jy-nf4545",
       "firstName": "Dakota Reagle",
       "lastName": "Dakota Reagle",
@@ -48949,5 +48937,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-23T14:55:45.887Z"
+  "lastUpdated": "2026-11-23T14:56:01.586Z"
 }
