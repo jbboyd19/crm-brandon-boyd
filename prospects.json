@@ -9401,10 +9401,12 @@
       "name": "Dakota Burford Dakota Burford",
       "social": "https://facebook.com/dakota.burford.2025",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwte1e1r0kf2ccp7jerc",
+      "convertedAt": "2026-11-23T14:55:43.456Z"
     },
     {
       "id": "prospect-muab66jy-i91wsh",
@@ -48947,5 +48949,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-23T14:55:13.629Z"
+  "lastUpdated": "2026-11-23T14:55:45.887Z"
 }
