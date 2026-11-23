@@ -26464,7 +26464,27 @@
       "addedAt": "2026-11-23T16:27:45.716Z",
       "prospectSourceId": "prospect-muab66jz-o1s3jk",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwtj5nk7cpoyj598suv",
+      "name": "Damian Cyma Damian Cyma",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/damian.cyma",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T17:19:00.487Z",
+      "prospectSourceId": "prospect-muab66jz-hb1y3r",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-23T16:27:45.716Z"
+  "lastUpdated": "2026-11-23T17:19:00.487Z"
 }
