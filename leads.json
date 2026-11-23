@@ -26524,7 +26524,27 @@
       "addedAt": "2026-11-23T17:19:51.573Z",
       "prospectSourceId": "prospect-muab66jz-p0xh1a",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwtj75tzfs26ajrmtju",
+      "name": "Damien Ramos Damien Ramos",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/damien.ramos1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T17:20:10.823Z",
+      "prospectSourceId": "prospect-muab66jz-snsnzx",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-23T17:19:51.574Z"
+  "lastUpdated": "2026-11-23T17:20:10.824Z"
 }
