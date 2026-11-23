@@ -9507,18 +9507,6 @@
       "convertedAt": "2026-11-23T16:26:41.002Z"
     },
     {
-      "id": "prospect-muab66jz-s5fxgh",
-      "firstName": "Dallas Robinson",
-      "lastName": "Dallas Robinson",
-      "name": "Dallas Robinson Dallas Robinson",
-      "social": "https://facebook.com/dallas.robinson.927",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jz-wrpsj0",
       "firstName": "Dalton Gadal",
       "lastName": "Dalton Gadal",
@@ -48939,5 +48927,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-23T16:26:42.891Z"
+  "lastUpdated": "2026-11-23T16:26:48.363Z"
 }
