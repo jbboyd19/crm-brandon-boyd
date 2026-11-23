@@ -9429,10 +9429,12 @@
       "name": "Dalamu Adekunle Michael Dalamu Adekunle Michael",
       "social": "https://facebook.com/omodalas",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwte2r4x8udl899pmy9",
+      "convertedAt": "2026-11-23T14:56:47.073Z"
     },
     {
       "id": "prospect-muab66jy-9hri25",
@@ -48939,5 +48941,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-23T14:56:26.129Z"
+  "lastUpdated": "2026-11-23T14:56:48.774Z"
 }
