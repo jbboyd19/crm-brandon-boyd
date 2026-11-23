@@ -9527,10 +9527,12 @@
       "name": "Dalton Goodyear Dalton Goodyear",
       "social": "https://facebook.com/dalton.goodyear",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwthbf0w92k8d0nrxuh",
+      "convertedAt": "2026-11-23T16:27:30.128Z"
     },
     {
       "id": "prospect-muab66jz-o1s3jk",
@@ -48929,5 +48931,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-23T16:27:11.695Z"
+  "lastUpdated": "2026-11-23T16:27:31.586Z"
 }
