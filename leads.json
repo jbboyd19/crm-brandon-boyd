@@ -26364,7 +26364,27 @@
       "addedAt": "2026-11-23T14:58:46.284Z",
       "prospectSourceId": "prospect-muab66jz-i3m7tq",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwte66n6xlmwhjb9q7g",
+      "name": "Dale Peake Dale Peake",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/dalepeake",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T14:59:27.138Z",
+      "prospectSourceId": "prospect-muab66jz-1xmo5v",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-23T14:58:46.284Z"
+  "lastUpdated": "2026-11-23T14:59:27.138Z"
 }
