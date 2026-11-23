@@ -9289,10 +9289,12 @@
       "name": "Curtis Hawkins Curtis Hawkins",
       "social": "https://facebook.com/curtis.hawkins.7798",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwtdwarnawx62so9jma",
+      "convertedAt": "2026-11-23T14:51:45.923Z"
     },
     {
       "id": "prospect-muab66jy-n3unv5",
@@ -48967,5 +48969,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-21T16:39:05.652Z"
+  "lastUpdated": "2026-11-23T14:51:48.725Z"
 }
