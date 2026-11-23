@@ -26104,7 +26104,27 @@
       "addedAt": "2026-11-23T14:51:45.923Z",
       "prospectSourceId": "prospect-muab66jy-6oza0o",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwtdx2f1qgg4262inmc",
+      "name": "Curtis Phelan Curtis Phelan",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/curtisphelan",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T14:52:21.758Z",
+      "prospectSourceId": "prospect-muab66jy-dl230y",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-23T14:51:45.924Z"
+  "lastUpdated": "2026-11-23T14:52:21.758Z"
 }
