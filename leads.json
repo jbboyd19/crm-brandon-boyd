@@ -26304,7 +26304,27 @@
       "addedAt": "2026-11-23T14:56:47.073Z",
       "prospectSourceId": "prospect-muab66jy-efh1ie",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwte3sd8csa8vw6viw",
+      "name": "Dalan Serey Dalan Serey",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/kellenysheccid",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T14:57:35.324Z",
+      "prospectSourceId": "prospect-muab66jy-9hri25",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-23T14:56:47.073Z"
+  "lastUpdated": "2026-11-23T14:57:35.325Z"
 }
