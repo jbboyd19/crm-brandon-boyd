@@ -26164,7 +26164,27 @@
       "addedAt": "2026-11-23T14:53:32.241Z",
       "prospectSourceId": "prospect-muab66jy-tm85at",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwtdz1dnrwczsng9ikc",
+      "name": "Cyprian Benedict Fegalo Cyprian Benedict Fegalo",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cyprian.fegalo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T14:53:53.723Z",
+      "prospectSourceId": "prospect-muab66jy-zda65d",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-23T14:53:32.241Z"
+  "lastUpdated": "2026-11-23T14:53:53.724Z"
 }
