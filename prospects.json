@@ -9541,10 +9541,12 @@
       "name": "Dam Ian Dam Ian",
       "social": "https://facebook.com/damian.barciaga",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwthbr1wfpuyuq21vh6",
+      "convertedAt": "2026-11-23T16:27:45.716Z"
     },
     {
       "id": "prospect-muab66jz-hb1y3r",
@@ -48931,5 +48933,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-23T16:27:31.586Z"
+  "lastUpdated": "2026-11-23T16:27:47.028Z"
 }
