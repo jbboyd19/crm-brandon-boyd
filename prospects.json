@@ -9465,18 +9465,6 @@
       "convertedAt": "2026-11-23T14:58:11.589Z"
     },
     {
-      "id": "prospect-muab66jy-7tgmgr",
-      "firstName": "Dale Hooper",
-      "lastName": "Dale Hooper",
-      "name": "Dale Hooper Dale Hooper",
-      "social": "https://facebook.com/dale.hooper.75436",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jz-i3m7tq",
       "firstName": "Dale Jackson",
       "lastName": "Dale Jackson",
@@ -48945,5 +48933,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-23T14:58:14.263Z"
+  "lastUpdated": "2026-11-23T14:58:26.816Z"
 }
