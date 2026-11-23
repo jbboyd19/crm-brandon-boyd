@@ -26384,7 +26384,27 @@
       "addedAt": "2026-11-23T14:59:27.138Z",
       "prospectSourceId": "prospect-muab66jz-1xmo5v",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwthad4axmn9fdh9v5",
+      "name": "Dale Smith Dale Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/dale.smith.5036459",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T16:26:41.002Z",
+      "prospectSourceId": "prospect-muab66jz-qv4gwb",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-23T14:59:27.138Z"
+  "lastUpdated": "2026-11-23T16:26:41.003Z"
 }
