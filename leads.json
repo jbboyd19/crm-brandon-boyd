@@ -26324,7 +26324,27 @@
       "addedAt": "2026-11-23T14:57:35.324Z",
       "prospectSourceId": "prospect-muab66jy-9hri25",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwte4kcl6t0frv4urxa",
+      "name": "Dale Daniels Dale Daniels",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Y.DIPPs19",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T14:58:11.589Z",
+      "prospectSourceId": "prospect-muab66jy-0h2hla",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-23T14:57:35.325Z"
+  "lastUpdated": "2026-11-23T14:58:11.589Z"
 }
