@@ -9555,10 +9555,12 @@
       "name": "Damian Cyma Damian Cyma",
       "social": "https://facebook.com/damian.cyma",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwtj5nk7cpoyj598suv",
+      "convertedAt": "2026-11-23T17:19:00.487Z"
     },
     {
       "id": "prospect-muab66jz-twjoeo",
@@ -48933,5 +48935,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-23T16:27:47.028Z"
+  "lastUpdated": "2026-11-23T17:19:02.334Z"
 }
