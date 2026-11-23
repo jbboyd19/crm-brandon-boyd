@@ -9373,10 +9373,12 @@
       "name": "Da Chang Da Chang",
       "social": "https://facebook.com/da.chang.33",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.158Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwte07p8ubdn5ah9hst",
+      "convertedAt": "2026-11-23T14:54:48.573Z"
     },
     {
       "id": "prospect-muab66jy-q16ew8",
@@ -48943,5 +48945,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-23T14:54:32.619Z"
+  "lastUpdated": "2026-11-23T14:54:50.381Z"
 }
