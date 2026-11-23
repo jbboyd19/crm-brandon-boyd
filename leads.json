@@ -26084,7 +26084,27 @@
       "addedAt": "2026-11-20T13:56:29.502Z",
       "prospectSourceId": "prospect-muab66jy-tuhluq",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwtdwarnawx62so9jma",
+      "name": "Curtis Hawkins Curtis Hawkins",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/curtis.hawkins.7798",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T14:51:45.923Z",
+      "prospectSourceId": "prospect-muab66jy-6oza0o",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-21T00:16:58.953Z"
+  "lastUpdated": "2026-11-23T14:51:45.924Z"
 }
