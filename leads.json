@@ -26444,7 +26444,27 @@
       "addedAt": "2026-11-23T16:27:30.128Z",
       "prospectSourceId": "prospect-muab66jz-14c45k",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwthbr1wfpuyuq21vh6",
+      "name": "Dam Ian Dam Ian",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/damian.barciaga",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T16:27:45.716Z",
+      "prospectSourceId": "prospect-muab66jz-o1s3jk",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-23T16:27:30.129Z"
+  "lastUpdated": "2026-11-23T16:27:45.716Z"
 }
