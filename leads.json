@@ -26224,7 +26224,27 @@
       "addedAt": "2026-11-23T14:54:48.573Z",
       "prospectSourceId": "prospect-muab66jy-nkzpuw",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwte0p4kldpbfs8p3f8",
+      "name": "DaJuan Green DaJuan Green",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/biginvestmentgrp",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T14:55:11.156Z",
+      "prospectSourceId": "prospect-muab66jy-q16ew8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-23T14:54:48.573Z"
+  "lastUpdated": "2026-11-23T14:55:11.157Z"
 }
