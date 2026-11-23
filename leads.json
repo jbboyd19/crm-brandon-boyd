@@ -26144,7 +26144,27 @@
       "addedAt": "2026-11-23T14:52:40.307Z",
       "prospectSourceId": "prospect-muab66jy-x11za9",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwtdyksxq95tdmuzthe",
+      "name": "Cy Tidwell Cy Tidwell",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cytidwell24",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T14:53:32.241Z",
+      "prospectSourceId": "prospect-muab66jy-tm85at",
+      "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
     }
   ],
-  "lastUpdated": "2026-11-23T14:52:40.308Z"
+  "lastUpdated": "2026-11-23T14:53:32.241Z"
 }
