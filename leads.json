@@ -26344,7 +26344,27 @@
       "addedAt": "2026-11-23T14:58:11.589Z",
       "prospectSourceId": "prospect-muab66jy-0h2hla",
       "prospectUploadedAt": "2026-09-20T21:08:26.158Z"
+    },
+    {
+      "id": "mwte5b4cgk5k3jz5no",
+      "name": "Dale Jackson Dale Jackson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/iamdalejackson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T14:58:46.284Z",
+      "prospectSourceId": "prospect-muab66jz-i3m7tq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-23T14:58:11.589Z"
+  "lastUpdated": "2026-11-23T14:58:46.284Z"
 }
