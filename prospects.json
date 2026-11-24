@@ -9793,10 +9793,12 @@
       "name": "Daniel Abraham Alvira Daniel Abraham Alvira",
       "social": "https://facebook.com/danielabrahamalvira",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwutu3beje76lvi6mlg",
+      "convertedAt": "2026-11-24T15:05:42.986Z"
     },
     {
       "id": "prospect-muab66jz-b2f6sr",
@@ -48883,5 +48885,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-24T15:05:29.361Z"
+  "lastUpdated": "2026-11-24T15:05:44.219Z"
 }
