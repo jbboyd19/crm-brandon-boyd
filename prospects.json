@@ -9639,10 +9639,12 @@
       "name": "Damon E Brooks Sr Damon E Brooks Sr",
       "social": "https://facebook.com/damon.e.sr",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwutkduiaeou6wi1u9r",
+      "convertedAt": "2026-11-24T14:58:10.074Z"
     },
     {
       "id": "prospect-muab66jz-tu7ls7",
@@ -48933,5 +48935,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-24T14:57:56.378Z"
+  "lastUpdated": "2026-11-24T14:58:11.767Z"
 }
