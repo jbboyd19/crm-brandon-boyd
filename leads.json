@@ -26764,7 +26764,27 @@
       "addedAt": "2026-11-24T15:04:31.803Z",
       "prospectSourceId": "prospect-muab66jz-7llx8y",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwutt4tqvvazuzs162",
+      "name": "Dani Moreno Dani Moreno",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/dani.moreno.407679",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T15:04:58.286Z",
+      "prospectSourceId": "prospect-muab66jz-w41w4k",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-24T15:04:31.804Z"
+  "lastUpdated": "2026-11-24T15:04:58.287Z"
 }
