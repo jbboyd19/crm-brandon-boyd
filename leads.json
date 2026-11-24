@@ -26724,7 +26724,27 @@
       "addedAt": "2026-11-24T15:03:56.967Z",
       "prospectSourceId": "prospect-muab66jz-4cxjx7",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwuts7jit8ac8po61s",
+      "name": "Dan Worley Dan Worley",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/dan.worley.705985",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T15:04:15.150Z",
+      "prospectSourceId": "prospect-muab66jz-zow7bq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-24T15:03:56.967Z"
+  "lastUpdated": "2026-11-24T15:04:15.151Z"
 }
