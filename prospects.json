@@ -9765,10 +9765,12 @@
       "name": "Dani Moreno Dani Moreno",
       "social": "https://facebook.com/dani.moreno.407679",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwutt4tqvvazuzs162",
+      "convertedAt": "2026-11-24T15:04:58.286Z"
     },
     {
       "id": "prospect-muab66jz-7rzgeq",
@@ -48879,5 +48881,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-24T15:04:33.169Z"
+  "lastUpdated": "2026-11-24T15:04:59.563Z"
 }
