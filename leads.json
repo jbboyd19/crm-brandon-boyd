@@ -26624,7 +26624,27 @@
       "addedAt": "2026-11-24T14:58:37.189Z",
       "prospectSourceId": "prospect-muab66jz-tu7ls7",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwutlea26hgmw94bxzy",
+      "name": "Dan Bergdoll Dan Bergdoll",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/dan.bergdoll",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T14:58:57.290Z",
+      "prospectSourceId": "prospect-muab66jz-ymi611",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-24T14:58:37.190Z"
+  "lastUpdated": "2026-11-24T14:58:57.291Z"
 }
