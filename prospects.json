@@ -9807,10 +9807,12 @@
       "name": "Daniel Alvarado Daniel Alvarado",
       "social": "https://facebook.com/daniel.vasquez.169",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwutuha3vs5evyhjnf",
+      "convertedAt": "2026-11-24T15:06:01.083Z"
     },
     {
       "id": "prospect-muab66jz-jiiwao",
@@ -48885,5 +48887,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-24T15:05:44.219Z"
+  "lastUpdated": "2026-11-24T15:06:02.800Z"
 }
