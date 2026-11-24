@@ -26644,7 +26644,27 @@
       "addedAt": "2026-11-24T14:58:57.290Z",
       "prospectSourceId": "prospect-muab66jz-ymi611",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwutlqnwd70oj99ldi",
+      "name": "Dan Bolger Dan Bolger",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.bolger.520",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T14:59:13.340Z",
+      "prospectSourceId": "prospect-muab66jz-8rleqv",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-24T14:58:57.291Z"
+  "lastUpdated": "2026-11-24T14:59:13.341Z"
 }
