@@ -26784,7 +26784,27 @@
       "addedAt": "2026-11-24T15:04:58.286Z",
       "prospectSourceId": "prospect-muab66jz-w41w4k",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwuttrealxicnx8ge3o",
+      "name": "Danica Rae Bird Danica Rae Bird",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/DaniRaeBIrd",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T15:05:27.538Z",
+      "prospectSourceId": "prospect-muab66jz-7rzgeq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-24T15:04:58.287Z"
+  "lastUpdated": "2026-11-24T15:05:27.539Z"
 }
