@@ -9653,10 +9653,12 @@
       "name": "Damon Wilson Damon Wilson",
       "social": "https://facebook.com/damon1970",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwutkyrpzfjka20sp6",
+      "convertedAt": "2026-11-24T14:58:37.189Z"
     },
     {
       "id": "prospect-muab66jz-ymi611",
@@ -48935,5 +48937,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-24T14:58:11.767Z"
+  "lastUpdated": "2026-11-24T14:58:38.945Z"
 }
