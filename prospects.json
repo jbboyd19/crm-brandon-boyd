@@ -9709,10 +9709,12 @@
       "name": "Dan Ketchersid Dan Ketchersid",
       "social": "https://facebook.com/dan.ketchersid",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwutnv7v14j4rod2rl2",
+      "convertedAt": "2026-11-24T15:00:52.555Z"
     },
     {
       "id": "prospect-muab66jz-muxpka",
@@ -48907,5 +48909,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-24T15:00:39.498Z"
+  "lastUpdated": "2026-11-24T15:00:54.285Z"
 }
