@@ -26664,7 +26664,27 @@
       "addedAt": "2026-11-24T14:59:13.340Z",
       "prospectSourceId": "prospect-muab66jz-8rleqv",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwutnjefgcel4ccrqxk",
+      "name": "Dan Gurski Dan Gurski",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/dan.gurski.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T15:00:37.239Z",
+      "prospectSourceId": "prospect-muab66jz-v0nxeb",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-24T14:59:13.341Z"
+  "lastUpdated": "2026-11-24T15:00:37.240Z"
 }
