@@ -9751,10 +9751,12 @@
       "name": "Dana Ray Land Dana Ray Land",
       "social": "https://facebook.com/danaray0814",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwutske39u6cwqoj5hc",
+      "convertedAt": "2026-11-24T15:04:31.803Z"
     },
     {
       "id": "prospect-muab66jz-w41w4k",
@@ -48877,5 +48879,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-24T15:04:16.702Z"
+  "lastUpdated": "2026-11-24T15:04:33.169Z"
 }
