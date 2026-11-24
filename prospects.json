@@ -9689,18 +9689,6 @@
       "convertedAt": "2026-11-24T14:59:13.340Z"
     },
     {
-      "id": "prospect-muab66jz-dohmko",
-      "firstName": "Dan Getz",
-      "lastName": "Dan Getz",
-      "name": "Dan Getz Dan Getz",
-      "social": "https://facebook.com/Dance4ONEpAc",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jz-v0nxeb",
       "firstName": "Dan Gurski",
       "lastName": "Dan Gurski",
@@ -48917,5 +48905,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-24T14:59:43.037Z"
+  "lastUpdated": "2026-11-24T14:59:58.304Z"
 }
