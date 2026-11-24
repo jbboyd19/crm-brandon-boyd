@@ -26804,7 +26804,27 @@
       "addedAt": "2026-11-24T15:05:27.538Z",
       "prospectSourceId": "prospect-muab66jz-7rzgeq",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwutu3beje76lvi6mlg",
+      "name": "Daniel Abraham Alvira Daniel Abraham Alvira",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/danielabrahamalvira",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T15:05:42.986Z",
+      "prospectSourceId": "prospect-muab66jz-sk9sh1",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-24T15:05:27.539Z"
+  "lastUpdated": "2026-11-24T15:05:42.987Z"
 }
