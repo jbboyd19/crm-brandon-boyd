@@ -9737,10 +9737,12 @@
       "name": "Dan Worley Dan Worley",
       "social": "https://facebook.com/dan.worley.705985",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwuts7jit8ac8po61s",
+      "convertedAt": "2026-11-24T15:04:15.150Z"
     },
     {
       "id": "prospect-muab66jz-7llx8y",
@@ -48875,5 +48877,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-24T15:03:58.428Z"
+  "lastUpdated": "2026-11-24T15:04:16.702Z"
 }
