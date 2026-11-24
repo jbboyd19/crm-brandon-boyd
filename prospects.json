@@ -9611,10 +9611,12 @@
       "name": "Damon Anthony Whealon Damon Anthony Whealon",
       "social": "https://facebook.com/damon780",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwutjn4hprurua04cc",
+      "convertedAt": "2026-11-24T14:57:35.441Z"
     },
     {
       "id": "prospect-muab66jz-zoeszx",
@@ -48929,5 +48931,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-23T18:31:40.001Z"
+  "lastUpdated": "2026-11-24T14:57:37.707Z"
 }
