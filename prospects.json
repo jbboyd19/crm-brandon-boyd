@@ -9689,18 +9689,6 @@
       "convertedAt": "2026-11-24T14:59:13.340Z"
     },
     {
-      "id": "prospect-muab66jz-e1spsk",
-      "firstName": "Dan Chatel",
-      "lastName": "Dan Chatel",
-      "name": "Dan Chatel Dan Chatel",
-      "social": "https://facebook.com/dan.chatel",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jz-f5i7qz",
       "firstName": "Dan Garcia",
       "lastName": "Dan Garcia",
@@ -48941,5 +48929,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-24T14:59:15.030Z"
+  "lastUpdated": "2026-11-24T14:59:28.454Z"
 }
