@@ -26704,7 +26704,27 @@
       "addedAt": "2026-11-24T15:00:52.555Z",
       "prospectSourceId": "prospect-muab66jz-x95kyy",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwutrtifh97u1dn39wo",
+      "name": "Dan Wilkinson Dan Wilkinson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/dan.webspeed",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T15:03:56.967Z",
+      "prospectSourceId": "prospect-muab66jz-4cxjx7",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-24T15:00:52.555Z"
+  "lastUpdated": "2026-11-24T15:03:56.967Z"
 }
