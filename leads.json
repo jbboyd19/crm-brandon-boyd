@@ -26544,7 +26544,27 @@
       "addedAt": "2026-11-23T17:20:10.823Z",
       "prospectSourceId": "prospect-muab66jz-snsnzx",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwutjn4hprurua04cc",
+      "name": "Damon Anthony Whealon Damon Anthony Whealon",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/damon780",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T14:57:35.441Z",
+      "prospectSourceId": "prospect-muab66jz-qxiraz",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-23T17:20:10.824Z"
+  "lastUpdated": "2026-11-24T14:57:35.442Z"
 }
