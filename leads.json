@@ -26824,7 +26824,27 @@
       "addedAt": "2026-11-24T15:05:42.986Z",
       "prospectSourceId": "prospect-muab66jz-sk9sh1",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwutuha3vs5evyhjnf",
+      "name": "Daniel Alvarado Daniel Alvarado",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.vasquez.169",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T15:06:01.083Z",
+      "prospectSourceId": "prospect-muab66jz-b2f6sr",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-24T15:05:42.987Z"
+  "lastUpdated": "2026-11-24T15:06:01.083Z"
 }
