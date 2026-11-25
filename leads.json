@@ -27044,7 +27044,27 @@
       "addedAt": "2026-11-25T14:54:01.639Z",
       "prospectSourceId": "prospect-muab66jz-lwpzx0",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww8vaumngeblctcgx7",
+      "name": "Daniel Inonoje Daniel Inonoje",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/danny224",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T14:54:19.823Z",
+      "prospectSourceId": "prospect-muab66jz-gogum6",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T14:54:01.639Z"
+  "lastUpdated": "2026-11-25T14:54:19.823Z"
 }
