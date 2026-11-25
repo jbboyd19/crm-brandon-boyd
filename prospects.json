@@ -9891,10 +9891,12 @@
       "name": "Daniel Delgado Sanchez Daniel Delgado Sanchez",
       "social": "https://facebook.com/daniel.d.sanchez.3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mww8t78vhll67k2ip0h",
+      "convertedAt": "2026-11-25T14:52:41.840Z"
     },
     {
       "id": "prospect-muab66jz-shrocr",
@@ -48885,5 +48887,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-25T14:52:26.999Z"
+  "lastUpdated": "2026-11-25T14:52:43.067Z"
 }
