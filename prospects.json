@@ -9877,10 +9877,12 @@
       "name": "Daniel Cervantes Daniel Cervantes",
       "social": "https://facebook.com/Danny07Cervantes",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mww8susma5gtt9vd284",
+      "convertedAt": "2026-11-25T14:52:25.702Z"
     },
     {
       "id": "prospect-muab66jz-611gje",
@@ -48883,5 +48885,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-25T14:52:02.855Z"
+  "lastUpdated": "2026-11-25T14:52:26.999Z"
 }
