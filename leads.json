@@ -26884,7 +26884,27 @@
       "addedAt": "2026-11-25T14:51:05.741Z",
       "prospectSourceId": "prospect-muab66jz-bji9as",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww8rng2vnftbgddig",
+      "name": "Daniel Bethea Jr Daniel Bethea Jr",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.e.bethea.jr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T14:51:29.522Z",
+      "prospectSourceId": "prospect-muab66jz-s4r8f6",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T14:51:05.742Z"
+  "lastUpdated": "2026-11-25T14:51:29.523Z"
 }
