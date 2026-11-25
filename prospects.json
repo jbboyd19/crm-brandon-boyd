@@ -9905,10 +9905,12 @@
       "name": "Daniel Doyle Daniel Doyle",
       "social": "https://facebook.com/daniel.doyle.31",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mww8toet8eb2kc4lh0w",
+      "convertedAt": "2026-11-25T14:53:04.085Z"
     },
     {
       "id": "prospect-muab66jz-7mtrpp",
@@ -48887,5 +48889,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-25T14:52:43.067Z"
+  "lastUpdated": "2026-11-25T14:53:05.983Z"
 }
