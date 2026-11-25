@@ -9863,10 +9863,12 @@
       "name": "Daniel Cadenas Daniel Cadenas",
       "social": "https://facebook.com/daniel.cadenasbogantes",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mww8s0ow0g9q85ra8zo7",
+      "convertedAt": "2026-11-25T14:51:46.688Z"
     },
     {
       "id": "prospect-muab66jz-u89x8p",
@@ -48893,5 +48895,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-25T14:51:30.904Z"
+  "lastUpdated": "2026-11-25T14:51:48.017Z"
 }
