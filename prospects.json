@@ -9961,10 +9961,12 @@
       "name": "Daniel Inonoje Daniel Inonoje",
       "social": "https://facebook.com/danny224",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mww8vaumngeblctcgx7",
+      "convertedAt": "2026-11-25T14:54:19.823Z"
     },
     {
       "id": "prospect-muab66jz-pav5l5",
@@ -48895,5 +48897,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-25T14:54:03.775Z"
+  "lastUpdated": "2026-11-25T14:54:21.887Z"
 }
