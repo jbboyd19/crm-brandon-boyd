@@ -26924,7 +26924,27 @@
       "addedAt": "2026-11-25T14:51:46.688Z",
       "prospectSourceId": "prospect-muab66jz-97dc2w",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww8susma5gtt9vd284",
+      "name": "Daniel Cervantes Daniel Cervantes",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Danny07Cervantes",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T14:52:25.702Z",
+      "prospectSourceId": "prospect-muab66jz-41iqkr",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T14:51:46.689Z"
+  "lastUpdated": "2026-11-25T14:52:25.702Z"
 }
