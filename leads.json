@@ -27004,7 +27004,27 @@
       "addedAt": "2026-11-25T14:53:25.706Z",
       "prospectSourceId": "prospect-muab66jz-7mtrpp",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww8uirihco6qbp611f",
+      "name": "Daniel Gray Daniel Gray",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/danniel.grayy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T14:53:43.422Z",
+      "prospectSourceId": "prospect-muab66jz-7w5469",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T14:53:25.707Z"
+  "lastUpdated": "2026-11-25T14:53:43.423Z"
 }
