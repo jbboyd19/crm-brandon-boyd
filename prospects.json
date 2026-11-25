@@ -10031,10 +10031,12 @@
       "name": "Daniel Schuler Daniel Schuler",
       "social": "https://facebook.com/daniel.schuler.92",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mww978qimi357ouvetg",
+      "convertedAt": "2026-11-25T15:03:36.954Z"
     },
     {
       "id": "prospect-muab66jz-eck7n8",
@@ -48893,5 +48895,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-25T15:02:12.583Z"
+  "lastUpdated": "2026-11-25T15:03:38.917Z"
 }
