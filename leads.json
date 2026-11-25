@@ -26984,7 +26984,27 @@
       "addedAt": "2026-11-25T14:53:04.085Z",
       "prospectSourceId": "prospect-muab66jz-shrocr",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww8u53ed33109r8m5g",
+      "name": "Daniel Edet Daniel Edet",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.edet.77878",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T14:53:25.706Z",
+      "prospectSourceId": "prospect-muab66jz-7mtrpp",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T14:53:04.085Z"
+  "lastUpdated": "2026-11-25T14:53:25.707Z"
 }
