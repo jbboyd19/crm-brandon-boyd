@@ -27144,7 +27144,27 @@
       "addedAt": "2026-11-25T15:01:59.923Z",
       "prospectSourceId": "prospect-muab66jz-944dsq",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww978qimi357ouvetg",
+      "name": "Daniel Schuler Daniel Schuler",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.schuler.92",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T15:03:36.954Z",
+      "prospectSourceId": "prospect-muab66jz-t1fhn8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T15:01:59.924Z"
+  "lastUpdated": "2026-11-25T15:03:36.954Z"
 }
