@@ -27124,7 +27124,27 @@
       "addedAt": "2026-11-25T15:01:38.806Z",
       "prospectSourceId": "prospect-muab66jz-s8h4pr",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww955v75jok9115185",
+      "name": "Daniel Ricardo Velez Daniel Ricardo Velez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.velez93",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T15:01:59.923Z",
+      "prospectSourceId": "prospect-muab66jz-944dsq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T15:01:38.807Z"
+  "lastUpdated": "2026-11-25T15:01:59.924Z"
 }
