@@ -26944,7 +26944,27 @@
       "addedAt": "2026-11-25T14:52:25.702Z",
       "prospectSourceId": "prospect-muab66jz-41iqkr",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww8t78vhll67k2ip0h",
+      "name": "Daniel Delgado Sanchez Daniel Delgado Sanchez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.d.sanchez.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T14:52:41.840Z",
+      "prospectSourceId": "prospect-muab66jz-611gje",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T14:52:25.702Z"
+  "lastUpdated": "2026-11-25T14:52:41.840Z"
 }
