@@ -27024,7 +27024,27 @@
       "addedAt": "2026-11-25T14:53:43.422Z",
       "prospectSourceId": "prospect-muab66jz-7w5469",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww8uwtj1j4tj6qgth6",
+      "name": "Daniel Igho Oghenejivwe Daniel Igho Oghenejivwe",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.okuku",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T14:54:01.639Z",
+      "prospectSourceId": "prospect-muab66jz-lwpzx0",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T14:53:43.423Z"
+  "lastUpdated": "2026-11-25T14:54:01.639Z"
 }
