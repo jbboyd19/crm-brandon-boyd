@@ -9919,10 +9919,12 @@
       "name": "Daniel Edet Daniel Edet",
       "social": "https://facebook.com/daniel.edet.77878",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mww8u53ed33109r8m5g",
+      "convertedAt": "2026-11-25T14:53:25.706Z"
     },
     {
       "id": "prospect-muab66jz-7w5469",
@@ -48889,5 +48891,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-25T14:53:05.983Z"
+  "lastUpdated": "2026-11-25T14:53:27.300Z"
 }
