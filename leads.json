@@ -27084,7 +27084,27 @@
       "addedAt": "2026-11-25T14:59:13.821Z",
       "prospectSourceId": "prospect-muab66jz-pav5l5",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww940bn893n384blva",
+      "name": "Daniel Omoregie Daniel Omoregie",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Danomoregie",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T15:01:06.083Z",
+      "prospectSourceId": "prospect-muab66jz-qcs33t",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T14:59:13.822Z"
+  "lastUpdated": "2026-11-25T15:01:06.083Z"
 }
