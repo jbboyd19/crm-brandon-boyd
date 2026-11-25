@@ -26904,7 +26904,27 @@
       "addedAt": "2026-11-25T14:51:29.522Z",
       "prospectSourceId": "prospect-muab66jz-s4r8f6",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww8s0ow0g9q85ra8zo7",
+      "name": "Daniel Cadenas Daniel Cadenas",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.cadenasbogantes",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T14:51:46.688Z",
+      "prospectSourceId": "prospect-muab66jz-97dc2w",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T14:51:29.523Z"
+  "lastUpdated": "2026-11-25T14:51:46.689Z"
 }
