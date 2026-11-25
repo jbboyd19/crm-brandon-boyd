@@ -10003,10 +10003,12 @@
       "name": "Daniel Reinecke Daniel Reinecke",
       "social": "https://facebook.com/1986danielreinecke",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mww94pkmbfuajz6iq2n",
+      "convertedAt": "2026-11-25T15:01:38.807Z"
     },
     {
       "id": "prospect-muab66jz-944dsq",
@@ -48901,5 +48903,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-25T15:01:08.491Z"
+  "lastUpdated": "2026-11-25T15:01:40.154Z"
 }
