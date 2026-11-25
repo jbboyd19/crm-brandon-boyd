@@ -27064,7 +27064,27 @@
       "addedAt": "2026-11-25T14:54:19.823Z",
       "prospectSourceId": "prospect-muab66jz-gogum6",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww91lp9binmeaq2pdf",
+      "name": "Daniel Kelly MIntah Daniel Kelly MIntah",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/danielkelly.mintah.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T14:59:13.821Z",
+      "prospectSourceId": "prospect-muab66jz-pav5l5",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T14:54:19.823Z"
+  "lastUpdated": "2026-11-25T14:59:13.822Z"
 }
