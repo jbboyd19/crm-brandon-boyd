@@ -26964,7 +26964,27 @@
       "addedAt": "2026-11-25T14:52:41.840Z",
       "prospectSourceId": "prospect-muab66jz-611gje",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mww8toet8eb2kc4lh0w",
+      "name": "Daniel Doyle Daniel Doyle",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.doyle.31",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T14:53:04.085Z",
+      "prospectSourceId": "prospect-muab66jz-shrocr",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-25T14:52:41.840Z"
+  "lastUpdated": "2026-11-25T14:53:04.085Z"
 }
