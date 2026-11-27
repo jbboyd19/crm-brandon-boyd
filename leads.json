@@ -27224,7 +27224,27 @@
       "addedAt": "2026-11-27T13:59:49.429Z",
       "prospectSourceId": "prospect-muab66jz-svxh6x",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwz1tgz6dkpi14mjm7j",
+      "name": "Daniel Wellington Daniel Wellington",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Danielwellington12341",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T14:00:15.666Z",
+      "prospectSourceId": "prospect-muab66jz-20hsly",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-27T13:59:49.430Z"
+  "lastUpdated": "2026-11-27T14:00:15.666Z"
 }
