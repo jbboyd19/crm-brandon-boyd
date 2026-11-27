@@ -10059,10 +10059,12 @@
       "name": "Daniel Starosta Daniel Starosta",
       "social": "https://facebook.com/daniel.starosta.52",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwz1s77dswlmi2da2yo",
+      "convertedAt": "2026-11-27T13:59:16.345Z"
     },
     {
       "id": "prospect-muab66jz-mam00v",
@@ -48897,5 +48899,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-27T13:59:00.511Z"
+  "lastUpdated": "2026-11-27T13:59:17.846Z"
 }
