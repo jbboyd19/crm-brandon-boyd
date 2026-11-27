@@ -27324,7 +27324,27 @@
       "addedAt": "2026-11-27T14:02:17.445Z",
       "prospectSourceId": "prospect-muab66jz-tasn8z",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwz1wjj2fu4a57ftbff",
+      "name": "Danilo Abreu Danilo Abreu",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/danilo.nunes.752",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T14:02:38.943Z",
+      "prospectSourceId": "prospect-muab66jz-j2dmnk",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-27T14:02:17.445Z"
+  "lastUpdated": "2026-11-27T14:02:38.943Z"
 }
