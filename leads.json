@@ -27264,7 +27264,27 @@
       "addedAt": "2026-11-27T14:00:57.758Z",
       "prospectSourceId": "prospect-muab66jz-r01c1h",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwz1uq4k75oe7ib6c4i",
+      "name": "Daniel Zapata Daniel Zapata",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.zapata.73113",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T14:01:14.180Z",
+      "prospectSourceId": "prospect-muab66jz-z83uxe",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-27T14:00:57.758Z"
+  "lastUpdated": "2026-11-27T14:01:14.180Z"
 }
