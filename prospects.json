@@ -10143,10 +10143,12 @@
       "name": "Danielle L. O'Very-Smania Danielle L. O'Very-Smania",
       "social": "https://facebook.com/danielle.l.overy",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwz1w2xxq6bxkhl98u",
+      "convertedAt": "2026-11-27T14:02:17.445Z"
     },
     {
       "id": "prospect-muab66jz-j2dmnk",
@@ -48897,5 +48899,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-27T14:01:32.597Z"
+  "lastUpdated": "2026-11-27T14:02:19.293Z"
 }
