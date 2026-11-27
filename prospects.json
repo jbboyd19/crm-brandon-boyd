@@ -10067,18 +10067,6 @@
       "convertedAt": "2026-11-27T13:59:16.345Z"
     },
     {
-      "id": "prospect-muab66jz-mam00v",
-      "firstName": "Daniel Toal",
-      "lastName": "Daniel Toal",
-      "name": "Daniel Toal Daniel Toal",
-      "social": "https://facebook.com/daniel.toal.37",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-muab66jz-svxh6x",
       "firstName": "Daniel Visser",
       "lastName": "Daniel Visser",
@@ -48899,5 +48887,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-27T13:59:17.846Z"
+  "lastUpdated": "2026-11-27T13:59:30.047Z"
 }
