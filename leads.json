@@ -27304,7 +27304,27 @@
       "addedAt": "2026-11-27T14:01:31.194Z",
       "prospectSourceId": "prospect-muab66jz-accx34",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwz1w2xxq6bxkhl98u",
+      "name": "Danielle L. O'Very-Smania Danielle L. O'Very-Smania",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/danielle.l.overy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T14:02:17.445Z",
+      "prospectSourceId": "prospect-muab66jz-tasn8z",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-27T14:01:31.194Z"
+  "lastUpdated": "2026-11-27T14:02:17.445Z"
 }
