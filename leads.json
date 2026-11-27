@@ -27424,7 +27424,27 @@
       "addedAt": "2026-11-27T14:04:31.475Z",
       "prospectSourceId": "prospect-muab66jz-asojdq",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwz1zb5s7wtwpajckjq",
+      "name": "Danny Surette Danny Surette",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/dannysurettedotcom",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T14:04:48.065Z",
+      "prospectSourceId": "prospect-muab66jz-sk81wx",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-27T14:04:31.476Z"
+  "lastUpdated": "2026-11-27T14:04:48.065Z"
 }
