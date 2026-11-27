@@ -27284,7 +27284,27 @@
       "addedAt": "2026-11-27T14:01:14.180Z",
       "prospectSourceId": "prospect-muab66jz-z83uxe",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwz1v396p148f5416zf",
+      "name": "Daniel Zetterman Daniel Zetterman",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.zetterman.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T14:01:31.194Z",
+      "prospectSourceId": "prospect-muab66jz-accx34",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-27T14:01:14.180Z"
+  "lastUpdated": "2026-11-27T14:01:31.194Z"
 }
