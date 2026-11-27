@@ -27364,7 +27364,27 @@
       "addedAt": "2026-11-27T14:03:09.596Z",
       "prospectSourceId": "prospect-muab66jz-l8fyg8",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwz1xif5i6mx8n0qj1r",
+      "name": "Danny Bernal Danny Bernal",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/danny.bernal.648203",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T14:03:24.161Z",
+      "prospectSourceId": "prospect-muab66jz-ce0kmx",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-27T14:03:09.597Z"
+  "lastUpdated": "2026-11-27T14:03:24.161Z"
 }
