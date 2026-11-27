@@ -27404,7 +27404,27 @@
       "addedAt": "2026-11-27T14:04:11.738Z",
       "prospectSourceId": "prospect-muab66jz-z6i7em",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwz1yyczuu2e4jjbj0o",
+      "name": "Danny Rodrigues Danny Rodrigues",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/danny.rodrigues.7549185",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T14:04:31.475Z",
+      "prospectSourceId": "prospect-muab66jz-asojdq",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-27T14:04:11.739Z"
+  "lastUpdated": "2026-11-27T14:04:31.476Z"
 }
