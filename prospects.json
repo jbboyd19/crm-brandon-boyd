@@ -10115,10 +10115,12 @@
       "name": "Daniel Zapata Daniel Zapata",
       "social": "https://facebook.com/daniel.zapata.73113",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwz1uq4k75oe7ib6c4i",
+      "convertedAt": "2026-11-27T14:01:14.180Z"
     },
     {
       "id": "prospect-muab66jz-accx34",
@@ -48893,5 +48895,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-27T14:00:59.625Z"
+  "lastUpdated": "2026-11-27T14:01:15.501Z"
 }
