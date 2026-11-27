@@ -27184,7 +27184,27 @@
       "addedAt": "2026-11-27T13:58:58.411Z",
       "prospectSourceId": "prospect-muab66jz-eck7n8",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwz1s77dswlmi2da2yo",
+      "name": "Daniel Starosta Daniel Starosta",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.starosta.52",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T13:59:16.345Z",
+      "prospectSourceId": "prospect-muab66jz-wcjt38",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-27T13:58:58.412Z"
+  "lastUpdated": "2026-11-27T13:59:16.345Z"
 }
