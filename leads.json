@@ -27244,7 +27244,27 @@
       "addedAt": "2026-11-27T14:00:15.666Z",
       "prospectSourceId": "prospect-muab66jz-20hsly",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwz1udgepouhb6g0ngd",
+      "name": "Daniel Wheeler Daniel Wheeler",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/daniel.wheeler.5473",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T14:00:57.758Z",
+      "prospectSourceId": "prospect-muab66jz-r01c1h",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-27T14:00:15.666Z"
+  "lastUpdated": "2026-11-27T14:00:57.758Z"
 }
