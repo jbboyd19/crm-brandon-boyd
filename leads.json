@@ -27344,7 +27344,27 @@
       "addedAt": "2026-11-27T14:02:38.943Z",
       "prospectSourceId": "prospect-muab66jz-j2dmnk",
       "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
+    },
+    {
+      "id": "mwz1x76k54pgvsq6pig",
+      "name": "Danni Parr Danni Parr",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/danniparr24",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T14:03:09.596Z",
+      "prospectSourceId": "prospect-muab66jz-l8fyg8",
+      "prospectUploadedAt": "2026-09-20T21:08:26.159Z"
     }
   ],
-  "lastUpdated": "2026-11-27T14:02:38.943Z"
+  "lastUpdated": "2026-11-27T14:03:09.597Z"
 }
