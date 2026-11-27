@@ -10185,10 +10185,12 @@
       "name": "Danny Bernal Danny Bernal",
       "social": "https://facebook.com/danny.bernal.648203",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwz1xif5i6mx8n0qj1r",
+      "convertedAt": "2026-11-27T14:03:24.161Z"
     },
     {
       "id": "prospect-muab66jz-z6i7em",
@@ -48903,5 +48905,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-27T14:03:11.007Z"
+  "lastUpdated": "2026-11-27T14:03:25.491Z"
 }
