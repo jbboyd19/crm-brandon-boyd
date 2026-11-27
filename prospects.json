@@ -10213,10 +10213,12 @@
       "name": "Danny Rodrigues Danny Rodrigues",
       "social": "https://facebook.com/danny.rodrigues.7549185",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwz1yyczuu2e4jjbj0o",
+      "convertedAt": "2026-11-27T14:04:31.475Z"
     },
     {
       "id": "prospect-muab66jz-sk81wx",
@@ -48907,5 +48909,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-27T14:04:13.508Z"
+  "lastUpdated": "2026-11-27T14:04:32.824Z"
 }
