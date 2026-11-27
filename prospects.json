@@ -10087,10 +10087,12 @@
       "name": "Daniel Wellington Daniel Wellington",
       "social": "https://facebook.com/Danielwellington12341",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T21:08:26.159Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwz1tgz6dkpi14mjm7j",
+      "convertedAt": "2026-11-27T14:00:15.666Z"
     },
     {
       "id": "prospect-muab66jz-r01c1h",
@@ -48889,5 +48891,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-27T13:59:50.710Z"
+  "lastUpdated": "2026-11-27T14:00:17.021Z"
 }
